@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras: opuestos&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r las palabras. Luego, haz clic en el opuesto de la palabra de arriba.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;peque&amp;#241;a&lt;/b&gt;&lt;/p&gt;</text>
+            <image>TEG_pequen1o.jpg</image>
+            <audio>TEG_pequen1a.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_grande.jpg</image>
+              <audio>TEG_grande.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_cuadrado.jpg</image>
+              <audio>TEG_cuadrado.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;d&amp;#237;a&lt;/b&gt;&lt;/p&gt;</text>
+            <image>TEG_sol.jpg</image>
+            <audio>TEG_di1a.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_lluvia.jpg</image>
+              <audio>TEG_lluvia.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_noche.jpg</image>
+              <audio>TEG_noche.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;fr&amp;#237;o&lt;/b&gt;&lt;/p&gt;</text>
+            <image>TEG_hielo.jpg</image>
+            <audio>TEG_frio.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_sopa.jpg</image>
+              <audio>TEG_caliente.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_alto.jpg</image>
+              <audio>TEG_alto.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

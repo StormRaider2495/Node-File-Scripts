@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<word_letter_focus>
+  <title>Estrategia de vocabulario: metáforas</title>
+  <directions>&lt;p&gt;Resalta las oraciones que tienen met&amp;#225;foras.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;{wh}Iv&amp;#225;n siempre est&amp;#225; contento, es un cascabel{/wh}.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;&amp;#191;Sabes qu&amp;#233; hora es, Eduardo?&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;{wh}Esperanza es una abejita para trabajar, nunca se cansa{/wh}.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;Guillermo est&amp;#225; feliz como ni&amp;#241;o con juguete nuevo.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;{wh}Javiera es un ruise&amp;#241;or que todas las ma&amp;#241;anas nos despierta con su alegre canto{/wh}.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;{wh}Ver&amp;#243;nica es un as para los negocios, apenas tiene veinte a&amp;#241;os y ya form&amp;#243; su peque&amp;#241;a empresa{/wh}.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</word_letter_focus>
+

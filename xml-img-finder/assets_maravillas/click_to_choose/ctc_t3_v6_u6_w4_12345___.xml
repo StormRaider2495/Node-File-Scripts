@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Gram&amp;#225;tica: preposiciones&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Escoge las preposiciones correctas para llenar los espacios en blanco.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;El barco qued&amp;#243; atrapado [en] el hielo.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>sobre</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>con</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>en</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Para poder calcular su posici&amp;#243;n, ten&amp;#237;a que mirar el sol [desde] la proa.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>desde</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>con</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>de</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Es importante que sus padres sepan todo [sobre] este asunto.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>en</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>sobre</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>de</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Yo andaba [por] la playa cuando t&amp;#250; llegaste.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>desde</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>a</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>por</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;En la academia para astronautas aprendimos lo que era estar ingr&amp;#225;vidos y flotar [en] el aire.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>en</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>por</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>desde</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

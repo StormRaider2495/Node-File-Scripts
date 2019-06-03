@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Phoneme Categorization&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Click each picture to hear its name. Drag pictures that have the /n/ sound into the blue box. Drag pictures that do not have the /n/ sound into the red box.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <vspacing />
+  <contentMode value="images" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/n/ Sound</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW023_024A_193002_d.jpg</text>
+                      <audio>pan.mp3</audio>
+                    </item>
+                    <item>
+                      <text />
+                      <audio>pen.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW022_035A_193002_d.jpg</text>
+                      <audio>nut.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No /n/ Sound</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW013_031A_193002_d.jpg</text>
+                      <audio>cup.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/n/ Sound</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW022_036A_193002_d.jpg</text>
+                      <audio>newt.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW011_010A_193002_d.jpg</text>
+                      <audio>run.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_061A_193002_d.jpg</text>
+                      <audio>nest.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No /n/ Sound</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW013_029A_193002_d.jpg</text>
+                      <audio>top.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_038A_193002_d.jpg</text>
+                      <audio>mop.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

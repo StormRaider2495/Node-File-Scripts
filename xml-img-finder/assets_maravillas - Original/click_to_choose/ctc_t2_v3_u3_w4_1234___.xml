@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: palabras con g&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Elige la palabra que est&amp;#225; escrita correctamente para completar las oraciones.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Mi perro no tiene [pulgas].&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>puljas</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>pulgas</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>pulguas</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;La polic&amp;#237;a [persigue] a los ladrones.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>persigue</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>persije</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>persige</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Estos dulces tienen [gusto] a manzanas.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>justo</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>gusto</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>gesto</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;A mi hermana le gustan mucho las [hamburguesas].&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>hamburgesas</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>hamburgeusas</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>hamburguesas</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Mi hermano quiere una [iguana] como mascota.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>ijuana</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>higuana</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>iguana</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Antes de ir a dormir, siempre guardo mis [juguetes].&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>guguetes</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>juguetes</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>jugetes</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

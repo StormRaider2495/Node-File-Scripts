@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blending>
+  <title>Fonética: sílabas con k</title>
+  <directions>Coloca las fichas y escucha cada sílaba. Luego escucha la palabra.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <variant value="A" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_kaki.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_ka.mp3</audio>
+              <text>ka</text>
+            </sound>
+            <sound>
+              <audio>TEG_ki.mp3</audio>
+              <text>ki</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_karate.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_ka.mp3</audio>
+              <text>ka</text>
+            </sound>
+            <sound>
+              <audio>TEG_ra.mp3</audio>
+              <text>ra</text>
+            </sound>
+            <sound>
+              <audio>TEG_te.mp3</audio>
+              <text>te</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_kilo.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_ki.mp3</audio>
+              <text>ki</text>
+            </sound>
+            <sound>
+              <audio>TEG_lo.mp3</audio>
+              <text>lo</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_kimono.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_ki.mp3</audio>
+              <text>ki</text>
+            </sound>
+            <sound>
+              <audio>TEG_mo.mp3</audio>
+              <text>mo</text>
+            </sound>
+            <sound>
+              <audio>TEG_no.mp3</audio>
+              <text>no</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_koala.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_ko.mp3</audio>
+              <text>ko</text>
+            </sound>
+            <sound>
+              <audio>TEG_a.mp3</audio>
+              <text>a</text>
+            </sound>
+            <sound>
+              <audio>TEG_la.mp3</audio>
+              <text>la</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</blending>
+

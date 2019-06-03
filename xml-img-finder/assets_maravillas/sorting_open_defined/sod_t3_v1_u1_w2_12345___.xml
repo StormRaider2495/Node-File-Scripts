@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Gram&amp;#225;tica: Oraciones exclamativas e imperativas&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Clasifica las oraciones. Hay dos clases: exclamativas e imperativas.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Oraciones exclamativas</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>No me digas eso.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Abrígate antes de salir.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Termina de leer tu libro esta tarde, sino no vamos a la fiesta.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Oraciones exclamativas</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>¡Qué bonita flor!</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>¡Cuántos regalos!</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>¡La lluvia no paró de caer!</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

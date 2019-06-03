@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Normas de lenguaje: raya en los di&amp;#225;logos&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Escoge con cuidado la puntuaci&amp;#243;n para los siguientes di&amp;#225;logos.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;[&amp;#8212;&amp;#191;]Por qu&amp;#233; no vas a venir a la fiesta? &amp;#8212;pregunt&amp;#243; Marta.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>—¿</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>—</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>¿</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8212;Porque no puedo. Tengo que estudiar [&amp;#8212;dijo] molesta Andrea.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>. Dijo</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—dijo</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>, dijo</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Y entonces, Andrea se qued&amp;#243; en casa. Pero antes de que Marta saliera por la puerta dijo:&lt;br /&gt;[&amp;#8212;&amp;#161;]Espera!&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>—¿</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—¡</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8212;Sab&amp;#237;a que cambiar&amp;#237;as de [opini&amp;#243;n &amp;#8212;se] adelant&amp;#243; Marta.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>opinión —se</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>opinión— se</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>opinión—se</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8212;No [&amp;#8212;dijo Andrea&amp;#8212;,] me quedo en casa a estudiar.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>— dijo Andrea,</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—dijo Andrea—,</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>— dijo Andrea —</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

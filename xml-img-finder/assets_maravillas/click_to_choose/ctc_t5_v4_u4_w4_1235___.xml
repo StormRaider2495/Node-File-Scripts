@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: palabras llanas&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona la palabra&amp;#160;que est&amp;#225; escrita correctamente.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;ar-bol&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>arbol</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>árbol</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>arból</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;ca-rro&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>cárro</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>carró</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>carro</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;mar-mol&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>mármol</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>marmol</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>marmól</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;im-por-tan-te&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>importánte</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>ímportante</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>importante</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;fa-cil&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>fácil</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>facíl</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>facil</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;a-zu-car&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>azúcar</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>azucar</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>ázucar</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;pro-ble-ma&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>probléma</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>problema</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>próblema</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;au-to-mo-vil&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>automovil</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>áutomóvil</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>automóvil</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;ca-rac-ter&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>caractér</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>caracter</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>carácter</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;ta-ble-ta&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>tableta</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>tábleta</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>tabléta</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

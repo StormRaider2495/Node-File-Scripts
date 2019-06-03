@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blendingb>
+  <title>Reconocimiento fonológico: sonido ch</title>
+  <directions>¿Dónde está la sílaba que se repite en todas las palabras?</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow1" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <audio>TEG_chivo.mp3</audio>
+              <image>TEG_chivo.jpg</image>
+              <sounds>
+                <sound>
+                  <audio>TEG_chi.mp3</audio>
+                </sound>
+                <sound>
+                  <audio>TEG_vo.jpg</audio>
+                </sound>
+              </sounds>
+            </word>
+            <word>
+              <audio>TEG_chile.jpg</audio>
+              <image>TEG_chile.jpg</image>
+              <sounds>
+                <sound>
+                  <audio>TEG_chi.mp3</audio>
+                </sound>
+                <sound>
+                  <audio>TEG_le.mp3</audio>
+                </sound>
+              </sounds>
+            </word>
+            <word>
+              <audio>TEG_chico.jpg</audio>
+              <image>TEG_chico.mp3</image>
+              <sounds>
+                <sound>
+                  <audio>TEG_chi.mp3</audio>
+                </sound>
+                <sound>
+                  <audio>TEG_co.mp3</audio>
+                </sound>
+              </sounds>
+            </word>
+          </words>
+          <question>
+            <correctIndex>1</correctIndex>
+          </question>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <audio>TEG_choza.mp3</audio>
+              <image>TEG_choza.jpg</image>
+              <sounds>
+                <sound>
+                  <audio>TEG_cho.mp3</audio>
+                </sound>
+                <sound>
+                  <audio>TEG_sa.mp3</audio>
+                </sound>
+              </sounds>
+            </word>
+            <word>
+              <audio>TEG_chofer.mp3</audio>
+              <image>TEG_chofer.jpg</image>
+              <sounds>
+                <sound>
+                  <audio>TEG_cho.mp3</audio>
+                </sound>
+                <sound>
+                  <audio>TEG_fer.mp3</audio>
+                </sound>
+              </sounds>
+            </word>
+            <word>
+              <audio>TEG_chorro.mp3</audio>
+              <image>TEG_chorro.jpg</image>
+              <sounds>
+                <sound>
+                  <audio />
+                </sound>
+                <sound>
+                  <audio />
+                </sound>
+              </sounds>
+            </word>
+          </words>
+          <question>
+            <correctIndex>1</correctIndex>
+          </question>
+        </item>
+        <item>
+          <words>
+            <word>
+              <audio>TEG_ficha.mp3</audio>
+              <image>TEG_ficha.jpg</image>
+              <sounds>
+                <sound>
+                  <audio>TEG_fi.mp3</audio>
+                </sound>
+                <sound>
+                  <audio>TEG_cha.mp3</audio>
+                </sound>
+              </sounds>
+            </word>
+            <word>
+              <audio>TEG_hacha.mp3</audio>
+              <image>TEG_hacha.jpg</image>
+              <sounds>
+                <sound>
+                  <audio />
+                </sound>
+                <sound>
+                  <audio />
+                </sound>
+              </sounds>
+            </word>
+            <word>
+              <audio>TEG_ducha.mp3</audio>
+              <image>TEG_ducha.jpg</image>
+              <sounds>
+                <sound>
+                  <audio />
+                </sound>
+                <sound>
+                  <audio />
+                </sound>
+              </sounds>
+            </word>
+          </words>
+          <question>
+            <correctIndex />
+          </question>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</blendingb>
+

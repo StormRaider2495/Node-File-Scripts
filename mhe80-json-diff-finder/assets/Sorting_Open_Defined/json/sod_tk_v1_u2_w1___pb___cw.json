@@ -1,0 +1,271 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Category Words",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click the pictures at the top of each box to hear the color. Then look at each picture. Drag the pictures to the box with the same color. Then click OK.</p>",
+    "audio": "dl_color_same_color2.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW021_004A_193002_d.jpg",
+                  "altText": "A red wagon."
+                },
+                "audio": "red.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_010A_193002_d.jpg",
+                  "audio": "ladybug.mp3",
+                  "altText": "A ladybug."
+                },
+                {
+                  "text": "M300_UW043_451A_193002_d.jpg",
+                  "audio": "rose.mp3",
+                  "altText": "A red rose."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW021_002A_193002_d.jpg",
+                  "altText": "A green snake."
+                },
+                "audio": "green.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_019A_193002_d.jpg",
+                  "audio": "alligator.mp3",
+                  "altText": "An alligator."
+                },
+                {
+                  "text": "M100_UW021_010A_193002_d.jpg",
+                  "audio": "peas.mp3",
+                  "altText": "Green peas, some of which have been removed from the shell."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW021_005A_193002_d.jpg",
+                  "altText": "A black tire."
+                },
+                "audio": "black.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_055A_193002_d.jpg",
+                  "audio": "ant.mp3",
+                  "altText": "A black insect."
+                },
+                {
+                  "text": "M100_UW071_005A_A_193002_d.jpg",
+                  "audio": "puck.mp3",
+                  "altText": "A hockey puck and hockey stick. A red arrow points to the puck."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW041_023A_193002_d.jpg",
+                  "altText": "A banana."
+                },
+                "audio": "yellow.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_003A_193002_d.jpg",
+                  "audio": "lemon.mp3",
+                  "altText": "A lemon slice."
+                },
+                {
+                  "text": "M300_UW021_045A_193002_d.jpg",
+                  "audio": "bus.mp3",
+                  "altText": "A driver and students on a school bus."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW021_008A_193002_d.jpg",
+                  "altText": "A white swan."
+                },
+                "audio": "white.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_041A_193002_d.jpg",
+                  "audio": "snowman.mp3",
+                  "altText": "A snowman wearing a knit hat and a scarf."
+                },
+                {
+                  "text": "M100_UW052_015A_193002_d.jpg",
+                  "audio": "envelope.mp3",
+                  "altText": "A blue envelope."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW031_025A_193002_d.jpg",
+                  "altText": "A bunch of purple grapes."
+                },
+                "audio": "purple.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW025_011A_186626_d.jpg",
+                  "audio": "plum.mp3",
+                  "altText": "A plum."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW021_003A_193002_d.jpg",
+                  "altText": "A log."
+                },
+                "audio": "brown.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_023A_193002_d.jpg",
+                  "audio": "monkey.mp3",
+                  "altText": "A monkey holding a banana."
+                },
+                {
+                  "text": "M100_UW053_009A_193002_d.jpg",
+                  "audio": "football.mp3",
+                  "altText": "A football."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M300_UW042_806_193002_d.jpg",
+                  "altText": "An orange. An orange slice is in front on it."
+                },
+                "audio": "orange.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_017A_193002_d.jpg",
+                  "audio": "carrot.mp3",
+                  "altText": "A carrot."
+                },
+                {
+                  "text": "M100_UW021_029A_193002_d.jpg",
+                  "audio": "pumpkin.mp3",
+                  "altText": "A pumpkin."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW021_048A_193002_d.jpg",
+                  "altText": "A pink rose."
+                },
+                "audio": "pink.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_089A_193002_d.jpg",
+                  "audio": "pig.mp3",
+                  "altText": "A pig."
+                },
+                {
+                  "text": "M100_UW012_014A_114242_D.jpg",
+                  "audio": "ham.mp3",
+                  "altText": "A hot steak on a plate."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

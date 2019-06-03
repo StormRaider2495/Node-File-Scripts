@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Normas del lenguaje: punto y coma&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Determina si la puntuaci&amp;#243;n de la oraci&amp;#243;n es correcta o no.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Luc&amp;#237;a va a repasar el verbo "hacer"; Margarita, el verbo "salir".&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Sí</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>No</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Mi hermana fue al mercado a comprar flores; no encontr&amp;#243; lo que buscaba.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Sí</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>No</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;A Melba le gustan las naranjas. A Pedro, los mangos. A Silvia, las manzanas.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Sí</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>No</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Ten&amp;#237;an un plan de acci&amp;#243;n. Pero no sab&amp;#237;an cu&amp;#225;ndo llevarlo a cabo.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Sí</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>No</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Todos los cachorritos nacieron negros; el m&amp;#237;o es el &amp;#250;nico marr&amp;#243;n.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Sí</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>No</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

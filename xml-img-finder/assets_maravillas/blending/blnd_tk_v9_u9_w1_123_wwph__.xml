@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blending>
+  <title>Fonética: sílabas con z</title>
+  <directions>Coloca las fichas y escucha cada sílaba. Luego escucha la palabra.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <variant value="A" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_buzo.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_bu.mp3</audio>
+              <text>bu</text>
+            </sound>
+            <sound>
+              <audio>TEG_zo.mp3</audio>
+              <text>zo</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_taza.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_ta.mp3</audio>
+              <text>ta</text>
+            </sound>
+            <sound>
+              <audio>TEG_za.mp3</audio>
+              <text>za</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_zapato.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_za.mp3</audio>
+              <text>za</text>
+            </sound>
+            <sound>
+              <audio>TEG_pa.mp3</audio>
+              <text>pa</text>
+            </sound>
+            <sound>
+              <audio>TEG_to.mp3</audio>
+              <text>to</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_zona.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_zo.mp3</audio>
+              <text>zo</text>
+            </sound>
+            <sound>
+              <audio>TEG_na.mp3</audio>
+              <text>na</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_tiza.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_ti.mp3</audio>
+              <text>ti</text>
+            </sound>
+            <sound>
+              <audio>TEG_za.mp3</audio>
+              <text>za</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_pozo.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_po.mp3</audio>
+              <text>po</text>
+            </sound>
+            <sound>
+              <audio>TEG_zo.mp3</audio>
+              <text>zo</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</blending>
+

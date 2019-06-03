@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blending>
+  <title>Fonética: sílabas con y</title>
+  <directions>Coloca las fichas y escucha cada sílaba. Luego escucha la palabra.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <variant value="A" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_rayita.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_ra.mp3</audio>
+              <text>ra</text>
+            </sound>
+            <sound>
+              <audio>TEG_yi.mp3</audio>
+              <text>yi</text>
+            </sound>
+            <sound>
+              <audio>TEG_ta.mp3</audio>
+              <text>ta</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_yeso.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_ye.mp3</audio>
+              <text>ye</text>
+            </sound>
+            <sound>
+              <audio>TEG_so.mp3</audio>
+              <text>so</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_yema.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_ye.mp3</audio>
+              <text>ye</text>
+            </sound>
+            <sound>
+              <audio>TEG_ma.mp3</audio>
+              <text>ma</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_papaya.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_pa.mp3</audio>
+              <text>pa</text>
+            </sound>
+            <sound>
+              <audio>TEG_pa.mp3</audio>
+              <text>pa</text>
+            </sound>
+            <sound>
+              <audio>TEG_ya.mp3</audio>
+              <text>ya</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_ayuda.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_a.mp3</audio>
+              <text>a</text>
+            </sound>
+            <sound>
+              <audio>TEG_yu.mp3</audio>
+              <text>yu</text>
+            </sound>
+            <sound>
+              <audio>TEG_da.mp3</audio>
+              <text>da</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_rayo.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_ra.mp3</audio>
+              <text>ra</text>
+            </sound>
+            <sound>
+              <audio>TEG_yo.mp3</audio>
+              <text>yo</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</blending>
+

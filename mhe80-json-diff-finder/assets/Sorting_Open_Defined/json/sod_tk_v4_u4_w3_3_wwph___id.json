@@ -1,0 +1,345 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phonics: Identify/Categorize",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Look at the letters on the top of each box. Click on the picture to hear its name. Drag the picture whose name has the same letter into the box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "c____",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_007A_114242_D.jpg",
+                  "audio": "cat.mp3",
+                  "altText": "A smiling orange cat."
+                },
+                {
+                  "text": "M100_UW042_029A_193002_d.jpg",
+                  "audio": "carton.mp3",
+                  "altText": "A carton of eggs."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "d____",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_034A_193002_d.jpg",
+                  "audio": "dog.mp3",
+                  "altText": "A smiling brown dog."
+                },
+                {
+                  "text": "M100_UW011_018A_193002_d.jpg",
+                  "audio": "drum.mp3",
+                  "altText": "A purple drum with two brown mallets."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "c____",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_030A_193002_d.jpg",
+                  "audio": "cupcake.mp3",
+                  "altText": "A cupcake with a cherry on top."
+                },
+                {
+                  "text": "M100_UW012_027A_193002_d.jpg",
+                  "audio": "cow.mp3",
+                  "altText": "A cow with a bell around its neck."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "d____",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_036A_193002_d.jpg",
+                  "audio": "door.mp3",
+                  "altText": "A blue door."
+                },
+                {
+                  "text": "M100_UW011_009A_193002_d.jpg",
+                  "audio": "desk.mp3",
+                  "altText": "A wooden table that has a red book, a slip of paper, a green pencil, and a blue crayon on it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "__i__",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_026A2_193002_d.jpg",
+                  "audio": "pin.mp3",
+                  "altText": "A safety pin."
+                },
+                {
+                  "text": "M100_UW021_041A_193002_186626_d.jpg",
+                  "audio": "fin.mp3",
+                  "altText": "A fish. A red arrow points to a fin."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "__o__",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_003A_193002_d.jpg",
+                  "audio": "hop.mp3",
+                  "altText": "A hopping rabbit."
+                },
+                {
+                  "text": "M100_UW012_038A_193002_d.jpg",
+                  "audio": "box.mp3",
+                  "altText": "An open cardboard box."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "__i__",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_004A_193002_d.jpg",
+                  "audio": "kick.mp3",
+                  "altText": "A smiling rabbit kicking a soccer ball."
+                },
+                {
+                  "text": "M100_UW042_034A_193002_d.jpg",
+                  "audio": "picnic.mp3",
+                  "altText": "A grandmother and her grandchildren having a picnic in the park."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "__o__",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_017A_193002_d.jpg",
+                  "audio": "frog.mp3",
+                  "altText": "A green frog with yellow spots."
+                },
+                {
+                  "text": "M100_UW011_021A _193002_d.jpg",
+                  "audio": "moth.mp3",
+                  "altText": "A butterfly with brown wings."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "___n",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_004A_193002_d.jpg",
+                  "audio": "sun.mp3",
+                  "altText": "A yellow sun."
+                },
+                {
+                  "text": "M100_UW032_027A_193002_d.jpg",
+                  "audio": "raccoon.mp3",
+                  "altText": "A raccoon."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "___d",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_011A_193002_d.jpg",
+                  "audio": "seed.mp3",
+                  "altText": "Seeds being planted in a field."
+                },
+                {
+                  "text": "M100_UW011_006A_193002_d.jpg",
+                  "audio": "scared.mp3",
+                  "altText": "A girl lying awake in bed at night, scared."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "___n",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_033A_193002_d.jpg",
+                  "audio": "popcorn.mp3",
+                  "altText": "A bowl of popcorn."
+                },
+                {
+                  "text": "M100_UW031_021A_193002_d.jpg",
+                  "audio": "bun.mp3",
+                  "altText": "A hamburger bun."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "___d",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_038A_193002_d.jpg",
+                  "audio": "hold.mp3",
+                  "altText": "A boy holding a hamster."
+                },
+                {
+                  "text": "M100_UW042_039A_193002_d.jpg",
+                  "audio": "read2.mp3",
+                  "altText": "A mole wearing glasses and reading a book. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;&lt;font&gt;Category Words: Season Words&lt;/font&gt;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;&lt;font&gt;Click on each picture to hear its name. Drag words that name one of the four seasons to the blue box. Drag words that do not into the red box. Then click OK.&lt;/font&gt;&lt;font&gt;&lt;/font&gt;&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <vspacing />
+  <contentMode value="images" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;&lt;font&gt;Click on each picture to hear its name. Drag words that name one of the four seasons to the blue box. Drag words that do not into the red box. Then click OK.&lt;/font&gt;&lt;font&gt;&lt;/font&gt;&lt;/p&gt;</directions>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Season Words</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW061_024A_193002_d.jpg</text>
+                      <audio>summer.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW061_028A_193002_d.jpg</text>
+                      <audio>winter.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Not Season Words</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW022_030A_193002_d.jpg</text>
+                      <audio>lamp.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;&lt;font&gt;Click on each picture to hear its name. Drag words that name one of the four seasons to the blue box. Drag words that do not into the red box. Then click OK.&lt;/font&gt;&lt;/p&gt;</directions>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Season Words</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW061_011A_193002_d.jpg</text>
+                      <audio>fall.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Not Season Words</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW061_029A_193002_d.jpg</text>
+                      <audio>zigzag.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_064A_193002_d.jpg</text>
+                      <audio>web.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW012_009A_193002_d.jpg</text>
+                      <audio>run.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;&lt;font&gt;Click on each picture to hear its name. Drag words that name one of the four seasons to the blue box. Drag words that do not into the red box. Then click OK.&lt;/font&gt;&lt;/p&gt;</directions>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Season Words</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW061_023A_193002_d.jpg</text>
+                      <audio>spring.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Not Season Words</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW051_014A_193002_d.jpg</text>
+                      <audio>hanger.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW012_023A_193002_d.jpg</text>
+                      <audio>moon.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_072A_193002_d.jpg</text>
+                      <audio>horse.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

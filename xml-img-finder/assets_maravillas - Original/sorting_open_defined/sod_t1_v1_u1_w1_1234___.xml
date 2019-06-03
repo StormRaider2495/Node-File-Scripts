@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Gram&amp;#225;tica: oraciones&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Lee las oraciones. Pon las oraciones escritas correctamente en el recuadro azul. Pon las&amp;#160;otras en el recuadro rojo.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Oraciones correctas</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Mamá mira a Memo.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>A Ema le gusta este juego.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Yo soy Ami.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Oraciones incorrectas</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>mañana voy a la escuela.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>soy Ima.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>yo juego con Meme</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+            <item>
+              <bins>
+                <bin>
+                  <title>Oraciones correctas</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Mímame mamá.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Voy a la escuela con Mimí.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Ima está en la clase.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Oraciones incorrectas</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>ella está con Memo.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Tengo clase en la mañana</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>esta es mi escuela</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Oraciones correctas</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>A mi mamá le gusta mi escuela.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Vamos a la clase.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Ella dice dónde está Ema.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Oraciones incorrectas</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>yo tengo clase mañana.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Mumi juega con mami</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Vamos a la escuela con Memo</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+            <item>
+              <bins>
+                <bin>
+                  <title>Oraciones correctas</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Yo la amo a ella.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Esta es Ima.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Voy a clase con Ema.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Oraciones incorrectas</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>no tengo clase.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Este no es mío</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>no veo a Ami</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

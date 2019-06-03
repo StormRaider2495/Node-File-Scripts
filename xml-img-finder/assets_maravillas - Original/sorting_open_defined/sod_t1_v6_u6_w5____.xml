@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con x&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la palabra escrita con &lt;u&gt;x&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra&amp;#160;&lt;b&gt;sin&lt;/b&gt;&amp;#160;&lt;u&gt;x&lt;/u&gt;&amp;#160;en la caja roja. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene x</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>máximo</text>
+                      <audio>TEG_maximo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mexicano</text>
+                      <audio>TEG_mexicano.mp3</audio>
+                    </item>
+                    <item>
+                      <text>Texas</text>
+                      <audio>TEG_texas.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mixto</text>
+                      <audio>TEG_mixto.mp3</audio>
+                    </item>
+                    <item>
+                      <text>galaxia</text>
+                      <audio>TEG_galaxia.mp3</audio>
+                    </item>
+                    <item>
+                      <text>explicar</text>
+                      <audio>TEG_explicar.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene x</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>jarabe</text>
+                      <audio>TEG_jarabe.mp3</audio>
+                    </item>
+                    <item>
+                      <text>manjar</text>
+                      <audio>TEG_manjar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>máscara</text>
+                      <audio>TEG_mascara.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mezcla</text>
+                      <audio>TEG_mezcla.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene x</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>maxilar</text>
+                      <audio>TEG_maxilar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>oxígeno</text>
+                      <audio>TEG_oxigeno.mp3</audio>
+                    </item>
+                    <item>
+                      <text>próximo</text>
+                      <audio>TEG_proximo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>saxofón</text>
+                      <audio>TEG_saxofo1n.mp3</audio>
+                    </item>
+                    <item>
+                      <text>textura</text>
+                      <audio>TEG_textura.mp3</audio>
+                    </item>
+                    <item>
+                      <text>examen</text>
+                      <audio>TEG_examen.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene x</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>frágil</text>
+                      <audio>TEG_fragil.mp3</audio>
+                    </item>
+                    <item>
+                      <text>goza</text>
+                      <audio>TEG_goza.mp3</audio>
+                    </item>
+                    <item>
+                      <text>jefe</text>
+                      <audio>TEG_jefe.mp3</audio>
+                    </item>
+                    <item>
+                      <text>jaula</text>
+                      <audio>TEG_jaula.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

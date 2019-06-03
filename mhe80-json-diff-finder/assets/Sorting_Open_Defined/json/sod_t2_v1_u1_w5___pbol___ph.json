@@ -1,0 +1,207 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Read each word. Drag words with the short i sound into the left box. Drag words with the long i sound into the right box.</p>",
+    "audio": "dl_shorti_longi_box2.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "short i",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_i.mp3"
+              },
+              "contents": [
+                {
+                  "text": "fin",
+                  "audio": "fin.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "wig",
+                  "audio": "wig.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "wick",
+                  "audio": "wick.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "pit",
+                  "audio": "pit.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "lip",
+                  "audio": "lip.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "long i",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_long_i.mp3"
+              },
+              "contents": [
+                {
+                  "text": "pile",
+                  "audio": "pile.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "kite",
+                  "audio": "kite.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "file",
+                  "audio": "file.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "mine",
+                  "audio": "mine.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "ride",
+                  "audio": "ride.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "short i",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_i.mp3"
+              },
+              "contents": [
+                {
+                  "text": "kit",
+                  "audio": "kit.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "kid",
+                  "audio": "kid.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "lid",
+                  "audio": "lid.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "pin",
+                  "audio": "pin.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "rib",
+                  "audio": "rib.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "long i",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_long_i.mp3"
+              },
+              "contents": [
+                {
+                  "text": "hike",
+                  "audio": "hike.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "dime",
+                  "audio": "dime.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "ice",
+                  "audio": "ice.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "pine",
+                  "audio": "pine.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "ride",
+                  "audio": "ride.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

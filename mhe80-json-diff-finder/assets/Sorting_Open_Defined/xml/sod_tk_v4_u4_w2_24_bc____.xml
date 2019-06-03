@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Category Words: Food Words&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Click on each picture to hear its name. Drag food words to the blue box. Drag words that are not food words into the red box. Then click OK.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <vspacing />
+  <contentMode value="images" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Food Words</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW041_024A_193002_d.jpg</text>
+                      <audio>broccoli.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW023_017A_193002_d.jpg</text>
+                      <audio>carrot.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW041_025A_193002_d.jpg</text>
+                      <audio>watermelon.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW023_037A_193002_d.jpg</text>
+                      <audio>tomato.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW012_042A_193002_d.jpg</text>
+                      <audio>apple.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Not Food Words</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW033_004A_193002_d.jpg</text>
+                      <audio>comb.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_051A_193002_d.jpg</text>
+                      <audio>feather.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UWSS2_005A_193002_d.jpg</text>
+                      <audio>boat.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Food Words</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW041_019A_193002_d.jpg</text>
+                      <audio>spaghetti.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW045_034A_114242_D.jpg</text>
+                      <audio>pie.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW013_012A_193002_d.jpg</text>
+                      <audio>sandwich.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW021_046A_193002_d.jpg</text>
+                      <audio>pizza.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW041_023A_193002_d.jpg</text>
+                      <audio>banana.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Not Food Words</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW022_032A_193002_d.jpg</text>
+                      <audio>kite.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW021_047A_193002_d.jpg</text>
+                      <audio>pencil.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_068A_193002_d.jpg</text>
+                      <audio>socks.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Gram&amp;#225;tica: concordancia entre pronombre y verbo&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Escoge la opci&amp;#243;n que reemplaza correctamente el sustantivo subrayado con un pronombre que concuerda con el verbo entre par&amp;#233;ntesis.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;u&gt;Marta&lt;/u&gt; (estudiar) gram&amp;#225;tica con Carmen y Bernardo.&lt;/p&gt;
+&lt;p&gt;&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Ella estudian gramática con Carmen y Bernardo.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Ellos estudian gramática con Carmen y Bernardo.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Ella estudia gramática con Carmen y Bernardo.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;u&gt;Marta y Bernardo&lt;/u&gt; (conjugar) los verbos irregulares.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Ellos conjugamos los verbos irregulares.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Ellos conjugan los verbos irregulares.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Ella conjuga los verbos irregulares.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;u&gt;Bernardo y yo&lt;/u&gt; (repasar) las may&amp;#250;sculas.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Nosotros repasan las mayúsculas.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Yo repaso las mayúsculas.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Nosotros repasamos las mayúsculas.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;u&gt;Marta&lt;/u&gt;, &amp;#191;(terminar) pronto la tarea?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Tú, ¿terminarás pronto la tarea?</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Nosotros, ¿terminaremos pronto la tarea?</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Ella, ¿terminarás pronto la tarea?</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;u&gt;Bernardo&lt;/u&gt; me (ayudar) con el pret&amp;#233;rito imperfecto.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Él me ayudas con el pretérito imperfecto.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Yo me ayuda con el pretérito imperfecto.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Él me ayuda con el pretérito imperfecto.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;u&gt;Marta, Bernardo y yo&lt;/u&gt; (jugar) despu&amp;#233;s de terminar la tarea.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Nosotros jugaré después de terminar la tarea.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Nosotros jugaremos después de terminar la tarea.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Ellos jugarán después de terminar la tarea.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

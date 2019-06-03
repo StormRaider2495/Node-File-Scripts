@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con&amp;#160;di&amp;#233;resis&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la palabra escrita &lt;u&gt;con&amp;#160;di&amp;#233;resis&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra&amp;#160;&lt;u&gt;sin&amp;#160;di&amp;#233;resis&lt;/u&gt;&amp;#160;en la caja roja. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene diéresis</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>pingüino</text>
+                      <audio>TEG_pinguino.mp3</audio>
+                    </item>
+                    <item>
+                      <text>antigüedad</text>
+                      <audio>TEG_antiguedad.mp3</audio>
+                    </item>
+                    <item>
+                      <text>bilingüe</text>
+                      <audio>TEG_bilingue.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cigüeña</text>
+                      <audio>TEG_ciguen1a.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene diéresis</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>circuito</text>
+                      <audio>TEG_circuito.mp3</audio>
+                    </item>
+                    <item>
+                      <text>construir</text>
+                      <audio>TEG_construir.mp3</audio>
+                    </item>
+                    <item>
+                      <text>equipaje</text>
+                      <audio>TEG_equipaje.mp3</audio>
+                    </item>
+                    <item>
+                      <text>seguir</text>
+                      <audio>TEG_seguir.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene diéresis</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>desagüe</text>
+                      <audio>TEG_desague.mp3</audio>
+                    </item>
+                    <item>
+                      <text>lingüista</text>
+                      <audio>TEG_linguista.mp3</audio>
+                    </item>
+                    <item>
+                      <text>paragüero</text>
+                      <audio>TEG_paraguero.mp3</audio>
+                    </item>
+                    <item>
+                      <text>zarigüeya</text>
+                      <audio>TEG_zarigueya.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene diéresis</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>guerra</text>
+                      <audio>TEG_guerra.mp3</audio>
+                    </item>
+                    <item>
+                      <text>aguijón</text>
+                      <audio>TEG_aguijon.mp3</audio>
+                    </item>
+                    <item>
+                      <text>Paraguay</text>
+                      <audio>TEG_paraguay.mp3</audio>
+                    </item>
+                    <item>
+                      <text>amiguito</text>
+                      <audio>TEG_amiguito.mp3</audio>
+                    </item>
+                    <item>
+                      <text>guitarra</text>
+                      <audio>TEG_guitarra.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

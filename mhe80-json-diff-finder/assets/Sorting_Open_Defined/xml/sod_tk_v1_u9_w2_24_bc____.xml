@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Category Words: Farm Animals&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Click on each picture to hear its name. Drag words that name a farm animal to the blue box. Drag words that do not into the red box. Then click OK.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <vspacing />
+  <contentMode value="images" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Click on each picture to hear its name. Drag words that name a farm animal to the blue box. Drag words that do not into the red box. Then click OK.&lt;/p&gt;</directions>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Farm Animals</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW031_031A_193002_d.jpg</text>
+                      <audio>chick.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW012_027A_193002_d.jpg</text>
+                      <audio>cow.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Not Farm Animals</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW033_006A_193002_d.jpg</text>
+                      <audio>corn.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW041_018A_193002_d.jpg</text>
+                      <audio>whale.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Click on each picture to hear its name. Drag words that name a farm animal to the blue box. Drag words that do not into the red box. Then click OK.&lt;/p&gt;</directions>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Farm Animals</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_076A_193002_d.jpg</text>
+                      <audio>goat.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_047A_193002_d.jpg</text>
+                      <audio>hen.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Not Farm Animals</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW053_023A_193002_d.jpg</text>
+                      <audio>zebra.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW042_004A_193002_d.jpg</text>
+                      <audio>gate.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+            <item>
+              <bins>
+                <bin>
+                  <title>Farm Animals</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_072A_193002_d.jpg</text>
+                      <audio>horse.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW022_008A_193002_d.jpg</text>
+                      <audio>turkey.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Not Farm Animals</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_050A_193002_d.jpg</text>
+                      <audio>ladder.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_061A_193002_d.jpg</text>
+                      <audio>nest.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

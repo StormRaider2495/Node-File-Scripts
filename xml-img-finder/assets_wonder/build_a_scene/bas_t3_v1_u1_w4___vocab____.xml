@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Build Vocabulary: Shades of Meaning</title>
+  <directions>Read the word on the left. Identify how the words on the right are related. Then arrange the words in order, from top to bottom, to show the shades of meaning.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="366.05" y="534.55"/&gt;  &lt;position x="365.05" y="303.9"/&gt;  &lt;position x="367.1" y="416.25"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="365.05" y="192.5"/&gt;  &lt;position x="367.05" y="309.9"/&gt;  &lt;position x="365.05" y="535.55"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="367.05" y="190.5"/&gt;  &lt;position x="367.05" y="419.2"/&gt;  &lt;position x="367.1" y="311.9"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>BAS_T3v1_U1W4_Vocab.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <positionData />
+      <items>
+        <item>
+          <text>impossible</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>difficult</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>harder</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>BAS_T3v1_U1W4_Vocab_2.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <positionData />
+      <items>
+        <item>
+          <text>discouraged</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>supported</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>cheered on</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>BAS_T3v1_U1W4_Vocab_3.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <positionData />
+      <items>
+        <item>
+          <text>problem</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>conclusion</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>plan</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

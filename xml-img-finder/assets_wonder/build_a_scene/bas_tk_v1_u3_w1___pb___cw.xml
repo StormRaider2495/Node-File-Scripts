@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Category Words</title>
+  <directions>Click the speaker button in the large box. Drag the pictures that show the correct words into the boxes. If the picture does not, do not drag it.</directions>
+  <directionsAudio>dl_show_correct_words.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow2" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="119" y="203.85"/&gt;  &lt;position x="617.5" y="211.05"/&gt;  &lt;position x="120.8" y="532.2"/&gt;  &lt;position x="625.55" y="541.2"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="118.1" y="201.15"/&gt;  &lt;position x="616.6" y="210.15"/&gt;  &lt;position x="121.7" y="538.5"/&gt;  &lt;position x="613.9" y="534"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="121.7" y="205.65"/&gt;  &lt;position x="612.95" y="198.45"/&gt;  &lt;position x="121.7" y="533.9"/&gt;  &lt;position x="616.6" y="532.2"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW031_003A_193002_d.jpg</contentImage>
+      <contentImageAudio>ways_animals_live.mp3</contentImageAudio>
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M100_UW021_002A_193002_d.jpg</image>
+          <audio>slithering.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW023_005A_A_193002_d.jpg</image>
+          <audio>jumping.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW023_002A_193002_d.jpg</image>
+          <audio>sliding.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW062_012A_114242_D.jpg</image>
+          <audio>flying.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW041_024A_193002_d.jpg</image>
+          <audio>broccoli.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW012_022A_186626_193002_d.jpg</image>
+          <audio>crayon.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW031_014A_193002_d.jpg</contentImage>
+      <contentImageAudio>ways_people_make_noise.mp3</contentImageAudio>
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M100_UW032_005A_193002_d.jpg</image>
+          <audio>honking.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW032_004A_193002_d.jpg</image>
+          <audio>shouting.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW032_001A_193002_d.jpg</image>
+          <audio>knocking.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW032_003A_A_193002_d.jpg</image>
+          <audio>snoring.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW011_009A_193002_d_2.jpg</image>
+          <audio>shoe.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M300_UW023_902A_193002_d.jpg</image>
+          <audio>flying.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW031_015A_193002_d.jpg</contentImage>
+      <contentImageAudio>ways_people_move.mp3</contentImageAudio>
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M300_UW031_004A_193002_d.jpg</image>
+          <audio>jumping.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M300_UW031_005A_193002_d.jpg</image>
+          <audio>dancing.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW092_005A_193002_d.jpg</image>
+          <audio>riding.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW011_010A_193002_d.jpg</image>
+          <audio>running.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW042_001A_A_193002_d.jpg</image>
+          <audio>wagging.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW011_066A_193002_d.jpg</image>
+          <audio>fan.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

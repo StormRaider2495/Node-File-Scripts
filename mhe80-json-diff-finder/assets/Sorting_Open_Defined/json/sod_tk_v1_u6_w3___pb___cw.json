@@ -1,0 +1,379 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Category Words",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each question word to hear it. Find the picture that shows who, what, or where. Drag the picture under the correct question word. Then click OK.</p>",
+    "audio": "dl_who_what_where.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "who",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "who.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW063_106A_193002_d.jpg",
+                  "audio": "a_catcher.mp3",
+                  "altText": "A boy and a girl playing catch with a baseball. They are both wearing baseball gloves."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "what",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "what.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW061_007A_193002_d.jpg",
+                  "audio": "a_baseball.mp3",
+                  "altText": "A baseball."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "where",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "where.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_010A_186626_d.jpg",
+                  "audio": "in_the_bag.mp3",
+                  "altText": "A yellow shopping bag."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "who",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "who.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_072A_193002_d.jpg",
+                  "audio": "a_horse.mp3",
+                  "altText": "A horse."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "what",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "what.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_013A_193002_d.jpg",
+                  "audio": "hay.mp3",
+                  "altText": "A bale of hay."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "where",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "where.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW034_008A_186626_d.jpg",
+                  "audio": "on_a_farm.mp3",
+                  "altText": "A man driving a tractor in a field."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "who",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "who.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_023A_193002_d.jpg",
+                  "audio": "a_monkey.mp3",
+                  "altText": "A monkey holding a banana."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "what",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "what.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_023A_193002_d.jpg",
+                  "audio": "a_banana.mp3",
+                  "altText": "A banana."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "where",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "where.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW033_015A_193002_d.jpg",
+                  "audio": "at_the_zoo.mp3",
+                  "altText": "An entrance to a zoo. A giraffe and elephant peek out over the gate."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "who",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "who.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UWSS1_001A_193002_d.jpg",
+                  "audio": "a_boy.mp3",
+                  "altText": "A boy in a wheelchair. Both of his hands are raised, palms out."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "what",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "what.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW035_078A_186626_d.jpg",
+                  "audio": "a_muffin.mp3",
+                  "altText": "A blueberry cupcake."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "where",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "where.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW061_006A_193002_d.jpg",
+                  "audio": "at_the_bakery.mp3",
+                  "altText": "A mother and son bear buying three cupcakes from a donkey in a bakery."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "who",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "who.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_043A_193002_d.jpg",
+                  "audio": "an_astronaut.mp3",
+                  "altText": "An astronaut."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "what",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "what.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_031A_193002_d.jpg",
+                  "audio": "a_rock.mp3",
+                  "altText": "A rock on top of grass."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "where",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "where.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW064_008A_114242_D.jpg",
+                  "audio": "at_the_pool.mp3",
+                  "altText": "A pool with a diving board. A large splash in the pool indicates that someone has dived in."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "who",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "who.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_055A_193002_d.jpg",
+                  "audio": "an_ant.mp3",
+                  "altText": "A black insect."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "what",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "what.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_040A_193002_d.jpg",
+                  "audio": "eat.mp3",
+                  "altText": "A girl in a wheelchair eating a slice of pizza."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "where",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "where.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW063_105A_193002_d.jpg",
+                  "audio": "at_a_picnic.mp3",
+                  "altText": "Seven children having a picnic. A dog plays with them."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

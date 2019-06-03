@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras: partes de un &amp;#225;rbol&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la&amp;#160;imagen que muestra una parte del &amp;#225;rbol.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;&amp;#160;Partes de un &amp;#225;rbol&lt;/b&gt;&lt;/p&gt;</text>
+            <image>TEG_arbol.jpg</image>
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_rama.jpg</image>
+              <audio>TEG_rama.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_violin.jpg</image>
+              <audio>TEG_violin.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_pasto.jpg</image>
+              <audio>TEG_pasto.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_mesa.jpg</image>
+              <audio>TEG_mesa.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt; Partes de un &amp;#225;rbol&lt;/b&gt;&lt;/p&gt;</text>
+            <image>TEG_arbol.jpg</image>
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_sapo.jpg</image>
+              <audio>TEG_sapo.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_casa.jpg</image>
+              <audio>TEG_casa.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_hoja.jpg</image>
+              <audio>TEG_hoja.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_banco.jpg</image>
+              <audio>TEG_banco.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt; Partes de un &amp;#225;rbol&lt;/b&gt;&lt;/p&gt;</text>
+            <image>TEG_arbol.jpg</image>
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_lechuza.jpg</image>
+              <audio>TEG_lechuza.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_tronco.jpg</image>
+              <audio>TEG_tronco.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_caja.jpg</image>
+              <audio>TEG_caja.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_silla.jpg</image>
+              <audio>TEG_silla.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt; Partes de un &amp;#225;rbol&lt;/b&gt;&lt;/p&gt;</text>
+            <image>TEG_arbol.jpg</image>
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_raices.jpg</image>
+              <audio>TEG_raices.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_pan.jpg</image>
+              <audio>TEG_pan.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_oveja.jpg</image>
+              <audio>TEG_oveja.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_conejo.jpg</image>
+              <audio>TEG_conejo.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

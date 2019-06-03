@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<word_letter_focus>
+  <title>Normas del lenguaje: títulos</title>
+  <directions>&lt;p&gt;Subraya los t&amp;#237;tulos de libros, peri&amp;#243;dicos o revistas que est&amp;#225;n escritos correctamente. Resalta los que no lo est&amp;#225;n.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;El libro preferido de pap&amp;#225; es {wh}&lt;i&gt;La Muerte de Artemio Cruz{/wh}&lt;/i&gt;, de Carlos Fuentes.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Mam&amp;#225; lee la secci&amp;#243;n de finanzas de {wu}&lt;i&gt;El Universal&lt;/i&gt;{/wu}&amp;#160;todos los d&amp;#237;as.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;{wh}&amp;#8220;Alero&amp;#8221;{/wh} fue una revista centroamericana muy importante.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;Le&amp;#237; {wh}&lt;i&gt;Platero y Yo&lt;/i&gt;{/wh} estas vacaciones.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Seg&amp;#250;n mi maestra, el libro de poemas m&amp;#225;s importante de Rub&amp;#233;n Dar&amp;#237;o es {wu}&lt;i&gt;Cantos de vida y esperanza&lt;/i&gt;{/wu}.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Voy a la biblioteca a consultar el n&amp;#250;mero m&amp;#225;s reciente del {wu}&lt;i&gt;Bolet&amp;#237;n de la Real Academia Espa&amp;#241;ola&lt;/i&gt;{/wu}&lt;i&gt;.&lt;/i&gt;&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;El suplemento de literatura de {wh}&lt;i&gt;el Espectador&lt;/i&gt;{/wh}&amp;#160;goza de gran reputaci&amp;#243;n.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Juana de Ibarbourou public&amp;#243; {wu}&lt;i&gt;Lenguas de diamante&lt;/i&gt;{/wu}&amp;#160;en 1919.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Le regal&amp;#233; a mi t&amp;#237;a&amp;#160;{wu}&lt;i&gt;Un momento muy largo&lt;/i&gt;{/wu},&amp;#160;la&amp;#160;premiada novela de Silvina Bullrich.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</word_letter_focus>
+

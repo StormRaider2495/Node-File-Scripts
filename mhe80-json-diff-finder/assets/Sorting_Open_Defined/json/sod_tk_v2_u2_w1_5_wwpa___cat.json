@@ -1,0 +1,152 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phoneme Categorization",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click each picture to hear its name. Drag pictures that have the /p/ sound into the blue box. Drag pictures that do not have the /p/ sound into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/p/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW021_047A_193002_d.jpg",
+                  "audio": "pencil.mp3",
+                  "altText": "A pencil."
+                },
+                {
+                  "text": "M100_UW021_029A_193002_d.jpg",
+                  "audio": "pumpkin.mp3",
+                  "altText": "A pumpkin."
+                },
+                {
+                  "text": "M100_UW021_012A_193002_d.jpg",
+                  "audio": "penguin.mp3",
+                  "altText": "A penguin."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "No /p/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_077A_193002_d.jpg",
+                  "audio": "moon.mp3",
+                  "altText": "A crescent moon."
+                },
+                {
+                  "text": "M100_UW013_011A_193002_d.jpg",
+                  "audio": "seven.mp3",
+                  "altText": "The number seven."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/p/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_005A_114242_D.jpg",
+                  "audio": "cap.mp3",
+                  "altText": "A red cap. "
+                },
+                {
+                  "text": "M100_UW021_022A_193002_d.jpg",
+                  "audio": "sap.mp3",
+                  "altText": "A a tree with a faucet attached. Sap drips from the faucet into an orange bucket. A red arrow points to the drops. "
+                },
+                {
+                  "text": "M100_UW021_026A_193002_d.jpg",
+                  "audio": "pillow.mp3",
+                  "altText": "A pillow inside a blue and purple dotted pillowcase."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "No /p/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_021A_193002_d.jpg",
+                  "audio": "bed.mp3",
+                  "altText": "A bed."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

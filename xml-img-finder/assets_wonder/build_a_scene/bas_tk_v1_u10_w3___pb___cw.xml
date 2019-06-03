@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Category Words</title>
+  <directions>Click each picture to hear its name. Drag the pictures that show baby animals to the red stars. If the picture does not show a baby animal, do not drag it.</directions>
+  <directionsAudio>dl_drag_baby_animals.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="143.35" y="198.6"/&gt;  &lt;position x="609.8" y="206.6"/&gt;  &lt;position x="141.45" y="522.55"/&gt;  &lt;position x="609.8" y="530.55"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="142.45" y="199.6"/&gt;  &lt;position x="610.8" y="205.6"/&gt;  &lt;position x="609.8" y="531.6"/&gt;  &lt;position x="142.35" y="523.55"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW103_804A_193002_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M300_UW103_891A_A_193002_d.jpg</image>
+          <audio>joey.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW103_002A_193002_d.jpg</image>
+          <audio>piglet.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M300_UW103_802A_193002_d.jpg</image>
+          <audio>calf.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW103_004A_193002_d.jpg</image>
+          <audio>tadpole.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M300_UW103_802A_A_193002_d.jpg</image>
+          <audio>cow.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M300_UW103_801A_193002_d.jpg</image>
+          <audio>ox.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW103_804A_193002_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M100_UW071_003A_193002_d.jpg</image>
+          <audio>cub.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW011_072A_193002_d.jpg</image>
+          <audio>colt.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M300_UW103_803A_193002_d.jpg</image>
+          <audio>duckling.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M300_UW103_908A_193002_d.jpg</image>
+          <audio>puppy.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW012_033A_193002_d.jpg</image>
+          <audio>octopus.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M300_UW103_805A_193002_d.jpg</image>
+          <audio>horse.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M300_UW103_891A_193002_d.jpg</image>
+          <audio>kangaroo.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

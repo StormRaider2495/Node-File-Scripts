@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras: n&amp;#250;meros ordinales&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Coloca las im&amp;#225;genes que muestran n&amp;#250;meros ordinales en la caja azul. Coloca las im&amp;#225;genes que no muestran n&amp;#250;meros ordinales en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Coloca las im&amp;#225;genes que muestran n&amp;#250;meros ordinales en la caja azul. Coloca las im&amp;#225;genes que no muestran n&amp;#250;meros ordinales en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un número ordinal</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_primero3.jpg</text>
+                      <audio>TEG_primero.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_segundo.jpg</text>
+                      <audio>TEG_segundo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_tercero.jpg</text>
+                      <audio>TEG_tercero.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_cuarto.jpg</text>
+                      <audio>TEG_cuarto.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un número ordinal</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_cuadrado.jpg</text>
+                      <audio>TEG_cuadrado.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_morado.jpg</text>
+                      <audio>TEG_morado.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_hamaca.jpg</text>
+                      <audio>TEG_hamaca.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_cama.jpg</text>
+                      <audio>TEG_cama.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

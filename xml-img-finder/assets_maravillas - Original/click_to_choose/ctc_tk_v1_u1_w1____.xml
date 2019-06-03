@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Gram&amp;#225;tica: El sustantivo&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Mira el dibujo y elije el tipo de sustantivo que es.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;maleta&lt;/p&gt;</text>
+            <image>maleta.jpg</image>
+            <audio>SR14_TEgames_blend_k_maleta.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text>persona</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>lugar</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>cosa</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

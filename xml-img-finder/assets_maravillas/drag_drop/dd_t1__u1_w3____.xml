@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Fonética: combinar sílabas con t</title>
+  <directions>Haz clic en el icono del auido para oír la palabra de la imagen.  Luego, combina las sílabas para escribir la palabra.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image>pote2.jpg</image>
+          <audio>TEG_pote.mp3</audio>
+          <sentence />
+          <wordPairs>
+            <pair>
+              <left>po</left>
+              <right>te</right>
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image>taza.jpg</image>
+          <audio>TEG_taza.mp3</audio>
+          <sentence />
+          <wordPairs>
+            <pair>
+              <left>ta</left>
+              <right>za</right>
+            </pair>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image>pomo.jpg</image>
+          <audio>TEG_pomo.mp3</audio>
+          <sentence />
+          <wordPairs>
+            <pair>
+              <left>po</left>
+              <right>mo</right>
+            </pair>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image>topo.jpg</image>
+          <audio>TEG_topo.mp3</audio>
+          <sentence />
+          <wordPairs>
+            <pair>
+              <left>to</left>
+              <right>po</right>
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image>bota.jpg</image>
+          <audio>TEG_botas.mp3</audio>
+          <sentence />
+          <wordPairs>
+            <pair>
+              <left>bo</left>
+              <right>tas</right>
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image>torre.jpg</image>
+          <audio>TEG_torre.mp3</audio>
+          <sentence />
+          <wordPairs>
+            <pair>
+              <left>to</left>
+              <right>rre</right>
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image>pato.jpg</image>
+          <audio>TEG_pato.mp3</audio>
+          <sentence />
+          <wordPairs>
+            <pair>
+              <left>pa</left>
+              <right>to</right>
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image>ato.jpg</image>
+          <audio>TEG_ato.mp3</audio>
+          <sentence />
+          <wordPairs>
+            <pair>
+              <left>a</left>
+              <right>to</right>
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image>moto.jpg</image>
+          <audio>TEG_moto.mp3</audio>
+          <sentence />
+          <wordPairs>
+            <pair>
+              <left>mo</left>
+              <right>to</right>
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

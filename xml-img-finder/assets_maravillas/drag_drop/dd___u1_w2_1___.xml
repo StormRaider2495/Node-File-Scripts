@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Gramática: Oraciones imperativas y exclamativas</title>
+  <directions>Usa las opciones de abajo para completar las oraciones.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;[&amp;#161;Qu&amp;#233;]&amp;#160;bello [paisaje!]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>¿Qué</text>
+            </distractor>
+            <distractor>
+              <text>Qué</text>
+            </distractor>
+            <distractor>
+              <text>¡Quién</text>
+            </distractor>
+            <distractor>
+              <text>¡Cuánto</text>
+            </distractor>
+            <distractor>
+              <text>paisaje?</text>
+            </distractor>
+            <distractor>
+              <text>casa.</text>
+            </distractor>
+            <distractor>
+              <text>casa!</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;[Ven] conmigo.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>¿Ven</text>
+            </distractor>
+            <distractor>
+              <text>¡Ven</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;[&amp;#161;Estoy] muy [contento!]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>¡Soy</text>
+            </distractor>
+            <distractor>
+              <text>Soy</text>
+            </distractor>
+            <distractor>
+              <text>Está</text>
+            </distractor>
+            <distractor>
+              <text>contento?</text>
+            </distractor>
+            <distractor>
+              <text>contentos!</text>
+            </distractor>
+            <distractor>
+              <text>contentos.</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;[Canta] esa canci&amp;#243;n otra [vez.]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>Mira</text>
+            </distractor>
+            <distractor>
+              <text>Cuida</text>
+            </distractor>
+            <distractor>
+              <text>dibuja</text>
+            </distractor>
+            <distractor>
+              <text>vez!</text>
+            </distractor>
+            <distractor>
+              <text>veces</text>
+            </distractor>
+            <distractor>
+              <text>veces?</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

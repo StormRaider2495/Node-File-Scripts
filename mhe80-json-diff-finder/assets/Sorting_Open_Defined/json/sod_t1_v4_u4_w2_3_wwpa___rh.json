@@ -1,0 +1,331 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Identify and Generate Rhyme",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Words that have the same end sounds rhyme. Click on the pictures. Drag the pictures that rhyme to the blue box. Drag the pictures that do not rhyme into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_003A_114242_D.jpg",
+                  "audio": "bee.mp3",
+                  "altText": "A wasp."
+                },
+                {
+                  "text": "M100_UW042_005A_114242_D.jpg",
+                  "audio": "tree.mp3",
+                  "altText": "A tree."
+                },
+                {
+                  "text": "M100_UW035_008A_114242_D.jpg",
+                  "audio": "see.mp3",
+                  "altText": "A boy looking through binoculars."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_001A_114242_D.jpg",
+                  "audio": "bag.mp3",
+                  "altText": "A gold handbag with a strap."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_002A_114242_D.jpg",
+                  "audio": "rake.mp3",
+                  "altText": "A rake."
+                },
+                {
+                  "text": "M100_UW042_036A_114242_D.jpg",
+                  "audio": "wake.mp3",
+                  "altText": "A girl lying in bed as her alarm clock blares."
+                },
+                {
+                  "text": "M100_UW032_016A_114242_D.jpg",
+                  "audio": "snake.mp3",
+                  "altText": "A snake."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW032_001A_114242_D.jpg",
+                  "audio": "bike.mp3",
+                  "altText": "A bicycle."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_013A_114242_D.jpg",
+                  "audio": "sheep.mp3",
+                  "altText": "A lamb."
+                },
+                {
+                  "text": "M100_UW042_037A_114242_D.jpg",
+                  "audio": "peep.mp3",
+                  "altText": "A canary singing."
+                },
+                {
+                  "text": "M100_UW042_007A_114242_D.jpg",
+                  "audio": "weep.mp3",
+                  "altText": "A sad man crying."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_038A_114242_D.jpg",
+                  "audio": "fork.mp3",
+                  "altText": "A fork."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_003A_114242_D.jpg",
+                  "audio": "bee.mp3",
+                  "altText": "A wasp."
+                },
+                {
+                  "text": "M100_UW042_035A_114242_D.jpg",
+                  "audio": "tea.mp3",
+                  "altText": "A teapot and a teacup filled with tea. It has a teabag in it."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_006A_114242_D.jpg",
+                  "audio": "tail.mp3",
+                  "altText": "An iguana. A red arrow points to its tail."
+                },
+                {
+                  "text": "M100_UW042_040A_114242_D.jpg",
+                  "audio": "cloud.mp3",
+                  "altText": "Clouds and the sun in the sky. A red arrow points to a cloud."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_015A_114242_D.jpg",
+                  "audio": "goat.mp3",
+                  "altText": "A goat."
+                },
+                {
+                  "text": "M100_UW011_008A_114242_D.jpg",
+                  "audio": "coat.mp3",
+                  "altText": "An orange zip-up jacket."
+                },
+                {
+                  "text": "M100_UW011_004A_114242_D.jpg",
+                  "audio": "boat.mp3",
+                  "altText": "A blue sailboat."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW034_045A_114242_D.jpg",
+                  "audio": "duck.mp3",
+                  "altText": "A mallard."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_019A_114242_D.jpg",
+                  "audio": "truck.mp3",
+                  "altText": "A blue pickup truck."
+                },
+                {
+                  "text": "M100_UW034_045A_114242_D.jpg",
+                  "audio": "duck.mp3",
+                  "altText": "A mallard."
+                },
+                {
+                  "text": "M100_UW042_041A_114242_D.jpg",
+                  "audio": "shuck.mp3",
+                  "altText": "Hands shucking corn."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_013A_114242_D.jpg",
+                  "audio": "road.mp3",
+                  "altText": "A road on a country highway. A red arrow points to the right lane."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

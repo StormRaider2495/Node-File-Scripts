@@ -1,0 +1,331 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Identify and Generate Rhyme",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Words that have the same end sounds rhyme. Click on the pictures. Drag the pictures that rhyme to the blue box. Drag pictures that do not rhyme into the red box.<b> </b></p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW061_034A_114242_D.jpg",
+                  "audio": "tool.mp3",
+                  "altText": "A hammer."
+                },
+                {
+                  "text": "M100_UW061_020A_114242_D.jpg",
+                  "audio": "school.mp3",
+                  "altText": "A school bus in front of a red school."
+                },
+                {
+                  "text": "M100_UW061_038A_114242_D.jpg",
+                  "audio": "spool.mp3",
+                  "altText": "A spool of blue thread. A red arrow points to the blue thread."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_024A_114242_D.jpg",
+                  "audio": "rain.mp3",
+                  "altText": "Raindrops falling from a cloud."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW061_032A_114242_D.jpg",
+                  "audio": "moose.mp3",
+                  "altText": "A brown moose."
+                },
+                {
+                  "text": "M100_UW061_007A_114242_D.jpg",
+                  "audio": "juice.mp3",
+                  "altText": "A glass of orange juice."
+                },
+                {
+                  "text": "M100_UW061_037A_114242_D.jpg",
+                  "audio": "goose.mp3",
+                  "altText": "A goose."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW054_018A_114242_D.jpg",
+                  "audio": "house.mp3",
+                  "altText": "An orange house and its yard."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW061_006A_114242_D.jpg",
+                  "audio": "glue.mp3",
+                  "altText": "A jar of glue."
+                },
+                {
+                  "text": "M100_UW061_035A_114242_D.jpg",
+                  "audio": "two.mp3",
+                  "altText": "The number two."
+                },
+                {
+                  "text": "M100_UW061_011A_114242_D.jpg",
+                  "audio": "stew.mp3",
+                  "altText": "A bowl of vegetable soup with a spoon in it."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW061_030A_114242_D.jpg",
+                  "audio": "four.mp3",
+                  "altText": "The number four."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW061_019A_114242_D.jpg",
+                  "audio": "fruit.mp3",
+                  "altText": "Cherries and a strawberry."
+                },
+                {
+                  "text": "M100_UW061_016A_114242_D.jpg",
+                  "audio": "boot.mp3",
+                  "altText": "A blue boot."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_019A_114242_D.jpg",
+                  "audio": "truck.mp3",
+                  "altText": "A blue pickup truck."
+                },
+                {
+                  "text": "M100_UW011_006A_114242_D.jpg",
+                  "audio": "bug.mp3",
+                  "altText": "A blue insect."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_034A_114242_D.jpg",
+                  "audio": "cheese.mp3",
+                  "altText": "A cheese wedge."
+                },
+                {
+                  "text": "M100_UW061_028A_114242_D.jpg",
+                  "audio": "breeze.mp3",
+                  "altText": "A man is wearing glasses. A strong wind blows his fedora away along with a couple of leaves."
+                },
+                {
+                  "text": "M100_UW042_025A_114242_D.jpg",
+                  "audio": "sneeze.mp3",
+                  "altText": "A boy blowing his nose."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW034_022A_114242_D.jpg",
+                  "audio": "stove.mp3",
+                  "altText": "A stove."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_005A_114242_D.jpg",
+                  "audio": "book.mp3",
+                  "altText": "An open book. "
+                },
+                {
+                  "text": "M100_UW061_031A_114242_D.jpg",
+                  "audio": "hook.mp3",
+                  "altText": "A metal hook."
+                },
+                {
+                  "text": "M100_UW061_029A_114242_D.jpg",
+                  "audio": "cook.mp3",
+                  "altText": "A father and son cooking. They are transferring vegetables from a bowl to a pot of soup."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW061_033A_114242_D.jpg",
+                  "audio": "pool.mp3",
+                  "altText": "A swimming pool with a diving board. There are three lawn chairs and a ball around it."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

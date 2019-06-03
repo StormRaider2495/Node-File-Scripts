@@ -1,0 +1,599 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Spelling: Long <i>e</i>",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p><b>Sort the spelling words into the columns using the key words or word parts.</b></p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "zebra",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "maybe",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "deed",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "weep",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "seem",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "reef",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "speech",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "feet",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "scheme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "gene",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "scene",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "chief",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "either",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "healer",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "beam",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "heal",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "please",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "leak",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "honey",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "key",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "money",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "family",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "busy",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "only",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "zebra",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": []
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "deed",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "sleek",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "indeed",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "reef",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "speech",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "wheeze",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "scheme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "evening",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "concrete",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "chief",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "belief",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "healer",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "breathe",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "league",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "squeaky",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "honey",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "donkey",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "family",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "squeaky",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "weary",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "zebra",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "feline",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "deed",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "thirteen",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "succeed",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "wheeze",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "honeybee",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "scheme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "evening",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "concrete",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "chief",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "belief",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "eerie",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "healer",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "breathe",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "league",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "creature",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "increased",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "appealing",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "tea",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "honey",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "donkey",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "honeybee",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "family",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "mystery",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "weary",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

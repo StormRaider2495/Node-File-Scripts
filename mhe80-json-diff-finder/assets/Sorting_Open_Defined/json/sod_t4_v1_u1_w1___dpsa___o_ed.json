@@ -1,0 +1,367 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics &#8211; Short Vowels",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Read each word aloud, paying attention to the vowel sound. Sort words into the appropriate columns.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Long Vowel",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "heat",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "great",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "beep",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bail",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cube",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "fake",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "tapes",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "laid",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short Vowel",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "health",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bell",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "crunch",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "fox",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "flat",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "paddle",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "struck",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Long Vowel",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "float",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "leaf",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "blown",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bead",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "speak",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "spray",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "ape",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "own",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short Vowel",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "bland",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bread",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "inspect",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "doctor",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "drop",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "hand",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "magnet",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Long Vowel",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "bleed",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "blade",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "breathe",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "write",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "wrote",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "driveway",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "grapes",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "phone",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short Vowel",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "fond",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "hints",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "written",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "ahead",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "rocket",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "stricken",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

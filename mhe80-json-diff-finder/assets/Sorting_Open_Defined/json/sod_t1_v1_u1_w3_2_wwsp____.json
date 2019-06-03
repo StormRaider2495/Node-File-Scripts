@@ -1,0 +1,353 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Spelling: Word Sort with l-Blends",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Drag words with the same beginning sounds into the boxes. If the word does not have the same beginning as any of the words, drag it into the “Other” bin.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "bliss",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "black",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "click",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "clip",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "flock",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "flip",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "flag",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "plop",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "plan",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "slim",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "slip",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "win",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sit",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "be",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "pull",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "bliss",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "black",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "blab",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "blip",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "click",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "clan",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "clap",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "class",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cliff",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "clam",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "clip",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "flock",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "flat",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "flap",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "flick",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "flip",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "flab",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "plop",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "plan",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "plat",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "slim",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "slap",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "slab",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "slack",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "slam",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "slit",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Normas del lenguaje: la raya&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona la oraci&amp;#243;n que tiene la puntuaci&amp;#243;n correcta&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;La semana pasada el maestro de espa&amp;#241;ol un excelente profesor nos ense&amp;#241;&amp;#243; el uso de la raya o guion largo.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>La semana pasada el maestro de español un excelente profesor, nos enseñó el uso de la raya, o guion largo.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>La semana pasada, el maestro de español –un excelente profesor– nos enseñó el uso de la raya o guion largo.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#191;A qu&amp;#233; has venido?&lt;/p&gt;
+&lt;p&gt;Quiero que me ayudes a decidir con cu&amp;#225;l cuento participar en el concurso.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>–¿A qué has venido? –Quiero que me ayudes a decidir con cuál cuento participar en el concurso.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>– ¿A qué has venido? – – Quiero que me ayudes a decidir con cuál cuento participar en el concurso. –</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;As&amp;#237; es la verdad dijo Sancho que yo soy ese gracioso y ese escudero que vuestra merced dice y este se&amp;#241;or es mi amo, el mismo don Quijote de la Mancha historiado y referido. (De &amp;#8220;Don Quijote&amp;#8221;)&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>–Así es la verdad –dijo Sancho–, que yo soy ese gracioso y ese escudero que vuestra merced dice, y este señor es mi amo, el mismo don Quijote de la Mancha historiado y referido.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>–Así es la verdad, dijo Sancho, que yo soy ese gracioso y ese escudero que vuestra merced dice y este señor es mi amo, el mismo don Quijote de la Mancha historiado y referido–.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#160;&amp;#8220;Reflexionar serena muy serenamente es mejor que tomar decisiones desesperadas&amp;#8221;. &amp;#8211;Franz Kafka&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>“Reflexionar, serena muy serenamente –es mejor que tomar decisiones desesperadas–”.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>“Reflexionar serena –muy serenamente– es mejor que tomar decisiones desesperadas”.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;La capacidad de tomar decisiones sobre todo las m&amp;#225;s dif&amp;#237;ciles es una cualidad de todo l&amp;#237;der.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>La capacidad de tomar decisiones  –sobre todo las más difíciles– es una cualidad de todo líder.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>La capacidad de tomar decisiones: sobre todo las más difíciles, es una cualidad de todo líder.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#161;V&amp;#225;lgame Dios! dijo Sancho. No le dije yo a vuestra merced que mirase bien lo que hac&amp;#237;a, que no eran sino molinos de viento y no lo pod&amp;#237;a ignorar sino quien llevase otros tales en la cabeza? (De &amp;#8220;Don Quijote&amp;#8221;)&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>¡Válgame Dios! – dijo Sancho. – No le dije yo a vuestra merced que mirase bien lo que hacía, que no eran sino molinos de viento y no lo podía ignorar sino quien llevase otros tales en la cabeza?</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>–¡Válgame Dios! –dijo Sancho–. ¿No le dije yo a vuestra merced que mirase bien lo que hacía, que no eran sino molinos de viento, y no lo podía ignorar sino quien llevase otros tales en la cabeza?</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

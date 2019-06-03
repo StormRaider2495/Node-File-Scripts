@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blending>
+  <title>Fonética: sílabas con f</title>
+  <directions>Coloca las fichas y escucha cada sílaba. Luego escucha la palabra.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <variant value="A" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_fila.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_fi.mp3</audio>
+              <text>fi</text>
+            </sound>
+            <sound>
+              <audio>TEG_la.mp3</audio>
+              <text>la</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_foto.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_fo.mp3</audio>
+              <text>fo</text>
+            </sound>
+            <sound>
+              <audio>TEG_to.mp3</audio>
+              <text>to</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_famoso.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_fa.mp3</audio>
+              <text>fa</text>
+            </sound>
+            <sound>
+              <audio>TEG_mo.mp3</audio>
+              <text>mo</text>
+            </sound>
+            <sound>
+              <audio>TEG_so.mp3</audio>
+              <text>so</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_telefono.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_te.mp3</audio>
+              <text>te</text>
+            </sound>
+            <sound>
+              <audio>TEG_le.mp3</audio>
+              <text>le</text>
+            </sound>
+            <sound>
+              <audio>TEG_fo.mp3</audio>
+              <text>fo</text>
+            </sound>
+            <sound>
+              <audio>TEG_no.mp3</audio>
+              <text>no</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_sofa.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_so.mp3</audio>
+              <text>so</text>
+            </sound>
+            <sound>
+              <audio>TEG_fa.mp3</audio>
+              <text>fa</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_fino.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_fi.mp3</audio>
+              <text>fi</text>
+            </sound>
+            <sound>
+              <audio>TEG_no.mp3</audio>
+              <text>no</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</blending>
+

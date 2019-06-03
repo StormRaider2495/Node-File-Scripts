@@ -1,0 +1,267 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phonics: Identify/Categorize",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on the picture to hear its name. Drag pictures that begin with the letter b into the left box. Drag pictures that begin with the letter l into the right box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "b___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW053_005A_193002_d.jpg",
+                  "audio": "bear.mp3",
+                  "altText": "A bear doing a handstand."
+                },
+                {
+                  "text": "M100_UW061_006A_193002_d.jpg",
+                  "audio": "bakery.mp3",
+                  "altText": "A mother and son bear buying three cupcakes from a donkey in a bakery."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "l___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW032_017A_193002_d.jpg",
+                  "audio": "lion.mp3",
+                  "altText": "A lion."
+                },
+                {
+                  "text": "M100_UW061_019A_193002_d.jpg",
+                  "audio": "log.mp3",
+                  "altText": "A log."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "b___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_002A_193002_d.jpg",
+                  "audio": "bee.mp3",
+                  "altText": "A bumblebee flying around."
+                },
+                {
+                  "text": "M100_UWSS1_001A_193002_d.jpg",
+                  "audio": "boy.mp3",
+                  "altText": "A boy in a wheelchair. Both of his hands are raised, palms out."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "l___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_030A_193002_d.jpg",
+                  "audio": "lamp.mp3",
+                  "altText": "A purple lamp with a blue lampshade."
+                },
+                {
+                  "text": "M100_UW031_017A_193002_d.jpg",
+                  "audio": "lemon.mp3",
+                  "altText": "A lemon."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "b___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW015_017A_186626_d.jpg",
+                  "audio": "branch.mp3",
+                  "altText": "A tree branch."
+                },
+                {
+                  "text": "M100_UW011_002A_193002_d.jpg",
+                  "audio": "book.mp3",
+                  "altText": "An open book."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "l___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_022A_193002_d.jpg",
+                  "audio": "lock.mp3",
+                  "altText": "A metal lock."
+                },
+                {
+                  "text": "M100_UW011_011A_193002_d.jpg",
+                  "audio": "listen.mp3",
+                  "altText": "A boy with a hand to his ear listening."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "b___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_003A_193002_d.jpg",
+                  "audio": "brother.mp3",
+                  "altText": "A dad, a mom, a son, and a daughter. A blue arrow points to the son."
+                },
+                {
+                  "text": "M100_UW052_003A_193002_d.jpg",
+                  "audio": "bark.mp3",
+                  "altText": "A tree trunk with a small branch sticking out of it."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "l___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW061_015A_193002_d.jpg",
+                  "audio": "ladder.mp3",
+                  "altText": "A yellow ladder."
+                },
+                {
+                  "text": "M100_UW061_019A_193002_d.jpg",
+                  "audio": "log.mp3",
+                  "altText": "A log."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Phonics</title>
+  <directions>Read the word in the organizer. Which word syllables in the list have the same vowel consonant e pattern and a long vowel sound? Drag those words to the circles.</directions>
+  <directionsAudio>dl_same_consonant_e.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="148.5" y="510.5"/&gt;  &lt;position x="370.65" y="507.6"/&gt;  &lt;position x="584.05" y="513.4"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="147" y="511.9"/&gt;  &lt;position x="367.7" y="509.05"/&gt;  &lt;position x="594.15" y="507.6"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="154.25" y="509.05"/&gt;  &lt;position x="366.3" y="516.25"/&gt;  &lt;position x="586.9" y="514.8"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW061_620A_186626_d.jpg</contentImage>
+      <contentImageAudio>useful.mp3</contentImageAudio>
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text>sidewalk</text>
+          <image />
+          <audio>sidewalk.mp3</audio>
+        </item>
+        <item>
+          <text>notebook</text>
+          <image />
+          <audio>notebook.mp3</audio>
+        </item>
+        <item>
+          <text>hopeful</text>
+          <image />
+          <audio>hopeful.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>spearmint</text>
+          <image />
+          <audio>spearmint.mp3</audio>
+        </item>
+        <item>
+          <text>partner</text>
+          <image />
+          <audio>partner.mp3</audio>
+        </item>
+        <item>
+          <text>backpack</text>
+          <image />
+          <audio>backpack.mp3</audio>
+        </item>
+        <item>
+          <text>sickness</text>
+          <image />
+          <audio>sickness.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW061_621A_186626_d.jpg</contentImage>
+      <contentImageAudio>replace.mp3</contentImageAudio>
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text>compute</text>
+          <image />
+          <audio>compute.mp3</audio>
+        </item>
+        <item>
+          <text>vibrate</text>
+          <image />
+          <audio>vibrate.mp3</audio>
+        </item>
+        <item>
+          <text>relate</text>
+          <image />
+          <audio>relate.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>winning</text>
+          <image />
+          <audio>winning.mp3</audio>
+        </item>
+        <item>
+          <text>charter</text>
+          <image />
+          <audio>charter.mp3</audio>
+        </item>
+        <item>
+          <text>wagon</text>
+          <image />
+          <audio>wagon.mp3</audio>
+        </item>
+        <item>
+          <text>harbor</text>
+          <image />
+          <audio>harbor.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW061_622A_186626_d.jpg</contentImage>
+      <contentImageAudio>inside.mp3</contentImageAudio>
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text>confuse</text>
+          <image />
+          <audio>confuse.mp3</audio>
+        </item>
+        <item>
+          <text>amaze</text>
+          <image />
+          <audio>amaze.mp3</audio>
+        </item>
+        <item>
+          <text>describe</text>
+          <image />
+          <audio>describe.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>joyful</text>
+          <image />
+          <audio>joyful.mp3</audio>
+        </item>
+        <item>
+          <text>railroad</text>
+          <image />
+          <audio>railroad.mp3</audio>
+        </item>
+        <item>
+          <text>bottle</text>
+          <image />
+          <audio>bottle.mp3</audio>
+        </item>
+        <item>
+          <text>orchard</text>
+          <image />
+          <audio>orchard.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

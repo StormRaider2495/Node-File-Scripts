@@ -1,0 +1,340 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Literary Elements",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Rhyming words have the same ending sounds. Drag words that have the same ending sound into the blue box. Drag words that do not have the same ending sound into the red box.</p><p> </p>",
+    "audio": "dl_rhyming_sounds_2.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_007A_114242_D.jpg",
+                  "audio": "cat.mp3",
+                  "altText": "A smiling orange cat."
+                },
+                {
+                  "text": "M100_UW011_016A_114242_D.jpg",
+                  "audio": "hat.mp3",
+                  "altText": "A brown fedora."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_019A_114242_D.jpg",
+                  "audio": "log.mp3",
+                  "altText": "A log of wood."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_018A_114242_D.jpg",
+                  "audio": "lock.mp3",
+                  "altText": "A combination lock."
+                },
+                {
+                  "text": "M100_UW013_008A_114242_D.jpg",
+                  "audio": "clock.mp3",
+                  "altText": "An alarm clock."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_010A_114242_D.jpg",
+                  "audio": "dog.mp3",
+                  "altText": "A brown dog wearing a blue collar."
+                },
+                {
+                  "text": "M100_UW011_025A_114242_D.jpg",
+                  "audio": "six.mp3",
+                  "altText": "The number six."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_022A_114242_D.jpg",
+                  "audio": "pan.mp3",
+                  "altText": "A frying pan."
+                },
+                {
+                  "text": "M100_UW011_018A_114242_D.jpg",
+                  "audio": "man.mp3",
+                  "altText": "A boy wearing glasses and a button-up shirt."
+                },
+                {
+                  "text": "M100_UW011_012A_114242_D.jpg",
+                  "audio": "fan.mp3",
+                  "altText": "An electric fan."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW0SS_015A_114242_D.jpg",
+                  "audio": "stick.mp3",
+                  "altText": "A hockey stick."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_010A_114242_D.jpg",
+                  "audio": "dig.mp3",
+                  "altText": "A girl digging a hole with a shovel."
+                },
+                {
+                  "text": "M100_UW012_038A_114242_D.jpg",
+                  "audio": "wig.mp3",
+                  "altText": "A blond wig on a display."
+                },
+                {
+                  "text": "M100_UW011_023A_114242_D.jpg",
+                  "audio": "pig.mp3",
+                  "altText": "A pig."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_021A_114242_D.jpg",
+                  "audio": "mop.mp3",
+                  "altText": "A mop."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_003A_114242_D.jpg",
+                  "audio": "box.mp3",
+                  "altText": "An open cardboard box."
+                },
+                {
+                  "text": "M100_UW012_010A_114242_D.jpg",
+                  "audio": "fox.mp3",
+                  "altText": "A fox."
+                },
+                {
+                  "text": "M100_UW014_014A_114242_D.jpg",
+                  "audio": "ox.mp3",
+                  "altText": "A bull. "
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_019A_114242_D.jpg",
+                  "audio": "map.mp3",
+                  "altText": "A map of the United States."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_026A_114242_D.jpg",
+                  "audio": "sad.mp3",
+                  "altText": "A frowning boy."
+                },
+                {
+                  "text": "M100_UW045_008A_114242_D.jpg",
+                  "audio": "dad.mp3",
+                  "altText": "A man and his daughter wearing winter gear. A red arrow points to the back of his head."
+                },
+                {
+                  "text": "M100_UW012_022A_114242_D.jpg",
+                  "audio": "pad.mp3",
+                  "altText": "A notepad."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW0SS_017A_114242_D.jpg",
+                  "audio": "lip.mp3",
+                  "altText": "A boy. A red arrow points to his mouth."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

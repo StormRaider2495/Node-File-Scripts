@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>Spelling: Word Sort with –un, –ut, –ug</title>
+  <directions>&lt;p&gt;Drag words with the same ending sounds into the boxes. If the word does not have the same ending as any of the words, drag it into the &amp;#8220;Other&amp;#8221; bin.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>bun</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>run</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>fun</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>hut</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>nut</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cut</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>dug</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>bug</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>rug</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>men</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>head</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>could</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>one</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>hut</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>but</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>rut</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>jut</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cut</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>nut</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>dug</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>tug</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>lug</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>mug</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>plug</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>snug</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>jug</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Other</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text />
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

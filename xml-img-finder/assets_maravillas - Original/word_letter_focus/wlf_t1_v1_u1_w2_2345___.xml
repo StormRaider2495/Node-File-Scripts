@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<word_letter_focus>
+  <title>Análisis estructural: masculino y femenino</title>
+  <directions>&lt;p&gt;Lee las palabras. Marca con el pote las palabras femeninas. Subraya con la regla las palabras masculinas.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text>{wh}lima{/wh}</text>
+            </word>
+            <word>
+              <text>{wh}pala{/wh}</text>
+            </word>
+            <word>
+              <text>{wu}patata{/wu}</text>
+            </word>
+            <word>
+              <text>{wh}bata{/wh}</text>
+            </word>
+            <word>
+              <text>{wu}nido{/wu}</text>
+            </word>
+            <word>
+              <text>{wu}zapato{/wu}</text>
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text />
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text>{wu}rojo{/wu}</text>
+            </word>
+            <word>
+              <text>{wh}luna{/wh}</text>
+            </word>
+            <word>
+              <text>{wu}vaso{/wu}</text>
+            </word>
+            <word>
+              <text>{wh}sopa{/wh}</text>
+            </word>
+            <word>
+              <text>{wh}rama{/wh}</text>
+            </word>
+            <word>
+              <text>{wh}pelota{/wh}</text>
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text />
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text>{wu}boleto{/wu}</text>
+            </word>
+            <word>
+              <text>{wh}jarra{/wh}</text>
+            </word>
+            <word>
+              <text>{wu}dedo{/wu}</text>
+            </word>
+            <word>
+              <text>{wu}zorro{/wu}</text>
+            </word>
+            <word>
+              <text>{wu}venado{/wu}</text>
+            </word>
+            <word>
+              <text>{wh}melena{/wh}</text>
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text />
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</word_letter_focus>
+

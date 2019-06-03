@@ -1,0 +1,681 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phonological Awareness: Rhyme",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Words that have the same end sounds rhyme. Click on the pictures. Drag the pictures that rhyme to the blue box. Drag pictures that do not rhyme into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_031A_114242_D.jpg",
+                  "audio": "tag.mp3",
+                  "altText": "A $5 tag."
+                },
+                {
+                  "text": "M100_UW011_024A_114242_D.jpg",
+                  "audio": "rag.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "M100_UW011_001A_114242_D.jpg",
+                  "audio": "bag.mp3",
+                  "altText": "A gold handbag with a strap."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "do not rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_005A_114242_D.jpg",
+                  "audio": "cab.mp3",
+                  "altText": "A yellow taxicab."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_003A_114242_D.jpg",
+                  "audio": "box.mp3",
+                  "altText": "An open cardboard box."
+                },
+                {
+                  "text": "M100_UW012_010A_114242_D.jpg",
+                  "audio": "fox.mp3",
+                  "altText": "A fox."
+                },
+                {
+                  "text": "M100_UW014_014A_114242_D.jpg",
+                  "audio": "ox.mp3",
+                  "altText": "A bull. "
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "do not rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_001A_114242_D.jpg",
+                  "audio": "ax.mp3",
+                  "altText": "An ax."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_010A_114242_D.jpg",
+                  "audio": "dig.mp3",
+                  "altText": "A girl digging a hole with a shovel."
+                },
+                {
+                  "text": "M100_UW011_023A_114242_D.jpg",
+                  "audio": "pig.mp3",
+                  "altText": "A pig."
+                },
+                {
+                  "text": "M100_UW012_038A_114242_D.jpg",
+                  "audio": "wig.mp3",
+                  "altText": "A blond wig on a display."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "do not rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_001A_114242_D.jpg",
+                  "audio": "bag.mp3",
+                  "altText": "A gold handbag with a strap."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_015A_114242_D.jpg",
+                  "audio": "kick.mp3",
+                  "altText": "A girl wearing a uniform and kicking a soccer ball."
+                },
+                {
+                  "text": "M100_UW012_019A_114242_D.jpg",
+                  "audio": "lick.mp3",
+                  "altText": "A boy enjoying ice cream on a cone."
+                },
+                {
+                  "text": "M100_UW012_029A_114242_D.jpg",
+                  "audio": "sick.mp3",
+                  "altText": "A sick girl lying in bed with a thermometer in her mouth."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "do not rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_030A_114242_D.jpg",
+                  "audio": "tack.mp3",
+                  "altText": "A red thumb tack."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_013A_114242_D.jpg",
+                  "audio": "hill.mp3",
+                  "altText": "A green hill against a blue sky."
+                },
+                {
+                  "text": "M100_UW013_023A_114242_D.jpg",
+                  "audio": "quill.mp3",
+                  "altText": "A porcupine. A red arrow points to its quills."
+                },
+                {
+                  "text": "M100_UW0SS_043A_114242_D.jpg",
+                  "audio": "grill.mp3",
+                  "altText": "Charcoals in a grill. A red arrow points to the grill."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "do not rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW032_021A_114242_D.jpg",
+                  "audio": "grin.mp3",
+                  "altText": "A smiling girl."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_037A_114242_D.jpg",
+                  "audio": "chick.mp3",
+                  "altText": "A canary singing."
+                },
+                {
+                  "text": "M100_UW0SS_013A_114242_D.jpg",
+                  "audio": "brick.mp3",
+                  "altText": "Bricks."
+                },
+                {
+                  "text": "M100_UW0SS_015A_114242_D.jpg",
+                  "audio": "stick.mp3",
+                  "altText": "A hockey stick."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "do not rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW0SS_014A_114242_D.jpg",
+                  "audio": "sack.mp3",
+                  "altText": "An orange drawstring bag."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW0SS_016A_114242_D.jpg",
+                  "audio": "rim.mp3",
+                  "altText": "A glass of water."
+                },
+                {
+                  "text": "M100_UW0SS_044A_114242_D.jpg",
+                  "audio": "brim.mp3",
+                  "altText": "A red mug. A red arrow points to its rim."
+                },
+                {
+                  "text": "M100_UW063_010A_114242_D.jpg",
+                  "audio": "swim.mp3",
+                  "altText": "A girl swimming."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "do not rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW0SS_017A_114242_D.jpg",
+                  "audio": "lip.mp3",
+                  "altText": "A boy. A red arrow points to his mouth."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_004A_114242_D.jpg",
+                  "audio": "bin.mp3",
+                  "altText": "A gray bucket."
+                },
+                {
+                  "text": "M100_UW012_009A_114242_D.jpg",
+                  "audio": "fin.mp3",
+                  "altText": "A fish. A red arrow points to a fin."
+                },
+                {
+                  "text": "M100_UW012_024A_114242_D.jpg",
+                  "audio": "pin.mp3",
+                  "altText": "A safety pin."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "do not rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_022A_114242_D.jpg",
+                  "audio": "pan.mp3",
+                  "altText": "A frying pan."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_027A_114242_D.jpg",
+                  "audio": "ten.mp3",
+                  "altText": "The number ten."
+                },
+                {
+                  "text": "M100_UW021_001A_114242_D.jpg",
+                  "audio": "pen.mp3",
+                  "altText": "A red and gold ink pen."
+                },
+                {
+                  "text": "M100_UW011_017A_114242_D.jpg",
+                  "audio": "hen.mp3",
+                  "altText": "A rooster."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "do not rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW034_031A_114242_D.jpg",
+                  "audio": "home.mp3",
+                  "altText": "A yellow house."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW0SS_045A_114242_D.jpg",
+                  "audio": "chin.mp3",
+                  "altText": "A boy. A red arrow points to his mouth."
+                },
+                {
+                  "text": "M100_UW032_021A_114242_D.jpg",
+                  "audio": "grin.mp3",
+                  "altText": "A smiling girl."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "do not rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_010A_114242_D.jpg",
+                  "audio": "dog.mp3",
+                  "altText": "A brown dog wearing a blue collar."
+                },
+                {
+                  "text": "M100_UW034_035A_114242_D.jpg",
+                  "audio": "grass.mp3",
+                  "altText": "A red arrow pointing to green grass."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW0SS_017A_114242_D.jpg",
+                  "audio": "lip.mp3",
+                  "altText": "A boy. A red arrow points to his mouth."
+                },
+                {
+                  "text": "M100_UW024_001A_114242_D.jpg",
+                  "audio": "ship.mp3",
+                  "altText": "A tugboat."
+                },
+                {
+                  "text": "M100_UW013_007A_114242_D.jpg",
+                  "audio": "clip.mp3",
+                  "altText": "A paper clip."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "do not rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW0SS_018A_114242_D.jpg",
+                  "audio": "clap.mp3",
+                  "altText": "A boy wearing a hat and clapping."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW032_028A_114242_D.jpg",
+                  "audio": "kit.mp3",
+                  "altText": "A toy car, paint, and stickers in a package labeled \"Decorate Your Own Car.\""
+                },
+                {
+                  "text": "M100_UW014_015A_114242_D.jpg",
+                  "audio": "pit.mp3",
+                  "altText": "A walnut."
+                },
+                {
+                  "text": "M100_UW063_005A_114242_D.jpg",
+                  "audio": "knit.mp3",
+                  "altText": "A girl sitting in a chair knitting."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "do not rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW063_008A_114242_D.jpg",
+                  "audio": "knot.mp3",
+                  "altText": "A rope tied into a knot."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_003A_114242_D.jpg",
+                  "audio": "bed.mp3",
+                  "altText": "A bed with a green head and footboard, a blue and white pillow, brown sheets, and a yellow mattress."
+                },
+                {
+                  "text": "M100_UW021_003A_114242_D.jpg",
+                  "audio": "red.mp3",
+                  "altText": "A blob of red."
+                },
+                {
+                  "text": "M100_UW021_009A_114242_D.jpg",
+                  "audio": "bread.mp3",
+                  "altText": "A loaf of bread with two slices cut out."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "do not rhyme",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_001A_114242_D.jpg",
+                  "audio": "bell.mp3",
+                  "altText": "A yellow bell."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

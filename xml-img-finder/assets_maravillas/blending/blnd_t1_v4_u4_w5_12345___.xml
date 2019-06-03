@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blending>
+  <title>Fonética: sílabas con g de ga, go, gu, gue y gui</title>
+  <directions />
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <variant value="A" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_gato.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_ga.mp3</audio>
+              <text>ga</text>
+            </sound>
+            <sound>
+              <audio>TEG_to.mp3</audio>
+              <text>to</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_gota.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_go.mp3</audio>
+              <text>go</text>
+            </sound>
+            <sound>
+              <audio>TEG_ta.mp3</audio>
+              <text>ta</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_gusano.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_gu.mp3</audio>
+              <text>gu</text>
+            </sound>
+            <sound>
+              <audio>TEG_sa.mp3</audio>
+              <text>sa</text>
+            </sound>
+            <sound>
+              <audio>TEG_no.mp3</audio>
+              <text>no</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_juguete.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_ju.mp3</audio>
+              <text>ju</text>
+            </sound>
+            <sound>
+              <audio>TEG_gue.mp3</audio>
+              <text>gue</text>
+            </sound>
+            <sound>
+              <audio>TEG_te.mp3</audio>
+              <text>te</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_guitarra.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_gui.mp3</audio>
+              <text>gui</text>
+            </sound>
+            <sound>
+              <audio>TEG_ta.mp3</audio>
+              <text>ta</text>
+            </sound>
+            <sound>
+              <audio>TEG_rra.mp3</audio>
+              <text>rra</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_laguna.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_la.mp3</audio>
+              <text>la</text>
+            </sound>
+            <sound>
+              <audio>TEG_gu.mp3</audio>
+              <text>gu</text>
+            </sound>
+            <sound>
+              <audio>TEG_na.mp3</audio>
+              <text>na</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_agua.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_a.mp3</audio>
+              <text>a</text>
+            </sound>
+            <sound>
+              <audio>TEG_gua.mp3</audio>
+              <text>gua</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_guiso.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_gui.mp3</audio>
+              <text>gui</text>
+            </sound>
+            <sound>
+              <audio>TEG_so.mp3</audio>
+              <text>so</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_juguemos.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_ju.mp3</audio>
+              <text>ju</text>
+            </sound>
+            <sound>
+              <audio>TEG_gue.mp3</audio>
+              <text>gue</text>
+            </sound>
+            <sound>
+              <audio>TEG_mos.mp3</audio>
+              <text>mos</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_llega.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_lle.mp3</audio>
+              <text>lle</text>
+            </sound>
+            <sound>
+              <audio>TEG_ga.mp3</audio>
+              <text>ga</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_oruga.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_o.mp3</audio>
+              <text>o</text>
+            </sound>
+            <sound>
+              <audio>TEG_ru.mp3</audio>
+              <text>ru</text>
+            </sound>
+            <sound>
+              <audio>TEG_ga.mp3</audio>
+              <text>ga</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_iguales.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_i.mp3</audio>
+              <text>i</text>
+            </sound>
+            <sound>
+              <audio>TEG_gua.mp3</audio>
+              <text>gua</text>
+            </sound>
+            <sound>
+              <audio>TEG_les.mp3</audio>
+              <text>les</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_pregunta.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_pre.mp3</audio>
+              <text>pre</text>
+            </sound>
+            <sound>
+              <audio>TEG_gun.mp3</audio>
+              <text>gun</text>
+            </sound>
+            <sound>
+              <audio>TEG_ta.mp3</audio>
+              <text>ta</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_garbanzo.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_gar.mp3</audio>
+              <text>gar</text>
+            </sound>
+            <sound>
+              <audio>TEG_ban.mp3</audio>
+              <text>ban</text>
+            </sound>
+            <sound>
+              <audio>TEG_zo.mp3</audio>
+              <text>zo</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_manguera.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_man.mp3</audio>
+              <text>man</text>
+            </sound>
+            <sound>
+              <audio>TEG_gue.mp3</audio>
+              <text>gue</text>
+            </sound>
+            <sound>
+              <audio>TEG_ra.mp3</audio>
+              <text>ra</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_hormiguero.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_or.mp3</audio>
+              <text>hor</text>
+            </sound>
+            <sound>
+              <audio>TEG_mi.mp3</audio>
+              <text>mi</text>
+            </sound>
+            <sound>
+              <audio>TEG_gue.mp3</audio>
+              <text>gue</text>
+            </sound>
+            <sound>
+              <audio>TEG_ro.mp3</audio>
+              <text>ro</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_guirnalda.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_guir.mp3</audio>
+              <text>guir</text>
+            </sound>
+            <sound>
+              <audio>TEG_nal.mp3</audio>
+              <text>nal</text>
+            </sound>
+            <sound>
+              <audio>TEG_da.mp3</audio>
+              <text>da</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_galleta.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_ga.mp3</audio>
+              <text>ga</text>
+            </sound>
+            <sound>
+              <audio>TEG_lle.mp3</audio>
+              <text>lle</text>
+            </sound>
+            <sound>
+              <audio>TEG_ta.mp3</audio>
+              <text>ta</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_iguana.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_i.mp3</audio>
+              <text>i</text>
+            </sound>
+            <sound>
+              <audio>TEG_gua.mp3</audio>
+              <text>gua</text>
+            </sound>
+            <sound>
+              <audio>TEG_na.mp3</audio>
+              <text>na</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_guayaba.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_gua.mp3</audio>
+              <text>gua</text>
+            </sound>
+            <sound>
+              <audio>TEG_ya.mp3</audio>
+              <text>ya</text>
+            </sound>
+            <sound>
+              <audio>TEG_ba.mp3</audio>
+              <text>ba</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_lengua.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_len.mp3</audio>
+              <text>len</text>
+            </sound>
+            <sound>
+              <audio>TEG_gua.mp3</audio>
+              <text>gua</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_esparrago.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_es.mp3</audio>
+              <text>es</text>
+            </sound>
+            <sound>
+              <audio>TEG_pa.mp3</audio>
+              <text>pá</text>
+            </sound>
+            <sound>
+              <audio>TEG_rra.mp3</audio>
+              <text>rra</text>
+            </sound>
+            <sound>
+              <audio>TEG_go.mp3</audio>
+              <text>go</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_guacamaya.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_gua.mp3</audio>
+              <text>gua</text>
+            </sound>
+            <sound>
+              <audio>TEG_ca.mp3</audio>
+              <text>ca</text>
+            </sound>
+            <sound>
+              <audio>TEG_ma.mp3</audio>
+              <text>ma</text>
+            </sound>
+            <sound>
+              <audio>TEG_ya.mp3</audio>
+              <text>ya</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_amigo.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_a.mp3</audio>
+              <text>a</text>
+            </sound>
+            <sound>
+              <audio>TEG_mi.mp3</audio>
+              <text>mi</text>
+            </sound>
+            <sound>
+              <audio>TEG_go.mp3</audio>
+              <text>go</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</blending>
+

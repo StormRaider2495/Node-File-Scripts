@@ -1,0 +1,336 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Structural Analysis: Roots in Related Words",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Read each word aloud. Sort the words by dragging them to the columns with related roots. Move words without related roots to the column labeled \"Other.\"</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Activity",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "activate",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "active",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "activation",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "inactive",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Automobile",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "automatic",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "autograph",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "automotive",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "accent",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "accord",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "ton",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Family",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "unfamiliar",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "families",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "familiar",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Flex",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "flexible",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "reflex",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "flexes",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "flexing",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "fang",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "flew",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "famous",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Credit",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "incredible",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "credible",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "creditor",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "discredit",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Grateful",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "gratify",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "ungrateful",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "cruise",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "grapes",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "gravity",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "created",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

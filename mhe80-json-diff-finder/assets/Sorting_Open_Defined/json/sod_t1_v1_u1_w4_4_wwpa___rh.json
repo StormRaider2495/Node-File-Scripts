@@ -1,0 +1,377 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Identify Rhyme",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Words that have the same end sounds rhyme. Click on the pictures. Drag pictures that rhyme to the blue box. Drag pictures that do not rhyme into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_010A_114242_D.jpg",
+                  "audio": "dog.mp3",
+                  "altText": "A brown dog wearing a blue collar."
+                },
+                {
+                  "text": "M100_UW014_011A_114242_D.jpg",
+                  "audio": "hog.mp3",
+                  "altText": "A gray pig."
+                },
+                {
+                  "text": "M100_UW011_014A_114242_D.jpg",
+                  "audio": "frog.mp3",
+                  "altText": "A green frog."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_006A_114242_D.jpg",
+                  "audio": "crab.mp3",
+                  "altText": "A crab."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_008A_114242_D.jpg",
+                  "audio": "clock.mp3",
+                  "altText": "An alarm clock."
+                },
+                {
+                  "text": "M100_UW013_018A_114242_D.jpg",
+                  "audio": "lock.mp3",
+                  "altText": "A combination lock."
+                },
+                {
+                  "text": "M100_UW014_002A_114242_D.jpg",
+                  "audio": "block.mp3",
+                  "altText": "An ABC block."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_001A_114242_D.jpg",
+                  "audio": "ball.mp3",
+                  "altText": "A multicolored beach ball."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_009A_114242_D.jpg",
+                  "audio": "flock.mp3",
+                  "altText": "A flock of birds."
+                },
+                {
+                  "text": "M100_UW013_008A_114242_D.jpg",
+                  "audio": "clock.mp3",
+                  "altText": "An alarm clock."
+                },
+                {
+                  "text": "M100_UW014_007A_114242_D.jpg",
+                  "audio": "dock.mp3",
+                  "altText": "A seagull sitting on a pier."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_007A_114242_D.jpg",
+                  "audio": "clip.mp3",
+                  "altText": "A paper clip."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_003A_114242_D.jpg",
+                  "audio": "box.mp3",
+                  "altText": "An open cardboard box."
+                },
+                {
+                  "text": "M100_UW014_014A_114242_D.jpg",
+                  "audio": "ox.mp3",
+                  "altText": "A bull. "
+                },
+                {
+                  "text": "M100_UW012_010A_114242_D.jpg",
+                  "audio": "fox.mp3",
+                  "altText": "A fox."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_002A_114242_D.jpg",
+                  "audio": "bat.mp3",
+                  "altText": "A brown baseball bat."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_005A_114242_D.jpg",
+                  "audio": "cot.mp3",
+                  "altText": "A blue foldable table."
+                },
+                {
+                  "text": "M100_UW013_022A_114242_D.jpg",
+                  "audio": "pot.mp3",
+                  "altText": "A pot used for cooking."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_003A_114242_D.jpg",
+                  "audio": "can.mp3",
+                  "altText": "An opened can."
+                },
+                {
+                  "text": "M100_UW011_007A_114242_D.jpg",
+                  "audio": "cat.mp3",
+                  "altText": "A smiling orange cat."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_026A_114242_D.jpg",
+                  "audio": "sock.mp3",
+                  "altText": "A purple sock."
+                },
+                {
+                  "text": "M100_UW014_018A_114242_D.jpg",
+                  "audio": "rock.mp3",
+                  "altText": "A rock on top of green grass."
+                },
+                {
+                  "text": "M100_UW014_007A_114242_D.jpg",
+                  "audio": "dock.mp3",
+                  "altText": "A seagull sitting on a pier."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_005A_114242_D.jpg",
+                  "audio": "book.mp3",
+                  "altText": "An open book. "
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_012A_114242_D.jpg",
+                  "audio": "jog.mp3",
+                  "altText": "A boy wearing jogging pants and a pullover hoodie."
+                },
+                {
+                  "text": "M100_UW011_010A_114242_D.jpg",
+                  "audio": "dog.mp3",
+                  "altText": "A brown dog wearing a blue collar."
+                },
+                {
+                  "text": "M100_UW013_019A_114242_D.jpg",
+                  "audio": "log.mp3",
+                  "altText": "A log of wood."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_018A_114242_D.jpg",
+                  "audio": "leg.mp3",
+                  "altText": "A boy waving. A red arrow points to his leg."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

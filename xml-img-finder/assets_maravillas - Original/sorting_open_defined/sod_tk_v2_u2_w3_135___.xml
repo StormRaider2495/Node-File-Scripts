@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Gram&amp;#225;tica: el verbo&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la imagen para o&amp;#237;r su nombre. &lt;br /&gt;Decide si es un verbo o un sustantivo y col&amp;#243;calo en la casilla correspondiente.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un verbo</title>
+                  <titleImage />
+                  <titleAudio>TEG_es_un_verbo.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_construir.jpg</text>
+                      <audio>TEG_construir.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_manejar.jpg</text>
+                      <audio>TEG_manejar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_contar.jpg</text>
+                      <audio>TEG_contar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_reir.jpg</text>
+                      <audio>TEG_reir.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Es un sustantivo</title>
+                  <titleImage />
+                  <titleAudio>TEG_es_un_sustantivo.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_joya.jpg</text>
+                      <audio>TEG_joya.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_telefono.jpg</text>
+                      <audio>TEG_telefono.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_cotorra.jpg</text>
+                      <audio>TEG_cotorra.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un sustantivo</title>
+                  <titleImage />
+                  <titleAudio>TEG_es_un_sustantivo.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_escuela.jpg</text>
+                      <audio>TEG_escuela.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_paisaje.jpg</text>
+                      <audio>TEG_paisaje.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_mata.jpg</text>
+                      <audio>TEG_mata.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Es un verbo</title>
+                  <titleImage />
+                  <titleAudio>TEG_es_un_verbo.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_correr.jpg</text>
+                      <audio>TEG_correr.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_cocinar.jpg</text>
+                      <audio>TEG_cocinar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_hablar.jpg</text>
+                      <audio>TEG_hablar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_pensar.jpg</text>
+                      <audio>TEG_pensar.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

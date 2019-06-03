@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;&lt;b&gt;Phoneme Categorization&lt;/b&gt;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Click each picture to hear its name. Drag pictures that have the /h/ sound into the blue box. Drag pictures that do not have the /h/ sound into the red box.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <vspacing />
+  <contentMode value="images" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/h/</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_ UW031_037A_ 193002_d</text>
+                      <audio>hammer.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW041_013A_ 193002_d</text>
+                      <audio>hay.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW032_005A_ 193002_d</text>
+                      <audio>honk.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW051_001A_ 193002_d</text>
+                      <audio>hippo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW031_003A_ 193002_d</text>
+                      <audio>hop.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_ UW022_035A_ 193002_d.jpg</text>
+                      <audio>nut.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW013_007A_ 193002_d.jp3</text>
+                      <audio>kitten.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/h/</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_ UW042_038A_ 193002_d.jpg</text>
+                      <audio>hold.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW012_010A_ 193002_d.jpg</text>
+                      <audio>house.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW012_022A_ 193002_d.jpg</text>
+                      <audio>hat.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW051_014A_ 193002_d.jpg</text>
+                      <audio>hanger.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW011_047A_ 193002_d.jpg</text>
+                      <audio>hen.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW051_013A_ 193002_d.jpg</text>
+                      <audio>hand.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_ UW041_028A_ 193002_d.jpg</text>
+                      <audio>lemon.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW031_033A_ 193002_d.jpg</text>
+                      <audio>inch.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW023_010A_ 193002_d.jpg</text>
+                      <audio>ladybug.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

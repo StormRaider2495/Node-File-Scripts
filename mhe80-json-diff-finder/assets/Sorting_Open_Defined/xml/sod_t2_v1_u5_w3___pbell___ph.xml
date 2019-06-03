@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Look at each picture. Click on it to hear its name read. Drag pictures with the same vowel sound as &amp;#8220;blue&amp;#8221; into the left box. Drag pictures that have the same vowel sound as &amp;#8220;look&amp;#8221; into the right box.&lt;/p&gt;</directions>
+  <directionsAudio>dl_blue_look_sound_box.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>same vowel sound as “blue”</title>
+                  <titleImage />
+                  <titleAudio>same_vowel_sound_blue.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW053_016A_186626_d.jpg</text>
+                      <audio>flute.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M300_UW053_514A_186626_d.jpg</text>
+                      <audio>suit.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW051_004A_186626_d.jpg</text>
+                      <audio>pool.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>same vowel sound as “look”</title>
+                  <titleImage />
+                  <titleAudio>same_vowel_sound_look.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW035_021A_114242_D.jpg</text>
+                      <audio>wood.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M300_UW053_513A_186626_d.jpg</text>
+                      <audio>push.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>same vowel sound as “blue”</title>
+                  <titleImage />
+                  <titleAudio>same_vowel_sound_blue.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_077A_193002_186626_d.jpg</text>
+                      <audio>moon.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW025_052A_186626_d.jpg</text>
+                      <audio>glue.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>same vowel sound as “look”</title>
+                  <titleImage />
+                  <titleAudio>same_vowel_sound_look.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_002A_186626_d.jpg</text>
+                      <audio>book.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW053_013A_186626_d.jpg</text>
+                      <audio>hood.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M300_UW053_522A_186626_d.jpg</text>
+                      <audio>pull.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

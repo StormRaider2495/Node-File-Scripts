@@ -1,0 +1,340 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phonics: Identify/Categorize",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Look at the letters on the top of each box. Click on the picture to hear its name. Drag the picture whose name has the same letter into the box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "g___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_025A_193002_d.jpg",
+                  "audio": "grapes.mp3",
+                  "altText": "A bunch of purple grapes."
+                },
+                {
+                  "text": "M100_UW022_005A_114242_D.jpg",
+                  "audio": "gum.mp3",
+                  "altText": "A pack of chewing gum. "
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "j___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_021A_114242_D.jpg",
+                  "audio": "jar.mp3",
+                  "altText": "An empty jar."
+                },
+                {
+                  "text": "M100_UW051_016A_193002_d.jpg",
+                  "audio": "jacket.mp3",
+                  "altText": "A brown blazer jacket."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "g___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_006A_193002_d.jpg",
+                  "audio": "game.mp3",
+                  "altText": "A board game."
+                },
+                {
+                  "text": "M100_UW042_005A_193002_d.jpg",
+                  "audio": "gift.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "j___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_005A_193002_d.jpg",
+                  "audio": "jump.mp3",
+                  "altText": "A blue flea jumping."
+                },
+                {
+                  "text": "M100_UW021_043A_193002_d.jpg",
+                  "audio": "juice.mp3",
+                  "altText": "An orange being squeezed to form orange juice in a glass with a straw."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "w___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_029A_114242_D.jpg",
+                  "audio": "web.mp3",
+                  "altText": "A spiderweb."
+                },
+                {
+                  "text": "M100_UW072_005A_193002_d.jpg",
+                  "audio": "wick.mp3",
+                  "altText": "A red candle. A red arrow points to its wick."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "qu___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW081_009A_193002_d.jpg",
+                  "audio": "question.mp3",
+                  "altText": "A yellow question mark."
+                },
+                {
+                  "text": "M100_UW081_006A_193002_d.jpg",
+                  "audio": "quail.mp3",
+                  "altText": "A quail."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "w___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_053A_193002_d.jpg",
+                  "audio": "worm.mp3",
+                  "altText": "A green worm."
+                },
+                {
+                  "text": "M100_UW041_018A_193002_d.jpg",
+                  "audio": "whale.mp3",
+                  "altText": "A blue whale."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "qu___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_015A_114242_D.jpg",
+                  "audio": "queen.mp3",
+                  "altText": "A queen wearing her crown."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "v___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_022A_193002_d.jpg",
+                  "audio": "vest.mp3",
+                  "altText": "A green vest."
+                },
+                {
+                  "text": "M100_UW023_039A_193002_d.jpg",
+                  "audio": "vacuum.mp3",
+                  "altText": "A blue vacuum cleaner."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "z___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW033_015A_193002_d.jpg",
+                  "audio": "zoo.mp3",
+                  "altText": "An entrance to a zoo. A giraffe and elephant peek out over the gate."
+                },
+                {
+                  "text": "M100_UW082_019A_193002_d.jpg",
+                  "audio": "zucchini.mp3",
+                  "altText": "A green vegetable."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "v___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW072_009A_193002_d.jpg",
+                  "audio": "volcano.mp3",
+                  "altText": "A volcano erupting lava."
+                },
+                {
+                  "text": "M100_UW071_026A_193002_d.jpg",
+                  "audio": "vase.mp3",
+                  "altText": "A purple vase with red dots."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "z___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW053_023A_193002_d.jpg",
+                  "audio": "zebra.mp3",
+                  "altText": "A smiling zebra. One hoof is raised."
+                },
+                {
+                  "text": "M100_UW082_017A_193002_d.jpg",
+                  "audio": "zipper.mp3",
+                  "altText": "A zipper."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

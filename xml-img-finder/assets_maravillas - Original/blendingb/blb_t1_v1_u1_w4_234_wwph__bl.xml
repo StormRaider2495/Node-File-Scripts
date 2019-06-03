@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blendingb>
+  <title>Combinar las sílabas</title>
+  <directions />
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <audio />
+              <image />
+              <sounds>
+                <sound>
+                  <audio />
+                </sound>
+                <sound>
+                  <audio />
+                </sound>
+              </sounds>
+            </word>
+            <word>
+              <audio />
+              <image />
+              <sounds>
+                <sound>
+                  <audio />
+                </sound>
+                <sound>
+                  <audio />
+                </sound>
+              </sounds>
+            </word>
+          </words>
+          <question>
+            <correctIndex />
+          </question>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</blendingb>
+

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con cl&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la palabra escrita con &lt;u&gt;cl&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra &lt;b&gt;sin&lt;/b&gt;&amp;#160;&lt;u&gt;cl&lt;/u&gt;&amp;#160;en la caja roja. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene cl</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>clave</text>
+                      <audio>TEG_clave.mp3</audio>
+                    </item>
+                    <item>
+                      <text>reciclar</text>
+                      <audio>TEG_reciclar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tecla</text>
+                      <audio>TEG_tecla.mp3</audio>
+                    </item>
+                    <item>
+                      <text>triciclo</text>
+                      <audio>TEG_triciclo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene cl</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>brócoli</text>
+                      <audio>TEG_brocoli.mp3</audio>
+                    </item>
+                    <item>
+                      <text>color</text>
+                      <audio>TEG_color.mp3</audio>
+                    </item>
+                    <item>
+                      <text>aquél</text>
+                      <audio>TEG_aquel.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene cl</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>bicicleta</text>
+                      <audio>TEG_bicicleta.mp3</audio>
+                    </item>
+                    <item>
+                      <text>bucle</text>
+                      <audio>TEG_bucle.mp3</audio>
+                    </item>
+                    <item>
+                      <text>clase</text>
+                      <audio>TEG_clase.mp3</audio>
+                    </item>
+                    <item>
+                      <text>chanclas</text>
+                      <audio>TEG_chanclas.mp3</audio>
+                    </item>
+                    <item>
+                      <text>clara</text>
+                      <audio>TEG_clara.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene cl</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>cola</text>
+                      <audio>TEG_cola.mp3</audio>
+                    </item>
+                    <item>
+                      <text>collar</text>
+                      <audio>TEG_collar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>excelente</text>
+                      <audio>TEG_excelente.mp3</audio>
+                    </item>
+                    <item>
+                      <text>calculadora</text>
+                      <audio>TEG_calculadora.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

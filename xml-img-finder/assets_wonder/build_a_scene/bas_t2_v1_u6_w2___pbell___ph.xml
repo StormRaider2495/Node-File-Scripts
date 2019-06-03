@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Phonics</title>
+  <directions>Read the word in the organizer. Which word syllables in the list have the same vowel consonant e pattern and a long vowel sound? Drag those words to the circles.</directions>
+  <directionsAudio>dl_same_consonant_e.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow1" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="144.2" y="507.65"/&gt;  &lt;position x="370.65" y="510.55"/&gt;  &lt;position x="588.35" y="507.65"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="147.1" y="509.05"/&gt;  &lt;position x="373.5" y="517.65"/&gt;  &lt;position x="591.25" y="513.35"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="144.15" y="510.5"/&gt;  &lt;position x="370.55" y="513.4"/&gt;  &lt;position x="585.4" y="510.55"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW062_204A_186626_d.jpg</contentImage>
+      <contentImageAudio>cape.mp3</contentImageAudio>
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text>hose</text>
+          <image />
+          <audio>hose.mp3</audio>
+        </item>
+        <item>
+          <text>bike</text>
+          <image />
+          <audio>bike.mp3</audio>
+        </item>
+        <item>
+          <text>size</text>
+          <image />
+          <audio>size.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>oak</text>
+          <image />
+          <audio>oak.mp3</audio>
+        </item>
+        <item>
+          <text>ball</text>
+          <image />
+          <audio>ball.mp3</audio>
+        </item>
+        <item>
+          <text>loaf</text>
+          <image />
+          <audio>loaf.mp3</audio>
+        </item>
+        <item>
+          <text>fur</text>
+          <image />
+          <audio>fur.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW062_205A_186626_d.jpg</contentImage>
+      <contentImageAudio>vote.mp3</contentImageAudio>
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text>mile</text>
+          <image />
+          <audio>mile.mp3</audio>
+        </item>
+        <item>
+          <text>stone</text>
+          <image />
+          <audio>stone.mp3</audio>
+        </item>
+        <item>
+          <text>tube</text>
+          <image />
+          <audio>tube.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>box</text>
+          <image />
+          <audio>box.mp3</audio>
+        </item>
+        <item>
+          <text>fish</text>
+          <image />
+          <audio>fish.mp3</audio>
+        </item>
+        <item>
+          <text>road</text>
+          <image />
+          <audio>road.mp3</audio>
+        </item>
+        <item>
+          <text>cat</text>
+          <image />
+          <audio>cat.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW062_206A_186626_d.jpg</contentImage>
+      <contentImageAudio>cake.mp3</contentImageAudio>
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text>sale</text>
+          <image />
+          <audio>sale.mp3</audio>
+        </item>
+        <item>
+          <text>hive</text>
+          <image />
+          <audio>hive.mp3</audio>
+        </item>
+        <item>
+          <text>tune</text>
+          <image />
+          <audio>tune.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>sail</text>
+          <image />
+          <audio>sail.mp3</audio>
+        </item>
+        <item>
+          <text>cent</text>
+          <image />
+          <audio>cent.mp3</audio>
+        </item>
+        <item>
+          <text>rain</text>
+          <image />
+          <audio>rain.mp3</audio>
+        </item>
+        <item>
+          <text>barn</text>
+          <image />
+          <audio>barn.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

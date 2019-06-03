@@ -1,0 +1,917 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phoneme Categorization",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on the pictures to hear the words. Drag pictures with the same middle sound into the blue box. Drag pictures with different middle sounds into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW021_027A_193002_186626_d.jpg",
+                  "audio": "cap.mp3",
+                  "altText": "A red cap."
+                },
+                {
+                  "text": "M100_UW012_020A_193002_186626_d.jpg",
+                  "audio": "bat.mp3",
+                  "altText": "A baseball bat."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW101_009A_193002_186626_d.jpg",
+                  "audio": "sit.mp3",
+                  "altText": "A smiling girl sitting in a chair."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_036A_193002_186626_d.jpg",
+                  "audio": "man.mp3",
+                  "altText": "A teenage boy smiling and looking slightly upward."
+                },
+                {
+                  "text": "M100_UW011_003A_193002_186626_d.jpg",
+                  "audio": "sad.mp3",
+                  "altText": "A sad girl crying."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW052_002A_114242_D.jpg",
+                  "audio": "kid.mp3",
+                  "altText": "A girl."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_022A_193002_186626_d.jpg",
+                  "audio": "hat.mp3",
+                  "altText": "A blue cap."
+                },
+                {
+                  "text": "M100_UW032_016A_193002_186626_d.jpg",
+                  "audio": "can.mp3",
+                  "altText": "A can of peas."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_026A_193002_186626_d.jpg",
+                  "audio": "pig.mp3",
+                  "altText": "A pig."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_003A_193002_186626_d.jpg",
+                  "audio": "sad.mp3",
+                  "altText": "A sad girl crying."
+                },
+                {
+                  "text": "M100_UW021_027A_193002_186626_d.jpg",
+                  "audio": "cap.mp3",
+                  "altText": "A red cap."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW021_041A_193002_186626_d.jpg",
+                  "audio": "fin.mp3",
+                  "altText": "A fish. A red arrow points to a fin."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_054A_193002_186626_d.jpg",
+                  "audio": "jam.mp3",
+                  "altText": "A jar of strawberry jam."
+                },
+                {
+                  "text": "M100_UW011_019A_114242_D.jpg",
+                  "audio": "map.mp3",
+                  "altText": "A map of the United States."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_037A_193002_186626_d.jpg",
+                  "audio": "mix.mp3",
+                  "altText": "A girl in pigtails mixing a substance in a blue bowl."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_016A_186626_d.jpg",
+                  "audio": "van.mp3",
+                  "altText": "A green van."
+                },
+                {
+                  "text": "M100_UW011_003A_193002_186626_d.jpg",
+                  "audio": "sad.mp3",
+                  "altText": "A sad girl crying."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_009A_193002_186626_d.jpg",
+                  "audio": "wig.mp3",
+                  "altText": "A blond wig on a display."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW071_007A_193002_d.jpg",
+                  "audio": "bag.mp3",
+                  "altText": "A paper bag of groceries."
+                },
+                {
+                  "text": "M100_UW011_035A_193002_186626_d.jpg",
+                  "audio": "mat.mp3",
+                  "altText": "A welcome mat."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_019A_186626_d.jpg",
+                  "audio": "dig.mp3",
+                  "altText": "A mole."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_040A_193002_186626_d.jpg",
+                  "audio": "fan.mp3",
+                  "altText": "An electric fan."
+                },
+                {
+                  "text": "M100_UW022_026A_193002_186626_d.jpg",
+                  "audio": "nap.mp3",
+                  "altText": "A brown dog sleeping under a blue table."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_039A_193002_186626_d.jpg",
+                  "audio": "sick.mp3",
+                  "altText": "A bird with an ice pack on its head and a thermometer in its mouth."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_039A_193002_186626_d.jpg",
+                  "audio": "tack.mp3",
+                  "altText": "A red thumb tack."
+                },
+                {
+                  "text": "M100_UW053_003A_193002_186626_d.jpg",
+                  "audio": "rat.mp3",
+                  "altText": "A mouse."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_019A_193002_186626_d.jpg",
+                  "audio": "six.mp3",
+                  "altText": "The number six."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_003A_193002_186626_d.jpg",
+                  "audio": "sad.mp3",
+                  "altText": "A sad girl crying."
+                },
+                {
+                  "text": "M100_UW023_027A_193002_186626_d.jpg",
+                  "audio": "yak.mp3",
+                  "altText": "A buffalo."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_022A_193002_186626_d.jpg",
+                  "audio": "sip.mp3",
+                  "altText": "A girl drinking a glass of water."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_026A_193002_186626_d.jpg",
+                  "audio": "pig.mp3",
+                  "altText": "A pig."
+                },
+                {
+                  "text": "M100_UW101_009A_193002_186626_d.jpg",
+                  "audio": "sit.mp3",
+                  "altText": "A smiling girl sitting in a chair."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_007A_193002_186626_d.jpg",
+                  "audio": "cat.mp3",
+                  "altText": "A gray cat."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_027A_193002_186626_d.jpg",
+                  "audio": "pin.mp3",
+                  "altText": "A safety pin."
+                },
+                {
+                  "text": "M100_UW021_035A_193002_186626_d.jpg",
+                  "audio": "rip.mp3",
+                  "altText": "A lion ripping up a piece of paper."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_002A_193002_186626_d.jpg",
+                  "audio": "mad.mp3",
+                  "altText": "A frowning girl."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_019A_193002_186626_d.jpg",
+                  "audio": "six.mp3",
+                  "altText": "The number six."
+                },
+                {
+                  "text": "M100_UW011_040A_193002_186626_d.jpg",
+                  "audio": "mitt.mp3",
+                  "altText": "A brown baseball glove."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_024A_193002_186626_d.jpg",
+                  "audio": "pan.mp3",
+                  "altText": "A frying pan."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW052_002A_114242_D.jpg",
+                  "audio": "kid.mp3",
+                  "altText": "A girl."
+                },
+                {
+                  "text": "M100_UW031_022A_193002_186626_d.jpg",
+                  "audio": "sip.mp3",
+                  "altText": "A girl drinking a glass of water."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW021_022A_193002_186626_d.jpg",
+                  "audio": "sap.mp3",
+                  "altText": "A a tree with a faucet attached. Sap drips from the faucet into an orange bucket. A red arrow points to the drops. "
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW073_006A_193002_d.jpg",
+                  "audio": "fix.mp3",
+                  "altText": "A girl using a wrench to fix a bike wheel."
+                },
+                {
+                  "text": "M100_UW031_004A_193002_186626_d.jpg",
+                  "audio": "kick.mp3",
+                  "altText": "A smiling rabbit kicking a soccer ball."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_006A_193002_d.jpg",
+                  "audio": "dad.mp3",
+                  "altText": "A father, son, and daughter kicking a ball. A red arrow points to the father."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_009A_193002_186626_d.jpg",
+                  "audio": "wig.mp3",
+                  "altText": "A blond wig on a display."
+                },
+                {
+                  "text": "M100_UW011_037A_193002_186626_d.jpg",
+                  "audio": "mix.mp3",
+                  "altText": "A girl in pigtails mixing a substance in a blue bowl."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_027A_193002_186626_d.jpg",
+                  "audio": "yak.mp3",
+                  "altText": "A buffalo."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_004A_193002_186626_d.jpg",
+                  "audio": "kick.mp3",
+                  "altText": "A smiling rabbit kicking a soccer ball."
+                },
+                {
+                  "text": "M100_UW021_041A_193002_186626_d.jpg",
+                  "audio": "fin.mp3",
+                  "altText": "A fish. A red arrow points to a fin."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_020A_193002_186626_d.jpg",
+                  "audio": "bat.mp3",
+                  "altText": "A baseball bat."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_027A_193002_186626_d.jpg",
+                  "audio": "pin.mp3",
+                  "altText": "A safety pin."
+                },
+                {
+                  "text": "M100_UW073_006A_193002_d.jpg",
+                  "audio": "fix.mp3",
+                  "altText": "A girl using a wrench to fix a bike wheel."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_020A_193002_186626_d.jpg",
+                  "audio": "bat.mp3",
+                  "altText": "A baseball bat."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_039A_193002_186626_d.jpg",
+                  "audio": "sick.mp3",
+                  "altText": "A bird with an ice pack on its head and a thermometer in its mouth."
+                },
+                {
+                  "text": "M100_UW021_035A_193002_186626_d.jpg",
+                  "audio": "rip.mp3",
+                  "altText": "A lion ripping up a piece of paper."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW071_007A_193002_d.jpg",
+                  "audio": "bag.mp3",
+                  "altText": "A paper bag of groceries."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_019A_186626_d.jpg",
+                  "audio": "dig.mp3",
+                  "altText": "A mole."
+                },
+                {
+                  "text": "M100_UW011_040A_193002_186626_d.jpg",
+                  "audio": "mitt.mp3",
+                  "altText": "A brown baseball glove."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_007A_193002_186626_d.jpg",
+                  "audio": "cat.mp3",
+                  "altText": "A gray cat."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Text Features",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Listen to each word. Drag words that belong in the list to the blue box. Drag words that do not belong in the list to the red box.</p>",
+    "audio": "dl_redbox_bluebox.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Things to Eat",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "things_to_eat.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW024_024A_114242_D.jpg",
+                  "audio": "eggs.mp3",
+                  "altText": "A plate with two sunny side up eggs. A coffee mug and fork are next to the plate."
+                },
+                {
+                  "text": "M100_UW021_005A_114242_D.jpg",
+                  "audio": "ham.mp3",
+                  "altText": "A cooked ham with steam coming off it."
+                },
+                {
+                  "text": "M300_UW024_025A_114242_D.jpg",
+                  "audio": "salad.mp3",
+                  "altText": "A bowl of salad."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW063_010A_114242_D.jpg",
+                  "audio": "swim.mp3",
+                  "altText": "A girl swimming."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Things to Put On",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "things_to_put_on.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_019A_114242_D.jpg",
+                  "audio": "socks.mp3",
+                  "altText": "A pair of blue socks."
+                },
+                {
+                  "text": "M300_UW024_029A_114242_D.jpg",
+                  "audio": "vest.mp3",
+                  "altText": "A green vest."
+                },
+                {
+                  "text": "M300_UW024_026A_114242_D.jpg",
+                  "audio": "belt.mp3",
+                  "altText": "A brown belt."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_009A_114242_D.jpg",
+                  "audio": "jump.mp3",
+                  "altText": "A boy jumping."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Things to Do",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "things_to_do.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW063_009A_114242_D.jpg",
+                  "audio": "sing.mp3",
+                  "altText": "A girl singing lyrics from sheet music."
+                },
+                {
+                  "text": "M100_UW063_010A_114242_D.jpg",
+                  "audio": "swim.mp3",
+                  "altText": "A girl swimming."
+                },
+                {
+                  "text": "M100_UW023_009A_114242_D.jpg",
+                  "audio": "jump.mp3",
+                  "altText": "A boy jumping."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_018A_114242_D.jpg",
+                  "audio": "rock.mp3",
+                  "altText": "A rock on top of green grass."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Pets",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "pets.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_007A_114242_D.jpg",
+                  "audio": "cat.mp3",
+                  "altText": "A smiling orange cat."
+                },
+                {
+                  "text": "M100_UW011_010A_114242_D.jpg",
+                  "audio": "dog.mp3",
+                  "altText": "A brown dog wearing a blue collar."
+                },
+                {
+                  "text": "M100_UW011_014A_114242_D.jpg",
+                  "audio": "frog.mp3",
+                  "altText": "A green frog."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_001A_114242_D.jpg",
+                  "audio": "bell.mp3",
+                  "altText": "A yellow bell."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Things That Go",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "things_that_go.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW024_030A_114242_D.jpg",
+                  "audio": "van.mp3",
+                  "altText": "A green van."
+                },
+                {
+                  "text": "M100_UW013_004A_114242_D.jpg",
+                  "audio": "bus.mp3",
+                  "altText": "A schoolbus."
+                },
+                {
+                  "text": "M100_UW013_005A_114242_D.jpg",
+                  "audio": "cab.mp3",
+                  "altText": "A yellow taxicab."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW052_016A_114242_D.jpg",
+                  "audio": "plant.mp3",
+                  "altText": "A potted fern."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Things to Eat",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "things_to_eat.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW021_009A_114242_D.jpg",
+                  "audio": "bread.mp3",
+                  "altText": "A loaf of bread with two slices cut out."
+                },
+                {
+                  "text": "M100_UW013_014A_114242_D.jpg",
+                  "audio": "jam.mp3",
+                  "altText": "A jar of grape jam."
+                },
+                {
+                  "text": "M100_UW015_008A_114242_D.jpg",
+                  "audio": "plum.mp3",
+                  "altText": "A purple plum."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW021_012A_114242_D.jpg",
+                  "audio": "tub.mp3",
+                  "altText": "A bathtub."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Things to Do",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "things_to_do.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW024_027A_114242_D.jpg",
+                  "audio": "hop.mp3",
+                  "altText": "A boy jumping."
+                },
+                {
+                  "text": "M100_UW014_012A_114242_D.jpg",
+                  "audio": "jog.mp3",
+                  "altText": "A boy wearing jogging pants and a pullover hoodie."
+                },
+                {
+                  "text": "M300_UW024_028A_114242_D.jpg",
+                  "audio": "toss.mp3",
+                  "altText": "A girl throwing a flying disk with her dog chasing it."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_038A_114242_D.jpg",
+                  "audio": "wig.mp3",
+                  "altText": "A blond wig on a display."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Things to Put On",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "things_to_put_on.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW021_013A_114242_D.jpg",
+                  "audio": "dress.mp3",
+                  "altText": "A green and red dress that includes white dots."
+                },
+                {
+                  "text": "M100_UW011_016A_114242_D.jpg",
+                  "audio": "hat.mp3",
+                  "altText": "A brown fedora."
+                },
+                {
+                  "text": "M300_UW024_019A_114242_D.jpg",
+                  "audio": "mittens.mp3",
+                  "altText": "A pair of mittens."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_006A_114242_D.jpg",
+                  "audio": "bug.mp3",
+                  "altText": "A blue insect."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

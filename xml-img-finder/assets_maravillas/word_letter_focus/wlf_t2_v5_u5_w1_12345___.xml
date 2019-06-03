@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<word_letter_focus>
+  <title>Estrategia de vocabulario: sufijos</title>
+  <directions>&lt;p&gt;Busca las palabras con sufijos. Con el serrucho, separa los sufijos del resto de la palabra.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;&amp;#161;Ese es un carro fabu{dv}lo{/dv}so!&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Los corredores se pusieron r&amp;#225;pid{dv}am{/dv}ente en sus puestos.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Ah&amp;#237; estaban pap&amp;#225; oso, mam&amp;#225; osa y el o{dv}si{/dv}to.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;La cortina del teatro se levant&amp;#243; lent{dv}am{/dv}ente&amp;#8230;&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;La pelo{dv}ti{/dv}ta rod&amp;#243; y cay&amp;#243; en el charco.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;La abue{dv}li{/dv}ta de Luis es muy bonda{dv}do{/dv}sa.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</word_letter_focus>
+

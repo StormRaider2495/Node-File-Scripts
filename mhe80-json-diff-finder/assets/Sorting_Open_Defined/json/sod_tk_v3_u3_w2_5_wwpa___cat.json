@@ -1,0 +1,147 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phoneme Categorization",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click each picture to hear its name. Drag pictures that have the /n/ sound into the blue box. Drag pictures that do not have the /n/ sound into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/n/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_024A_193002_d.jpg",
+                  "audio": "pan.mp3",
+                  "altText": "A frying pan."
+                },
+                {
+                  "text": "M100_UW022_035A_193002_d.jpg",
+                  "audio": "nut.mp3",
+                  "altText": "A walnut."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "No /n/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_031A_193002_d.jpg",
+                  "audio": "cup.mp3",
+                  "altText": "A pink and purple dotted coffee mug."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/n/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_036A_193002_d.jpg",
+                  "audio": "newt.mp3",
+                  "altText": "An orange salamander."
+                },
+                {
+                  "text": "M100_ UW011_010A_193002_d.jpg",
+                  "audio": "run.mp3",
+                  "altText": "A little girl running. She has on a purple shirt, yellow shorts, and blue shoes."
+                },
+                {
+                  "text": "M100_UW011_061A_193002_d.jpg",
+                  "audio": "nest.mp3",
+                  "altText": "A nest in a tree."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "No /n/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_029A_193002_d.jpg",
+                  "audio": "top.mp3",
+                  "altText": "A spinning top."
+                },
+                {
+                  "text": "M100_UW011_038A_193002_d.jpg",
+                  "audio": "mop.mp3",
+                  "altText": "A mop placed over a puddle of water."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

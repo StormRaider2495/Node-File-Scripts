@@ -1,0 +1,337 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Identify Rhymes",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on the pictures. Listen to the end sounds. Drag the pictures that rhyme to the blue box. Drag the</p><p>pictures that do not rhyme into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW033_001A_114242_D.jpg",
+                  "audio": "dice.mp3",
+                  "altText": "Two dice. One is red and the other is blue."
+                },
+                {
+                  "text": "M100_UW033_002A_114242_D.jpg",
+                  "audio": "rice.mp3",
+                  "altText": "A bowl of popcorn."
+                },
+                {
+                  "text": "M100_UW033_003A_114242_D.jpg",
+                  "audio": "mice.mp3",
+                  "altText": "Two dancing mice."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW032_003A_114242_D.jpg",
+                  "audio": "kite.mp3",
+                  "altText": "A red kite."
+                },
+                {
+                  "text": "M100_UW033_012A_114242_D.jpg",
+                  "audio": "stage.mp3",
+                  "altText": "A spotlight shining on an empty stage. There are curtains on both sides."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW033_004A_114242_D.jpg",
+                  "audio": "lace.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "M100_UW033_005A_114242_D.jpg",
+                  "audio": "race.mp3",
+                  "altText": "Two girls racing toward a finish line."
+                },
+                {
+                  "text": "M100_UW033_007A_114242_D.jpg",
+                  "audio": "face.mp3",
+                  "altText": "A smiley face."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW033_006A_114242_D.jpg",
+                  "audio": "spine.mp3",
+                  "altText": "A profile of a person's spine. A red arrow points to the spine."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW033_008A_114242_D.jpg",
+                  "audio": "dance.mp3",
+                  "altText": "A boy and a girl dancing."
+                },
+                {
+                  "text": "M100_UW033_009A_114242_D.jpg",
+                  "audio": "pants.mp3",
+                  "altText": "A pair of green pants."
+                },
+                {
+                  "text": "M100_UW033_011A_114242_D.jpg",
+                  "audio": "glance.mp3",
+                  "altText": "A boy smiling at a bird in a tree."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW033_010A_114242_D.jpg",
+                  "audio": "page.mp3",
+                  "altText": "A person turning a page in a book. A red arrow points to a page."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW033_012A_114242_D.jpg",
+                  "audio": "stage.mp3",
+                  "altText": "A spotlight shining on an empty stage. There are curtains on both sides."
+                },
+                {
+                  "text": "M100_UW033_010A_114242_D.jpg",
+                  "audio": "page.mp3",
+                  "altText": "A person turning a page in a book. A red arrow points to a page."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW033_013A_114242_D.jpg",
+                  "audio": "prince.mp3",
+                  "altText": "A prince wearing a cape and his crown."
+                },
+                {
+                  "text": "M100_UW033_014A_114242_D.jpg",
+                  "audio": "fridge.mp3",
+                  "altText": "A refrigerator. There is a picture of a sun and a cat posted on it. There are also two ladybug magnets on it."
+                },
+                {
+                  "text": "M100_UW033_015A_114242_D.jpg",
+                  "audio": "lodge.mp3",
+                  "altText": "A cabin in the woods."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW033_016A_114242_D.jpg",
+                  "audio": "hedge.mp3",
+                  "altText": " A bush in front of a house. A red arrow points to the bush."
+                },
+                {
+                  "text": "M100_UW033_017A_114242_D.jpg",
+                  "audio": "ledge.mp3",
+                  "altText": "A sunflower plant is on a windowsill. A red arrow points to the windowsill."
+                },
+                {
+                  "text": "M100_UW033_018A_114242_D.jpg",
+                  "audio": "pledge.mp3",
+                  "altText": "A girl with her hand over her heart standing next to the U.S. flag."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW032_025A_114242_D.jpg",
+                  "audio": "pine.mp3",
+                  "altText": "A pine tree. Some pine cones are on the ground."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

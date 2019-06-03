@@ -1,0 +1,237 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Listen to each word. Drag words with the short <i>i</i> sound to the box on the left. Drag words with the long <i>i</i> sound to the box on the right.</p>",
+    "audio": "dl_listen_shorti_longi_box.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "short i",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "short_i.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_089A_193002_186626_d.jpg",
+                  "audio": "pig.mp3",
+                  "altText": "A pig."
+                },
+                {
+                  "text": "M100_UW013_019A_193002_186626_d.jpg",
+                  "audio": "six.mp3",
+                  "altText": "The number six."
+                },
+                {
+                  "text": "M100_UW011_037A_193002_186626_d.jpg",
+                  "audio": "mix.mp3",
+                  "altText": "A girl in pigtails mixing a substance in a blue bowl."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "long i",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "long_i.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW073_002A_193002_186626_d.jpg",
+                  "audio": "hive.mp3",
+                  "altText": "A beehive."
+                },
+                {
+                  "text": "M100_UW022_032A_193002_186626_d.jpg",
+                  "audio": "kite.mp3",
+                  "altText": "A red kite."
+                },
+                {
+                  "text": "M100_UW032_087A_186626_d.jpg",
+                  "audio": "lime.mp3",
+                  "altText": "A lime."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "short i",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "short_i.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW021_035A_193002_186626_d.jpg",
+                  "audio": "rip.mp3",
+                  "altText": "A lion ripping up a piece of paper."
+                },
+                {
+                  "text": "M100_UW013_044A_193002_186626_d.jpg",
+                  "audio": "pin.mp3",
+                  "altText": "A safety pin."
+                },
+                {
+                  "text": "M100_UW031_086A_186626_d.jpg",
+                  "audio": "sip.mp3",
+                  "altText": "A girl drinking a glass of milk."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "long i",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "long_i.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW032_031A_186626_d.jpg",
+                  "audio": "ride.mp3",
+                  "altText": "A girl in a dressage outfit riding a horse."
+                },
+                {
+                  "text": "M100_UW042_016A_193002_186626_d.jpg",
+                  "audio": "bike.mp3",
+                  "altText": "A bicycle."
+                },
+                {
+                  "text": "M100_UW031_020A_193002_186626_d.jpg",
+                  "audio": "dime.mp3",
+                  "altText": "A dime."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "short i",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "short_i.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_004A_193002_186626_d.jpg",
+                  "audio": "kick.mp3",
+                  "altText": "A smiling rabbit kicking a soccer ball."
+                },
+                {
+                  "text": "M100_UW011_046A_193002_186626_d.jpg",
+                  "audio": "fish.mp3",
+                  "altText": "A blue and green fish."
+                },
+                {
+                  "text": "M100_UW013_028A_193002_186626_d.jpg",
+                  "audio": "wig.mp3",
+                  "altText": "A wig on a display."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "long i",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "long_i.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_007A_193002_186626_d.jpg",
+                  "audio": "five.mp3",
+                  "altText": "The number five."
+                },
+                {
+                  "text": "M100_UW015_008A_186626_d.jpg",
+                  "audio": "slide.mp3",
+                  "altText": "A playground slide."
+                },
+                {
+                  "text": "M100_UW015_004A_186626_d.jpg",
+                  "audio": "dive.mp3",
+                  "altText": "A girl scuba diving."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Normas del lenguaje: t&amp;#237;tulos&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona la opci&amp;#243;n cuyos&amp;#160;t&amp;#237;tulos est&amp;#225;n escritos correctamente.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;El libro preferido de pap&amp;#225; es [&lt;i&gt;La muerte de Artemio Cruz&lt;/i&gt;], de Carlos Fuentes.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>&lt;i&gt;La muerte de Artemio Cruz&lt;/i&gt;</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>&lt;i&gt;la muerte de Artemio Cruz&lt;/i&gt;</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>&lt;i&gt;La Muerte de Artemio Cruz&lt;/i&gt;</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>"La muerte de Artemio Cruz"</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Mam&amp;#225; lee la secci&amp;#243;n de pol&amp;#237;tica de [&lt;i&gt;El Universal]&lt;/i&gt; todos los d&amp;#237;as.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

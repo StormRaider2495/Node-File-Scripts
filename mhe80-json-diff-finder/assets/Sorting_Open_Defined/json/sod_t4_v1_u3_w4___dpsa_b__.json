@@ -1,0 +1,336 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics &#8211; Plurals",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Read aloud each plural noun. Then sort the words according to how the plural is formed from the singular form of the noun.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "add <i>s</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "belongings",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mints",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "engines",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "add <i>es</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "patches",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bosses",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "ranches",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mosses",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "drop <i>y</i> and add <i>ies</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "batteries",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "galleries",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "babies",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "add <i>s</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "computers",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "arrows",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "caves",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mistakes",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "add <i>es</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "rematches",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "dishes",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "drop <i>y</i> and add <i>ies</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "companies",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "enemies",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "libraries",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "personalities",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "add <i>s</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "conversations",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "chimneys",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "donkeys",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "add <i>es</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "dresses",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "switches",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "couches",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "compasses",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "drop <i>y</i> and add <i>ies</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "strawberries",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "families",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "trophies",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

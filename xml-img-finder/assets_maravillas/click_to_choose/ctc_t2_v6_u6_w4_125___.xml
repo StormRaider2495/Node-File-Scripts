@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Estrategia de vocabulario: claves en el p&amp;#225;rrafo&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Escoge la clave de contexto que te ayuda a entender el significado de la palabra subrayada.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Antes de que existiera el dinero, la gente recolectaba y cazaba lo que necesitaba. Eran &lt;u&gt;autosuficientes&lt;/u&gt;. Ellos mismos se prove&amp;#237;an de las cosas que necesitaban.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Ellos mismos</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Antes de que existiera el dinero</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Ellos mismos se proveían de las cosas que necesitaban.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;A algunos les gustaba cazar. Eran buenos en eso. Otros eran buenos haciendo garrotes o ropa. Pronto la gente empez&amp;#243; a &lt;u&gt;intercambiar&lt;/u&gt; cosas. El que hac&amp;#237;a garrotes, los cambiaba con la gente que hac&amp;#237;a ropa.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Eran buenos en eso.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>los cambiaba con</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Otros eran buenos haciendo garrotes o ropa.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;La gente valoraba las vacas, las ovejas y los camellos. Reconoc&amp;#237;an todo el valor que ten&amp;#237;an estos animales.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>que tenían estos animales</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>las ovejas y los camellos</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Reconocían todo el valor.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Para el dinero digital, hay un &lt;u&gt;registro&lt;/u&gt; del dinero de una cuenta en la computadora. Se anota todo en un archivo en el que se hacen constar estas anotaciones.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>en la computadora</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>del dinero de una cuenta</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Se anota todo en un archivo.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

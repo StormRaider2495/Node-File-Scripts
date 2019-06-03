@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Spelling: Word Sort with &amp;#8211;ake, &amp;#8211;ame, &amp;#8211;ate&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Drag words with the same ending sounds into the boxes. If the word does not have the same ending as any of the words, drag it into the &amp;#8220;Other&amp;#8221; bin.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Drag words with the same ending sounds into the boxes. If the word does not have the same ending as any of the words, drag it into the &amp;#8220;Other&amp;#8221; bin.&lt;/p&gt;</directions>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>cake</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>make</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>take</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>same</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>came</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>game</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>date</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>late</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>gate</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>chin</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>graph</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>some</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>today</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>cake</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>lake</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>rake</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>wake</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>fake</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>shake</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>same</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>frame</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>name</text>
+                      <audio>name.mp3</audio>
+                    </item>
+                    <item>
+                      <text>shame</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>tame</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>blame</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>date</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>rate</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>hate</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>state</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>ate</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>skate</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

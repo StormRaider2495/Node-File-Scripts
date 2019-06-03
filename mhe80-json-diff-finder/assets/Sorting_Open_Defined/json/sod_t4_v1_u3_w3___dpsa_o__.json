@@ -1,0 +1,336 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics &#8211; Soft <i>c</i> and <i>g</i>",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Read aloud each word. Drag words that are spelled with the soft consonants <i>c</i> or <i>g</i> into the correct bins.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "soft c",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "circus",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "certain",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "police",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "fancy",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "soft g",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "strange",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sponge",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "germs",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "mango",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "silver",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "carton",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "soft c",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "dancing",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "spice",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "recycle",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "soft g",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "stage",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "ginger",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "wedge",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "energy",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "grapes",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "glowing",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "credited",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "soft c",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "ceremony",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bicycle",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "glance",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "exciting",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "soft g",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "agile",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "apology",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "village",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "agreement",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "jealousy",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "recreation",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

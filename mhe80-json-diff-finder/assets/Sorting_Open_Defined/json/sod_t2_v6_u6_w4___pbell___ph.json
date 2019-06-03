@@ -1,0 +1,202 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Listen to each word. Drag the words into the boxes based on their vowel team sound and spelling.</p>",
+    "audio": "dl_boxes_team_spelling.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "ai",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ai.mp3"
+              },
+              "contents": [
+                {
+                  "text": "explain",
+                  "audio": "explain.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "remain",
+                  "audio": "remain.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "ay",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ay.mp3"
+              },
+              "contents": [
+                {
+                  "text": "crayon",
+                  "audio": "crayon.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "layer",
+                  "audio": "layer.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "oa",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "oa.mp3"
+              },
+              "contents": [
+                {
+                  "text": "oatmeal",
+                  "audio": "oatmeal.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "ow",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ow.mp3"
+              },
+              "contents": [
+                {
+                  "text": "tower",
+                  "audio": "tower.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "towel",
+                  "audio": "towel.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "powder",
+                  "audio": "powder.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "elbow",
+                  "audio": "elbow.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "shower",
+                  "audio": "shower.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "oi",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "oi.mp3"
+              },
+              "contents": [
+                {
+                  "text": "poison",
+                  "audio": "poison.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "oy",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "oy.mp3"
+              },
+              "contents": [
+                {
+                  "text": "enjoy",
+                  "audio": "enjoy.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "joyful",
+                  "audio": "joyful.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "oo",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "oo.mp3"
+              },
+              "contents": [
+                {
+                  "text": "balloon",
+                  "audio": "balloon.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

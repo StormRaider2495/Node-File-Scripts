@@ -1,0 +1,217 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Measurement",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Drag the pictures into the correct box.</p>",
+    "audio": "DL_SORT.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "NCG_same.mp3"
+              },
+              "contents": [
+                {
+                  "text": "NCG_K1_U05_T20_001A_ELLNCG.jpg",
+                  "audio": "",
+                  "altText": "Two paper clips."
+                },
+                {
+                  "text": "NCG_K1_U05_T20_002A_ELLNCG.jpg",
+                  "audio": "",
+                  "altText": "Three purple crayons."
+                },
+                {
+                  "text": "NCG_K1_U05_T20_003A_ELLNCG.jpg",
+                  "audio": "",
+                  "altText": "Two marbles."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Different",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "NCG_different.mp3"
+              },
+              "contents": [
+                {
+                  "text": "NCG_K1_U05_T20_004A_ELLNCG.jpg",
+                  "audio": "",
+                  "altText": "A paper clip and a red crayon."
+                },
+                {
+                  "text": "NCG_K1_U05_T20_005A_ELLNCG.jpg",
+                  "audio": "",
+                  "altText": "Three marbles."
+                },
+                {
+                  "text": "NCG_K1_U05_T20_006A_ELLNCG.jpg",
+                  "audio": "",
+                  "altText": "A gray cat and a brown dog."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Long",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "NCG_long.mp3"
+              },
+              "contents": [
+                {
+                  "text": "NCG_K1_U05_T20_007A_ELLNCG.jpg",
+                  "audio": "",
+                  "altText": " A piece of string."
+                },
+                {
+                  "text": "NCG_K1_U05_T20_009A_ELLNCG.jpg",
+                  "audio": "",
+                  "altText": "A pencil."
+                },
+                {
+                  "text": "NCG_K1_U05_T20_011A_ELLNCG.jpg",
+                  "audio": "",
+                  "altText": "A large rectangle of blue paint."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "NCG_short.mp3"
+              },
+              "contents": [
+                {
+                  "text": "NCG_K1_U05_T20_008A_ELLNCG.jpg",
+                  "audio": "",
+                  "altText": "A small piece of string."
+                },
+                {
+                  "text": "NCG_K1_U05_T20_010A_ELLNCG.jpg",
+                  "audio": "",
+                  "altText": "A tiny pencil."
+                },
+                {
+                  "text": "NCG_K1_U05_T20_012A_ELLNCG.jpg",
+                  "audio": "",
+                  "altText": "A small rectangle of blue paint."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Heavier",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "NCG_heavier.mp3"
+              },
+              "contents": [
+                {
+                  "text": "NCG_K1_U05_T20_013A_ELLNCG.jpg",
+                  "audio": "",
+                  "altText": "An open book."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Lighter",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "NCG_lighter.mp3"
+              },
+              "contents": [
+                {
+                  "text": "NCG_K1_U05_T20_014A_ELLNCG.jpg",
+                  "audio": "",
+                  "altText": "A blue and black feather."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

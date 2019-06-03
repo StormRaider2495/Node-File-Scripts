@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Phonics</title>
+  <directions>Read the word in the organizer. Identify which words on the right have the same consonant + le syllable as that word. Drag those words to the organizer.</directions>
+  <directionsAudio>dl_identify_consonant_le2.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow2" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="144.2" y="506.15"/&gt;  &lt;position x="364.8" y="511.95"/&gt;  &lt;position x="588.35" y="507.65"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="149.95" y="511.95"/&gt;  &lt;position x="370.65" y="513.4"/&gt;  &lt;position x="588.4" y="507.65"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="144.2" y="510.55"/&gt;  &lt;position x="367.7" y="503.3"/&gt;  &lt;position x="592.65" y="509.05"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW063_623A_186626_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text>candle</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>paddle</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>middle</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>local</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>graze</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>scale</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>phase</text>
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW063_625A_186626_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text>metal</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>naval</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>medal</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>puzzle</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>table</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>beetle</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>tunnel</text>
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW063_624A_186626_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text>candle</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>whistle</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>paddle</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>travel</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>cancel</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>dental</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>pencil</text>
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

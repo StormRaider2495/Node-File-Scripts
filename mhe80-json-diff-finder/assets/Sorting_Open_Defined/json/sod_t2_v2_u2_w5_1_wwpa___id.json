@@ -1,0 +1,819 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Identify and Generate Rhymes",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Words that have the same end sounds rhyme. Click on the pictures. Listen to the end sounds. Drag the pictures that rhyme to the blue box. Drag pictures that do not rhyme to the red box. Then click OK.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_026A_193002_186626_d.jpg",
+                  "audio": "vet.mp3",
+                  "altText": "A doctor using a stethoscope on a dog she is holding."
+                },
+                {
+                  "text": "M100_UW081_008A_193002_186626_d.jpg",
+                  "audio": "jet.mp3",
+                  "altText": "A jet plane."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_006A_186626_d.jpg",
+                  "audio": "den.mp3",
+                  "altText": "A living room, which includes a couch, TV, TV stand, coffee table, and hanging portrait."
+                },
+                {
+                  "text": "M100_UW012_039A_186626_d.jpg",
+                  "audio": "hot.mp3",
+                  "altText": "A boiling pot on a stove."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW025_066A_186626_d.jpg",
+                  "audio": "swing.mp3",
+                  "altText": "An outdoor swing."
+                },
+                {
+                  "text": "M100_UWSS2_006A_193002_186626_d.jpg",
+                  "audio": "ring.mp3",
+                  "altText": "A gold ring with a blue diamond."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW053_010A_193002_186626_d.jpg",
+                  "audio": "fruit.mp3",
+                  "altText": "A bowl of different fruit, including cherries, a lemon, an orange, an apple, and a strawberry."
+                },
+                {
+                  "text": "M100_UW025_013A_186626_d.jpg",
+                  "audio": "slow.mp3",
+                  "altText": "A turtle."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW025_003A_186626_d.jpg",
+                  "audio": "shrub.mp3",
+                  "altText": "A group of vines."
+                },
+                {
+                  "text": "M100_UW022_017A_193002_186626_d.jpg",
+                  "audio": "tub.mp3",
+                  "altText": "A bathtub."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_046A_193002_186626_d.jpg",
+                  "audio": "fish.mp3",
+                  "altText": "A blue and green fish."
+                },
+                {
+                  "text": "M100_UW032_007A_193002_186626_d.jpg",
+                  "audio": "shirt.mp3",
+                  "altText": "A yellow and orange shirt."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_008A_193002_186626_d.jpg",
+                  "audio": "cloud.mp3",
+                  "altText": "Clouds and the sun in the sky. A red arrow points to a cloud."
+                },
+                {
+                  "text": "M100_UW025_005A_186626_d.jpg",
+                  "audio": "crowd.mp3",
+                  "altText": "A group of parents and children sitting in bleachers."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_005A_114242_D.jpg",
+                  "audio": "stamp.mp3",
+                  "altText": "A stamp that stamps smiley faces. Two smiley faces are on a piece of paper."
+                },
+                {
+                  "text": "M100_UW024_047A_186626_d.jpg",
+                  "audio": "cash.mp3",
+                  "altText": "A stack of bills and coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_023A_193002_186626_d.jpg",
+                  "audio": "string.mp3",
+                  "altText": "A green ball of yarn."
+                },
+                {
+                  "text": "M100_UW062_019A_193002_186626_d.jpg",
+                  "audio": "king.mp3",
+                  "altText": "A king wearing his crown."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW025_018A_186626_d.jpg",
+                  "audio": "dirt.mp3",
+                  "altText": "A loader truck picking up dirt."
+                },
+                {
+                  "text": "M100_UW015_035A_186626_d.jpg",
+                  "audio": "dish.mp3",
+                  "altText": "A blue ring."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW025_020A_186626_d.jpg",
+                  "audio": "spring.mp3",
+                  "altText": "A coil."
+                },
+                {
+                  "text": "M100_UW024_017A_186626_d.jpg",
+                  "audio": "wing.mp3",
+                  "altText": "A flying owl."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW025_041A_186626_d.jpg",
+                  "audio": "splash.mp3",
+                  "altText": "A boy doing a cannonball into the water."
+                },
+                {
+                  "text": "M100_UW031_025A_193002_186626_d.jpg",
+                  "audio": "grapes.mp3",
+                  "altText": "A bunch of purple grapes."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW025_051A_186626_d.jpg",
+                  "audio": "shoe.mp3",
+                  "altText": "A brown shoe."
+                },
+                {
+                  "text": "M100_UW025_052A_186626_d.jpg",
+                  "audio": "glue.mp3",
+                  "altText": "A jar of glue, a piece of red paper, and a pair of scissors. A red arrow points to the jar of glue."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_051A_186626_d.jpg",
+                  "audio": "ship.mp3",
+                  "altText": "A steamboat"
+                },
+                {
+                  "text": "M100_UW032_007A_193002_186626_d.jpg",
+                  "audio": "shirt.mp3",
+                  "altText": "A yellow and orange shirt."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_083A_193002_186626_d.jpg",
+                  "audio": "plane.mp3",
+                  "altText": "An airplane."
+                },
+                {
+                  "text": "M100_UW025_031A_186626_d.jpg",
+                  "audio": "train.mp3",
+                  "altText": "A train with a locomotive and two cars."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW025_011A_186626.jpg",
+                  "audio": "plum.mp3",
+                  "altText": "A plum."
+                },
+                {
+                  "text": "M100_UW041_021A_193002_186626_d.jpg",
+                  "audio": "straw.mp3",
+                  "altText": "An orange slice with a glass of juice behind it. A red arrow points to a straw in the glass."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_017A_186626_d.jpg",
+                  "audio": "spill.mp3",
+                  "altText": "Ink that has spilled out of an ink jar. A red arrow points to the spilled ink."
+                },
+                {
+                  "text": "M100_UW012_028A_193002_186626_d.jpg",
+                  "audio": "bill.mp3",
+                  "altText": "A mallard duck."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW025_012A_186626_d.jpg",
+                  "audio": "spool.mp3",
+                  "altText": "A spool of red thread."
+                },
+                {
+                  "text": "M100_UW025_020A_186626_d.jpg",
+                  "audio": "spring.mp3",
+                  "altText": "A coil."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_006A_193002_186626_d.jpg",
+                  "audio": "flame.mp3",
+                  "altText": "A campfire."
+                },
+                {
+                  "text": "M100_UW031_006A_193002_186626_d.jpg",
+                  "audio": "game.mp3",
+                  "altText": "A board game."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_013A_114242_D.jpg",
+                  "audio": "flag.mp3",
+                  "altText": "The flag of the United States."
+                },
+                {
+                  "text": "M100_UW025_016A_186626_d.jpg",
+                  "audio": "fly.mp3",
+                  "altText": "A fly."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW025_037A_186626_d.jpg",
+                  "audio": "split.mp3",
+                  "altText": "A boy and girl holding spoons preparing to eat a banana split."
+                },
+                {
+                  "text": "M100_UW025_044A_186626_d.jpg",
+                  "audio": "hit.mp3",
+                  "altText": "A boy wearing a hat and uniform hitting a baseball with a bat."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW025_041A_186626_d.jpg",
+                  "audio": "splash.mp3",
+                  "altText": "A boy doing a cannonball into the water."
+                },
+                {
+                  "text": "M100_UW012_039A_186626_d.jpg",
+                  "audio": "hot.mp3",
+                  "altText": "A boiling pot on a stove."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW025_036A_186626_d.jpg",
+                  "audio": "stripe.mp3",
+                  "altText": "A skunk. A red arrow points to the white part of its tail."
+                },
+                {
+                  "text": "M100_UW025_017A_186626_d.jpg",
+                  "audio": "type.mp3",
+                  "altText": "A girl typing on her computer."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_023A_193002_186626_d.jpg",
+                  "audio": "string.mp3",
+                  "altText": "A green ball of yarn."
+                },
+                {
+                  "text": "M100_UW025_056A_186626_d.jpg",
+                  "audio": "strap.mp3",
+                  "altText": "A boy dragging a suitcase. A red arrow points to a green buckle that locks the suitcase."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW025_050A_186626_d.jpg",
+                  "audio": "strike.mp3",
+                  "altText": "A bowling ball knocking a bowling pin over."
+                },
+                {
+                  "text": "M100_UW042_016A_193002_186626_d.jpg",
+                  "audio": "bike.mp3",
+                  "altText": "A bicycle."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW053_020A_186626_d.jpg",
+                  "audio": "stream.mp3",
+                  "altText": "A river stream on a hill. Rocks are around the river and two trees are in the background."
+                },
+                {
+                  "text": "M100_UW022_033A_193002_186626_d.jpg",
+                  "audio": "bug.mp3",
+                  "altText": "An insect."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW025_021A_186626_d.jpg",
+                  "audio": "sprint.mp3",
+                  "altText": "A girl and boy racing to a finish line."
+                },
+                {
+                  "text": "M100_UW025_073A_186626_d.jpg",
+                  "audio": "mint.mp3",
+                  "altText": "A wrapped piece of peppermint candy."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_035A_193002_186626_d.jpg",
+                  "audio": "tent.mp3",
+                  "altText": "A teal-colored tent."
+                },
+                {
+                  "text": "M100_UW025_058A_186626_d.jpg",
+                  "audio": "spray.mp3",
+                  "altText": "A boy holding a running water hose."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW025_075A_186626_d.jpg",
+                  "audio": "sleigh.mp3",
+                  "altText": "An orange sled."
+                },
+                {
+                  "text": "M100_UW041_005A_193002_186626_d.jpg",
+                  "audio": "play.mp3",
+                  "altText": "A boy and a girl building with blocks."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_014A_193002_186626_d.jpg",
+                  "audio": "saw.mp3",
+                  "altText": "A saw."
+                },
+                {
+                  "text": "M100_UW045_034A_114242_D.jpg",
+                  "audio": "pie.mp3",
+                  "altText": "A cherry pie."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_036A_193002_186626_d.jpg",
+                  "audio": "thread.mp3",
+                  "altText": "Thread going through a needle. A red arrow points to one end of the thread."
+                },
+                {
+                  "text": "M100_UW025_065A_186626_d.jpg",
+                  "audio": "bread.mp3",
+                  "altText": "Sliced bread."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW025_024A_186626_d.jpg",
+                  "audio": "thrill.mp3",
+                  "altText": "Two girls with their hands up on a roller coaster."
+                },
+                {
+                  "text": "M100_UW025_078A_186626_d.jpg",
+                  "audio": "throne.mp3",
+                  "altText": "A queen sitting on her throne. A red arrow points to her throne."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

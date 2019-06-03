@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Estrategia de vocabulario: Modismos</title>
+  <directions>Lee las siguientes oraciones. Arrastra la palabra para completar el modismo correctamente.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow1" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize>20</fontSize>
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Hoy me levant&amp;#233; con el [pie] izquierdo. Todo me ha salido mal.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>mano</text>
+            </distractor>
+            <distractor>
+              <text>codo</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize>20</fontSize>
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Estoy cansado. Ayer pas&amp;#233;&amp;#160;la noche en [blanco].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>negro</text>
+            </distractor>
+            <distractor>
+              <text>azul</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize>20</fontSize>
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;No tienes opci&amp;#243;n. Est&amp;#225;s entre la espada y la [pared].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>calle</text>
+            </distractor>
+            <distractor>
+              <text>cama</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize>20</fontSize>
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Nadie me tiene en cuenta. Soy un cero a la [izquierda].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>derecha</text>
+            </distractor>
+            <distractor>
+              <text>potencia</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize>20</fontSize>
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Isabel se sali&amp;#243; con la [suya]. Logr&amp;#243; lo que quer&amp;#237;a.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>otra</text>
+            </distractor>
+            <distractor>
+              <text>nuestra</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

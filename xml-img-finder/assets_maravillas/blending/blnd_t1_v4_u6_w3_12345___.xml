@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blending>
+  <title>Fonética: sílabas con pl</title>
+  <directions />
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <variant value="C" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_playa.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_pla.mp3</audio>
+              <text>pla</text>
+            </sound>
+            <sound>
+              <audio>TEG_ya.mp3</audio>
+              <text>ya</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_plato.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_pla.mp3</audio>
+              <text>pla</text>
+            </sound>
+            <sound>
+              <audio>TEG_to.mp3</audio>
+              <text>to</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_duplicado.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_du.mp3</audio>
+              <text>du</text>
+            </sound>
+            <sound>
+              <audio>TEG_pli.mp3</audio>
+              <text>pli</text>
+            </sound>
+            <sound>
+              <audio>TEG_ca.mp3</audio>
+              <text>ca</text>
+            </sound>
+            <sound>
+              <audio>TEG_do.mp3</audio>
+              <text>do</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_ejemplo.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_e.mp3</audio>
+              <text>e</text>
+            </sound>
+            <sound>
+              <audio>TEG_jem.mp3</audio>
+              <text>jem</text>
+            </sound>
+            <sound>
+              <audio>TEG_plo.mp3</audio>
+              <text>plo</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_simple.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_sim.mp3</audio>
+              <text>sim</text>
+            </sound>
+            <sound>
+              <audio>TEG_ple.mp3</audio>
+              <text>ple</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_aplicar.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_a.mp3</audio>
+              <text>a</text>
+            </sound>
+            <sound>
+              <audio>TEG_pli.mp3</audio>
+              <text>pli</text>
+            </sound>
+            <sound>
+              <audio>TEG_car.mp3</audio>
+              <text>car</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_placa.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_pla.mp3</audio>
+              <text>pla</text>
+            </sound>
+            <sound>
+              <audio>TEG_ca.mp3</audio>
+              <text>ca</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_planeta.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_pla.mp3</audio>
+              <text>pla</text>
+            </sound>
+            <sound>
+              <audio>TEG_ne.mp3</audio>
+              <text>ne</text>
+            </sound>
+            <sound>
+              <audio>TEG_ta.mp3</audio>
+              <text>ta</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_plano.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_pla.mp3</audio>
+              <text>pla</text>
+            </sound>
+            <sound>
+              <audio>TEG_no.mp3</audio>
+              <text>no</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_planta.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_plan.mp3</audio>
+              <text>plan</text>
+            </sound>
+            <sound>
+              <audio>TEG_ta.mp3</audio>
+              <text>ta</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_plastilina.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_plas.mp3</audio>
+              <text>plas</text>
+            </sound>
+            <sound>
+              <audio>TEG_ti.mp3</audio>
+              <text>ti</text>
+            </sound>
+            <sound>
+              <audio>TEG_li.mp3</audio>
+              <text>li</text>
+            </sound>
+            <sound>
+              <audio>TEG_na.mp3</audio>
+              <text>na</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_completo.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_com.mp3</audio>
+              <text>com</text>
+            </sound>
+            <sound>
+              <audio>TEG_ple.mp3</audio>
+              <text>ple</text>
+            </sound>
+            <sound>
+              <audio>TEG_to.mp3</audio>
+              <text>to</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_plan.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_plan.mp3</audio>
+              <text>plan</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_platano.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_pla.mp3</audio>
+              <text>plá</text>
+            </sound>
+            <sound>
+              <audio>TEG_ta.mp3</audio>
+              <text>ta</text>
+            </sound>
+            <sound>
+              <audio>TEG_no.mp3</audio>
+              <text>no</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_plastico.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_plas.mp3</audio>
+              <text>plás</text>
+            </sound>
+            <sound>
+              <audio>TEG_ti.mp3</audio>
+              <text>ti</text>
+            </sound>
+            <sound>
+              <audio>TEG_co.mp3</audio>
+              <text>co</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_plaza.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_pla.mp3</audio>
+              <text>pla</text>
+            </sound>
+            <sound>
+              <audio>TEG_za.mp3</audio>
+              <text>za</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_pliego.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_plie.mp3</audio>
+              <text>plie</text>
+            </sound>
+            <sound>
+              <audio>TEG_go.mp3</audio>
+              <text>go</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_plomero.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_plo.mp3</audio>
+              <text>plo</text>
+            </sound>
+            <sound>
+              <audio>TEG_me.mp3</audio>
+              <text>me</text>
+            </sound>
+            <sound>
+              <audio>TEG_ro.mp3</audio>
+              <text>ro</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_plomo.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_plo.mp3</audio>
+              <text>plo</text>
+            </sound>
+            <sound>
+              <audio>TEG_mo.mp3</audio>
+              <text>mo</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_plumas.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_plu.mp3</audio>
+              <text>plu</text>
+            </sound>
+            <sound>
+              <audio>TEG_mas.mp3</audio>
+              <text>mas</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_plumero.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_plu.mp3</audio>
+              <text>plu</text>
+            </sound>
+            <sound>
+              <audio>TEG_me.mp3</audio>
+              <text>me</text>
+            </sound>
+            <sound>
+              <audio>TEG_ro.mp3</audio>
+              <text>ro</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>TEG_multiplica.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_mul.mp3</audio>
+              <text>mul</text>
+            </sound>
+            <sound>
+              <audio>TEG_ti.mp3</audio>
+              <text>ti</text>
+            </sound>
+            <sound>
+              <audio>TEG_pli.mp3</audio>
+              <text>pli</text>
+            </sound>
+            <sound>
+              <audio>TEG_ca.mp3</audio>
+              <text>ca</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_plancha.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_plan.mp3</audio>
+              <text>plan</text>
+            </sound>
+            <sound>
+              <audio>TEG_cha.mp3</audio>
+              <text>cha</text>
+            </sound>
+          </sounds>
+        </item>
+        <item>
+          <normalReadAudio>TEG_diploma.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>TEG_di.mp3</audio>
+              <text>di</text>
+            </sound>
+            <sound>
+              <audio>TEG_plo.mp3</audio>
+              <text>plo</text>
+            </sound>
+            <sound>
+              <audio>TEG_ma.mp3</audio>
+              <text>ma</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</blending>
+

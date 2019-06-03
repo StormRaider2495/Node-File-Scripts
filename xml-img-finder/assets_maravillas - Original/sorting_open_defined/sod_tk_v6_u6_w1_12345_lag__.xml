@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Gram&amp;#225;tica: el sustantivo&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la imagen para o&amp;#237;r su nombre. Decide si el sustantivo est&amp;#225; en singular o en plural. Coloca la imagen en la columna correcta.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Singular</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_perro.jpg</text>
+                      <audio>TEG_perro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_arbol.jpg</text>
+                      <audio>TEG_arbol.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_banana.jpg</text>
+                      <audio>TEG_banana.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Plural</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_perros.jpg</text>
+                      <audio>TEG_perros.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_arboles.jpg</text>
+                      <audio>TEG_arboles.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_bananas.jpg</text>
+                      <audio>TEG_bananas.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+            <item>
+              <bins>
+                <bin>
+                  <title>Singular</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_flor.jpg</text>
+                      <audio>TEG_flor.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_conejo.jpg</text>
+                      <audio>TEG_conejo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_crayola.jpg</text>
+                      <audio>TEG_creyon.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Plural</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_flores.jpg</text>
+                      <audio>TEG_flores.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_conejos.jpg</text>
+                      <audio>TEG_conejos.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_creyones.jpg</text>
+                      <audio>TEG_creyones.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Singular</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_ficha.jpg</text>
+                      <audio>TEG_ficha.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_gato.jpg</text>
+                      <audio>TEG_gato.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_pan.jpg</text>
+                      <audio>TEG_pan.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Plural</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_fichas.jpg</text>
+                      <audio>TEG_fichas.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_gatos.jpg</text>
+                      <audio>TEG_gatos.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_panes.jpg</text>
+                      <audio>TEG_panes.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+            <item>
+              <bins>
+                <bin>
+                  <title>Singular</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_zapato.jpg</text>
+                      <audio>TEG_zapato.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_libro.jpg</text>
+                      <audio>TEG_libro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_vaca.jpg</text>
+                      <audio>TEG_vaca.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Plural</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_zapatos.jpg</text>
+                      <audio>TEG_zapatos.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_libros.jpg</text>
+                      <audio>TEG_libros.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_vacas.jpg</text>
+                      <audio>TEG_vacas.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

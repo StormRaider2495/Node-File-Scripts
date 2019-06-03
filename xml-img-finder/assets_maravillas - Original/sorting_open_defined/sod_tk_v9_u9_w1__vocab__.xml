@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras: muebles&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las im&amp;#225;genes que muestran un mueble en la caja azul. Coloca las im&amp;#225;genes que no muestran un mueble en la caja roja.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un mueble</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_silla.jpg</text>
+                      <audio>TEG_silla.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_mesa.jpg</text>
+                      <audio>TEG_mesa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_sofa.jpg</text>
+                      <audio>TEG_sofa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_cajonera.jpg</text>
+                      <audio>TEG_cajonera.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_repisa.jpg</text>
+                      <audio>TEG_repisa.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un mueble</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_regla.jpg</text>
+                      <audio>TEG_regla.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_pino.jpg</text>
+                      <audio>TEG_pino.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_campana.jpg</text>
+                      <audio>TEG_campana.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

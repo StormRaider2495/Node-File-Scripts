@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<word_letter_focus>
+  <title>Gramática: el adjetivo</title>
+  <directions>&lt;p&gt;Usa el resaltador amarillo para resaltar el adjetivo de cada oraci&amp;#243;n.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;El carro de Ana es {wh}grande{/wh}.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;Comer&amp;#233; un {wh}rico{/wh} filete y un pu&amp;#241;ado de arroz.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;Ma&amp;#241;ana ser&amp;#225; un d&amp;#237;a&amp;#160;{wh}c&amp;#225;lido{/wh} y adem&amp;#225;s llover&amp;#225;.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</word_letter_focus>
+

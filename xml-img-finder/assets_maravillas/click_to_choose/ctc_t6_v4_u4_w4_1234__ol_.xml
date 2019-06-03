@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Normas del lenguaje: los dos puntos&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona la oraci&amp;#243;n que tiene la puntuaci&amp;#243;n correcta.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Afirmaba Her&amp;#243;doto la democracia lleva el m&amp;#225;s bello nombre que existe igualdad.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>“Afirmaba Heródoto. La democracia lleva el más bello nombre que existe, igualdad”.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Afirmaba Heródoto: la democracia lleva el más bello nombre que existe, igualdad.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Afirmaba Heródoto: “La democracia lleva el más bello nombre que existe: igualdad”.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Estamos citados a las 7 00 pm para la teleconferencia.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Estamos citados a las 7:00 p. m. para la teleconferencia.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Estamos citados a las 7 : 00 pm. para la teleconferencia.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Estamos citados a las 700 pm para: la teleconferencia.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Los exploradores que saldr&amp;#225;n de excursi&amp;#243;n son Rafael Ignacio Gustavo y Ana.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Los exploradores que saldrán de excursión: son Rafael, Ignacio, Gustavo, y Ana.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Los exploradores que saldrán de excursión son, Rafael, Ignacio, Gustavo y Ana.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Los exploradores que saldrán de excursión son: Rafael, Ignacio, Gustavo y Ana.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Querido Enrique te escribo para confirmarte que las puertas de mi casa est&amp;#225;n siempre abiertas para ti.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Querido Enrique, te escribo para confirmarte que: las puertas de mi casa están siempre abiertas para ti</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Querido Enrique: Te escribo para confirmarte que las puertas de mi casa están siempre abiertas para ti.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Querido Enrique: te escribo para confirmarte que las puertas de mi casa están siempre abiertas para ti.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con y y&amp;#160;&amp;#241;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;Coloca la palabra escrita con&amp;#160;&lt;u&gt;y&lt;/u&gt;&amp;#160;o&amp;#160;&lt;u&gt;&amp;#241;&lt;/u&gt;&amp;#160;en su columna correspondiente. Si no tiene ninguna de esas letras, ponla en "otras".&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene ñ</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>ñu</text>
+                      <audio>TEG_n1u.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pequeña</text>
+                      <audio>TEG_pequen1a.mp3</audio>
+                    </item>
+                    <item>
+                      <text>castaña</text>
+                      <audio>TEG_castana.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>tiene y</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>papaya</text>
+                      <audio>TEG_papaya.mp3</audio>
+                    </item>
+                    <item>
+                      <text>raya</text>
+                      <audio>TEG_raya.mp3</audio>
+                    </item>
+                    <item>
+                      <text>yeso</text>
+                      <audio>TEG_yeso.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>otras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>príncipe</text>
+                      <audio>TEG_principe.mp3</audio>
+                    </item>
+                    <item>
+                      <text>huevo</text>
+                      <audio>TEG_huevo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>naipes</text>
+                      <audio>TEG_naipes.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene ñ</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>montaña</text>
+                      <audio>TEG_montan1a.mp3</audio>
+                    </item>
+                    <item>
+                      <text>muñeca</text>
+                      <audio>TEG_mun1eca.mp3</audio>
+                    </item>
+                    <item>
+                      <text>paño</text>
+                      <audio>TEG_pan1o.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>tiene y</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>yelmo</text>
+                      <audio>TEG_yelmo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>ya</text>
+                      <audio>TEG_ya.mp3</audio>
+                    </item>
+                    <item>
+                      <text>Paraguay</text>
+                      <audio>TEG_paraguay.mp3</audio>
+                    </item>
+                    <item>
+                      <text>yuca</text>
+                      <audio>TEG_yuca.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>otras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>vivir</text>
+                      <audio>TEG_vivir.mp3</audio>
+                    </item>
+                    <item>
+                      <text>zona</text>
+                      <audio>TEG_zona.mp3</audio>
+                    </item>
+                    <item>
+                      <text>maizal</text>
+                      <audio>TEG_maizal.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

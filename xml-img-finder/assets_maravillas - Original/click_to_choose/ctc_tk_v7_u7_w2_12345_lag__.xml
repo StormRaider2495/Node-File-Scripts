@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Gram&amp;#225;tica: el verbo&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Escoge el verbo correcto para llenar el espacio en blanco y completar cada oraci&amp;#243;n.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Sebi [ley&amp;#243;] un poema.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>leyó</text>
+              <image />
+              <audio>TEG_leyo1.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>cayó</text>
+              <image />
+              <audio>TEG_cayo1.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Lola [llev&amp;#243;] el vaso a la sala.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>llevó</text>
+              <image />
+              <audio>TEG_llevo1.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>midió</text>
+              <image />
+              <audio>TEG_midio.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Mi t&amp;#237;a [vino] de visita.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>vino</text>
+              <image />
+              <audio>TEG_vino.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>dio</text>
+              <image />
+              <audio>TEG_dio1.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

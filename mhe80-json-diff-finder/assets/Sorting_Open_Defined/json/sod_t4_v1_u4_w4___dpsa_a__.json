@@ -1,0 +1,365 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics &#8211; Diphthongs /oi/ and /ou/",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Drag each word to the bin with the matching spelling for its diphthong sound.</p>",
+    "audio": "dl_mathing_diphthong.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/oi/ spelled oi",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "oi_spelled_oi.mp3"
+              },
+              "contents": [
+                {
+                  "text": "voices",
+                  "audio": "voices.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "coin",
+                  "audio": "coin.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "noise",
+                  "audio": "noise.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/oi/ spelled oy",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "oi_spelled_oy.mp3"
+              },
+              "contents": [
+                {
+                  "text": "loyal",
+                  "audio": "loyal.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ou/ spelled ou",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ou_spelled_ou.mp3"
+              },
+              "contents": [
+                {
+                  "text": "house",
+                  "audio": "house.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "cloud",
+                  "audio": "cloud.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ou/ spelled ow",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ou_spelled_ow.mp3"
+              },
+              "contents": [
+                {
+                  "text": "cow",
+                  "audio": "cow.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "flower",
+                  "audio": "flower.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "gown",
+                  "audio": "gown.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/oi/ spelled oi",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "oi_spelled_oi.mp3"
+              },
+              "contents": [
+                {
+                  "text": "join",
+                  "audio": "join.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/oi/ spelled oy",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "oi_spelled_oy.mp3"
+              },
+              "contents": [
+                {
+                  "text": "boy",
+                  "audio": "boy.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "enjoy",
+                  "audio": "enjoy.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ou/ spelled ou",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ou_spelled_ou.mp3"
+              },
+              "contents": [
+                {
+                  "text": "south",
+                  "audio": "south.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "pouch",
+                  "audio": "pouch.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "mouth",
+                  "audio": "mouth.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ou/ spelled ow",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ou_spelled_ow.mp3"
+              },
+              "contents": [
+                {
+                  "text": "brown",
+                  "audio": "brown.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "coward",
+                  "audio": "coward.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "howl",
+                  "audio": "howl.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/oi/ spelled oi",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "oi_spelled_oi.mp3"
+              },
+              "contents": [
+                {
+                  "text": "voice",
+                  "audio": "voice.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "moist",
+                  "audio": "moist.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/oi/ spelled oy",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "oi_spelled_oy.mp3"
+              },
+              "contents": [
+                {
+                  "text": "destroy",
+                  "audio": "destroy.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "joyful",
+                  "audio": "joyful.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ou/ spelled ou",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ou_spelled_ou.mp3"
+              },
+              "contents": [
+                {
+                  "text": "thousands",
+                  "audio": "thousands.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "mound",
+                  "audio": "mound.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "grouch",
+                  "audio": "grouch.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "wound",
+                  "audio": "wound.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ou/ spelled ow",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ou_spelled_ow.mp3"
+              },
+              "contents": [
+                {
+                  "text": "frown",
+                  "audio": "frown.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "tower",
+                  "audio": "tower.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

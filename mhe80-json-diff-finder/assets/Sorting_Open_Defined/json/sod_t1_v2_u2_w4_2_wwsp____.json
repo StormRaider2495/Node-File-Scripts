@@ -1,0 +1,288 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Spelling: Word Sort with -th, -sh, -ng  Words",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Drag each word with the same sounds into the box. If the word does not match any of them, drag it into the “Other” bin.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "bath",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "with",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "thing",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "wash",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "fish",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shop",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "ship",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "sing",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "ring",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sang",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "fast",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "wink",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "want",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "call",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "bath",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "that",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "this",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "path",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "broth",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "breath",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "wash",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "sham",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shock",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "dash",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "swish",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "plush",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "sing",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "bang",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "gong",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cling",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sling",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "swung",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

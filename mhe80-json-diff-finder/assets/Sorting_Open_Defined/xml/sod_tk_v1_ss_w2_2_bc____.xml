@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Category Words: Numbers&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Click on each picture to hear its name. Drag numbers to the blue box. Drag words that are not numbers into the red box. Then click OK.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <vspacing />
+  <contentMode value="images" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Numbers</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW061_035A_114242_D.jpg</text>
+                      <audio>two.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_025A_114242_D.jpg</text>
+                      <audio>six.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Not Numbers</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UWSS2_006A_193002_d.jpg</text>
+                      <audio>ring.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Numbers</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW061_030A_114242_D.jpg</text>
+                      <audio>four.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_027A_114242_D.jpg</text>
+                      <audio>ten.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Not Numbers</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UWSS2_005A_193002_d.jpg</text>
+                      <audio>boat.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Numbers</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW032_007A_114242_D.jpg</text>
+                      <audio>five.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW032_011A_114242_D.jpg</text>
+                      <audio>nine.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Not Numbers</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW012_026A_193002_d.jpg</text>
+                      <audio>tiger.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

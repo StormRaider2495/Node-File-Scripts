@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras: palabras para preguntar&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Completa la pregunta con la opci&amp;#243;n correcta.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#191;[Qui&amp;#233;n] cocin&amp;#243; ese filete?&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_cocinoestefilete.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text>Quién</text>
+              <image />
+              <audio>TEG_quien.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Qué</text>
+              <image />
+              <audio>TEG_que1.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#191;[D&amp;#243;nde] est&amp;#225; mi mochila?&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_estamimochila.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text>Dónde</text>
+              <image />
+              <audio>TEG_donde1.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Cuándo</text>
+              <image />
+              <audio>TEG_cuando.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#191;[Cu&amp;#225;ndo] llegar&amp;#225; el oto&amp;#241;o?&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_llegaraeloton1o.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text>Quién</text>
+              <image />
+              <audio>TEG_quien.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Cuándo</text>
+              <image />
+              <audio>TEG_cuando.mp3</audio>
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#191;[C&amp;#243;mo] se llama tu pap&amp;#225;?&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_sellamatupapa.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text>Por qué</text>
+              <image />
+              <audio>TEG_porque1.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Cómo</text>
+              <image />
+              <audio>TEG_como.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#191;[Cu&amp;#225;ndo] llegar&amp;#225; el oto&amp;#241;o?&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_llegaraeloton1o.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

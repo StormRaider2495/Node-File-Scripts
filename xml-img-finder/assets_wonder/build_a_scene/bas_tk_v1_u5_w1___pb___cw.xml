@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Category Words</title>
+  <directions>Click the speaker button in the large box. Drag the pictures that show size words into the boxes. If the picture does not show a size word, do not drag it.</directions>
+  <directionsAudio>dl_show_size_words.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow1" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="134.3" y="521.4"/&gt;  &lt;position x="135.9" y="206.25"/&gt;  &lt;position x="604.05" y="207.9"/&gt;  &lt;position x="607.3" y="522.25"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="132.6" y="208.7"/&gt;  &lt;position x="602.4" y="209.55"/&gt;  &lt;position x="139.1" y="522.15"/&gt;  &lt;position x="609" y="523.8"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="129.45" y="203.65"/&gt;  &lt;position x="601.8" y="208.6"/&gt;  &lt;position x="606.8" y="520.55"/&gt;  &lt;position x="134.35" y="521.55"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="128.35" y="204.6"/&gt;  &lt;position x="599.75" y="206.6"/&gt;  &lt;position x="606.8" y="518.55"/&gt;  &lt;position x="129.35" y="515.5"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW051_801A_193002_d.jpg</contentImage>
+      <contentImageAudio>things_that_are_tall.mp3</contentImageAudio>
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M100_UW045_009A_186626_193002_d.jpg</image>
+          <audio>giraffe.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW052_005A_193002_d.jpg</image>
+          <audio>elm_tree.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW061_015A_193002_d.jpg</image>
+          <audio>ladder.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW045_006A_114242_D.jpg</image>
+          <audio>building.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW011_083A_193002_d.jpg</image>
+          <audio>plane.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW061_017A_193002_d.jpg</image>
+          <audio>ladybug.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW031_036A_193002_d.jpg</image>
+          <audio>needle.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW051_802A_193002_d.jpg</contentImage>
+      <contentImageAudio>things_that_are_short.mp3</contentImageAudio>
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M100_UW061_017A_193002_d.jpg</image>
+          <audio>ladybug.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW041_017A_193002_d.jpg</image>
+          <audio>frog.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW061_001A_193002_d.jpg</image>
+          <audio>crab.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M300_UW073_801A_193002_d.jpg</image>
+          <audio>spider.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW061_025A_193002_d.jpg</image>
+          <audio>truck.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW011_043A_193002_d.jpg</image>
+          <audio>house.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW052_005A_193002_d.jpg</image>
+          <audio>elm_tree.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW051_803A_193002_d.jpg</contentImage>
+      <contentImageAudio>things_that_are_big.mp3</contentImageAudio>
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M100_UW021_009A_193002_d.jpg</image>
+          <audio>elephant.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW061_025A_193002_d.jpg</image>
+          <audio>truck.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW051_001A_193002_d.jpg</image>
+          <audio>hippo.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW011_043A_193002_d.jpg</image>
+          <audio>house.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW012_022A_186626_193002_d.jpg</image>
+          <audio>crayon.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW023_004A_193002_d.jpg</image>
+          <audio>insect.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW051_804A_193002_d.jpg</contentImage>
+      <contentImageAudio>things_that_are_little.mp3</contentImageAudio>
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M100_UW023_004A_193002_d.jpg</image>
+          <audio>insect.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW011_074A_193002_d.jpg</image>
+          <audio>mouse.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UWSS2_006A_193002_d.jpg</image>
+          <audio>ring.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW031_036A_193002_d.jpg</image>
+          <audio>needle.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW061_025A_193002_d.jpg</image>
+          <audio>truck.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW011_083A_193002_d.jpg</image>
+          <audio>plane.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Build Vocabulary: Shades of Meaning</title>
+  <directions>Drag the appropriate words from the list on the right to the space on left.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow2" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="369.15" y="418.45"/&gt;  &lt;position x="370.25" y="531.8"/&gt;  &lt;position x="369.05" y="307.4"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="366.9" y="192.95"/&gt;  &lt;position x="368" y="419.6"/&gt;  &lt;position x="365.1" y="311.9"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="366.1" y="538.6"/&gt;  &lt;position x="367.05" y="306.9"/&gt;  &lt;position x="367.1" y="194.5"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>BAS_T3v1_U4W1_Vocab.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <positionData />
+      <items>
+        <item>
+          <text>clumsy</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>awkward</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>skilled</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>BAS_T3v1_U4W1_Vocab_2.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <positionData />
+      <items>
+        <item>
+          <text>surprise</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>assume</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>startle</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>BAS_T3v1_U4W1_Vocab_3.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <positionData />
+      <items>
+        <item>
+          <text>disturbed</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>listened</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>paid attention</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

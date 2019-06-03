@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<word_letter_focus>
+  <title>Normas del lenguaje: punto</title>
+  <directions>&lt;p&gt;Resalta las oraciones con punto y seguido, y subraya la que tiene punto y aparte.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;{wh}Los tucanes son p&amp;#225;jaros de brillantes colores y largos y coloridos picos.&amp;#160;Se los encuentra por lo general en regiones tropicales y subtropicales{/wh}. {wu}Su alimentaci&amp;#243;n consiste principalmente en frutas, pero a veces tambi&amp;#233;n incluye insectos y lagartijas{/wu}.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;{wh}Poco a poco, estas ex&amp;#243;ticas aves han encontrado un sitio como mascotas en los hogares de muchos pa&amp;#237;ses{/wh}.&amp;#160;El cuidado f&amp;#225;cil que requieren y su bell&amp;#237;sima presencia son el motivo de esa creciente popularidad.&lt;/p&gt;
+&lt;p&gt;&amp;#65279;&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</word_letter_focus>
+

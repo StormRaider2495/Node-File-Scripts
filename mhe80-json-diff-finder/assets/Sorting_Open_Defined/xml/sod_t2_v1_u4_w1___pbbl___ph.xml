@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read each word. Drag each word into a box based on its silent letter.&lt;/p&gt;</directions>
+  <directionsAudio>dl_based_silent_letter.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>wr</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>wrong</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>wrap</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>writing</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>kn</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>known</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>knot</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>knives</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>gn</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>sign</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>gnome</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>gnat</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Other</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>kick</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>wiggle</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>watch</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>sc</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>scent</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>scene</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>mb</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>crumb</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>thumb</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>lamb</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>gn</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>gnome</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>gnu</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>gnaw</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Other</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>crew</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>flute</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>huge</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>skate</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

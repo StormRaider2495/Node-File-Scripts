@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Build Vocabulary: Shades of Meaning</title>
+  <directions>Read the word on the left. Identify how the words on the right are related. Then arrange the words in order, from top to bottom, to show the shades of meaning.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="367.1" y="419.25"/&gt;  &lt;position x="366.05" y="304.9"/&gt;  &lt;position x="364.05" y="534.55"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="365.05" y="307.9"/&gt;  &lt;position x="365.05" y="191.5"/&gt;  &lt;position x="365.05" y="419.25"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="366.05" y="191.5"/&gt;  &lt;position x="368.05" y="310.9"/&gt;  &lt;position x="365.05" y="532.55"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>BAS_T3v1_U2W1_Vocab.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <positionData />
+      <items>
+        <item>
+          <text>brave</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>shy</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>fearless</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>BAS_T3v1_U2W1_Vocab_2.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <positionData />
+      <items>
+        <item>
+          <text>harshly</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>calmly</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>angrily</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>BAS_T3v1_U2W1_Vocab_3.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <positionData />
+      <items>
+        <item>
+          <text>exclude</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>include</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>require</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

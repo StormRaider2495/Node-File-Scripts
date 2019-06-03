@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;b&gt;&lt;/b&gt;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Listen to each word. Drag the words into the boxes based on their vowel team sound and spelling.&lt;/p&gt;</directions>
+  <directionsAudio>dl_boxes_team_spelling.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>ai</title>
+                  <titleImage />
+                  <titleAudio>ai.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>explain</text>
+                      <audio>explain.mp3</audio>
+                    </item>
+                    <item>
+                      <text>remain</text>
+                      <audio>remain.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>ay</title>
+                  <titleImage />
+                  <titleAudio>ay.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>crayon</text>
+                      <audio>crayon.mp3</audio>
+                    </item>
+                    <item>
+                      <text>layer</text>
+                      <audio>layer.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>oa</title>
+                  <titleImage />
+                  <titleAudio>oa.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>oatmeal</text>
+                      <audio>oatmeal.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>ow</title>
+                  <titleImage />
+                  <titleAudio>ow.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>tower</text>
+                      <audio>tower.mp3</audio>
+                    </item>
+                    <item>
+                      <text>towel</text>
+                      <audio>towel.mp3</audio>
+                    </item>
+                    <item>
+                      <text>powder</text>
+                      <audio>powder.mp3</audio>
+                    </item>
+                    <item>
+                      <text>elbow</text>
+                      <audio>elbow.mp3</audio>
+                    </item>
+                    <item>
+                      <text>shower</text>
+                      <audio>shower.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>oi</title>
+                  <titleImage />
+                  <titleAudio>oi.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>poison</text>
+                      <audio>poison.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>oy</title>
+                  <titleImage />
+                  <titleAudio>oy.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>enjoy</text>
+                      <audio>enjoy.mp3</audio>
+                    </item>
+                    <item>
+                      <text>joyful</text>
+                      <audio>joyful.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>oo</title>
+                  <titleImage />
+                  <titleAudio>oo.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>balloon</text>
+                      <audio>balloon.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

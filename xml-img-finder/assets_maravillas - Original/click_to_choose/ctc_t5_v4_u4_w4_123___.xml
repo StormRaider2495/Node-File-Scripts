@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Estrategia de vocabulario: claves de contexto&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona las claves de contexto que te permiten comprender el significado de la palabra subrayada.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Vivimos en un planeta &lt;u&gt;acuoso&lt;/u&gt;. Casi el 70 por ciento de la superficie de la Tierra est&amp;#225; cubierta de agua.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>el 70 por ciento de la superficie de la Tierra está cubierta de agua</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Vivimos en un planeta</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Casi el 70 por ciento de la superficie de la Tierra</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;El vapor de agua se eleva y se enfr&amp;#237;a formando gotas diminutas, dando lugar a la &lt;u&gt;condensaci&amp;#243;n&lt;/u&gt;.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>El vapor de agua se eleva</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>dando lugar</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>se enfría formando gotas diminutas</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Las hojas y ramas &lt;u&gt;retienen&lt;/u&gt; el agua de la lluvia, de manera que esta se filtra lentamente en el suelo en lugar de fluir r&amp;#225;pidamente.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Las hojas y ramas</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>se filtra lentamente en el suelo en lugar de fluir rápidamente</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>el agua de la lluvia, de manera que esta</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;El agua limpia los ojos y &lt;u&gt;lubrica&lt;/u&gt;, o aceita, las articulaciones.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>o aceita</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>las articulaciones</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>El agua limpia los ojos</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Sin especies acu&amp;#225;ticas, las cadenas y las redes alimentarias &lt;u&gt;colapsar&amp;#237;an&lt;/u&gt;, es decir, se destruir&amp;#237;an.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>las cadenas y las redes alimentarias</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>es decir, se destruirían</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Sin especies acuáticas</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Al tomar &lt;u&gt;conciencia&lt;/u&gt;, o tener conocimiento del bien o el mal acerca del uso que le das al agua, t&amp;#250; tambi&amp;#233;n puedes proteger el pozo &amp;#250;nico de la Tierra.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>tú también puedes proteger el pozo único de la Tierra</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>del bien o el mal acerca del uso que le das al agua</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>o tener conocimiento del bien o el mal acerca del uso que le das al agua</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

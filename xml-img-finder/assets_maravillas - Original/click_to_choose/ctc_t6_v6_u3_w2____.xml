@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Estrategia de vocabulario: claves en el p&amp;#225;rrafo&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona las &lt;b&gt;&lt;u&gt;2&lt;/u&gt;&lt;/b&gt;&amp;#160;claves en el p&amp;#225;rrafo que te ayudan a comprender el significado de la palabra subrayada.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Cuando le di la noticia a mi prima, ella qued&amp;#243; &lt;u&gt;alarmada&lt;/u&gt;. Puso una cara asustada y camin&amp;#243; nerviosa por toda la casa. Yo no sab&amp;#237;a qu&amp;#233; hacer para calmarla. Decid&amp;#237; llamar a mi mam&amp;#225; para ver qu&amp;#233; nos dec&amp;#237;a ella.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>cara asustada</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>caminó nerviosa</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>qué nos decía</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Tengo un &lt;u&gt;dilema &lt;/u&gt;que me cuesta resolver. No he podido decidir qu&amp;#233; hacer. Creo que voy a pedirle a mi amigo Eduardo que me aconseje. &amp;#201;l es una persona muy sabia.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>persona muy sabia</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>No he podido decidir</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>me cuesta resolver</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;El ruido de la construcci&amp;#243;n era &lt;u&gt;constante&lt;/u&gt;. Se escuchaba todo el&amp;#160;d&amp;#237;a y toda la noche. El alcalde hab&amp;#237;a dado un permiso especial para que la empresa trabajara sin parar. Pero yo no lo soportaba m&amp;#225;s.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>todo el día y toda la noche</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>trabajara sin parar</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>había dado un permiso especial</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;El &lt;u&gt;golfo &lt;/u&gt;de Venezuela est&amp;#225; ubicado en la parte sur del mar Caribe. Se encuentra entre dos pen&amp;#237;nsulas y sus aguas y costas se comparten entre Venezuela y Colombia. Ambos pa&amp;#237;ses est&amp;#225;n en la parte norte de Am&amp;#233;rica del Sur.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>parte sur del mar Caribe</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Ambos países están en la parte norte</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Se encuentra entre dos penínsulas</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Las olas del mar &lt;u&gt;azotaban &lt;/u&gt;la costa. Hab&amp;#237;a empezado la tormenta violenta que tra&amp;#237;a consigo vientos muy fuertes. Estos impulsaban las olas una y otra vez contra la playa y las grandes rocas. No se ve&amp;#237;a ni rastro del Sol.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>tormenta violenta</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>impulsaban las olas una y otra vez</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>ni rastro del Sol</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

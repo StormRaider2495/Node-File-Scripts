@@ -1,0 +1,207 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Category Words: Tree Parts",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture to hear its name. Drag words that describe parts of trees to the blue box. Drag words that do not into the red box. Then click OK.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Tree Parts",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW052_001A_193002_d.jpg",
+                  "audio": "roots.mp3",
+                  "altText": "A tree. Its roots are shown underground."
+                },
+                {
+                  "text": "M100_UW052_003A_193002_d.jpg",
+                  "audio": "branch.mp3",
+                  "altText": "A tree trunk with a small branch sticking out of it."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Tree Parts",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_020A_193002_d.jpg",
+                  "audio": "spot.mp3",
+                  "altText": "Purple paint splatter."
+                },
+                {
+                  "text": "M100_UW052_019A_193002_d.jpg",
+                  "audio": "quack.mp3",
+                  "altText": "A quacking duck."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Tree Parts",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW052_018A_193002_d.jpg",
+                  "audio": "leaf.mp3",
+                  "altText": "A feather."
+                },
+                {
+                  "text": "M100_UW052_002A_193002_d.jpg",
+                  "audio": "trunk.mp3",
+                  "altText": "A tree. A red arrow points to its trunk."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Tree Parts",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_012A_193002_d.jpg",
+                  "audio": "ink.mp3",
+                  "altText": "Ink that has spilled out of an ink jar."
+                },
+                {
+                  "text": "M100_UW011_076A_193002_d.jpg",
+                  "audio": "goat.mp3",
+                  "altText": "A goat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Tree Parts",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW052_003A_193002_d.jpg",
+                  "audio": "bark.mp3",
+                  "altText": "A tree trunk with a small branch sticking out of it."
+                },
+                {
+                  "text": "M100_UW042_011A_193002_d.jpg",
+                  "audio": "seed.mp3",
+                  "altText": "Seeds being planted in a field."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Tree Parts",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_001A_193002_d.jpg",
+                  "audio": "catch.mp3",
+                  "altText": "A boy catching a baseball."
+                },
+                {
+                  "text": "M100_UW012_021A_193002_d.jpg",
+                  "audio": "bed.mp3",
+                  "altText": "A bed."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

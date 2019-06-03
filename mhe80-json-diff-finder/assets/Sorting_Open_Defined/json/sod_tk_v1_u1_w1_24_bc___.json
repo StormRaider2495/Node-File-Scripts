@@ -1,0 +1,222 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Category Words: Feeling Words",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture to hear its name. Drag feeling words to the blue box. Drag words that are not feeling words into the red box. Then click OK.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Feeling Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_003A_193002_d.jpg",
+                  "audio": "sad.mp3",
+                  "altText": "A sad girl crying."
+                },
+                {
+                  "text": "M100_UW011_001A_193002_d.jpg",
+                  "audio": "happy.mp3",
+                  "altText": "A little boy smiling outside as the sun shines in the background."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Feeling Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_009A_193002_d.jpg",
+                  "audio": "desk.mp3",
+                  "altText": "A wooden table that has a red book, a slip of paper, a green pencil, and a blue crayon on it."
+                },
+                {
+                  "text": "M100_ UW011_010A_193002_d.jpg",
+                  "audio": "run.mp3",
+                  "altText": "A little girl running. She has on a purple shirt, yellow shorts, and blue shoes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Feelings Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_005A._193002_d.jpg",
+                  "audio": "silly.mp3",
+                  "altText": "A girl smiling widely with her fingers at the corners of her mouth."
+                },
+                {
+                  "text": "M100_UW011_006A_193002_d.jpg",
+                  "audio": "scared.mp3",
+                  "altText": "A girl lying awake in bed at night, scared."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Feeling Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_011A_193002_d.jpg",
+                  "audio": "listen.mp3",
+                  "altText": "A boy with a hand to his ear listening."
+                },
+                {
+                  "text": "M100_UW011_012A_193002_d.jpg",
+                  "audio": "ear.mp3",
+                  "altText": "A smiling boy. A red arrow points to his ear."
+                },
+                {
+                  "text": "M100_UW011_002A_193002_d.jpg",
+                  "audio": "book.mp3",
+                  "altText": "An open book."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Feeling Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_007A_193002_d.jpg",
+                  "audio": "excited.mp3",
+                  "altText": "A girl in pigtails smiling with a wrapped present in front of her."
+                },
+                {
+                  "text": "M100_UW011_008A_193002_d.jpg",
+                  "audio": "tired.mp3",
+                  "altText": "A boy yawning and wearing blue pinstripe pajamas."
+                },
+                {
+                  "text": "M100_UW011_004A_193002_d.jpg",
+                  "audio": "proud.mp3",
+                  "altText": "A boy smiling and wearing a red ribbon that has 1st on it."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Feeling Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_013A_193002_d.jpg",
+                  "audio": "ring.mp3",
+                  "altText": "Three bells."
+                },
+                {
+                  "text": "M100_UW011_014A_193002_d.jpg",
+                  "audio": "arm.mp3",
+                  "altText": "A smiling girl in pigtails. An arrow points to her arm."
+                },
+                {
+                  "text": "M100_UW011_015A_193002_d.jpg",
+                  "audio": "balloon.mp3",
+                  "altText": "A red balloon."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

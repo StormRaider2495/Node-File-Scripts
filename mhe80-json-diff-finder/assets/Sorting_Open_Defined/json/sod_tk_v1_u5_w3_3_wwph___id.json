@@ -1,0 +1,267 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phonics: Identify/Categorize",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture to hear its name. Drag pictures that begin with the letter f into the left box. Drag pictures that begin with the letter r into the right box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "f___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_051A_193002_d.jpg",
+                  "audio": "feather.mp3",
+                  "altText": "A blue feather."
+                },
+                {
+                  "text": "M100_UW011_010A_193002_186626_d.jpg",
+                  "audio": "fast.mp3",
+                  "altText": "A girl running."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "r___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_016A_193002_d.jpg",
+                  "audio": "rocket.mp3",
+                  "altText": "A rocket blasting off into space."
+                },
+                {
+                  "text": "M100_UW021_025A_193002_d.jpg",
+                  "audio": "rug.mp3",
+                  "altText": "A brown and green rug."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "f___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW053_007A_193002_d.jpg",
+                  "audio": "feet.mp3",
+                  "altText": "Two feet."
+                },
+                {
+                  "text": "M100_UW051_007A_193002_d.jpg",
+                  "audio": "five.mp3",
+                  "altText": "The number five."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "r___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_028A_193002_d.jpg",
+                  "audio": "rope.mp3",
+                  "altText": "A rope."
+                },
+                {
+                  "text": "M100_UW073_010A_193002_d.jpg",
+                  "audio": "reindeer.mp3",
+                  "altText": "An elk."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "f___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_069A_193002_d.jpg",
+                  "audio": "fox.mp3",
+                  "altText": "A fox."
+                },
+                {
+                  "text": "M100_UW011_046A_193002_d.jpg",
+                  "audio": "fish.mp3",
+                  "altText": "A blue and green fish."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "r___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW053_017A_193002_d.jpg",
+                  "audio": "rabbit.mp3",
+                  "altText": "A white bunny."
+                },
+                {
+                  "text": "M100_UW042_039A_193002_d.jpg",
+                  "audio": "read2.mp3",
+                  "altText": "A mole wearing glasses and reading a book. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "f___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_006A_193002_d.jpg",
+                  "audio": "father.mp3",
+                  "altText": "A father, son, and daughter kicking a ball. A red arrow points to the father."
+                },
+                {
+                  "text": "M100_UW023_006A_193002_d.jpg",
+                  "audio": "fly.mp3",
+                  "altText": "A butterfly with yellow, pink, and purple wings."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "r___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW032_027A_193002_d.jpg",
+                  "audio": "raccoon.mp3",
+                  "altText": "A raccoon."
+                },
+                {
+                  "text": "M100_UW021_004A_193002_d.jpg",
+                  "audio": "red.mp3",
+                  "altText": "A red wagon."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

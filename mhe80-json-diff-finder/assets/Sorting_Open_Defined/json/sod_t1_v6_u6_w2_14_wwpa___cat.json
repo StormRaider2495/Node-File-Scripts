@@ -1,0 +1,531 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phoneme Categorization",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture to hear its name. Drag pictures with the same vowel sound into the blue box. Drag pictures that do not have that vowel sound into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Vowel Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_001A_114242_D.jpg",
+                  "audio": "ball.mp3",
+                  "altText": "A multicolored beach ball."
+                },
+                {
+                  "text": "M100_UW062_012A_114242_D.jpg",
+                  "audio": "hawk.mp3",
+                  "altText": "A flying eagle."
+                },
+                {
+                  "text": "M100_UW062_019A_114242_D.jpg",
+                  "audio": "salt.mp3",
+                  "altText": "A salt shaker."
+                },
+                {
+                  "text": "M100_UW062_007A_114242_D.jpg",
+                  "audio": "draw.mp3",
+                  "altText": "A boy and a girl using colored pencils to draw pictures."
+                },
+                {
+                  "text": "M100_UW062_024A_114242_D.jpg",
+                  "audio": "tall.mp3",
+                  "altText": "A father and his son standing outside. A red arrow points to the top of the father's head."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Vowel Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_007A_114242_D.jpg",
+                  "audio": "gate.mp3",
+                  "altText": "An open yellow gate."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Vowel Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW062_009A_114242_D.jpg",
+                  "audio": "hall.mp3",
+                  "altText": "A rug lies in a hallway heading to a door. "
+                },
+                {
+                  "text": "M100_UW062_027A_114242_D.jpg",
+                  "audio": "wall.mp3",
+                  "altText": "A brick pattern."
+                },
+                {
+                  "text": "M100_UW062_028A_114242_D.jpg",
+                  "audio": "claw.mp3",
+                  "altText": "A crab. A red arrow points to one of its claws."
+                },
+                {
+                  "text": "M100_UW062_013A_114242_D.jpg",
+                  "audio": "jaw.mp3",
+                  "altText": "A smiling boy. A red arrow points to his jaw."
+                },
+                {
+                  "text": "M100_UW062_006A_114242_D.jpg",
+                  "audio": "dawn.mp3",
+                  "altText": "A rooster crowing at dawn."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Vowel Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW061_007A_114242_D.jpg",
+                  "audio": "juice.mp3",
+                  "altText": "A glass of orange juice."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Vowel Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW062_025A_114242_D.jpg",
+                  "audio": "vault.mp3",
+                  "altText": "A safe."
+                },
+                {
+                  "text": "M100_UW062_004A_114242_D.jpg",
+                  "audio": "chalk.mp3",
+                  "altText": "A bucket of multicolored chalk."
+                },
+                {
+                  "text": "M100_UW062_017A_114242_D.jpg",
+                  "audio": "paw.mp3",
+                  "altText": "A lion. A red arrow points to its paw."
+                },
+                {
+                  "text": "M100_UW062_021A_114242_D.jpg",
+                  "audio": "saw.mp3",
+                  "altText": "A saw."
+                },
+                {
+                  "text": "M100_UW062_003A_114242_D.jpg",
+                  "audio": "caught.mp3",
+                  "altText": "A boy catching a soccer ball."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Vowel Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_009A_114242_D.jpg",
+                  "audio": "horse.mp3",
+                  "altText": "A horse."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Vowel Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW062_005A_114242_D.jpg",
+                  "audio": "crawl.mp3",
+                  "altText": "A baby girl crawling."
+                },
+                {
+                  "text": "M100_UW062_026A_114242_D.jpg",
+                  "audio": "walk.mp3",
+                  "altText": "A boy walking his dog on a leash outside."
+                },
+                {
+                  "text": "M100_UW062_017A_114242_D.jpg",
+                  "audio": "paw.mp3",
+                  "altText": "A lion. A red arrow points to its paw."
+                },
+                {
+                  "text": "M100_UW062_021A_114242_D.jpg",
+                  "audio": "saw.mp3",
+                  "altText": "A saw."
+                },
+                {
+                  "text": "M100_UW062_018A_114242_D.jpg",
+                  "audio": "pawn.mp3",
+                  "altText": "A chess pawn."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Vowel Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_009A_114242_D.jpg",
+                  "audio": "jump.mp3",
+                  "altText": "A boy jumping."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Vowel Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW062_008A_114242_D.jpg",
+                  "audio": "fall.mp3",
+                  "altText": "A potted plant falling off a table."
+                },
+                {
+                  "text": "M100_UW012_033A_114242_D.jpg",
+                  "audio": "yawn.mp3",
+                  "altText": "A boy yawning."
+                },
+                {
+                  "text": "M100_UW062_019A_114242_D.jpg",
+                  "audio": "salt.mp3",
+                  "altText": "A salt shaker."
+                },
+                {
+                  "text": "M100_UW062_011A_114242_D.jpg",
+                  "audio": "haul.mp3",
+                  "altText": "A yellow truck hauling rocks."
+                },
+                {
+                  "text": "M100_UW062_020A_114242_D.jpg",
+                  "audio": "sauce.mp3",
+                  "altText": "A bowl of spaghetti. A red arrow points to the sauce on top."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Vowel Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_015A_114242_D.jpg",
+                  "audio": "shirt.mp3",
+                  "altText": "A yellow shirt."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Vowel Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW062_015A_114242_D.jpg",
+                  "audio": "lawn.mp3",
+                  "altText": "A small yellow house. A red arrow points to the grass on the yard."
+                },
+                {
+                  "text": "M100_UW062_006A_114242_D.jpg",
+                  "audio": "dawn.mp3",
+                  "altText": "A rooster crowing at dawn."
+                },
+                {
+                  "text": "M100_UW062_022A_114242_D.jpg",
+                  "audio": "shawl.mp3",
+                  "altText": "A woman wearing a purple shawl. A red arrow points to the shawl."
+                },
+                {
+                  "text": "M100_UW062_014A_114242_D.jpg",
+                  "audio": "launch.mp3",
+                  "altText": "A rocket launching."
+                },
+                {
+                  "text": "M100_UW062_030A_114242_D.jpg",
+                  "audio": "thaw.mp3",
+                  "altText": "Ice on a tree branch."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Vowel Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_029A_114242_D.jpg",
+                  "audio": "plant.mp3",
+                  "altText": "A potted green plant."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Vowel Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW062_002A_114242_D.jpg",
+                  "audio": "call.mp3",
+                  "altText": "A girl talking on a cordless phone."
+                },
+                {
+                  "text": "M100_UW062_016A_114242_D.jpg",
+                  "audio": "mall.mp3",
+                  "altText": "A boy and girl holding shopping bags in front of a store."
+                },
+                {
+                  "text": "M100_UW062_023A_114242_D.jpg",
+                  "audio": "stalk.mp3",
+                  "altText": "Celery."
+                },
+                {
+                  "text": "M100_UW062_029A_114242_D.jpg",
+                  "audio": "saucer.mp3",
+                  "altText": "Coffee in a mug. A red arrow points to the plate under the mug."
+                },
+                {
+                  "text": "M100_UW062_001A_114242_D.jpg",
+                  "audio": "austin.mp3",
+                  "altText": "A boy looking at the name tag on his shirt. It reads Austin."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Vowel Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_027A_114242_D.jpg",
+                  "audio": "cake.mp3",
+                  "altText": "A cake with four lit candles on it."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Vowel Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW061_022A_114242_D.jpg",
+                  "audio": "soup.mp3",
+                  "altText": "A bowl of soup."
+                },
+                {
+                  "text": "M100_UW061_032A_114242_D.jpg",
+                  "audio": "moose.mp3",
+                  "altText": "A brown moose."
+                },
+                {
+                  "text": "M100_UW061_037A_114242_D.jpg",
+                  "audio": "goose.mp3",
+                  "altText": "A goose."
+                },
+                {
+                  "text": "M100_UW034_018A_114242_D.jpg",
+                  "audio": "flute.mp3",
+                  "altText": "A boy playing a flute."
+                },
+                {
+                  "text": "M100_UW061_024A_114242_D.jpg",
+                  "audio": "stool.mp3",
+                  "altText": "A wooden stool."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Vowel Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_019A_114242_D.jpg",
+                  "audio": "car.mp3",
+                  "altText": "A blue car."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

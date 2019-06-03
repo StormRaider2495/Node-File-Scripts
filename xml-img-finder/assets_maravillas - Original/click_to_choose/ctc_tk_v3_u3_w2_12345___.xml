@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Gram&amp;#225;tica: la oraci&amp;#243;n&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona una imagen para completar la oraci&amp;#243;n.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#160;El [nin1o] come tomate.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_nino.jpg</image>
+              <audio>TEG_nin1o.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_carro.jpg</image>
+              <audio>TEG_carro.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Pati [saluda] a los ni&amp;#241;os.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_saluda.jpg</image>
+              <audio>TEG_saluda.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_avion.jpg</image>
+              <audio>TEG_avion.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;El [ni&amp;#241;o] saluda por la ventana.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_taza.jpg</image>
+              <audio>TEG_taza.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_nino.jpg</image>
+              <audio>TEG_nin1o.mp3</audio>
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;El [ballena] nada en el mar.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_telefono.jpg</image>
+              <audio>TEG_telefono.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_ballena.jpg</image>
+              <audio>TEG_ballena.mp3</audio>
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

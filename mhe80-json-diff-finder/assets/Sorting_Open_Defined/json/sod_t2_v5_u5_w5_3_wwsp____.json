@@ -1,0 +1,233 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Spelling: Short Vowel Digraphs /e/ <i>ea</i>; /u/ <i>ou</i>; /i/ <i>y</i>",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Drag the words with the same short vowel sound and spelling into the boxes.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>ea</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "dead",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "ahead",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "lead",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "thread",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bread",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "breath",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>ou</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "touch",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "trouble",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>y</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "gym",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "myth",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>ea</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "spread",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "threat",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "heavy",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "steady",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "ready",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sweat",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>ou</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "young",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "country",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>y</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "crypt",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Egypt",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

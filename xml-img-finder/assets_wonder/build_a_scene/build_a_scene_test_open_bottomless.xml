@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>World Flags</title>
+  <directions>Drag the flags to countries that speak the language associated with the flag.</directions>
+  <directionsAudio>directions_audio_test.mp3</directionsAudio>   
+  <layoutMode value="no" />
+  <itemReplenishmentMode value="bottomless" />
+  <assessmentMode value="nonassessed" />
+  <positionData></positionData>
+  <rounds>
+	<round>
+		<contentImage>test_map_world.jpg</contentImage>
+		<contentImageAudio>test_map.mp3</contentImageAudio>	
+		  <imageSize value="small" />
+		  <textSize></textSize> 
+			<items>
+				<item>
+				  <text />
+				  <image>test_spain</image>
+				</item>
+				<item>
+				  <text />
+				  <image>test_uk</image>
+				</item>
+				<item>
+				  <text />
+				  <image>test_french</image>
+				</item>
+			</items>
+			<distractors>
+				<item>
+				  <text />
+				  <image></image>
+				  <audio></audio>				  
+				</item>			
+			</distractors>
+		</round> 
+	<round>
+		<contentImage>test_map_world.jpg</contentImage>
+		<contentImageAudio></contentImageAudio>	
+		  <imageSize value="small" />
+		  <textSize>16</textSize> 
+			<items>
+				<item>
+				  <text>Spanish</text>
+					<image></image>
+				  <audio></audio>				  					
+				</item>
+				<item>
+				  <text>English</text>
+				  <image></image>
+				  <audio></audio>				  				  
+				</item>
+				<item>
+				  <text>French</text>
+				  <audio></audio>				  				  
+				</item>
+			</items>
+			<distractors>
+				<item>
+				  <text />
+				  <image></image>
+				  <audio></audio>				  
+				</item>			
+			</distractors>
+		</round>		
+
+		
+	</rounds>  		
+		  
+		  
+		  
+</build_a_scene>
+

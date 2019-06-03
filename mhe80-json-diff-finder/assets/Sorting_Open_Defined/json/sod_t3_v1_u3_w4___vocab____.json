@@ -1,0 +1,568 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Build Vocabulary: Shades of Meaning",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Example",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "sample",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "lesson",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "instance",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Identical",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "same",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "twin",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Model",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "copy",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "display",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "example",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Observe",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "see",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "note",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "watch",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Similar",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "related",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "resemblance",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "alike",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Effective",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "active",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "useful",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "capable",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Astonish",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "amaze",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "overwhelm",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "delight",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Respect",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "honor",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "favor",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "appreciate",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Wisdom",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "experience",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "understanding",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "learning",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Disappoint",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "sadden",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mislead",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "let down",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Careless",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "messy",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "rushed",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sloppy",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Prepare",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "fix",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "plan",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "practice",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Mistake",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "wrong",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "fail",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "error",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Explain",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "define",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "solve",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "describe",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Pleasant",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "charming",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "polite",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "enjoyable",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Struggle",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "battle",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "compete",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "fight",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Wander",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "drift",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "stray",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "roam",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Danger",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "trouble",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "difficulty",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "risk",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

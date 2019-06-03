@@ -1,0 +1,177 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Category Words: Family Words",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture to hear its name. Drag family words to the blue box. Drag words that are not family words into the red box. Then click OK.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Family Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_003A_193002_d.jpg",
+                  "audio": "brother.mp3",
+                  "altText": "A dad, a mom, a son, and a daughter. A blue arrow points to the son."
+                },
+                {
+                  "text": "M100_UW012_004A_193002_d.jpg",
+                  "audio": "grandmother.mp3",
+                  "altText": "A grandmother and her granddaughter throwing a ball to each other. A red arrow points to the grandmother."
+                },
+                {
+                  "text": "M100_UW012_001A_193002_d.jpg",
+                  "audio": "mother.mp3",
+                  "altText": "A mother holding her toddler daughter."
+                },
+                {
+                  "text": "M100_UW012_002A_193002_d.jpg",
+                  "audio": "grandfather.mp3",
+                  "altText": "A boy playing with toy cars with his grandfather. A red arrow points to the grandfather."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Family Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_003A_193002_d.jpg",
+                  "audio": "police_officer.mp3",
+                  "altText": "A police officer."
+                },
+                {
+                  "text": "M100_ UW012_010A_193002_d.jpg",
+                  "audio": "house.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "M100_UW011_001A_193002_d.jpg",
+                  "audio": "happy.mp3",
+                  "altText": "A little boy smiling outside as the sun shines in the background."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Family Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_005A_193002_d.jpg",
+                  "audio": "sister.mp3",
+                  "altText": "A father, mother, son, daughter, and grandmother. "
+                },
+                {
+                  "text": "M100_UW012_006A_193002_d.jpg",
+                  "audio": "father.mp3",
+                  "altText": "A father, son, and daughter kicking a ball. A red arrow points to the father."
+                },
+                {
+                  "text": "M100_UW012_007A_193002_d.jpg",
+                  "audio": "daughter.mp3",
+                  "altText": "A dad, a mom, a son, and a daughter. A red arrow points to the son."
+                },
+                {
+                  "text": "M100_UW012_008A_193002_d.jpg",
+                  "audio": "son.mp3",
+                  "altText": "A father, mother, and son."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Family Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_ UW011_010A_193002_d.jpg",
+                  "audio": "run.mp3",
+                  "altText": "A little girl running. She has on a purple shirt, yellow shorts, and blue shoes."
+                },
+                {
+                  "text": "M100_ UW012_011A_193002_d.jpg",
+                  "audio": "friend.mp3",
+                  "altText": "Two girls sitting and reading a red book together. "
+                },
+                {
+                  "text": "M100_UW012_012A_193002_d.jpg",
+                  "audio": "class.mp3",
+                  "altText": "Ten students sitting in class. Two of them have their hands raised."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

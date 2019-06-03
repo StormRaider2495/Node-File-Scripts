@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>Spelling: Word Sort with Short a and Short i</title>
+  <directions>&lt;p&gt;Drag the words with the same short vowel sounds into the boxes.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/a/</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>has</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>wag</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>bad</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>sat</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>had</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>can</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>/i/</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>six</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>will</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>fix</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>him</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>if</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>hit</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/a/</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>can</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>fan</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>hat</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>ram</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>map</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>/i/</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>hit</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>rim</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>fin</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>lip</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>sip</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

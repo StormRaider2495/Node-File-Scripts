@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras:&amp;#160;&lt;i&gt;Movimiento&lt;/i&gt;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;En esta actividad los ni&amp;#241;os clasifican palabras seg&amp;#250;n una categor&amp;#237;a.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Colocar las palabras que pertenezcan a la categor&amp;#237;a &lt;i&gt;Movimiento&amp;#160;&lt;/i&gt;en la caja roja y las que no pertenezcan en la caja azul.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Movimiento</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_trotar.jpg</text>
+                      <audio>TEG_trotar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_correr.jpg</text>
+                      <audio>TEG_correr.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_arrastrase.jpg</text>
+                      <audio>TEG_arrastrase.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_saltar.jpg</text>
+                      <audio>TEG_saltar.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Otras palabras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_secreto.jpg</text>
+                      <audio>TEG_secreto.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_cerrojo.jpg</text>
+                      <audio>TEG_cerrojo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_raton.jpg</text>
+                      <audio>TEG_raton.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_bano.jpg</text>
+                      <audio>TEG_bano.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Colocar las palabras que pertenezcan a la categor&amp;#237;a &lt;i&gt;Movimiento&amp;#160;&lt;/i&gt;en la caja roja y las que no pertenezcan en la caja azul.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Movimiento</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_gatear.jpg</text>
+                      <audio>TEG_gatear.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_caminar.jpg</text>
+                      <audio>TEG_caminar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_marchar.jpg</text>
+                      <audio>TEG_marchar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_volar.jpg</text>
+                      <audio>TEG_volar.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Otras palabras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_leche.jpg</text>
+                      <audio>TEG_leche.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_chaleco.jpg</text>
+                      <audio>TEG_chaleco.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_ajo.jpg</text>
+                      <audio>TEG_ajo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_burbujas.jpg</text>
+                      <audio>TEG_burbujas.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

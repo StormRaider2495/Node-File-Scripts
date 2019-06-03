@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Text Features&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Look at each picture. Then read each sentence. Drag sentences that tell more detail about the picture into the blue box. Drag sentences that do not provide more detail into the red box.&lt;/p&gt;</directions>
+  <directionsAudio>dl_sentence_bluebox_redbox.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title />
+                  <titleImage>M300_UW034_003A_114242_D.jpg</titleImage>
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Long ago kids worked hard.</text>
+                      <audio>long_ago.mp3</audio>
+                    </item>
+                    <item>
+                      <text>They fed the chickens.</text>
+                      <audio>fed_chickens.mp3</audio>
+                    </item>
+                    <item>
+                      <text>They gathered the eggs.</text>
+                      <audio>gathered_eggs.mp3</audio>
+                    </item>
+                    <item>
+                      <text>Boys and girls helped a lot at home.</text>
+                      <audio>boys_girls_helped.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Other</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>They eat lunch under a tree.</text>
+                      <audio>lunch_under_tree.mp3</audio>
+                    </item>
+                    <item>
+                      <text>They went fishing.</text>
+                      <audio>went_fishing.mp3</audio>
+                    </item>
+                    <item>
+                      <text>Boys and girls read a lot.</text>
+                      <audio>boys_girls_read.mp3</audio>
+                    </item>
+                    <item>
+                      <text>The boy likes to swim.</text>
+                      <audio>boy_swim.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

@@ -1,0 +1,267 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phonics: Identify/Categorize",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on the picture to hear its name. Drag pictures that begin with the letter k into the left box. Drag pictures that end with the letters ck into the right box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "k___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_035A_193002_d.jpg",
+                  "audio": "key.mp3",
+                  "altText": "A brass key."
+                },
+                {
+                  "text": "M100_UW062_019A_193002_d.jpg",
+                  "audio": "king.mp3",
+                  "altText": "A king wearing his crown."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "___ck",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_022A_193002_d.jpg",
+                  "audio": "lock.mp3",
+                  "altText": "A metal lock."
+                },
+                {
+                  "text": "M100_UW022_039A_193002_d.jpg",
+                  "audio": "tack.mp3",
+                  "altText": "A red thumb tack."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "k___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_071A_193002_d.jpg",
+                  "audio": "kid.mp3",
+                  "altText": "A girl with pigtails with her arms folded."
+                },
+                {
+                  "text": "M100_UW022_032A_193002_d.jpg",
+                  "audio": "kite.mp3",
+                  "altText": "A red kite."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "___ck",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_068A_193002_d.jpg",
+                  "audio": "sock.mp3",
+                  "altText": "A pair of purple socks."
+                },
+                {
+                  "text": "M100_UW061_025A_193002_d.jpg",
+                  "audio": "truck.mp3",
+                  "altText": "A red pickup truck."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "k___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW062_009A_193002_d.jpg",
+                  "audio": "kettle.mp3",
+                  "altText": "A steaming tea kettle."
+                },
+                {
+                  "text": "M100_UW062_018A_193002_d.jpg",
+                  "audio": "kangaroo.mp3",
+                  "altText": "A kangaroo."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "___ck",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW021_005A_193002_d.jpg",
+                  "audio": "black.mp3",
+                  "altText": "A black tire."
+                },
+                {
+                  "text": "M100_UW052_011A_193002_d.jpg",
+                  "audio": "clock.mp3",
+                  "altText": "A clock. The time reads five o'clock."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "k___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW062_008A_193002_d.jpg",
+                  "audio": "kit.mp3",
+                  "altText": "A red first aid kit."
+                },
+                {
+                  "text": "M100_UW012_032A_193002_d.jpg",
+                  "audio": "koala.mp3",
+                  "altText": "A koala."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "___ck",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_028A_193002_d.jpg",
+                  "audio": "duck.mp3",
+                  "altText": "A mallard duck."
+                },
+                {
+                  "text": "M100_UW014_018A_114242_D.jpg",
+                  "audio": "rock.mp3",
+                  "altText": "A rock on top of green grass."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

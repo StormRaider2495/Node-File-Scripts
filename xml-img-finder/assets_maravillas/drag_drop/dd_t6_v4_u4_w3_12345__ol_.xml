@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Gramática: pronombre posesivo</title>
+  <directions>Lee la oración y los pronombres del recuadro. Agarra el pronombre correcto y suéltalo en el espacio en blanco.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Este libro les pertenece a ellos, es [suyo].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>tuyo</text>
+            </distractor>
+            <distractor>
+              <text>mio</text>
+            </distractor>
+            <distractor>
+              <text>nuestro</text>
+            </distractor>
+            <distractor>
+              <text>vuestro</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;&amp;#191;Nos prestan su computadora? &amp;#161;La [nuestra] est&amp;#225; muy lenta!&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>tuya</text>
+            </distractor>
+            <distractor>
+              <text>suya</text>
+            </distractor>
+            <distractor>
+              <text>mía</text>
+            </distractor>
+            <distractor>
+              <text>vuestra</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Laura y yo vivimos en la misma cuadra: su casa queda en un extremo; la [m&amp;#237;a], en el otro.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>tuya</text>
+            </distractor>
+            <distractor>
+              <text>suya</text>
+            </distractor>
+            <distractor>
+              <text>vuestra</text>
+            </distractor>
+            <distractor>
+              <text>nuestra</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Vuestros disfraces ya est&amp;#225;n planchados y listos; los [nuestros], no.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>míos</text>
+            </distractor>
+            <distractor>
+              <text>mía</text>
+            </distractor>
+            <distractor>
+              <text>tuya</text>
+            </distractor>
+            <distractor>
+              <text>suyo</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Mi carro est&amp;#225; en el taller. &amp;#191;Ser&amp;#225; que los Ortega me llevan en el [suyo]?&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>nuestro</text>
+            </distractor>
+            <distractor>
+              <text>nuestros</text>
+            </distractor>
+            <distractor>
+              <text>vuestro</text>
+            </distractor>
+            <distractor>
+              <text>tuyo</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Consideramos [nuestra] la tierra que nos vio nacer.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>vuestra</text>
+            </distractor>
+            <distractor>
+              <text>suya</text>
+            </distractor>
+            <distractor>
+              <text>mía</text>
+            </distractor>
+            <distractor>
+              <text>suyas</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

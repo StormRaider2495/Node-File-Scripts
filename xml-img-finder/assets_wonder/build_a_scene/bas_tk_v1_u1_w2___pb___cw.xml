@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Category Words</title>
+  <directions>Click each picture to hear its name. Drag the pictures that show family members to the red stars. If the picture does not show a family member, do not drag it.</directions>
+  <directionsAudio>dl_show_family_member.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="121.15" y="533.65"/&gt;  &lt;position x="283.2" y="536.1"/&gt;  &lt;position x="458.35" y="532.85"/&gt;  &lt;position x="620.4" y="531.15"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="117.9" y="533.65"/&gt;  &lt;position x="283.2" y="534.5"/&gt;  &lt;position x="458.35" y="532"/&gt;  &lt;position x="618.8" y="532.05"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW012_001A_193002_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M100_UW012_001A_193002.jpg</image>
+          <audio>mother.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW012_002A_193002_d.jpg</image>
+          <audio>grandfather.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW012_007A_193002.jpg</image>
+          <audio>sister.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW012_007A_193002_d.jpg</image>
+          <audio>brother.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW031_037A_193002_d.jpg</image>
+          <audio>hammer.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW012_012A_193002_d.jpg</image>
+          <audio>class.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW012_001A_193002_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M100_UW012_006A_193002_d.jpg</image>
+          <audio>father.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW012_004A_193002_d.jpg</image>
+          <audio>grandmother.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW071_001A_A_193002_d.jpg</image>
+          <audio>uncle.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW012_007A_193002_d.jpg</image>
+          <audio>brother.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW012_012A_193002_d.jpg</image>
+          <audio>class.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_ UW032_006A_193002_d.jpg</image>
+          <audio>newspaper.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

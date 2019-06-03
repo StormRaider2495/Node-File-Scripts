@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>Spelling: Word Sort with sp–, gr–, dr–</title>
+  <directions>&lt;p&gt;Drag words with the same beginning sounds into the boxes. If the word does not have the same beginning as any of the words, drag it into the &amp;#8220;Other&amp;#8221; bin.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="yellow2" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>spot</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>spill</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>spin</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>grin</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>grab</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>grass</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>drill</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>drop</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>drip</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>hop</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>lot</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>two</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>move</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>spot</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>spat</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>spit</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>span</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>grin</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>grill</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>grim</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>grip</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>drill</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>drab</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>drag</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>dram</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: palabras con &lt;i&gt;ce, ci, z&lt;/i&gt;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Coloca las palabras en la columna correcta. Si la palabra no se escribe con &lt;i&gt;ce, ci&lt;/i&gt; o &lt;i&gt;z&lt;/i&gt;, ponla en la columna "Otras".&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow2" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>ce</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>lápices</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>celoso</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>ci</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>ciudadano</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>elevación</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>z</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>buzón</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>mudanza</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Otras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>secador</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>sismo</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>ce</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>cebra</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>centavo</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>ci</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>ciclo</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cocina</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>z</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>zapato</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>taza</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Otras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>camisa</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>mesa</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>simple</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

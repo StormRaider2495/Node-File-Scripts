@@ -1,0 +1,152 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phoneme Categorization",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click each picture to hear its name. Drag pictures that have the /m/ sound into the blue box. Drag pictures that do not have the /m/ sound into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/m/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_017A_193002_186626_d.jpg",
+                  "audio": "broom.mp3",
+                  "altText": "A broom with a brown handle and yellow straw."
+                },
+                {
+                  "text": "M100_UW051_015A_114242_D.jpg",
+                  "audio": "farm.mp3",
+                  "altText": "A farm with a barn and fence, a cow, a pig, and three chickens."
+                },
+                {
+                  "text": "M100_UW011_074A_193002_d.jpg",
+                  "audio": "mouse.mp3",
+                  "altText": "A mouse."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "No /m/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_027A_114242_D.jpg",
+                  "audio": "ten.mp3",
+                  "altText": "The number ten."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/m/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_018A_193002_d.jpg",
+                  "audio": "drum.mp3",
+                  "altText": "A purple drum with two brown mallets."
+                },
+                {
+                  "text": "M100_UW011_023A_193002_d.jpg",
+                  "audio": "monkey.mp3",
+                  "altText": "A monkey holding a banana."
+                },
+                {
+                  "text": "M100_UW011_021A_193002_d.jpg",
+                  "audio": "moth.mp3",
+                  "altText": "A butterfly with brown wings."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "No /m/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_055A_193002_d.jpg",
+                  "audio": "ant.mp3",
+                  "altText": "A black insect."
+                },
+                {
+                  "text": "M100_UW011_056A_193002_d.jpg",
+                  "audio": "crayon.mp3",
+                  "altText": "A red crayon."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

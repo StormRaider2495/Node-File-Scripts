@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras: palabras para preguntar&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en el bot&amp;#243;n para o&amp;#237;r la pregunta. Haz clic en la imagen que responde la pregunta.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;&amp;#191;Qui&amp;#233;n?&lt;/b&gt;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_quien.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_nina.jpg</image>
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_queso.jpg</image>
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;&amp;#191;Qu&amp;#233;?&lt;/b&gt;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_que.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_alpinista.jpg</image>
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_paraguas.jpg</image>
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;&amp;#191;D&amp;#243;nde?&lt;/b&gt;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_donde1.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_cocina.jpg</image>
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_vaso.jpg</image>
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

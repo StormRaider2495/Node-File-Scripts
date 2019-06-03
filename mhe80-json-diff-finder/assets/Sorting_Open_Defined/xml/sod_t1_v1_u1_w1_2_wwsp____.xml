@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Spelling: Word Sort with &amp;#8211;an, &amp;#8211;ap, &amp;#8211;at&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Drag words with the same ending sounds into the boxes. If the word does not have the same ending as any of the words, drag it into the &amp;#8220;Other&amp;#8221; bin.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>fan</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>man</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>can</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>lap</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>nap</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>tap</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>sat</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>cat</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>hat</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>not</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>does</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Fan</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Jan</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>van</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>pan</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>tan</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Nan</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>lap</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>sap</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>yap</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cap</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>rap</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>map</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>sat</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>bat</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>fat</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>mat</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>pat</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>rat</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

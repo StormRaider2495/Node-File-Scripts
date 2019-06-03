@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Category Words: Days of the Week&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Click on each word or picture to hear its name. Drag days of the week to the blue box. Drag words that are not days of the week into the red box. Then click OK.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <vspacing />
+  <contentMode value="images" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Click on each word or picture to hear its name. Drag days of the week to the blue box. Drag words that are not days of the week into the red box. Then click OK.&lt;/p&gt;</directions>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Days of the Week</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Monday.jpg</text>
+                      <audio>monday.mp3</audio>
+                    </item>
+                    <item>
+                      <text>Thursday.jpg</text>
+                      <audio>thursday.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Not Days of the Week</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW032_007A_114242_D.jpg</text>
+                      <audio>five.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW022_001A_193002_d.jpg</text>
+                      <audio>circle.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Click on each word or picture to hear its name. Drag days of the week to the blue box. Drag words that are not days of the week into the red box. Then click OK.&lt;/p&gt;</directions>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Days of the Week</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Sunday.jpg</text>
+                      <audio>sunday.mp3</audio>
+                    </item>
+                    <item>
+                      <text>Friday.jpg</text>
+                      <audio>friday.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Not Days of the Week</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>e.jpg</text>
+                      <audio>e.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW061_035A_114242_D.jpg</text>
+                      <audio>two.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Click on each word or picture to hear its name. Drag days of the week to the blue box. Drag words that are not days of the week into the red box. Then click OK.&lt;/p&gt;</directions>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Days of the Week</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Wednesday.jpg</text>
+                      <audio>wednesday.mp3</audio>
+                    </item>
+                    <item>
+                      <text>Saturday.jpg</text>
+                      <audio>saturday.mp3</audio>
+                    </item>
+                    <item>
+                      <text>Tuesday.jpg</text>
+                      <audio>tuesday.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Not Days of the Week</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_009A_193002_d.jpg</text>
+                      <audio>desk.mp3</audio>
+                    </item>
+                    <item>
+                      <text>a.jpg</text>
+                      <audio>a.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

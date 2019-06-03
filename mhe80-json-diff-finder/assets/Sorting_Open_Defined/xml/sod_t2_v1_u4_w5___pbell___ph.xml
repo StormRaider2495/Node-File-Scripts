@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;b&gt;&lt;/b&gt;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Listen to each word. Drag words with the vowel sound /air/ into the blue box. Drag words that do not have the vowel sound /air/ into the red box.&lt;/p&gt;</directions>
+  <directionsAudio>dl_vowel_sound_air.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/air/</title>
+                  <titleImage />
+                  <titleAudio>air.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>dare</text>
+                      <audio>dare.mp3</audio>
+                    </item>
+                    <item>
+                      <text>stare</text>
+                      <audio>stare.mp3</audio>
+                    </item>
+                    <item>
+                      <text>fare</text>
+                      <audio>fare.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>car</text>
+                      <audio>car.mp3</audio>
+                    </item>
+                    <item>
+                      <text>three</text>
+                      <audio>three.mp3</audio>
+                    </item>
+                    <item>
+                      <text>bird</text>
+                      <audio>bird.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/air/</title>
+                  <titleImage />
+                  <titleAudio>air.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>stairs</text>
+                      <audio>stairs.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pair</text>
+                      <audio>pair.mp3</audio>
+                    </item>
+                    <item>
+                      <text>chair</text>
+                      <audio>chair.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>peer</text>
+                      <audio>peer.mp3</audio>
+                    </item>
+                    <item>
+                      <text>purse</text>
+                      <audio>purse.mp3</audio>
+                    </item>
+                    <item>
+                      <text>dirt</text>
+                      <audio>dirt.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/air/</title>
+                  <titleImage />
+                  <titleAudio>air.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>bear</text>
+                      <audio>bear.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pear</text>
+                      <audio>pear.mp3</audio>
+                    </item>
+                    <item>
+                      <text>where</text>
+                      <audio>where.mp3</audio>
+                    </item>
+                    <item>
+                      <text>there</text>
+                      <audio>there.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>burn</text>
+                      <audio>burn.mp3</audio>
+                    </item>
+                    <item>
+                      <text>part</text>
+                      <audio>part.mp3</audio>
+                    </item>
+                    <item>
+                      <text>deer</text>
+                      <audio>deer.mp3</audio>
+                    </item>
+                    <item>
+                      <text>farm</text>
+                      <audio>farm.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

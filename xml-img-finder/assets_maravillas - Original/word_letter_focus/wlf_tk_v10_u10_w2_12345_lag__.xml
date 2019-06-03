@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<word_letter_focus>
+  <title>Gramática: el pronombre</title>
+  <directions>&lt;p&gt;Usa el resaltador amarillo para resaltar el pronombre de cada oraci&amp;#243;n.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;{wh}Yo{/wh} soy Camilo.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Voy al cine con {wh}ella{/wh}.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;{wh}T&amp;#250;{/wh} tienes un perrito.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;&amp;#191;Puedo jugar con {wh}&amp;#233;l{/wh}?&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;{wh}Ellos{/wh} son mis t&amp;#237;os.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;{wh}Ella{/wh} es mi amiga.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</word_letter_focus>
+

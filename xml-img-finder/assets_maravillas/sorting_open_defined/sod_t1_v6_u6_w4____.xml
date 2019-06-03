@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con pr&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la palabra escrita con &lt;u&gt;pr&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra&amp;#160;&lt;b&gt;sin&lt;/b&gt;&amp;#160;&lt;u&gt;pr&lt;/u&gt;&amp;#160;en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene pr</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>pronto</text>
+                      <audio>TEG_pronto.mp3</audio>
+                    </item>
+                    <item>
+                      <text>promesa</text>
+                      <audio>TEG_promesa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>siempre</text>
+                      <audio>TEG_siempre.mp3</audio>
+                    </item>
+                    <item>
+                      <text>reproche</text>
+                      <audio>TEG_reproche.mp3</audio>
+                    </item>
+                    <item>
+                      <text>temprano</text>
+                      <audio>TEG_temprano.mp3</audio>
+                    </item>
+                    <item>
+                      <text>aprender</text>
+                      <audio>TEG_aprender.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene pr</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>plaza</text>
+                      <audio>TEG_plaza.mp3</audio>
+                    </item>
+                    <item>
+                      <text>parque</text>
+                      <audio>TEG_parque.mp3</audio>
+                    </item>
+                    <item>
+                      <text>aparte</text>
+                      <audio>TEG_aparte.mp3</audio>
+                    </item>
+                    <item>
+                      <text>apellido</text>
+                      <audio>TEG_apellido.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene pr</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>apretado</text>
+                      <audio>TEG_apretado.mp3</audio>
+                    </item>
+                    <item>
+                      <text>comprar</text>
+                      <audio>TEG_comprar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>expresar</text>
+                      <audio>TEG_expresar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>imprimir</text>
+                      <audio>TEG_imprimir.mp3</audio>
+                    </item>
+                    <item>
+                      <text>propina</text>
+                      <audio>TEG_propina.mp3</audio>
+                    </item>
+                    <item>
+                      <text>profesor</text>
+                      <audio>TEG_profesor.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene pr</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>fábrica</text>
+                      <audio>TEG_fa1brica.mp3</audio>
+                    </item>
+                    <item>
+                      <text>persona</text>
+                      <audio>TEG_persona.mp3</audio>
+                    </item>
+                    <item>
+                      <text>experto</text>
+                      <audio>TEG_experto.mp3</audio>
+                    </item>
+                    <item>
+                      <text>importante</text>
+                      <audio>TEG_importante.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

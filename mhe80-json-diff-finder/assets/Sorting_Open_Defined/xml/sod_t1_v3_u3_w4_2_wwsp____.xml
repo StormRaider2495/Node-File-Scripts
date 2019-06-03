@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Spelling: Word Sort with o_e, u_e&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Drag words with the same vowel sounds into the boxes. If the word does not have the same vowel sound as the others, drag it into the "Other" bin.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>home</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>hope</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>nose</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>note</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>rope</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>fume</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>cute</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cube</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>ago</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>people</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>nice</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>ledge</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>home</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>bone</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>code</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cone</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>hole</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cove</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>dome</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>vote</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>fume</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>duke</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>dune</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>mute</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>rude</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>tube</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>tune</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>use</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

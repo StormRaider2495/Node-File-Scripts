@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<word_letter_focus>
+  <title>Estrategia de vocabulario: claves de contexto</title>
+  <directions>&lt;p&gt;Resalta&amp;#160;las claves de contexto que te ayudan a entender el significado de las palabras&amp;#160;subrayadas&amp;#160;en las oraciones.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;Visitamos una casa &lt;u&gt;enorme&lt;/u&gt;.&amp;#160;Era {wh}tan grande{/wh} que nunca encontramos la cocina.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Los cachorros &lt;u&gt;tiritaban&lt;/u&gt;, o {wh}temblaban{/wh} de fr&amp;#237;o cuando se alejaban de su madre.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Los ni&amp;#241;os estaban &lt;u&gt;confundidos&lt;/u&gt;, {wh}no sab&amp;#237;an qu&amp;#233; hacer{/wh} con tantos libros.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Los edificios se &lt;u&gt;elevaban&lt;/u&gt; como monta&amp;#241;as. Eran {wh}tan altos{/wh} que se pod&amp;#237;an ver desde lejos.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</word_letter_focus>
+

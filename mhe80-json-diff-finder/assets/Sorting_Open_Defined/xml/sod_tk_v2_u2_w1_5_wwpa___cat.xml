@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Phoneme Categorization&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Click each picture to hear its name. Drag pictures that have the /p/ sound into the blue box. Drag pictures that do not have the /p/ sound into the red box.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <vspacing />
+  <contentMode value="images" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/p/ Sound</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW021_047A_193002_d.jpg</text>
+                      <audio>pencil.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW021_029A_193002_d.jpg</text>
+                      <audio>pumpkin.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW021_012A_193002_d.jpg</text>
+                      <audio>penguin.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No /p/ Sound</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_077A_193002_d.jpg</text>
+                      <audio>moon.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW013_011A_193002_d.jpg</text>
+                      <audio>seven.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/p/ Sound</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW012_005A_114242_D.jpg</text>
+                      <audio>cap.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW021_022A_193002_d.jpg</text>
+                      <audio>sap.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW021_026A_193002_d.jpg</text>
+                      <audio>pillow.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No /p/ Sound</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW012_021A_193002_d.jpg</text>
+                      <audio>bed.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

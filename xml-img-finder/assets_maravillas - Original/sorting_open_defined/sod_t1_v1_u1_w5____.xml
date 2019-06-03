@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con s&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la palabra escrita con&amp;#160;&lt;u&gt;s&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra &lt;b&gt;sin&lt;/b&gt;&amp;#160;&lt;u&gt;s&lt;/u&gt;&amp;#160;en la caja roja. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene s</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>sopa</text>
+                      <audio>TEG_sopa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>seda</text>
+                      <audio>TEG_seda.mp3</audio>
+                    </item>
+                    <item>
+                      <text>sano</text>
+                      <audio>TEG_sano.mp3</audio>
+                    </item>
+                    <item>
+                      <text>seis</text>
+                      <audio>TEG_seis.mp3</audio>
+                    </item>
+                    <item>
+                      <text>ser</text>
+                      <audio>TEG_ser.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene s</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>meta</text>
+                      <audio>TEG_meta.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pezuña</text>
+                      <audio>TEG_pezuna.mp3</audio>
+                    </item>
+                    <item>
+                      <text>todavía</text>
+                      <audio>TEG_todavia.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene s</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>tos</text>
+                      <audio>TEG_tos.mp3</audio>
+                    </item>
+                    <item>
+                      <text>sirena</text>
+                      <audio>TEG_sirena.mp3</audio>
+                    </item>
+                    <item>
+                      <text>masa</text>
+                      <audio>TEG_masa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>zancos</text>
+                      <audio>TEG_zancos.mp3</audio>
+                    </item>
+                    <item>
+                      <text>saca</text>
+                      <audio>TEG_saca.mp3</audio>
+                    </item>
+                    <item>
+                      <text>nosotros</text>
+                      <audio>TEG_nosotros.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene s</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>zumo</text>
+                      <audio>TEG_zumo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>nube</text>
+                      <audio>TEG_nube.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cereza</text>
+                      <audio>TEG_cereza.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cometa</text>
+                      <audio>TEG_cometa.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>World Flags</title>
+  <directions>Drag the flags to the correct countries. When you have finished click the right arrow to move onto the next one.</directions>
+  <directionsAudio>directions_audio_test.mp3</directionsAudio>
+  <layoutMode value="no" />
+  <itemReplenishmentMode value="singular" />
+  <assessmentMode value="assessed" />
+  <positionData><![CDATA[<data><screen>  <position x="433" y="160"/>  <position x="191" y="534"/>  <position x="135" y="154"/>  <position x="370" y="371"/></screen><screen>  <position x="107" y="263"/>  <position x="552" y="536"/>  <position x="446" y="313"/>  <position x="118" y="194"/></screen><screen>  <position x="439" y="178"/>  <position x="195" y="532"/>  <position x="148" y="157"/>  <position x="369" y="363"/>  <position x="107" y="268"/>  <position x="552" y="530"/>  <position x="427" y="269"/>  <position x="115" y="203"/></screen></data>]]></positionData>
+  <rounds>
+    <round>
+      <contentImage>test_map_world.jpg</contentImage>
+      <contentImageAudio>test_map.mp3</contentImageAudio>
+      <imageSize value="medium" />
+      <textSize>12</textSize>
+      <items>
+        <item>
+          <text />
+          <image>test_russia.jpg</image>
+          <audio>test_russia.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>test_safrica.jpg</image>
+          <audio>test_south_africa.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>test_norway.jpg</image>
+          <audio>test_norway.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>test_india.jpg</image>
+          <audio>test_india.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>test_jamaica.jpg</image>
+          <audio>test_jamaica.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>test_map_world.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <textSize>12</textSize>
+      <items>
+        <item>
+          <text />
+          <image>test_spain.jpg</image>
+        </item>
+        <item>
+          <text />
+          <image>test_australia.jpg</image>
+        </item>
+        <item>
+          <text />
+          <image>test_china.jpg</image>
+        </item>
+        <item>
+          <text />
+          <image>test_uk.jpg</image>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>test_jamaica.jpg</image>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>test_map_world.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="small" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>test_russia.jpg</image>
+        </item>
+        <item>
+          <text />
+          <image>test_safrica.jpg</image>
+        </item>
+        <item>
+          <text />
+          <image>test_norway.jpg</image>
+        </item>
+        <item>
+          <text />
+          <image>test_india.jpg</image>
+        </item>
+        <item>
+          <text />
+          <image>test_spain.jpg</image>
+        </item>
+        <item>
+          <text />
+          <image>test_australia.jpg</image>
+        </item>
+        <item>
+          <text />
+          <image>test_china.jpg</image>
+        </item>
+        <item>
+          <text />
+          <image>test_uk.jpg</image>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>test_jamaica.jpg</image>
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

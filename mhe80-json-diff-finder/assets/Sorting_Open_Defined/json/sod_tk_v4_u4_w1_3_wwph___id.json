@@ -1,0 +1,267 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phonics: Identify/Categorize",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on the picture to hear its name. Drag pictures that begin with the letter o to the left box. Drag pictures with the letter o in the middle to the right box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "o___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_019A_193002_d.jpg",
+                  "audio": "otter.mp3",
+                  "altText": "A beaver in the water holding a fish."
+                },
+                {
+                  "text": "M100_UW041_010A_193002_d.jpg",
+                  "audio": "october.mp3",
+                  "altText": "A calendar for the month of October."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "__o__",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_038A_193002_d.jpg",
+                  "audio": "box.mp3",
+                  "altText": "An open cardboard box."
+                },
+                {
+                  "text": "M100_UW031_003A_193002_d.jpg",
+                  "audio": "hop.mp3",
+                  "altText": "A hopping rabbit."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "o___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW032_010A_114242_D.jpg",
+                  "audio": "on.mp3",
+                  "altText": "A light switch with \"on\" at the top and \"off\" at the bottom."
+                },
+                {
+                  "text": "M100_UW041_012A_193002_d.jpg",
+                  "audio": "ostrich.mp3",
+                  "altText": "An ostrich."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "__o__",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_029A_193002_d.jpg",
+                  "audio": "top.mp3",
+                  "altText": "A spinning top."
+                },
+                {
+                  "text": "M100_UW032_005A_193002_d.jpg",
+                  "audio": "honk.mp3",
+                  "altText": "A red truck carrying a load."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "o___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_003A_193002_d.jpg",
+                  "audio": "officer.mp3",
+                  "altText": "A police officer."
+                },
+                {
+                  "text": "M100_UW014_014A_114242_D.jpg",
+                  "audio": "ox.mp3",
+                  "altText": "A bull. "
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "__o__",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_069A_193002_d.jpg",
+                  "audio": "fox.mp3",
+                  "altText": "A fox."
+                },
+                {
+                  "text": "M100_UW022_022A_193002_d.jpg",
+                  "audio": "lock.mp3",
+                  "altText": "A metal lock."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "o___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_033A_193002_d.jpg",
+                  "audio": "octopus.mp3",
+                  "altText": "A purple octopus."
+                },
+                {
+                  "text": "M100_UW041_008A_193002_d.jpg",
+                  "audio": "olive.mp3",
+                  "altText": "A green olive."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "__o__",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_038A_193002_d.jpg",
+                  "audio": "mop.mp3",
+                  "altText": "A mop placed over a puddle of water."
+                },
+                {
+                  "text": "M100_UW041_017A_193002_d.jpg",
+                  "audio": "frog.mp3",
+                  "altText": "A green frog with yellow spots."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;&lt;b&gt;Phoneme Categorization&lt;/b&gt;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Click each picture to hear its name. Drag pictures that have the /o/ sound into the blue box. Drag pictures that do not have the /o/ sound into the red box.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <vspacing />
+  <contentMode value="words" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/o/</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_ UW011_069A_193002_d.jpg</text>
+                      <audio>fox.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW041_017A_193002_d.jpg</text>
+                      <audio>frog.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW041_030A_193002_d.jpg</text>
+                      <audio>ox.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Other</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_ UW012_031A_193002_d.jpg</text>
+                      <audio>key.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW022_026A_193002_d.jpg</text>
+                      <audio>nap.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/o/</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_ UW012_041A_193002_d.jpg</text>
+                      <audio>pot.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW032_005A_193002_d.jpg</text>
+                      <audio>honk.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW041_008A_193002_d.jpg</text>
+                      <audio>olive.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Other</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_ UW011_038A_193002_d.jpg</text>
+                      <audio>mask.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

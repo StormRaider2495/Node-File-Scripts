@@ -1,0 +1,532 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Spelling: Short Vowels",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p><b>Sort the spelling words into the columns using the key words or word parts.</b></p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "flat",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "tax",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "band",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cash",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "past",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "bell",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "left",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "smell",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "when",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "grim",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "list",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mill",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "hint",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "gym",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "plot",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "rot",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "blot",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "odd",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "sum",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "plum",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mud",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "lunch",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "flat",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "cash",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "band",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "bell",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "left",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shelf",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "wealth",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "grim",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "mill",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "hint",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "build",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "gym",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "plot",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "dock",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "blot",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "odd",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "sum",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "plum",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bluff",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "crunch",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "flat",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "sandwich",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "clamped",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "bell",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "shelves",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sketches",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "heavy",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "wealthy",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "grim",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "alibi",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "grimace",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "miller",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "skimming",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "slipped",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "typical",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "plot",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "plots",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "dock",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "blot",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "sum",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "smudge",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "plum",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bluff",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "culprit",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "crunches",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

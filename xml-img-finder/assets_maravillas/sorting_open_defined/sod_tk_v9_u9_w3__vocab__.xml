@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras: alimentos&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las im&amp;#225;genes que muestran un alimento en la caja azul. Coloca las im&amp;#225;genes que no muestran un alimento en la caja roja.&amp;#160;&lt;b&gt;&amp;#160;&lt;/b&gt;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un alimento</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_papaya.jpg</text>
+                      <audio>TEG_papaya.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_limon.jpg</text>
+                      <audio>TEG_limon.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_uvas.jpg</text>
+                      <audio>TEG_uvas.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_sopa.jpg</text>
+                      <audio>TEG_sopa.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un alimento</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_banco.jpg</text>
+                      <audio>TEG_banco.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_tenedor.jpg</text>
+                      <audio>TEG_tenedor.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_pelota.jpg</text>
+                      <audio>TEG_pelota.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_sarten.jpg</text>
+                      <audio>TEG_sarten.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las im&amp;#225;genes que muestran un alimento en la caja azul. Coloca las im&amp;#225;genes que no muestran un alimento en la caja roja.&amp;#160;&lt;b&gt;&amp;#160;&lt;/b&gt;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un alimento</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_aji.jpg</text>
+                      <audio>TEG_aji.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_miel.jpg</text>
+                      <audio>TEG_miel.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_helado.jpg</text>
+                      <audio>TEG_helado.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_esparrago.jpg</text>
+                      <audio>TEG_esparrago.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un alimento</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_semaforo.jpg</text>
+                      <audio>TEG_semaforo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_tigre.jpg</text>
+                      <audio>TEG_tigre.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_dado.jpg</text>
+                      <audio>TEG_dado.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_cuchillo.jpg</text>
+                      <audio>TEG_cuchillo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las im&amp;#225;genes que muestran un alimento en la caja azul. Coloca las im&amp;#225;genes que no muestran un alimento en la caja roja.&amp;#160;&lt;b&gt;&amp;#160;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un alimento</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_repollo.jpg</text>
+                      <audio>TEG_repollo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_pina.jpg</text>
+                      <audio>TEG_pina.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_leche.jpg</text>
+                      <audio>TEG_leche.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_fresa.jpg</text>
+                      <audio>TEG_fresa.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un alimento</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_volcan.jpg</text>
+                      <audio>TEG_volcan.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_calculadora.jpg</text>
+                      <audio>TEG_calculadora.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_lavadora.jpg</text>
+                      <audio>TEG_lavadora.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_mesa.jpg</text>
+                      <audio>TEG_mesa.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

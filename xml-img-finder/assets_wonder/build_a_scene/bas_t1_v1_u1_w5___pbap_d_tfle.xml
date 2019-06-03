@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Text Feature</title>
+  <directions>Look at the diagram. Then read the labels. Drag the labels to the correct part of the diagram.</directions>
+  <directionsAudio>dl_diagram_labels.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="118.7" y="311"/&gt;  &lt;position x="119.5" y="215.25"/&gt;  &lt;position x="118.65" y="428.9"/&gt;  &lt;position x="622.9" y="311.8"/&gt;  &lt;position x="619.55" y="214.45"/&gt;  &lt;position x="624.55" y="533.7"/&gt;  &lt;position x="114.6" y="528.75"/&gt;  &lt;position x="622.05" y="431.35"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW015_016A_114242_D.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>eye</text>
+          <image />
+          <audio>eye.mp3</audio>
+        </item>
+        <item>
+          <text>eyebrow</text>
+          <image />
+          <audio>eyebrow.mp3</audio>
+        </item>
+        <item>
+          <text>nose</text>
+          <image />
+          <audio>nose.mp3</audio>
+        </item>
+        <item>
+          <text>ear</text>
+          <image />
+          <audio>ear.mp3</audio>
+        </item>
+        <item>
+          <text>eyelash</text>
+          <image />
+          <audio>eyelash.mp3</audio>
+        </item>
+        <item>
+          <text>mouth</text>
+          <image />
+          <audio>mouth.mp3</audio>
+        </item>
+        <item>
+          <text>chin</text>
+          <image />
+          <audio>chin.mp3</audio>
+        </item>
+        <item>
+          <text>cheek</text>
+          <image />
+          <audio>cheek.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

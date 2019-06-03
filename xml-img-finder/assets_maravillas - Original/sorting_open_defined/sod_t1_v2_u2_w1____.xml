@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con d&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la palabra escrita con &lt;u&gt;d&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra&amp;#160;&lt;b&gt;sin&lt;/b&gt;&amp;#160;&lt;u&gt;d&lt;/u&gt;&amp;#160;en la caja roja. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene d</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>dedo</text>
+                      <audio>TEG_dedo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>codo</text>
+                      <audio>TEG_codo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>dolor</text>
+                      <audio>TEG_dolor.mp3</audio>
+                    </item>
+                    <item>
+                      <text>dinero</text>
+                      <audio>TEG_dinero.mp3</audio>
+                    </item>
+                    <item>
+                      <text>doy</text>
+                      <audio>TEG_doy.mp3</audio>
+                    </item>
+                    <item>
+                      <text>duda</text>
+                      <audio>TEG_duda.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene d</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>famoso</text>
+                      <audio>TEG_famoso.mp3</audio>
+                    </item>
+                    <item>
+                      <text>farol</text>
+                      <audio>TEG_farol.mp3</audio>
+                    </item>
+                    <item>
+                      <text>nueces</text>
+                      <audio>TEG_nueces.mp3</audio>
+                    </item>
+                    <item>
+                      <text>olla</text>
+                      <audio>TEG_olla.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pato</text>
+                      <audio>TEG_pato.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene d</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>pedazo</text>
+                      <audio>TEG_pedazo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>patada</text>
+                      <audio>TEG_patada.mp3</audio>
+                    </item>
+                    <item>
+                      <text>venado</text>
+                      <audio>TEG_venado.mp3</audio>
+                    </item>
+                    <item>
+                      <text>bodega</text>
+                      <audio>TEG_bodega.mp3</audio>
+                    </item>
+                    <item>
+                      <text>ayuda</text>
+                      <audio>TEG_ayuda.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene d</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>azúcar</text>
+                      <audio>TEG_azucar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>nosotros</text>
+                      <audio>TEG_nosotros.mp3</audio>
+                    </item>
+                    <item>
+                      <text>papel</text>
+                      <audio>TEG_papel.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cita</text>
+                      <audio>TEG_cita.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

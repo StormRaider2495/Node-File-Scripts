@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Test for Elena</title>
+  <directions>Drag the name of each family member to the correct person.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <layoutMode value="yes" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData />
+  <rounds>
+    <round>
+      <contentImage>NCG_26_U03_T13_001A_ELLNCG_test_Michele.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>Brother</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>Sister</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>Mother</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>Father</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>Grandmother</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>Grandfather</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>Aunt</text>
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

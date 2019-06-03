@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Normas del lenguaje: el punto y coma&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona la opci&amp;#243;n que incluya la puntuaci&amp;#243;n correcta.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Estudiemos hasta tarde ma&amp;#241;ana es el examen final.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Estudiemos hasta tarde; mañana es el examen final.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Estudiemos hasta tarde mañana; es el examen final.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Estudiemos; hasta tarde mañana es el examen final.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Pasamos toda la tarde pintando pero no acabamos la cerca del jard&amp;#237;n.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Pasamos toda la tarde; pintando pero, no acabamos la cerca del jardín.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Pasamos toda la tarde pintando; pero, no acabamos la cerca del jardín.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Pasamos toda la tarde, pintando; pero no acabamos la cerca del jardín.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Lisa asign&amp;#243; los funciones en el campamento: Juan cocinar&amp;#225; Rita organizar&amp;#225; los juegos Julio cuidar&amp;#225; la fogata y ella supervisar&amp;#225; todo.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Lisa asignó los funciones en el campamento: Juan, cocinará; Rita, organizará los juegos; Julio, cuidará la fogata y ella supervisará todo.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Lisa asignó los funciones en el campamento: Juan cocinará; Rita, organizará los juegos Julio, cuidará la fogata; y ella supervisará todo.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Lisa; asignó los funciones en el campamento: Juan; cocinará Rita; organizará los juegos Julio cuidará; la fogata y ella supervisará todo.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Quiero comer frutas tienen muchos sabores y colores&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Quiero comer frutas tienen muchos sabores; y colores.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Quiero comer frutas; tienen muchos sabores y colores.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Quiero comer; frutas tienen muchos sabores y colores.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Caminamos toda la tarde pero llegamos a casa despu&amp;#233;s de la puesta de sol.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Caminamos toda la tarde; pero, llegamos a casa después de la puesta de sol.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Caminamos, toda la tarde pero llegamos a casa; después de la puesta de sol.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Caminamos toda la tarde pero; llegamos a casa después de la puesta de sol.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

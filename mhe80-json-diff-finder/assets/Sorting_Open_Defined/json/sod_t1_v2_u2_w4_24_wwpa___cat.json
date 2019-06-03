@@ -1,0 +1,739 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phoneme Categorization",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture to hear its name. Drag pictures with the same sound into the blue box. Drag pictures with a different sound into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_001A_114242_D.jpg",
+                  "audio": "ship.mp3",
+                  "altText": "A tugboat."
+                },
+                {
+                  "text": "M100_UW024_003A_114242_D.jpg",
+                  "audio": "shoe.mp3",
+                  "altText": "A green sneaker shoe."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_008A_114242_D.jpg",
+                  "audio": "clock.mp3",
+                  "altText": "An alarm clock."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_013A_114242_D.jpg",
+                  "audio": "sheep.mp3",
+                  "altText": "A lamb."
+                },
+                {
+                  "text": "M100_UW024_002A_114242_D.jpg",
+                  "audio": "shop.mp3",
+                  "altText": "A storefront window showing fruits and vegetables."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_030A_114242_D.jpg",
+                  "audio": "tent.mp3",
+                  "altText": "A teal-colored tent."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_004A_114242_D.jpg",
+                  "audio": "shut.mp3",
+                  "altText": "A person closing a window as it rains. A red arrow points to the windowsill."
+                },
+                {
+                  "text": "M100_UW024_009A_114242_D.jpg",
+                  "audio": "shark.mp3",
+                  "altText": "A blue dolphin."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_007A_114242_D.jpg",
+                  "audio": "cat.mp3",
+                  "altText": "A smiling orange cat."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_006A_114242_D.jpg",
+                  "audio": "shell.mp3",
+                  "altText": "A pink seashell."
+                },
+                {
+                  "text": "M100_UW024_016A_114242_D.jpg",
+                  "audio": "shovel.mp3",
+                  "altText": "A shovel with a yellow handle."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_026A_114242_D.jpg",
+                  "audio": "king.mp3",
+                  "altText": "A king wearing a crown."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_012A_114242_D.jpg",
+                  "audio": "thumb.mp3",
+                  "altText": "A raised thumb. A red arrow points to the thumb."
+                },
+                {
+                  "text": "M100_UW024_011A_114242_D.jpg",
+                  "audio": "thorn.mp3",
+                  "altText": "A red rose. A red arrow points to a thorn."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_003A_114242_D.jpg",
+                  "audio": "box.mp3",
+                  "altText": "An open cardboard box."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_017A_114242_D.jpg",
+                  "audio": "shower.mp3",
+                  "altText": "A shower with the water running."
+                },
+                {
+                  "text": "M100_UW024_015A_114242_D.jpg",
+                  "audio": "shirt.mp3",
+                  "altText": "A yellow shirt."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_022A_114242_D.jpg",
+                  "audio": "trunk.mp3",
+                  "altText": "An elephant. A red arrow points to its trunk."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_018A_114242_D.jpg",
+                  "audio": "shuttle.mp3",
+                  "altText": "A rocket flying over Earth."
+                },
+                {
+                  "text": "M100_UW024_008A_114242_D.jpg",
+                  "audio": "shadow.mp3",
+                  "altText": "A tree with the sun behind it. A red arrow points to the tree's shadow in the grass."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_020A_114242_D.jpg",
+                  "audio": "track.mp3",
+                  "altText": "A race car track with two drag race cars on it."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_028A_114242_D.jpg",
+                  "audio": "trash.mp3",
+                  "altText": "A blue trash can filled with trash."
+                },
+                {
+                  "text": "M100_UW024_030A_114242_D.jpg",
+                  "audio": "brush.mp3",
+                  "altText": "A yellow toothbrush."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_029A_114242_D.jpg",
+                  "audio": "plant.mp3",
+                  "altText": "A potted green plant."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_022A_114242_D.jpg",
+                  "audio": "cash.mp3",
+                  "altText": "Bills and coins."
+                },
+                {
+                  "text": "M100_UW024_024A_114242_D.jpg",
+                  "audio": "fish.mp3",
+                  "altText": "A blue fish with green fins."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_040A_114242_D.jpg",
+                  "audio": "sink.mp3",
+                  "altText": "A bathroom sink filled with water."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_037A_114242_D.jpg",
+                  "audio": "ring.mp3",
+                  "altText": "A yellow ring with a blue diamond."
+                },
+                {
+                  "text": "M100_UW024_039A_114242_D.jpg",
+                  "audio": "swing.mp3",
+                  "altText": "An outdoor swing."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_019A_114242_D.jpg",
+                  "audio": "mask.mp3",
+                  "altText": "A blue mask."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_028A_114242_D.jpg",
+                  "audio": "trash.mp3",
+                  "altText": "A blue trash can filled with trash."
+                },
+                {
+                  "text": "M100_UW024_036A_114242_D.jpg",
+                  "audio": "dish.mp3",
+                  "altText": "A table that includes a plate, cup, napkins, fork, and knife. A red arrow points to the plate."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_014A_114242_D.jpg",
+                  "audio": "blimp.mp3",
+                  "altText": "A red and orange blimp in the sky."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_026A_114242_D.jpg",
+                  "audio": "king.mp3",
+                  "altText": "A king wearing a crown."
+                },
+                {
+                  "text": "M100_UW024_025A_114242_D.jpg",
+                  "audio": "fang.mp3",
+                  "altText": "A green snake. A red arrow points to its fangs."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW063_010A_114242_D.jpg",
+                  "audio": "swim.mp3",
+                  "altText": "A girl swimming."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_030A_114242_D.jpg",
+                  "audio": "brush.mp3",
+                  "altText": "A yellow toothbrush."
+                },
+                {
+                  "text": "M100_UW024_029A_114242_D.jpg",
+                  "audio": "lash.mp3",
+                  "altText": "A girl. A red arrow points to her eyelashes."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_030A_114242_D.jpg",
+                  "audio": "tack.mp3",
+                  "altText": "A red thumb tack."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_027A_114242_D.jpg",
+                  "audio": "wing.mp3",
+                  "altText": "A blue bird. A red arrow points to one of its wings."
+                },
+                {
+                  "text": "M300_UW014_002A_118701_D.jpg",
+                  "audio": "long.mp3",
+                  "altText": "A woman. A red arrow points to her long hair."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW021_009A_114242_D.jpg",
+                  "audio": "bread.mp3",
+                  "altText": "A loaf of bread with two slices cut out."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_032A_114242_D.jpg",
+                  "audio": "sloth.mp3",
+                  "altText": "A sloth hanging from a tree."
+                },
+                {
+                  "text": "M100_UW021_012A_114242_D.jpg",
+                  "audio": "bath.mp3",
+                  "altText": "A bathtub."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_041A_114242_D.jpg",
+                  "audio": "clam.mp3",
+                  "altText": "An oyster at the bottom of the ocean with bubbles coming out."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_034A_114242_D.jpg",
+                  "audio": "flash.mp3",
+                  "altText": "A camera taking a photo of the sun."
+                },
+                {
+                  "text": "M100_UW024_035A_114242_D.jpg",
+                  "audio": "crash.mp3",
+                  "altText": "Two children in bumper cars. The boy runs his bumper car into the girl's car."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_038A_114242_D.jpg",
+                  "audio": "wig.mp3",
+                  "altText": "A blond wig on a display."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

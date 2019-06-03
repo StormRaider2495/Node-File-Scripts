@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Normas del lenguaje: los par&amp;#233;ntesis&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona la alternativa correcta para esta oraci&amp;#243;n a la que le faltan signos de puntuaci&amp;#243;n.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;El representante de la ONU Organizaci&amp;#243;n de las Naciones Unidas asistir&amp;#225; a la reuni&amp;#243;n anual.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>El representante de la ONU (Organización de las Naciones Unidas), asistirá a la reunión anual.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>El representante de la ONU; Organización de las Naciones Unidas; asistirá a la reunión anual.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>El representante de la ONU  (Organización de las Naciones Unidas) asistirá a la reunión anual.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>El representante de la ONU (Organización de las Naciones Unidas asistirá) a la reunión anual.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Los seres vivos animales y plantas solo pueden subsistir si tienen un medio ambiente adecuado.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Los seres vivos  (animales y plantas)  solo pueden subsistir si tienen un medio ambiente adecuado.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Los seres vivos animales y plantas (solo pueden subsistir si tienen un medio ambiente adecuado).</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Los seres vivos; animales y plantas, (solo pueden subsistir si) tienen un medio ambiente adecuado.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Los seres vivos (animales y plantas) solo pueden subsistir, si tienen un medio ambiente adecuado.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Miguel de Cervantes Saavedra 1547-1616 fue un novelista, poeta y dramaturgo espa&amp;#241;ol.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Miguel de Cervantes Saavedra; 1547-1616,  fue un novelista, poeta y dramaturgo español.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Miguel de Cervantes Saavedra, 1547-1616 fue un novelista, poeta y dramaturgo español.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Miguel de Cervantes Saavedra 1547-1616 (fue un novelista, poeta y dramaturgo español).</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Miguel de Cervantes Saavedra (1547-1616) fue un novelista, poeta y dramaturgo español.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Yo escuch&amp;#233; al profesor y creo que ustedes tambi&amp;#233;n cuando inform&amp;#243; que la tarea era para el lunes.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Yo escuché al profesor y creo que (ustedes también) cuando informó que la tarea era para el lunes.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Yo escuché al profesor y creo que ustedes también cuando informó que: la tarea era para el lunes.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Yo escuché al profesor (y creo que ustedes también) cuando informó que la tarea era para el lunes.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Yo escuché al profesor (y creo que ustedes también cuando informó) que la tarea era para el lunes.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;El padre de Alberto quien desde su juventud se destac&amp;#243; por su inteligencia lleg&amp;#243; a ser un gran cient&amp;#237;fico.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>El padre de Alberto quien desde su juventud (se destacó por su inteligencia) llegó a ser un gran científico.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>El padre de Alberto (quien desde su juventud se destacó por su inteligencia) llegó a ser un gran científico.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>El padre de Alberto quien desde su juventud, (se destacó por su inteligencia), llegó a ser un gran científico.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>El padre de Alberto quien desde su juventud se destacó por su inteligencia (llegó a ser un gran científico).</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Gabriel Garc&amp;#237;a M&amp;#225;rquez naci&amp;#243; en Aracataca Colombia y lleg&amp;#243; a ser un extraordinario escritor&amp;#160; de relevancia y reconocimiento mundial.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Gabriel García Márquez (nació en Aracataca Colombia y) llegó a ser un extraordinario escritor  de relevancia y reconocimiento mundial.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Gabriel García Márquez nació en Aracataca (Colombia) y llegó a ser un extraordinario escritor  de relevancia y reconocimiento mundial.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Gabriel García Márquez (nació en Aracataca Colombia) y llegó a ser un extraordinario escritor  de relevancia y reconocimiento mundial.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Gabriel García Márquez nació en Aracataca Colombia y llegó a ser un extraordinario escritor  (de relevancia y reconocimiento mundial).</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Mir&amp;#233; a Patricia la ni&amp;#241;a que estaba sentada en el pupitre &amp;#160;de la derecha y le dije que si quer&amp;#237;a estudiar conmigo.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Miré a Patricia la niña que (estaba sentada en el pupitre de la derecha) y le dije: que si quería estudiar conmigo.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Miré a Patricia (la niña que estaba sentada en el pupitre  de la derecha y le dije), que si quería estudiar conmigo.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Miré a Patricia, (la niña que estaba sentada en el pupitre  de la derecha), y le dije que si quería estudiar conmigo.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Miré a Patricia (la niña que estaba sentada en el pupitre  de la derecha) y le dije que si quería estudiar conmigo.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

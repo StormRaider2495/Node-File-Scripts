@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Normas del lenguaje: comillas en citas, pensamientos&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona la oraci&amp;#243;n que tiene la puntuaci&amp;#243;n correcta.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;El arte de vencer se aprende en las derrotas, dijo Sim&amp;#243;n Bol&amp;#237;var.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>—El arte de vencer se aprende en las derrotas, dijo Simón Bolívar.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>“El arte de vencer se aprende en las derrotas”, dijo Simón Bolívar.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>“El arte de vencer se aprende en las derrotas”— dijo Simón Bolívar.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#191;Quisieras una sopa de lentejas? pregunt&amp;#243; pap&amp;#225;.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>“¿Quisieras una sopa de lentejas? —preguntó papá.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—¿Quisieras una sopa de lentejas? “preguntó papá”.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—¿Quisieras una sopa de lentejas? —preguntó papá.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;S&amp;#237;, pap&amp;#225; dijo Felicia, me encantan las lentejas.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>“Sí, papá”, dijo Felicia, me encantan las lentejas.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—Sí, papá —dijo Felicia—, me encantan las lentejas.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>—Sí, papá ,dijo Felicia, me encantan las lentejas.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Se lo voy a contar a mam&amp;#225;, pens&amp;#243; Graciela.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>—Se lo voy a contar a mamá, “pensó Graciela”.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>“Se lo voy a contar a mamá. —pensó Graciela.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>“Se lo voy a contar a mamá”, pensó Graciela.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Abuelo siempre dice: quien r&amp;#237;e de &amp;#250;ltimo r&amp;#237;e mejor.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>—Abuelo siempre dice: “quien ríe de último ríe mejor”.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Abuelo siempre dice: —quien ríe de último ríe mejor.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Abuelo siempre dice: “quien ríe de último ríe mejor”.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Acostado en su cama, Luis pens&amp;#243;: No debo olvidar que el cumplea&amp;#241;os de In&amp;#233;s es ma&amp;#241;ana.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Acostado en su cama, Luis pensó:  —No debo olvidar que el cumpleaños de Inés es mañana.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—Acostado en su cama, Luis pensó: —No debo olvidar que el cumpleaños de Inés es mañana—.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Acostado en su cama, Luis pensó: “No debo olvidar que el cumpleaños de Inés es mañana”.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

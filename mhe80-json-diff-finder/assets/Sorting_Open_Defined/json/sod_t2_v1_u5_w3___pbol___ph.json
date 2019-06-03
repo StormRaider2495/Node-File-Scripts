@@ -1,0 +1,377 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Read each word. Drag words into the boxes based on their median vowel sounds.</p>",
+    "audio": "dl_median_vowel_sounds.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW061_033A_114242_D.jpg",
+                  "altText": "A swimming pool with a diving board. There are three lawn chairs and a ball around it."
+                },
+                "audio": "pool.mp3"
+              },
+              "contents": [
+                {
+                  "text": "fool",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "drew",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "blue",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW011_005A_114242_D.jpg",
+                  "altText": "An open book. "
+                },
+                "audio": "book.mp3"
+              },
+              "contents": [
+                {
+                  "text": "took",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "pull",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "full",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW061_033A_114242_D.jpg",
+                  "altText": "A swimming pool with a diving board. There are three lawn chairs and a ball around it."
+                },
+                "audio": "pool.mp3"
+              },
+              "contents": [
+                {
+                  "text": "moon",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "dune",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "flute",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW011_005A_114242_D.jpg",
+                  "altText": "An open book. "
+                },
+                "audio": "book.mp3"
+              },
+              "contents": [
+                {
+                  "text": "would",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "could",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "flood",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW061_033A_114242_D.jpg",
+                  "altText": "A swimming pool with a diving board. There are three lawn chairs and a ball around it."
+                },
+                "audio": "pool.mp3"
+              },
+              "contents": [
+                {
+                  "text": "coop",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "loop",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "fruit",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW011_005A_114242_D.jpg",
+                  "altText": "An open book. "
+                },
+                "audio": "book.mp3"
+              },
+              "contents": [
+                {
+                  "text": "fruit",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "push",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shook",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW061_033A_114242_D.jpg",
+                  "altText": "A swimming pool with a diving board. There are three lawn chairs and a ball around it."
+                },
+                "audio": "pool.mp3"
+              },
+              "contents": [
+                {
+                  "text": "loose",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "zoo",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "new",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW011_005A_114242_D.jpg",
+                  "altText": "An open book. "
+                },
+                "audio": "book.mp3"
+              },
+              "contents": [
+                {
+                  "text": "brook",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cook",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "crooked",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW061_033A_114242_D.jpg",
+                  "altText": "A swimming pool with a diving board. There are three lawn chairs and a ball around it."
+                },
+                "audio": "pool.mp3"
+              },
+              "contents": [
+                {
+                  "text": "droop",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cool",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "glue",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW011_005A_114242_D.jpg",
+                  "altText": "An open book. "
+                },
+                "audio": "book.mp3"
+              },
+              "contents": [
+                {
+                  "text": "hood",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shook",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bush",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

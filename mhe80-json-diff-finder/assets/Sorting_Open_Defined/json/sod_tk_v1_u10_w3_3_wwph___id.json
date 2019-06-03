@@ -1,0 +1,345 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phonics: Identify/Categorize",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on the picture to hear its name. Which long vowel sound do you hear? Drag the pictures into the boxes with the same long vowel sound.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Long a",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_058A_193002_d.jpg",
+                  "audio": "rake.mp3",
+                  "altText": "A green rake with a brown handle."
+                },
+                {
+                  "text": "M100_UW073_001A_193002_d.jpg",
+                  "audio": "cave.mp3",
+                  "altText": "A bear hibernating in a cave."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Long e",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_002A_193002_d.jpg",
+                  "audio": "bee.mp3",
+                  "altText": "A bumblebee flying around."
+                },
+                {
+                  "text": "M100_UW023_008A_193002_d.jpg",
+                  "audio": "green.mp3",
+                  "altText": "A green snake slithering along a path."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Long a",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_083A_193002_d.jpg",
+                  "audio": "plane.mp3",
+                  "altText": "An airplane."
+                },
+                {
+                  "text": "M100_UW042_004A_193002_d.jpg",
+                  "audio": "gate.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Long e",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW053_007A_193002_d.jpg",
+                  "audio": "feet.mp3",
+                  "altText": "Two feet."
+                },
+                {
+                  "text": "M100_UW013_010A_193002_d.jpg",
+                  "audio": "seal.mp3",
+                  "altText": "A walrus."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Long o",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW093_004A_193002_d.jpg",
+                  "audio": "photo.mp3",
+                  "altText": "A photograph of a father, mother, daughter, and son."
+                },
+                {
+                  "text": "M100_UW023_037A_193002_d.jpg",
+                  "audio": "tomato.mp3",
+                  "altText": "A tomato."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Long u",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW101_001A_193002_d.jpg",
+                  "audio": "cube.mp3",
+                  "altText": "A multicolored cube."
+                },
+                {
+                  "text": "M100_UW101_002A_193002_d.jpg",
+                  "audio": "mule.mp3",
+                  "altText": "A donkey."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Long o",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW093_001A_193002_d.jpg",
+                  "audio": "dome.mp3",
+                  "altText": "A stadium. People are approaching it. A red arrow points to the roof of the stadium. "
+                },
+                {
+                  "text": "M100_UW093_002A_193002_d.jpg",
+                  "audio": "cone.mp3",
+                  "altText": "An orange construction cone."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Long u",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW101_008A_193002_d.jpg",
+                  "audio": "tune.mp3",
+                  "altText": "A boy whistling a song."
+                },
+                {
+                  "text": "M100_UW101_003A_193002_d.jpg",
+                  "audio": "flute.mp3",
+                  "altText": "A flute."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Long i",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_016A_193002_d.jpg",
+                  "audio": "bike.mp3",
+                  "altText": "A bicycle."
+                },
+                {
+                  "text": "M100_UW092_002A_193002_d.jpg",
+                  "audio": "lime.mp3",
+                  "altText": "A whole lime, with a lime slice near it."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Long e",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW053_007A_193002_d.jpg",
+                  "audio": "feet.mp3",
+                  "altText": "Two feet."
+                },
+                {
+                  "text": "M100_UW042_033A_114242_D.jpg",
+                  "audio": "sweep.mp3",
+                  "altText": "A boy wearing a cap and using a broom to sweep."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Long i",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_032A_193002_d.jpg",
+                  "audio": "kite.mp3",
+                  "altText": "A red kite."
+                },
+                {
+                  "text": "M100_UW071_018A_193002_d.jpg",
+                  "audio": "umpire.mp3",
+                  "altText": "A baseball catcher."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Long e",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW021_045A_193002_d.jpg",
+                  "audio": "sheep.mp3",
+                  "altText": "A lamb."
+                },
+                {
+                  "text": "M100_UW035_008A_114242_D.jpg",
+                  "audio": "see.mp3",
+                  "altText": "A boy looking through binoculars."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

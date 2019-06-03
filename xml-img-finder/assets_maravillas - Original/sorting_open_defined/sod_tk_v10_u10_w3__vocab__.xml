@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras: beb&amp;#233;s de los animales&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las im&amp;#225;genes que muestran beb&amp;#233;s de animales en la caja azul. Coloca las im&amp;#225;genes que no muestran beb&amp;#233;s de animales en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un bebé de animal</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_ternero.jpg</text>
+                      <audio>TEG_ternero.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_cachorro.jpg</text>
+                      <audio>TEG_cachorro.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un bebé de animal</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_gallina.jpg</text>
+                      <audio>TEG_gallina.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_caballo.jpg</text>
+                      <audio>TEG_caballo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_toro.jpg</text>
+                      <audio>TEG_toro.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las im&amp;#225;genes que muestran beb&amp;#233;s de animales en la caja azul. Coloca las im&amp;#225;genes que no muestran beb&amp;#233;s de animales en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un bebé de animal</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_potrillo_jpg</text>
+                      <audio>TEG_potrillo_mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_cordero_jpg</text>
+                      <audio>TEG_cordero_mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un bebé de animal</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_vaca_jpg</text>
+                      <audio>TEG_vaca_mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_jirafa_jpg</text>
+                      <audio>TEG_jirafa_mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_tigre_jpg</text>
+                      <audio>TEG_tigre_mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

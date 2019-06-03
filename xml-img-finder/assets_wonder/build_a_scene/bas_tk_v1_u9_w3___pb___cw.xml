@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Category Words</title>
+  <directions>Drag the pictures that show foods made from grain to the red stars. If the picture does not show a food made from grain, do not drag it.</directions>
+  <directionsAudio>dl_food_made_grains.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow2" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="262.8" y="338"/&gt;  &lt;position x="443.3" y="347.05"/&gt;  &lt;position x="280.85" y="230.7"/&gt;  &lt;position x="501.45" y="252.75"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="263.8" y="339"/&gt;  &lt;position x="443.3" y="349.05"/&gt;  &lt;position x="280.85" y="232.7"/&gt;  &lt;position x="500.45" y="254.75"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW093_802A_193002_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M100_UW041_019A_193002_d.jpg</image>
+          <audio>pasta.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW025_065A_186626_193002_d.jpg</image>
+          <audio>bread.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M300_UW093_801A_193002_d.jpg</image>
+          <audio>pancakes.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M300_UW093_803A_193002_d.jpg</image>
+          <audio>cereal.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW023_037A_193002_d.jpg</image>
+          <audio>tomato.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW012_042A_193002_d.jpg</image>
+          <audio>apple.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW093_802A_193002_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M100_UW035_078A_186626_193002_d.jpg</image>
+          <audio>muffin.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW013_012A_193002_d.jpg</image>
+          <audio>sandwich.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M300_UW053_807A_193002_d.jpg</image>
+          <audio>pizza.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW033_018A_193002_d.jpg</image>
+          <audio>cake.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW042_029A_193002_d.jpg</image>
+          <audio>eggs.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW013_017A_193002_d.jpg</image>
+          <audio>salad.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

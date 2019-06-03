@@ -1,0 +1,307 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Read each word. Look at the first syllable. Drag words with open syllables to the left box. Drag words with closed syllables to the right box.</p>",
+    "audio": "dl_open_closed_syllables3.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Open Syllables (ends with a vowel)",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "so/lo",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "yo/gurt",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "fa/mous",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Closed Syllables (ends with a consonant)",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "pub/lish",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "let/ter",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mag/net",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Open Syllables (ends with a vowel)",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "si/lent",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "be/gin",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "spi/der",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Closed Syllables (ends with a consonant)",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "nap/kin",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "car/rot",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bas/ket",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Open Syllables (ends with a vowel)",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "fe/ver",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "ro/bot",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "na/ture",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Closed Syllables (ends with a consonant)",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "gar/den",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sis/ter",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "plas/tic",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Open Syllables (ends with a vowel)",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "mu/sic",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "pa/per",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "so/lar",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Closed Syllables (ends with a consonant)",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "pur/ple",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "pic/ture",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "trac/tor",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

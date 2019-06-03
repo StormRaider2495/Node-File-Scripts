@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Spelling: Word Sort with str, spr, spl, scr, and thr&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Drag words with the same beginning sounds into the boxes. If the word does not have the same beginning as any of the sounds, drag it into the &amp;#8220;Other&amp;#8221; bin.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <vspacing />
+  <contentMode value="words" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>stray</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>strike</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>strong</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>sprint</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>spray</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>splint</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>splash</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>split</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>scrub</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>scrape</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>throw</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>three</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>know</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>write</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>your</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>heard</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>stray</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>straw</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>stroke</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>streak</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>sprint</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>sprang</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>sprawl</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>spread</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>splint</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>splash</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>splatter</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>splay</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>scrub</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>scrap</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>scrawl</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>screen</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>throw</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>thrash</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>thread</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>threat</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>stray</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>stream</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>street</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>stress</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>stretch</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>sprint</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>spree</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>spring</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>sprout</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>spruce</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>splint</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>splice</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>splint</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>splotch</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>scrub</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>scream</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>scroll</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>script</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>scram</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>throw</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>threw</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>thrift</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>thrill</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>thrive</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>stray</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>strict</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>stride</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>strike</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>string</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>strip</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>stripe</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>strive</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>sprint</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>sprung</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>sprain</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>scrub</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>scratch</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>scrape</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>screech</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>throw</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>throat</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>throb</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>throne</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>thrown</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

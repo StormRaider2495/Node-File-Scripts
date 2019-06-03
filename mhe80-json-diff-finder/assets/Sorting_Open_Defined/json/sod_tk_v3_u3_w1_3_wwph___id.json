@@ -1,0 +1,212 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phonics: Identify/Categorize",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on a picture to hear its name. Drag pictures that begin with the the letter i to the left box. Drag pictures with i in the middle to the right box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "i__",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_013A_193002_d.jpg",
+                  "audio": "inch.mp3",
+                  "altText": "Part of a green ruler, from zero to one."
+                },
+                {
+                  "text": "M100_UW031_032A_193002_d.jpg",
+                  "audio": "ink.mp3",
+                  "altText": "Ink that has spilled out of an ink jar."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "__i__",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_026A_193002_d.jpg",
+                  "audio": "pig.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "M100_UW013_039A_193002_d.jpg",
+                  "audio": "sick.mp3",
+                  "altText": "A boy in bed frowning with a thermometer in his mouth."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "i__",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_034A_193002_d.jpg",
+                  "audio": "invitation.mp3",
+                  "altText": "A greeting card invitation. It reads \"You're Invited to a Party\""
+                },
+                {
+                  "text": "M100_UW031_008A_193002_d.jpg",
+                  "audio": "instruments.mp3",
+                  "altText": "A saxophone, trumpet, and violin."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "__i__",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_031A_193002_d.jpg",
+                  "audio": "chick.mp3",
+                  "altText": "A canary."
+                },
+                {
+                  "text": "M100_UW021_035A_193002_d.jpg",
+                  "audio": "rip.mp3",
+                  "altText": "A lion ripping up a piece of paper."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "i__",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_015A_193002_d.jpg",
+                  "audio": "iguana.mp3",
+                  "altText": "An iguana."
+                },
+                {
+                  "text": "M100_ UW021_011A_193002_d.jpg",
+                  "audio": "insects.mp3",
+                  "altText": "A red ant, a green bug, and a yellow bee."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "__i__",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_015A_193002_d.jpg",
+                  "audio": "sink.mp3",
+                  "altText": "A bathroom sink filled with water."
+                },
+                {
+                  "text": "M100_UW011_037A_193002_d.jpg",
+                  "audio": "mix.mp3",
+                  "altText": "A girl in pigtails mixing a substance in a blue bowl."
+                },
+                {
+                  "text": "M100_UW021_011A_193002_d.jpg",
+                  "audio": "pink.mp3",
+                  "altText": "A pink rose with stem and leaves."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

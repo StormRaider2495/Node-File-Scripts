@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Gram&amp;#225;tica: el sustantivo&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Escoge la forma correcta del sustantivo para llenar el espacio en blanco y completar cada oraci&amp;#243;n.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Mi [perro] se llama Toto.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>perro</text>
+              <image />
+              <audio>TEG_perro.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>perros</text>
+              <image />
+              <audio>TEG_perros.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;La ballena nada en las [olas].&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>olas</text>
+              <image />
+              <audio>TEG_olas.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>ola</text>
+              <image />
+              <audio>TEG_ola.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Tito pone ocho [panes] en la mesa.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>pan</text>
+              <image />
+              <audio>TEG_pan.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>panes</text>
+              <image />
+              <audio>TEG_panes.mp3</audio>
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

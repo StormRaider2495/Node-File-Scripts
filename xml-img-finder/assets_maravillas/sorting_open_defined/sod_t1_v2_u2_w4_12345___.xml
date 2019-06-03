@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Reconocimiento fonol&amp;#243;gico: sonido &lt;i&gt;b&lt;/i&gt;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la imagen para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la imagen con el sonido&amp;#160;&lt;i&gt;b&lt;/i&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la imagen&amp;#160;sin el sonido&amp;#160;&lt;i&gt;b&lt;/i&gt;&amp;#160;en la caja roja.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Tiene el sonido b</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_bate.jpg</text>
+                      <audio>TEG_bate.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_bota.jpg</text>
+                      <audio>TEG_botas.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_nube.jpg</text>
+                      <audio>TEG_nube.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_bigote.jpg</text>
+                      <audio>TEG_bigote.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_boca.jpg</text>
+                      <audio>TEG_boca.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No tiene el sonido b</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_lodo.jpg</text>
+                      <audio>TEG_lodo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_nudo.jpg</text>
+                      <audio>TEG_nudo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_casa.jpg</text>
+                      <audio>TEG_casa.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+            <item>
+              <bins>
+                <bin>
+                  <title>Tiene el sonido b</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_boton.jpg</text>
+                      <audio>TEG_boton.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_lobo.jpg</text>
+                      <audio>TEG_lobo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_abrigo.jpg</text>
+                      <audio>TEG_abrigo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_tambor.jpg</text>
+                      <audio>TEG_tambor.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No tiene el sonido b</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_pizza.jpg</text>
+                      <audio>TEG_pizza.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_parque.jpg</text>
+                      <audio>TEG_parque.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_iguana.jpg</text>
+                      <audio>TEG_iguana.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_regla.jpg</text>
+                      <audio>TEG_regla.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Tiene el sonido b</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_caballo.jpg</text>
+                      <audio>TEG_caballo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_bailarina.jpg</text>
+                      <audio>TEG_bailarina.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_banana.jpg</text>
+                      <audio>TEG_banana.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_bandera.jpg</text>
+                      <audio>TEG_bandera.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_batido.jpg</text>
+                      <audio>TEG_batido.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No tiene el sonido b</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_medalla.jpg</text>
+                      <audio>TEG_medalla.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_nariz.jpg</text>
+                      <audio>TEG_nariz.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_hamaca.jpg</text>
+                      <audio>TEG_hamaca.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+            <item>
+              <bins>
+                <bin>
+                  <title>Tiene el sonido b</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_ballena.jpg</text>
+                      <audio>TEG_ballena.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_sombrero.jpg</text>
+                      <audio>TEG_sombrero.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_carbon.jpg</text>
+                      <audio>TEG_carbon.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_burro.jpg</text>
+                      <audio>TEG_burro.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No tiene el sonido b</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_pinata.jpg</text>
+                      <audio>TEG_pinata.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_tulipan.jpg</text>
+                      <audio>TEG_tulipan.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_cepillo.jpg</text>
+                      <audio>TEG_cepillo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_cuerda.jpg</text>
+                      <audio>TEG_cuerda.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Tiene el sonido b</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_embudo.jpg</text>
+                      <audio>TEG_embudo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_escoba.jpg</text>
+                      <audio>TEG_escoba.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_guayaba.jpg</text>
+                      <audio>TEG_guayaba.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_rebano.jpg</text>
+                      <audio>TEG_rebano.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_bebida.jpg</text>
+                      <audio>TEG_bebida.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No tiene el sonido b</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_plancha.jpg</text>
+                      <audio>TEG_plancha.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_lapiz.jpg</text>
+                      <audio>TEG_lapiz.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_dinosaurio.jpg</text>
+                      <audio>TEG_dinosaurio.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+            <item>
+              <bins>
+                <bin>
+                  <title>Tiene el sonido b</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_cobija.jpg</text>
+                      <audio>TEG_cobija.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_bellota.jpg</text>
+                      <audio>TEG_bellota.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_libelula.jpg</text>
+                      <audio>TEG_libelula.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_rabano.jpg</text>
+                      <audio>TEG_rabano.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No tiene el sonido b</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_camello.jpg</text>
+                      <audio>TEG_camello.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_pecera.jpg</text>
+                      <audio>TEG_pecera.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_molino.jpg</text>
+                      <audio>TEG_molino.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_lata.jpg</text>
+                      <audio>TEG_lata.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

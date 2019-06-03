@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Estrategia de vocabulario: claves de contexto&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona la clave de contexto que te permite comprender el significado&amp;#160;de la palabra subrayada.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;El 26 de julio, la convenci&amp;#243;n tom&amp;#243; un &lt;u&gt;receso&lt;/u&gt; de diez d&amp;#237;as. Los delegados que viv&amp;#237;an cerca fueron a casa. Otros a las monta&amp;#241;as en busca de aire m&amp;#225;s fresco.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>fueron a casa</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>El 26 de julio</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Los delegados</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Algunos estados &lt;u&gt;acu&amp;#241;aban&lt;/u&gt; moneda. Las f&amp;#225;bricas utilizaban&amp;#160;oro o&amp;#160;plata.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>utilizaban oro</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Algunos estados</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Las fábricas</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Los tribunales les &lt;u&gt;confiscaron&lt;/u&gt; sus tierras y el ganado. Muchos granjeros se quejaban de c&amp;#243;mo les arrebataban sus propiedades.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>les arrebataban sus propiedades</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>sus tierras y el ganado</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Muchos granjeros se quejaban</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;La primera &lt;u&gt;plenaria&lt;/u&gt;&amp;#160;de la convenci&amp;#243;n, donde estaban representados todos los estados, les hab&amp;#237;a dejado a los delegados mucho en qu&amp;#233; pensar.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>estaban representados todos los estados</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>La primera</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>mucho en qué pensar</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;El sistema nacional de tribunales decidir&amp;#237;a si se &lt;u&gt;acataban&lt;/u&gt; las leyes. La decisi&amp;#243;n de aceptar o no estaba en sus manos.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>El sistema nacional de tribunales</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>estaba en sus manos</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>La decisión de aceptar o no</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Los sure&amp;#241;os cultivaban tabaco, az&amp;#250;car y arroz en inmensas &lt;u&gt;plantaciones&lt;/u&gt;.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Los sureños</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>cultivaban</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>inmensas</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

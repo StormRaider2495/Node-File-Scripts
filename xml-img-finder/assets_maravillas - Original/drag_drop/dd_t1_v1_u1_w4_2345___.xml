@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Gramática: Oraciones interrogativas y exclamativas</title>
+  <directions>Selecciona la mejor opción para completar la oración.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <itemReplenishmentMode value="bottomless" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;&amp;#161;Qu&amp;#233; [] auto!&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left>loco</left>
+              <right>pelo</right>
+            </pair>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

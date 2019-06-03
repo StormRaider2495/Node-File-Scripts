@@ -1,0 +1,375 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics &#8211; Inflectional Endings",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Look at the words in the word bank. Drag each word to the column that has the same inflectional ending. Not all words will be used.</p>",
+    "audio": "dl_drag_same_inflectional_ending.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "–s",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "s.mp3"
+              },
+              "contents": [
+                {
+                  "text": "races",
+                  "audio": "races.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "names",
+                  "audio": "names.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "helps",
+                  "audio": "helps.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "-ed",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ed.mp3"
+              },
+              "contents": [
+                {
+                  "text": "hugged",
+                  "audio": "hugged.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "dropped",
+                  "audio": "dropped.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "-ing",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ing.mp3"
+              },
+              "contents": [
+                {
+                  "text": "baking",
+                  "audio": "baking.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "driving",
+                  "audio": "driving.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "sale",
+                  "audio": "sale.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "bought",
+                  "audio": "bought.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "misread",
+                  "audio": "misread.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "–s",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "s.mp3"
+              },
+              "contents": [
+                {
+                  "text": "hopes",
+                  "audio": "hopes.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "cares",
+                  "audio": "cares.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "-ed",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ed.mp3"
+              },
+              "contents": [
+                {
+                  "text": "traded",
+                  "audio": "traded.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "placed",
+                  "audio": "placed.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "-ing",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ing.mp3"
+              },
+              "contents": [
+                {
+                  "text": "staying",
+                  "audio": "staying.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "fixing",
+                  "audio": "fixing.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "square",
+                  "audio": "square.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "curvy",
+                  "audio": "curvy.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "teacher",
+                  "audio": "teacher.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "throw",
+                  "audio": "throw.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "–s",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "s.mp3"
+              },
+              "contents": [
+                {
+                  "text": "names",
+                  "audio": "names.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "bakes",
+                  "audio": "bakes.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "-ed",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ed.mp3"
+              },
+              "contents": [
+                {
+                  "text": "talked",
+                  "audio": "talked.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "rowed",
+                  "audio": "rowed.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "-ing",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ing.mp3"
+              },
+              "contents": [
+                {
+                  "text": "naming",
+                  "audio": "naming.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "dropping",
+                  "audio": "dropping.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "princess",
+                  "audio": "princess.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "painful",
+                  "audio": "painful.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "chalkboard",
+                  "audio": "chalkboard.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "discount",
+                  "audio": "discount.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

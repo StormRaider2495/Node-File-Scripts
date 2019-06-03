@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Grammar: Writing Sentences</title>
+  <directions>Read each sentence. Drag the word or set of words that complete the sentence to the line.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow1" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize>21</fontSize>
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Russ [likes] jam.&lt;/p&gt;
+&lt;p&gt;Dad will [pack] for the trip.&lt;/p&gt;
+&lt;p&gt;Did you do [job]?&lt;/p&gt;
+&lt;p&gt;Bob can [jump].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize>19</fontSize>
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Rick [hit] the stick.&lt;/p&gt;
+&lt;p&gt;Do you [see] Brad?&lt;/p&gt;
+&lt;p&gt;I [do not] like jam.&lt;/p&gt;
+&lt;p&gt;Here is the [black pot] for the ham.&lt;/p&gt;
+&lt;p&gt;The [two dogs] ran.&lt;/p&gt;
+&lt;p&gt;Rob got [a flag].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize>19</fontSize>
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;[Do not] clap if you win.&lt;/p&gt;
+&lt;p&gt;I will miss [the quiz].&lt;/p&gt;
+&lt;p&gt;Rob has the [big block].&lt;/p&gt;
+&lt;p&gt;[We have] a plan.&lt;/p&gt;
+&lt;p&gt;The doll is in [the box].&lt;/p&gt;
+&lt;p&gt;I [am glad] Jon is here.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize>18</fontSize>
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The class is [at school].&lt;/p&gt;
+&lt;p&gt;Do you like [hot dogs] for a snack?&lt;/p&gt;
+&lt;p&gt;Gram has [six cats].&lt;/p&gt;
+&lt;p&gt;They [will] dolls.&lt;/p&gt;
+&lt;p&gt;Do not sit on [the grass].&lt;/p&gt;
+&lt;p&gt;What did you [win]?&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize>19</fontSize>
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Mom will fix [the lock].&lt;/p&gt;
+&lt;p&gt;The pot is [hot]!&lt;/p&gt;
+&lt;p&gt;[Do not slip] on the dock.&lt;/p&gt;
+&lt;p&gt;Pull [the rod] down.&lt;/p&gt;
+&lt;p&gt;The frog hops [on the rock].&lt;/p&gt;
+&lt;p&gt;Ron is very [sad]. &amp;#160;&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Reconocimiento fonol&amp;#243;gico: repaso&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre.&amp;#160;Coloca en la caja azul las im&amp;#225;genes con el sonido &lt;i&gt;rr &lt;/i&gt;al principio. Coloca en la caja roja las im&amp;#225;genes con el sonido &lt;i&gt;rr &lt;/i&gt;en el medio.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Sonido rr al principio</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_raton.jpg</text>
+                      <audio>TEG_raton.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_rosa.jpg</text>
+                      <audio>TEG_rosa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_raqueta.jpg</text>
+                      <audio>TEG_raqueta.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_rama.jpg</text>
+                      <audio>TEG_rama.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Sonido rr en el medio</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_perro.jpg</text>
+                      <audio>TEG_perro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_guitarra.jpg</text>
+                      <audio>TEG_guitarra.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_gorro.jpg</text>
+                      <audio>TEG_gorro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_torre.jpg</text>
+                      <audio>TEG_torre.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre.&amp;#160;Coloca en la caja azul las im&amp;#225;genes&amp;#160;que tienen&amp;#160;el sonido&amp;#160;&lt;i&gt;j&lt;/i&gt;. Coloca en la caja roja las im&amp;#225;genes que tienen el sonido &lt;i&gt;y&lt;/i&gt;.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Sonido j</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_conejo.jpg</text>
+                      <audio>TEG_conejo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_oveja.jpg</text>
+                      <audio>TEG_oveja.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_naranja.jpg</text>
+                      <audio>TEG_naranja.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_caja.jpg</text>
+                      <audio>TEG_caja.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Sonido y</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_payaso.jpg</text>
+                      <audio>TEG_payaso.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_yoyo.jpg</text>
+                      <audio>TEG_yoyo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_playa.jpg</text>
+                      <audio>TEG_playa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_mayonesa.jpg</text>
+                      <audio>TEG_mayonesa.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre.&amp;#160;Coloca en la caja azul las im&amp;#225;genes que tienen el sonido &lt;i&gt;ch&lt;/i&gt;. Coloca en la caja roja las im&amp;#225;genes que tienen el sonido &lt;i&gt;&amp;#241;&lt;/i&gt;.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Sonido ch</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_lechuga.jpg</text>
+                      <audio>TEG_lechuga.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_plancha.jpg</text>
+                      <audio>TEG_plancha.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_ducha.jpg</text>
+                      <audio>TEG_ducha.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_chimenea.jpg</text>
+                      <audio>TEG_chimenea.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Sonido ñ</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_pina.jpg</text>
+                      <audio>TEG_pina.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_muneca.jpg</text>
+                      <audio>TEG_muneca.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_panuelo.jpg</text>
+                      <audio>TEG_panuelo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_arana.jpg</text>
+                      <audio>TEG_arana.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

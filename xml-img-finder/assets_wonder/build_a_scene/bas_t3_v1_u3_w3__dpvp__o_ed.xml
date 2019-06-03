@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Vocabulary</title>
+  <directions>Drag each word from the word bank to the correct place on the picture to label the picture. Not all words will be used.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow1" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="92" y="399"/&gt;  &lt;position x="644" y="249"/&gt;  &lt;position x="646" y="311"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="44" y="285"/&gt;  &lt;position x="691" y="271"/&gt;  &lt;position x="691" y="378"/&gt;  &lt;position x="45" y="451"/&gt;  &lt;position x="44" y="359"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW033_002A_119113_D.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>globe</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>solar system</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>astronomy</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>support</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>surface</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>amount</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>temperature</text>
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW033_015A_119113_D.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>relatives</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>population</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>massive</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>national</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>caretaker</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>recognize</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>threatened</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>resources</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>grand</text>
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Phonics: Categorize&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Click on a picture to hear its name. Drag pictures that begin or end with the letter m into the blue box. Drag pictures that do not have an m into the red box.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <vspacing />
+  <contentMode value="images" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Begins or Ends with the Letter m</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW041_002A_114242_D.jpg</text>
+                      <audio>mail.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW051_015A_114242_D.jpg</text>
+                      <audio>farm.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Does Not Have the Letter m</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_081A_193002_d.jpg</text>
+                      <audio>balloon.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Begins or Ends with the Letter m</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_027A_193002_d.jpg</text>
+                      <audio>mug.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_034A_193002_d.jpg</text>
+                      <audio>room.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Does Not Have the Letter m</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_082A_193002_d.jpg</text>
+                      <audio>sleep.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Begins or Ends with the Letter m</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_079A_193002_d.jpg</text>
+                      <audio>mirror.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_030A_193002_d.jpg</text>
+                      <audio>team.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Does Not Have the Letter m</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_083A_193002_d.jpg</text>
+                      <audio>plane.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

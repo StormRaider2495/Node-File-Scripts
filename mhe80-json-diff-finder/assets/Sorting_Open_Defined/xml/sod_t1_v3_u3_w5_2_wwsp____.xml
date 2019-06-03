@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Spelling: Word Sort with -ook, -ood&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Drag words with the same ending sounds into the boxes. If the word does not have the same ending as any of the words, drag it into the &amp;#8220;Other&amp;#8221; bin.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>rook</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>book</text>
+                      <audio>book.m</audio>
+                    </item>
+                    <item>
+                      <text>look</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cook</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>took</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>stood</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>hood</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>wood</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>nose</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cute</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>buy</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>done</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>rook</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>shook</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>crook</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>hook</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>nook</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>brook</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>stood</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>good</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>hood</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>wood</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

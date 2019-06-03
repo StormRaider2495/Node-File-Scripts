@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con m&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la palabra escrita con &lt;u&gt;m&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra&amp;#160;&lt;b&gt;sin&lt;/b&gt;&amp;#160;&lt;u&gt;m&lt;/u&gt;&amp;#160;en la caja roja. &amp;#160;&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene m</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>malo</text>
+                      <audio>TEG_malo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mamá</text>
+                      <audio>TEG_mama1.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mapa</text>
+                      <audio>TEG_mapa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mar</text>
+                      <audio>TEG_mar.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene m</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>luna</text>
+                      <audio>TEG_luna.mp3</audio>
+                    </item>
+                    <item>
+                      <text>lago</text>
+                      <audio>TEG_lago.mp3</audio>
+                    </item>
+                    <item>
+                      <text>joya</text>
+                      <audio>TEG_joya.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene m</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>más</text>
+                      <audio>TEG_mas.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mayo</text>
+                      <audio>TEG_mayo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mesa</text>
+                      <audio>TEG_mesa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>modo</text>
+                      <audio>TEG_modo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>amarillo</text>
+                      <audio>TEG_amarillo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>semilla</text>
+                      <audio>TEG_semilla.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene m</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>silla</text>
+                      <audio>TEG_silla.mp3</audio>
+                    </item>
+                    <item>
+                      <text>seis</text>
+                      <audio>TEG_seis.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tener</text>
+                      <audio>TEG_tener.mp3</audio>
+                    </item>
+                    <item>
+                      <text>ajo</text>
+                      <audio>TEG_ajo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

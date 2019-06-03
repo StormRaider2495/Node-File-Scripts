@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<word_letter_focus>
+  <title>Estrategia de vocabulario: prefijos</title>
+  <directions>&lt;p&gt;Busca las palabras con prefijos. Con el serrucho, separa el&amp;#160;prefijo del resto de la palabra.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;Tuve que r{dv}eh{/dv}acer mi trabajo porque qued&amp;#243; muy de{dv}sp{/dv}arejo.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;El concierto fue extr{dv}ao{/dv}rdinario.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Ese piano suena de{dv}sa{/dv}finado.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;Tengo que r{dv}el{/dv}eer el cuento.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Estoy en de{dv}sa{/dv}cuerdo con lo que dicen mis amigos.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Ellos quedaron di{dv}sc{/dv}onformes con mi decisi&amp;#243;n.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</word_letter_focus>
+

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Normas del lenguaje: Las comillas en citas, pensamientos&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona la alternativa que tiene puntuaci&amp;#243;n correcta.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;El profesor pens&amp;#243;&amp;#160;la mayor&amp;#237;a de los alumnos ir&amp;#225; al paseo del s&amp;#225;bado.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>El profesor "pensó": la mayoría de los alumnos irá al paseo del sábado.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>El profesor pensó: "la mayoría de los alumnos irá al paseo del sábado".</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>El profesor: "pensó la mayoría de los alumnos irá al paseo del sábado".</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>El profesor pensó: la mayoría de los alumnos irá al paseo del sábado.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;El amigo le dijo que se fueran a jugar por la noche. Sin embargo, record&amp;#243; que su padre advirti&amp;#243; No vayas a llegar tarde.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>El amigo le dijo que se fueran a jugar por la noche. Sin embargo, recordó que "su padre le advirtió No vayas a llegar tarde".</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>El amigo le dijo que se "fueran a jugar por la noche". Sin embargo, recordó que "su padre le advirtió No vayas a llegar tarde".</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>El amigo le dijo que se fueran a jugar por la noche. Sin embargo, recordó que su padre le advirtió: "No vayas a llegar tarde".</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>El amigo le dijo que se "fueran" a jugar por la noche. Sin embargo, recordó que su padre le advirtió No vayas a llegar "tarde".</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;El poeta y pensador Emerson dec&amp;#237;a Un amigo es una persona con la que se puede pensar en voz alta.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>El poeta y pensador Emerson decía,  "Un amigo es una persona con la que se puede pensar en voz alta."</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>El poeta y pensador Emerson decía: Un amigo es una persona con la que se puede pensar en voz alta.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>El poeta y pensador Emerson decía: "Un amigo es una persona con la que se puede pensar en voz alta."</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>El poeta y pensador: "Emerson decía Un amigo es una persona con la que se puede pensar en voz alta".</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Abraham Lincoln dec&amp;#237;a: Hagas lo que hagas, hazlo bien. Eso hizo pensar a Pedro que deb&amp;#237;a dar lo mejor de s&amp;#237; mismo.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Abraham Lincoln decía: "Hagas lo que hagas", hazlo bien. Eso hizo pensar a Pedro que "debía dar lo mejor de sí mismo".</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Abraham Lincoln decía: "Hagas lo que hagas, hazlo bien". Eso lo hizo pensar que debía dar lo mejor de sí mismo.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Abraham Lincoln decía: Hagas lo que hagas, hazlo bien. Eso hizo pensar a Pedro que "debía dar lo mejor de sí mismo".</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Abraham Lincoln decía: Hagas lo que hagas, hazlo bien. Eso hizo pensar a Pedro que "debía dar lo mejor de sí mismo".</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Record&amp;#233; aquel proverbio japon&amp;#233;s que dec&amp;#237;a&amp;#160;Es mejor viajar lleno de esperanza que llegar.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Recordé aquel proverbio japonés que decía: Es mejor viajar lleno de esperanza que llegar.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Recordé aquel proverbio japonés que decía, "Es mejor viajar lleno de esperanza que llegar".</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Recordé aquel proverbio japonés que decía: "Es mejor viajar lleno de esperanza que llegar".</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Recordé aquel proverbio japonés que decía: "Es mejor viajar lleno de esperanza que llegar."</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Alicia le dijo a su compa&amp;#241;era por favor,&amp;#160;pr&amp;#233;stame tu l&amp;#225;piz. La amiga le dijo que lo har&amp;#237;a con mucho gusto.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Alicia le dijo a su compañera: "por favor, préstame tu lápiz". La amiga le dijo que lo haría con mucho gusto.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Alicia le dijo "a su compañera por favor", préstame tu lápiz. La amiga le dijo que "lo haría con mucho gusto".</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Alicia le dijo a su compañera por favor, préstame tu lápiz. La amiga le dijo: "que lo haría con mucho gusto".</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Alicia le dijo: a su compañera "por favor, préstame tu lápiz". La amiga le dijo que lo haría con mucho gusto.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

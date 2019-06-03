@@ -1,0 +1,427 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Alphabet",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Drag the letters into the correct boxes.</p>",
+    "audio": "DL_SORT_abc.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "UPPERCASE",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "NCG_uppercase.mp3"
+              },
+              "contents": [
+                {
+                  "text": "ALPHABET_Upper_G_001P_PreKTE17.jpg",
+                  "audio": "NCG_g.mp3",
+                  "altText": "Uppercase G."
+                },
+                {
+                  "text": "ALPHABET_Upper_I_001P_PreKTE17.jpg",
+                  "audio": "NCG_i.mp3",
+                  "altText": "Uppercase I."
+                },
+                {
+                  "text": "ALPHABET_Upper_K_001P_PreKTE17.jpg",
+                  "audio": "NCG_k.mp3",
+                  "altText": "Uppercase K."
+                },
+                {
+                  "text": "ALPHABET_Upper_O_001P_PreKTE17.jpg",
+                  "audio": "NCG_o.mp3",
+                  "altText": "Uppercase O."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "lowercase",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "NCG_lowercase.mp3"
+              },
+              "contents": [
+                {
+                  "text": "ALPHABET_Lower_G_001P_PreKTE17.jpg",
+                  "audio": "NCG_g.mp3",
+                  "altText": "Lowercase g."
+                },
+                {
+                  "text": "ALPHABET_Lower_I_001P_PreKTE17.jpg",
+                  "audio": "NCG_i.mp3",
+                  "altText": "Lowercase i."
+                },
+                {
+                  "text": "ALPHABET_Lower_K_001P_PreKTE17.jpg",
+                  "audio": "NCG_k.mp3",
+                  "altText": "Lowercase k."
+                },
+                {
+                  "text": "ALPHABET_Lower_O_001P_PreKTE17.jpg",
+                  "audio": "NCG_o.mp3",
+                  "altText": "Lowercase o."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "UPPERCASE",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "NCG_uppercase.mp3"
+              },
+              "contents": [
+                {
+                  "text": "ALPHABET_Upper_A_001P_PreKTE17.jpg",
+                  "audio": "NCG_a.mp3",
+                  "altText": "Uppercase A."
+                },
+                {
+                  "text": "ALPHABET_Upper_C_001P_PreKTE17.jpg",
+                  "audio": "NCG_c.mp3",
+                  "altText": "Uppercase C."
+                },
+                {
+                  "text": "ALPHABET_Upper_H_001P_PreKTE17.jpg",
+                  "audio": "NCG_h.mp3",
+                  "altText": "Uppercase H."
+                },
+                {
+                  "text": "ALPHABET_Upper_J_001P_PreKTE17.jpg",
+                  "audio": "NCG_j.mp3",
+                  "altText": "Uppercase J."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "lowercase",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "NCG_lowercase.mp3"
+              },
+              "contents": [
+                {
+                  "text": "ALPHABET_Lower_A_001P_PreKTE17.jpg",
+                  "audio": "NCG_a.mp3",
+                  "altText": "Lowercase a."
+                },
+                {
+                  "text": "ALPHABET_Lower_C_001P_PreKTE17.jpg",
+                  "audio": "NCG_c.mp3",
+                  "altText": "Lowercase c."
+                },
+                {
+                  "text": "ALPHABET_Lower_H_001P_PreKTE17.jpg",
+                  "audio": "NCG_h.mp3",
+                  "altText": "Lowercase h."
+                },
+                {
+                  "text": "ALPHABET_Lower_J_001P_PreKTE17.jpg",
+                  "audio": "NCG_j.mp3",
+                  "altText": "Lowercase j."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "UPPERCASE",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "NCG_uppercase.mp3"
+              },
+              "contents": [
+                {
+                  "text": "ALPHABET_Upper_E_001P_PreKTE17.jpg",
+                  "audio": "NCG_e.mp3",
+                  "altText": "Uppercase E."
+                },
+                {
+                  "text": "ALPHABET_Upper_B_001P_PreKTE17.jpg",
+                  "audio": "NCG_b.mp3",
+                  "altText": "Uppercase B."
+                },
+                {
+                  "text": "ALPHABET_Upper_L_001P_PreKTE17.jpg",
+                  "audio": "NCG_l.mp3",
+                  "altText": "Uppercase L."
+                },
+                {
+                  "text": "ALPHABET_Upper_N_001P_PreKTE17.jpg",
+                  "audio": "NCG_n.mp3",
+                  "altText": "Uppercase N."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "lowercase",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "NCG_lowercase.mp3"
+              },
+              "contents": [
+                {
+                  "text": "ALPHABET_Lower_E_001P_PreKTE17.jpg",
+                  "audio": "NCG_e.mp3",
+                  "altText": "Lowercase e."
+                },
+                {
+                  "text": "ALPHABET_Lower_B_001P_PreKTE17.jpg",
+                  "audio": "NCG_b.mp3",
+                  "altText": "Lowercase b."
+                },
+                {
+                  "text": "ALPHABET_Lower_L_001P_PreKTE17.jpg",
+                  "audio": "NCG_l.mp3",
+                  "altText": "Lowercase l."
+                },
+                {
+                  "text": "ALPHABET_Lower_N_001P_PreKTE17.jpg",
+                  "audio": "NCG_n.mp3",
+                  "altText": "Lowercase n."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "UPPERCASE",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "NCG_uppercase.mp3"
+              },
+              "contents": [
+                {
+                  "text": "ALPHABET_Upper_D_001P_PreKTE17.jpg",
+                  "audio": "NCG_d.mp3",
+                  "altText": "Uppercase D."
+                },
+                {
+                  "text": "ALPHABET_Upper_M_001P_PreKTE17.jpg",
+                  "audio": "NCG_m.mp3",
+                  "altText": "Uppercase M."
+                },
+                {
+                  "text": "ALPHABET_Upper_R_001P_PreKTE17.jpg",
+                  "audio": "NCG_r.mp3",
+                  "altText": "Uppercase R."
+                },
+                {
+                  "text": "ALPHABET_Upper_T_001P_PreKTE17.jpg",
+                  "audio": "NCG_t.mp3",
+                  "altText": "Uppercase T."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "lowercase",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "NCG_lowercase.mp3"
+              },
+              "contents": [
+                {
+                  "text": "ALPHABET_Lower_D_001P_PreKTE17.jpg",
+                  "audio": "NCG_d.mp3",
+                  "altText": "Lowercase d."
+                },
+                {
+                  "text": "ALPHABET_Lower_M_001P_PreKTE17.jpg",
+                  "audio": "NCG_m.mp3",
+                  "altText": "Lowercase m."
+                },
+                {
+                  "text": "ALPHABET_Lower_R_001P_PreKTE17.jpg",
+                  "audio": "NCG_r.mp3",
+                  "altText": "Lowercase r."
+                },
+                {
+                  "text": "ALPHABET_Lower_T_001P_PreKTE17.jpg",
+                  "audio": "NCG_t.mp3",
+                  "altText": "Lowercase t."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "UPPERCASE",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "NCG_uppercase.mp3"
+              },
+              "contents": [
+                {
+                  "text": "ALPHABET_Upper_U_001P_PreKTE17.jpg",
+                  "audio": "NCG_u.mp3",
+                  "altText": "Uppercase U."
+                },
+                {
+                  "text": "ALPHABET_Upper_X_001P_PreKTE17.jpg",
+                  "audio": "NCG_x.mp3",
+                  "altText": "Uppercase X."
+                },
+                {
+                  "text": "ALPHABET_Upper_P_001P_PreKTE17.jpg",
+                  "audio": "NCG_p.mp3",
+                  "altText": "Uppercase P."
+                },
+                {
+                  "text": "ALPHABET_Upper_F_001P_PreKTE17.jpg",
+                  "audio": "NCG_f.mp3",
+                  "altText": "Uppercase F."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "lowercase",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "NCG_lowercase.mp3"
+              },
+              "contents": [
+                {
+                  "text": "ALPHABET_Lower_U_001P_PreKTE17.jpg",
+                  "audio": "NCG_u.mp3",
+                  "altText": "Lowercase u."
+                },
+                {
+                  "text": "ALPHABET_Lower_X_001P_PreKTE17.jpg",
+                  "audio": "NCG_x.mp3",
+                  "altText": "Lowercase x."
+                },
+                {
+                  "text": "ALPHABET_Lower_P_001P_PreKTE17.jpg",
+                  "audio": "NCG_p.mp3",
+                  "altText": "Lowercase p."
+                },
+                {
+                  "text": "ALPHABET_Lower_F_001P_PreKTE17.jpg",
+                  "audio": "NCG_f.mp3",
+                  "altText": "Lowercase f."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

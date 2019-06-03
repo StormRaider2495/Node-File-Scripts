@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con cr&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la palabra escrita con&amp;#160;&lt;u&gt;cr&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra&amp;#160;&lt;b&gt;sin&lt;/b&gt;&amp;#160;&lt;u&gt;cr&lt;/u&gt;&amp;#160;en la caja roja. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene cr</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>crear</text>
+                      <audio>TEG_crear.mp3</audio>
+                    </item>
+                    <item>
+                      <text>creemos</text>
+                      <audio>TEG_creemos.mp3</audio>
+                    </item>
+                    <item>
+                      <text>crespo</text>
+                      <audio>TEG_crespo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>micrófono</text>
+                      <audio>TEG_microfono.mp3</audio>
+                    </item>
+                    <item>
+                      <text>crecer</text>
+                      <audio>TEG_crecer.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene cr</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>cerca</text>
+                      <audio>TEG_cerca.mp3</audio>
+                    </item>
+                    <item>
+                      <text>metro</text>
+                      <audio>TEG_metro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pecho</text>
+                      <audio>TEG_pecho.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene cr</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>recreo</text>
+                      <audio>TEG_recreo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>secretario</text>
+                      <audio>TEG_secretario.mp3</audio>
+                    </item>
+                    <item>
+                      <text>acróbata</text>
+                      <audio>TEG_acrobata.mp3</audio>
+                    </item>
+                    <item>
+                      <text>crayón</text>
+                      <audio>TEG_crayon.mp3</audio>
+                    </item>
+                    <item>
+                      <text>crema</text>
+                      <audio>TEG_crema.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene cr</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>corazón</text>
+                      <audio>TEG_corazon.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pecera</text>
+                      <audio>TEG_pecera.mp3</audio>
+                    </item>
+                    <item>
+                      <text>producir</text>
+                      <audio>TEG_producir.mp3</audio>
+                    </item>
+                    <item>
+                      <text>acera</text>
+                      <audio>TEG_acera.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

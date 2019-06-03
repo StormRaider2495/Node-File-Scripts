@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Phonics</title>
+  <directions>Read the word in the organizer. Identify which words on the right have the same &lt;i&gt;u&lt;/i&gt; sound as the word in the organizer. Then drag those words to the organizer.</directions>
+  <directionsAudio>dl_organizer_same_u.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow1" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="148.5" y="504.75"/&gt;  &lt;position x="373.5" y="507.65"/&gt;  &lt;position x="594.1" y="510.45"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="148.5" y="509.05"/&gt;  &lt;position x="370.65" y="520.6"/&gt;  &lt;position x="589.8" y="514.8"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="147.1" y="507.6"/&gt;  &lt;position x="369.2" y="511.95"/&gt;  &lt;position x="584" y="514.8"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW035_348A_186626_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text>unit</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>glue</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>few</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>puppy</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>fuss</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>about</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>stone</text>
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW035_349A_186626_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text>cute</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>tune</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>crude</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>joined</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>trout</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>plane</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>coast</text>
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW035_350A_186626_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text>stew</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>dew</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>grew</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>board</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>jumped</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>shout</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>trust</text>
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

@@ -1,0 +1,461 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phoneme Categorization",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture. Drag pictures with the /&#228;r/ sound or the /&#299;/ sound into the blue box. Drag pictures that do not have these sounds into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/är/ or /ī/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_015A_114242_D.jpg",
+                  "audio": "farm.mp3",
+                  "altText": "A farm with a barn and fence, a cow, a pig, and three chickens."
+                },
+                {
+                  "text": "M100_UW051_002A_114242_D.jpg",
+                  "audio": "tart.mp3",
+                  "altText": "A fruit tart."
+                },
+                {
+                  "text": "M100_UW051_016A_114242_D.jpg",
+                  "audio": "star.mp3",
+                  "altText": "A red star."
+                },
+                {
+                  "text": "M100_UW051_003A_114242_D.jpg",
+                  "audio": "barn.mp3",
+                  "altText": "A red barn."
+                },
+                {
+                  "text": "M100_UW051_004A_114242_D.jpg",
+                  "audio": "cart.mp3",
+                  "altText": "A red shopping cart."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_018A_114242_D.jpg",
+                  "audio": "man.mp3",
+                  "altText": "A boy wearing glasses and a button-up shirt."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/är/ or /ī/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_017A_114242_D.jpg",
+                  "audio": "arm.mp3",
+                  "altText": "A girl. A red arrow points to her arm."
+                },
+                {
+                  "text": "M100_UW051_018A_114242_D.jpg",
+                  "audio": "heart.mp3",
+                  "altText": "A heart."
+                },
+                {
+                  "text": "M100_UW051_019A_114242_D.jpg",
+                  "audio": "car.mp3",
+                  "altText": "A blue car."
+                },
+                {
+                  "text": "M100_UW051_003A_114242_D.jpg",
+                  "audio": "barn.mp3",
+                  "altText": "A red barn."
+                },
+                {
+                  "text": "M100_UW024_009A_114242_D.jpg",
+                  "audio": "shark.mp3",
+                  "altText": "A blue dolphin."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_017A_114242_D.jpg",
+                  "audio": "ant.mp3",
+                  "altText": "An ant."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/är/ or /ī/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_020A_114242_D.jpg",
+                  "audio": "charm.mp3",
+                  "altText": "A silver heart chain bracelet. A red arrow points to the heart."
+                },
+                {
+                  "text": "M100_UW051_006A_114242_D.jpg",
+                  "audio": "harp.mp3",
+                  "altText": "A harp."
+                },
+                {
+                  "text": "M100_UW051_007A_114242_D.jpg",
+                  "audio": "dart.mp3",
+                  "altText": "A blue dart."
+                },
+                {
+                  "text": "M100_UW051_016A_114242_D.jpg",
+                  "audio": "star.mp3",
+                  "altText": "A red star."
+                },
+                {
+                  "text": "M100_UW051_001A_114242_D.jpg",
+                  "audio": "park.mp3",
+                  "altText": "An outdoor park on a sunny day, with trees, flowers, and a path. A swing is attached to a tree branch."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_016A_114242_D.jpg",
+                  "audio": "hat.mp3",
+                  "altText": "A brown fedora."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/är/ or /ī/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_021A_114242_D.jpg",
+                  "audio": "jar.mp3",
+                  "altText": "An empty jar."
+                },
+                {
+                  "text": "M100_UW051_017A_114242_D.jpg",
+                  "audio": "arm.mp3",
+                  "altText": "A girl. A red arrow points to her arm."
+                },
+                {
+                  "text": "M100_UW051_022A_114242_D.jpg",
+                  "audio": "carp.mp3",
+                  "altText": "A yellow fish."
+                },
+                {
+                  "text": "M100_UW051_024A_114242_D.jpg",
+                  "audio": "yard.mp3",
+                  "altText": "A small red house with a swing set in the back, surrounded by a white fence. A red arrow points to the house."
+                },
+                {
+                  "text": "M100_UW051_003A_114242_D.jpg",
+                  "audio": "barn.mp3",
+                  "altText": "A red barn."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_023A_114242_D.jpg",
+                  "audio": "case.mp3",
+                  "altText": "A brown briefcase."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/är/ or /ī/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_004A_114242_D.jpg",
+                  "audio": "cart.mp3",
+                  "altText": "A red shopping cart."
+                },
+                {
+                  "text": "M100_UW051_026A_114242_D.jpg",
+                  "audio": "sharp.mp3",
+                  "altText": "A pencil. A red arrow points to the tip of the pencil."
+                },
+                {
+                  "text": "M100_UW051_012A_114242_D.jpg",
+                  "audio": "card.mp3",
+                  "altText": "A Valentine's Day card with a heart on the cover."
+                },
+                {
+                  "text": "M100_UW051_015A_114242_D.jpg",
+                  "audio": "farm.mp3",
+                  "altText": "A farm with a barn and fence, a cow, a pig, and three chickens."
+                },
+                {
+                  "text": "M100_UW051_020A_114242_D.jpg",
+                  "audio": "charm.mp3",
+                  "altText": "A silver heart chain bracelet. A red arrow points to the heart."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_012A_114242_D.jpg",
+                  "audio": "cane.mp3",
+                  "altText": "A cane."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/är/ or /ī/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_009A_114242_D.jpg",
+                  "audio": "yarn.mp3",
+                  "altText": "A ball of blue yarn."
+                },
+                {
+                  "text": "M100_UW051_016A_114242_D.jpg",
+                  "audio": "star.mp3",
+                  "altText": "A red star."
+                },
+                {
+                  "text": "M100_UW051_007A_114242_D.jpg",
+                  "audio": "dart.mp3",
+                  "altText": "A blue dart."
+                },
+                {
+                  "text": "M100_UW051_002A_114242_D.jpg",
+                  "audio": "tart.mp3",
+                  "altText": "A fruit tart."
+                },
+                {
+                  "text": "M100_UW051_024A_114242_D.jpg",
+                  "audio": "yard.mp3",
+                  "altText": "A small red house with a swing set in the back, surrounded by a white fence. A red arrow points to the house."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_027A_114242_D.jpg",
+                  "audio": "cake.mp3",
+                  "altText": "A cake with four lit candles on it."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/är/ or /ī/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW044_008A_114242_D.jpg",
+                  "audio": "light.mp3",
+                  "altText": "A street light shining at night."
+                },
+                {
+                  "text": "M100_UW044_007A_114242_D.jpg",
+                  "audio": "sky.mp3",
+                  "altText": "A country road with mountains on both sides. A red arrow points between two clouds in the sky."
+                },
+                {
+                  "text": "M100_UW044_016A_114242_D.jpg",
+                  "audio": "pie.mp3",
+                  "altText": "A slice of apple pie."
+                },
+                {
+                  "text": "M100_UW051_029A_114242_D.jpg",
+                  "audio": "fight.mp3",
+                  "altText": "A boy and girl both pulling a yellow ball in opposite directions."
+                },
+                {
+                  "text": "M100_UW044_017A_114242_D.jpg",
+                  "audio": "tie.mp3",
+                  "altText": "A collared shirt and striped tie. A red arrow points to the tie."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_004A_114242_D.jpg",
+                  "audio": "boat.mp3",
+                  "altText": "A blue sailboat."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

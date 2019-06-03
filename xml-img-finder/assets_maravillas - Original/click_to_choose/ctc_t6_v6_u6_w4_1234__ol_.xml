@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Normas del lenguaje: la coma y otros signos&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Lee la oraci&amp;#243;n inicial que no tiene puntuaci&amp;#243;n. Selecciona la alternativa en la que la puntuaci&amp;#243;n es la correcta.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Los Mayas quienes vivieron hace cerca de tres mil a&amp;#241;os construyeron importantes edificaciones que a&amp;#250;n hoy son objeto de admiraci&amp;#243;n.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Los Mayas quienes vivieron hace cerca de tres mil años, construyeron importantes edificaciones que aún hoy son objeto de admiración.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Los Mayas, quienes vivieron hace cerca de tres mil años, construyeron importantes edificaciones que aún hoy son objeto de admiración.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Los Mayas, quienes vivieron hace cerca de tres mil años construyeron importantes edificaciones que aún hoy son objeto de admiración.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Los Mayas, quienes vivieron hace cerca de tres mil años, construyeron importantes edificaciones, que aún hoy son objeto de admiración.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Juan el profesor que te present&amp;#233; ayer llevaba cinco libros uno de ellos de historia en su mochila.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Juan el profesor que te presenté ayer, llevaba cinco libros —uno de ellos de historia— en su mochila.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Juan, el profesor que te presenté ayer, llevaba cinco libros —uno de ellos de historia— en su mochila.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Juan, el profesor que te presenté ayer, llevaba cinco libros uno de ellos de historia en su mochila.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Juan; el profesor que te presenté ayer, llevaba cinco libros; uno de ellos de historia, en su mochila.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Mis abuelos que nos visitan frecuentemente en vacaciones son muy alegres y simp&amp;#225;ticos.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Mis abuelos (que nos visitan frecuentemente) en vacaciones, son muy alegres y simpáticos.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Mis abuelos que nos visitan frecuentemente en vacaciones, son muy alegres y simpáticos.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Mis abuelos, (que nos visitan frecuentemente en vacaciones), son muy alegres y simpáticos.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Mis abuelos (que nos visitan frecuentemente en vacaciones) son muy alegres y simpáticos.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Ese libro el de portada azul fue el que me le&amp;#237; la semana pasada.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Ese libro, el de portada azul fue el que me leí la semana pasada.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Ese libro el de portada azul, fue el que me leí la semana pasada.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Ese libro, el de portada azul, fue el que me leí la semana pasada.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Ese libro, el de portada azul —fue el que me leí la semana pasada—.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Mis amigos Luis, Ricardo y Jaime son excelentes m&amp;#250;sicos.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Mis amigos —Luis, Ricardo y Jaime— son excelentes músicos.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Mis amigos, —Luis, Ricardo y Jaime—, son excelentes músicos.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Mis amigos, Luis, Ricardo y Jaime son excelentes músicos.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Mis amigos: Luis, Ricardo y Jaime son excelentes músicos.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Los actores de la obra de teatro tres de ellos de mi curso recibieron muchos elogios y regalos.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Los actores de la obra de teatro —tres de ellos de mi curso— recibieron muchos elogios, y regalos.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Los actores de la obra de teatro —tres de ellos de mi curso— recibieron muchos elogios y regalos.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Los actores, de la obra de teatro —tres de ellos de mi curso recibieron muchos elogios— y regalos.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Los actores, de la obra de teatro, tres de ellos de mi curso recibieron muchos elogios y regalos.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Ese se&amp;#241;or el que est&amp;#225; a tu derecha es el profesor de Qu&amp;#237;mica y es canadiense.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Ese señor, el que está a tu derecha, es el profesor de Química, y es canadiense.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Ese señor, el que está a tu derecha, es el profesor de Química y es canadiense.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Ese señor, el que está a tu derecha es el profesor de Química, y es canadiense.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Ese señor el que está a tu derecha es el profesor de Química, y es canadiense.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Los fenicios quienes eran excelentes navegantes eran comerciantes.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Los fenicios— quienes eran excelentes navegantes, eran comerciantes.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Los fenicios, quienes eran excelentes navegantes, eran comerciantes.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Los fenicios, quienes eran excelentes navegantes, (eran comerciantes).</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Los fenicios quienes eran excelentes navegantes, eran comerciantes.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

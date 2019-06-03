@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Palabras de uso frecuente&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz en clic en el bot&amp;#243;n que est&amp;#225; al lado de la palabra para o&amp;#237;rla. Luego, haz clic en las im&amp;#225;genes para o&amp;#237;r las oraciones. Elige la oraci&amp;#243;n que tiene la palabra de la casilla.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;con&lt;/b&gt;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_con.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_zoologico.jpg</image>
+              <audio>algunos_sentence.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_pancontomate.jpg</image>
+              <audio>con_sentence.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;tambi&amp;#233;n&lt;/b&gt;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_tambien.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_nina.jpg</image>
+              <audio>tambien_sentence.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_pino.jpg</image>
+              <audio>muy_sentence.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

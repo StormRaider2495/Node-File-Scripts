@@ -1,0 +1,267 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Build Vocabulary: Shades of Meaning",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Advancement",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "improvement",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "growth",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "progress",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "development",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "disbelief",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "relationship",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "struggle",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "excitement",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Prevalent",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "established",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "accepted",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "popular",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "common",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "empty",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "fearful",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "scientific",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unlucky",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Adored",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "loved",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "admired",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cherished",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "enamored",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "offended",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "narrowed",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "predicted",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "interrupted",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

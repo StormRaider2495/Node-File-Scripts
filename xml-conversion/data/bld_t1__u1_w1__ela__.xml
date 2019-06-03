@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blendingd>
+  <title>Your Turn: Phonics</title>
+  <skill>Short a</skill>
+  <background value="yellow3"/>
+  <rounds>
+    <round>
+      <practicescreen>
+        <directions>Drag each red marker to a box to hear the sound the letter stands for. Click the play button to hear the sounds blended together. Then click the speaker button to hear the word. Click the Go On button to go to the activity.</directions>
+        <directionsAudio>ela_bld_125_ps_dl.mp3</directionsAudio>
+        <sounds>
+          <sound>
+            <audio>ela_bld_sound_pack_p.mp3</audio>
+            <text>p</text>
+          </sound>
+          <sound>
+            <audio>ela_bld_sound_pack_a.mp3</audio>
+            <text>a</text>
+          </sound>
+          <sound>
+            <audio>ela_bld_sound_pack_k.mp3</audio>
+            <text>ck</text>
+          </sound>
+        </sounds>
+        <normalReadAudio>ela_bld_pack.mp3</normalReadAudio>
+        <blendedReadAudio>ela_bld_pack_blended.mp3</blendedReadAudio>
+      </practicescreen>
+      <activityscreens>
+        <item>
+          <guid>fGqADeOJ-zCjS-rDWk-6wH2-s0v59yp7oPR1</guid>
+          <directions>Blend the sounds to say the word. Listen to each answer choice. Click on the circle that matches the word.</directions>
+          <directionsAudio>ela_bld_k21_as_dl.mp3</directionsAudio>
+          <sounds>
+            <sound>
+              <text>t</text>
+            </sound>
+            <sound>
+              <text>a</text>
+            </sound>
+            <sound>
+              <text>g</text>
+            </sound>
+          </sounds>
+          <normalReadAudio>ela_bld_tag.mp3</normalReadAudio>
+          <answers>
+            <answer>
+              <word>bad</word>
+              <audio>ela_bld_bad_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+            <answer>
+              <word>tag</word>
+              <audio>ela_bld_tag_blended.mp3</audio>
+              <correct value="yes"/>
+            </answer>
+            <answer>
+              <word>rag</word>
+              <audio>ela_bld_rag_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <guid>s9iynYNB-vaJQ-kCwk-uO6N-sK3CUUKuVyOp</guid>
+          <directions>Blend the sounds to say the word. Listen to each answer choice. Click on the circle that matches the word.</directions>
+          <directionsAudio>ela_bld_k21_as_dl.mp3</directionsAudio>
+          <sounds>
+            <sound>
+              <text>r</text>
+            </sound>
+            <sound>
+              <text>a</text>
+            </sound>
+            <sound>
+              <text>n</text>
+            </sound>
+          </sounds>
+          <normalReadAudio>ela_bld_ran.mp3</normalReadAudio>
+          <answers>
+            <answer>
+              <word>ran</word>
+              <audio>ela_bld_ran_blended.mp3</audio>
+              <correct value="yes"/>
+            </answer>
+            <answer>
+              <word>rat</word>
+              <audio>ela_bld_rat_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+            <answer>
+              <word>man</word>
+              <audio>ela_bld_man_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <guid>sVSuzjot-392H-OOJW-y9TH-KOKaGO5bNfgi</guid>
+          <directions>Blend the sounds to say the word. Listen to each answer choice. Click on the circle that matches the word.</directions>
+          <directionsAudio>ela_bld_k21_as_dl.mp3</directionsAudio>
+          <sounds>
+            <sound>
+              <text>s</text>
+            </sound>
+            <sound>
+              <text>a</text>
+            </sound>
+            <sound>
+              <text>t</text>
+            </sound>
+          </sounds>
+          <normalReadAudio>ela_bld_111_sat.mp3</normalReadAudio>
+          <answers>
+            <answer>
+              <word>hat</word>
+              <audio>ela_bld_hat_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+            <answer>
+              <word>sam</word>
+              <audio>ela_bld_sam_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+            <answer>
+              <word>sat</word>
+              <audio>ela_bld_sat_blended.mp3</audio>
+              <correct value="yes"/>
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <guid>TERK0r4P-T719-4P7h-rmDc-RQt32NKrMg2K</guid>
+          <directions>Blend the sounds to say the word. Listen to each answer choice. Click on the circle that matches the word.</directions>
+          <directionsAudio>ela_bld_k21_as_dl.mp3</directionsAudio>
+          <sounds>
+            <sound>
+              <text>qu</text>
+            </sound>
+            <sound>
+              <text>a</text>
+            </sound>
+            <sound>
+              <text>ck</text>
+            </sound>
+          </sounds>
+          <normalReadAudio>ela_bld_quack.mp3</normalReadAudio>
+          <answers>
+            <answer>
+              <word>cat</word>
+              <audio>ela_bld_cat_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+            <answer>
+              <word>quack</word>
+              <audio>ela_bld_quack_blended.mp3</audio>
+              <correct value="yes"/>
+            </answer>
+            <answer>
+              <word>sack</word>
+              <audio>ela_bld_sack_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <guid>NPeFIZ1N-TOqT-FYbm-NEeU-tgz0iXntIPTX</guid>
+          <directions>Blend the sounds to say the word. Listen to each answer choice. Click on the circle that matches the word.</directions>
+          <directionsAudio>ela_bld_k21_as_dl.mp3</directionsAudio>
+          <sounds>
+            <sound>
+              <text>p</text>
+            </sound>
+            <sound>
+              <text>a</text>
+            </sound>
+            <sound>
+              <text>t</text>
+            </sound>
+          </sounds>
+          <normalReadAudio>ela_bld_pat.mp3</normalReadAudio>
+          <answers>
+            <answer>
+              <word>pan</word>
+              <audio>ela_bld_pan_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+            <answer>
+              <word>pat</word>
+              <audio>ela_bld_pat_blended.mp3</audio>
+              <correct value="yes"/>
+            </answer>
+            <answer>
+              <word>ban</word>
+              <audio>ela_bld_ban_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <guid>Vw2VO5or-ItTT-se9G-vNXO-JWF6y9Z1pTcZ</guid>
+          <directions>Blend the sounds to say the word. Listen to each answer choice. Click on the circle that matches the word.</directions>
+          <directionsAudio>ela_bld_k21_as_dl.mp3</directionsAudio>
+          <sounds>
+            <sound>
+              <text>m</text>
+            </sound>
+            <sound>
+              <text>a</text>
+            </sound>
+            <sound>
+              <text>p</text>
+            </sound>
+          </sounds>
+          <normalReadAudio>ela_bld_map.mp3</normalReadAudio>
+          <answers>
+            <answer>
+              <word>mat</word>
+              <audio>ela_bld_mat_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+            <answer>
+              <word>nap</word>
+              <audio>ela_bld_nap_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+            <answer>
+              <word>map</word>
+              <audio>ela_bld_map_blended.mp3</audio>
+              <correct value="yes"/>
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <guid>1wl8rkE0-4yWx-SAvu-zU76-OchuapTq5rIJ</guid>
+          <directions>Blend the sounds to say the word. Listen to each answer choice. Click on the circle that matches the word.</directions>
+          <directionsAudio>ela_bld_k21_as_dl.mp3</directionsAudio>
+          <sounds>
+            <sound>
+              <text>w</text>
+            </sound>
+            <sound>
+              <text>a</text>
+            </sound>
+            <sound>
+              <text>x</text>
+            </sound>
+          </sounds>
+          <normalReadAudio>ela_bld_wax.mp3</normalReadAudio>
+          <answers>
+            <answer>
+              <word>back</word>
+              <audio>ela_bld_back_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+            <answer>
+              <word>wax</word>
+              <audio>ela_bld_wax_blended.mp3</audio>
+              <correct value="yes"/>
+            </answer>
+            <answer>
+              <word>wag</word>
+              <audio>ela_bld_wag_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <guid>nbgcu6Dw-tIY3-BhKI-0WmI-UtMLfBke30JR</guid>
+          <directions>Blend the sounds to say the word. Listen to each answer choice. Click on the circle that matches the word.</directions>
+          <directionsAudio>ela_bld_k21_as_dl.mp3</directionsAudio>
+          <sounds>
+            <sound>
+              <text>c</text>
+            </sound>
+            <sound>
+              <text>a</text>
+            </sound>
+            <sound>
+              <text>n</text>
+            </sound>
+          </sounds>
+          <normalReadAudio>ela_bld_can.mp3</normalReadAudio>
+          <answers>
+            <answer>
+              <word>cat</word>
+              <audio>ela_bld_cat_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+            <answer>
+              <word>tack</word>
+              <audio>ela_bld_tack_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+            <answer>
+              <word>can</word>
+              <audio>ela_bld_can_blended.mp3</audio>
+              <correct value="yes"/>
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <guid>UviKumqd-4jdL-qgaR-LSiz-rcUxg4LQiAdZ</guid>
+          <directions>Blend the sounds to say the word. Listen to each answer choice. Click on the circle that matches the word.</directions>
+          <directionsAudio>ela_bld_k21_as_dl.mp3</directionsAudio>
+          <sounds>
+            <sound>
+              <text>J</text>
+            </sound>
+            <sound>
+              <text>a</text>
+            </sound>
+            <sound>
+              <text>ck</text>
+            </sound>
+          </sounds>
+          <normalReadAudio>ela_bld_jack.mp3</normalReadAudio>
+          <answers>
+            <answer>
+              <word>jack</word>
+              <audio>ela_bld_jack_blended.mp3</audio>
+              <correct value="yes"/>
+            </answer>
+            <answer>
+              <word>jam</word>
+              <audio>ela_bld_jam_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+            <answer>
+              <word>sack</word>
+              <audio>ela_bld_sack_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <guid>zlPrjvh2-Ri1t-2YBr-pE3p-ZDJ3cKN4ibaN</guid>
+          <directions>Blend the sounds to say the word. Listen to each answer choice. Click on the circle that matches the word.</directions>
+          <directionsAudio>ela_bld_k21_as_dl.mp3</directionsAudio>
+          <sounds>
+            <sound>
+              <text>v</text>
+            </sound>
+            <sound>
+              <text>a</text>
+            </sound>
+            <sound>
+              <text>n</text>
+            </sound>
+          </sounds>
+          <normalReadAudio>ela_bld_van.mp3</normalReadAudio>
+          <answers>
+            <answer>
+              <word>vat</word>
+              <audio>ela_bld_vat_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+            <answer>
+              <word>can</word>
+              <audio>ela_bld_can_blended.mp3</audio>
+              <correct value="no"/>
+            </answer>
+            <answer>
+              <word>van</word>
+              <audio>ela_bld_van_blended.mp3</audio>
+              <correct value="yes"/>
+            </answer>
+          </answers>
+        </item>
+      </activityscreens>
+    </round>
+  </rounds>
+</blendingd>

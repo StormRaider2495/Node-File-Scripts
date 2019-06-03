@@ -1,0 +1,297 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Open Syllables",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Read each word aloud. Then drag each word to the correct column.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Words with Open Syllables",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "paper",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "broken",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "diner",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "focus",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "notice",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "native",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "table",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Words Without Open Syllables",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "tripping",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "knot",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "dinner",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Words with Open Syllables",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "hotel",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "moment",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "pilot",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "table",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "favor",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "silent",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "human",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Words Without Open Syllables",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "tablet",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "money",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "napkin",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Words with Open Syllables",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "bacon",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "tiger",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "minus",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "secret",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "open",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "music",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "even",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Words Without Open Syllables",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "rabbit",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "opted",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mumble",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

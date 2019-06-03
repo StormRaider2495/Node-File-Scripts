@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<word_letter_focus>
+  <title>Gramática: sustantivos femeninos y masculinos</title>
+  <directions>&lt;p&gt;Usa el resaltador para resaltar los sustantivos masculinos y la regla para subrayar los sustantivos femeninos.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;Las {wu}rosas{/wu} florecen en {wu}primavera{/wu}.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Las {wu}ni&amp;#241;as{/wu} compraron {wh}vestidos{/wh} para sus {wu}mu&amp;#241;ecas{/wu}.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;El {wh}gato{/wh} duerme en el {wh}sof&amp;#225;{/wh}.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;El {wh}hombre{/wh} sube al {wh}autob&amp;#250;s{/wh}.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Los {wh}ni&amp;#241;os{/wh} juegan a la {wu}pelota{/wu} en el {wh}parque{/wh}.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;La {wu}banda{/wu} iba tocando por la {wu}calle{/wu}.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</word_letter_focus>
+

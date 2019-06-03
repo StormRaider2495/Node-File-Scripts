@@ -1,0 +1,297 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "<b>Your Turn:</b> <b>Phonics &#8211; Digraphs</b>",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Drag words with digraphs to the labeled column. If a word doesn&#8217;t have a digraph<i>,</i> drag it to the <i>Other</i> column.</p>",
+    "audio": "dl_digraphs_columns.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Digraphs",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "white",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "then",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "math",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "show",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "hush",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "phone",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "whale",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "used",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "crime",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "come",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Digraphs",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "watch",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "edge",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sing",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "laugh",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shade",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "catch",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "wheel",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "grows",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "team",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "base",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Digraphs",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "badge",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "rough",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "chick",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "much",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "pitch",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "teacher",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cheese",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "painted",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "music",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "weekly",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

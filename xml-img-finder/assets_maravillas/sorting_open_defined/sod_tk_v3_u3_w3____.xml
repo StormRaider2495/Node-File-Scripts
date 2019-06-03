@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras:&amp;#160;orden de los sucesos&lt;/p&gt;</title>
+  <directions>&lt;p&gt;En esta actividad los ni&amp;#241;os clasifican palabras seg&amp;#250;n una categor&amp;#237;a.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Haz clic en cada imagen para o&amp;#237;r la palabra. &lt;br /&gt;Coloca las im&amp;#225;genes en el orden correcto.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title />
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_primero1.jpg</text>
+                      <audio>TEG_primero.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title />
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_luego1.jpg</text>
+                      <audio>TEG_luego.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title />
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_por_ultimo1.jpg</text>
+                      <audio>TEG_por_ultimo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title />
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_primero2.jpg</text>
+                      <audio>TEG_primero.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title />
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_luego2.jpg</text>
+                      <audio>TEG_luego.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title />
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_por_ultimo2.jpg</text>
+                      <audio>TEG_por_ultimo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

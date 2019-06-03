@@ -1,0 +1,336 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "<b>Structural Analysis: Roots in Related Words</b>",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Each sorting box is labeled with a root or base word. Move each word from the word bank to the box that has the same root or base.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "act",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "action",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "actor",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "react",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "active",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "activity",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "company",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "accompany",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "companion",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "create",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "creative",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "recreate",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "creator",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "write",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "rewrite",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "writer",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "typewriter",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "writable",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "wrap",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "wrapper",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unwrap",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "wrapping",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "wrapped",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "weak",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "weakening",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "weakened",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "care",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "caring",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "carefully",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "careless",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "caretaker",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cared",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "perform",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "performance",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "performer",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "underperformed",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "car",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "carload",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "racecar",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

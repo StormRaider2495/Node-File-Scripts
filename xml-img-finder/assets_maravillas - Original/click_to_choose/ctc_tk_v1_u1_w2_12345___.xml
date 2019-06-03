@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Gram&amp;#225;tica: el sustantivo&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Completa la oraci&amp;#243;n con la imagen correspondiente.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool2" />
+  <background value="yellow2" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Yo comparto mis [juguetes].&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_yo_comparto_mis.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_juguetes.jpg</image>
+              <audio>TEG_juguetes.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_noche.jpg</image>
+              <audio>TEG_noche.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_subir.jpg</image>
+              <audio>TEG_subir.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Yo comparto mis [lapices].&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_yo_comparto_mis.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_lapices.jpg</image>
+              <audio>TEG_lapices.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_verde.jpg</image>
+              <audio>TEG_verde.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_volcan.jpg</image>
+              <audio>TEG_volcan.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;En la escuela hay [libros].&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_en_la_escuela_hay.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_vacas.jpg</image>
+              <audio>TEG_vacas.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_libros.jpg</image>
+              <audio>TEG_libros.mp3</audio>
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;En la escuela hay [nin1os]&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_en_la_escuela_hay.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_uvas.jpg</image>
+              <audio>TEG_uvas.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_paraguas.jpg</image>
+              <audio>TEG_paraguas.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_nin1os.jpg</image>
+              <audio>TEG_nin1os.mp3</audio>
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;En la escuela hay [escaleras]&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_en_la_escuela_hay.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_nube.jpg</image>
+              <audio>TEG_nube.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_escaleras.jpg</image>
+              <audio>TEG_escaleras.mp3</audio>
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Yo comparto mi [gelatina].&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_yo_comparto_mi.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_menique.jpg</image>
+              <audio>TEG_menique.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_paisaje.jpg</image>
+              <audio>TEG_paisaje.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_gelatina.jpg</image>
+              <audio>TEG_gelatina.mp3</audio>
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

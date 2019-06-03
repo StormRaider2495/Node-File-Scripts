@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Listen to each word. Drag words with the soft &lt;i&gt;c&lt;/i&gt; sound to the box on the left. Drag words with the soft &lt;i&gt;g&lt;/i&gt; sound to the box on the right.&lt;/p&gt;</directions>
+  <directionsAudio>dl_listen_softc_softg_box.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Soft c</title>
+                  <titleImage />
+                  <titleAudio>soft_c.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW012_004A_186626_d.jpg</text>
+                      <audio>face.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW021_047A_193002_186626_d.jpg</text>
+                      <audio>pencil.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW033_022A_114242_D.jpg</text>
+                      <audio>ice.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Soft g</title>
+                  <titleImage />
+                  <titleAudio>soft_g.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW045_009A_186626_d.jpg</text>
+                      <audio>giraffe.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UWSS2_006A_193002_186626_d.jpg</text>
+                      <audio>gem.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Soft c</title>
+                  <titleImage />
+                  <titleAudio>soft_c.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M300_UW023_642A_186626_d.jpg</text>
+                      <audio>celery.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW015_001A_186626_d.jpg</text>
+                      <audio>mice.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Soft g</title>
+                  <titleImage />
+                  <titleAudio>soft_g.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M300_UW023_743A_186626_d.jpg</text>
+                      <audio>giant.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M300_UW023_809A_186626_d.jpg</text>
+                      <audio>cage.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M300_UW023_844A_186626_d.jpg</text>
+                      <audio>stage.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

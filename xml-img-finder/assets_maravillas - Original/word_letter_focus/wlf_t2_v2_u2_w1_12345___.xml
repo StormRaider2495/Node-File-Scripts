@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<word_letter_focus>
+  <title>Estrategia de vocabulario: prefijos</title>
+  <directions>&lt;p&gt;Busca las palabras con prefijos. Con el serrucho, separa el prefijo del resto de la palabra.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;Era i{dv}mp{/dv}osible entender lo que dec&amp;#237;a.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;En su pieza hab&amp;#237;a mucho de{dv}so{/dv}rden.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Pedro es i{dv}nc{/dv}apaz de hacer algo as&amp;#237;.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;&amp;#191;Cu&amp;#225;nto tiempo tardar&amp;#225;s en de{dv}so{/dv}cupar el cuarto?&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Eso es i{dv}nc{/dv}re&amp;#237;ble.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Era un paisaje {dv}ir{/dv}real.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</word_letter_focus>
+

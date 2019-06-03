@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Estrategia de vocabulario: raíces griegas</title>
+  <directions>Lee las definiciones y la raíz griega. Selecciona dos raíces para formar una nueva palabra que corresponda con la definición.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;estudio de los seres vivos y el medioambiente &amp;#160;[eco]&amp;lt;-&amp;gt;[log&amp;#237;a]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>anfi</text>
+            </distractor>
+            <distractor>
+              <text>síntesis</text>
+            </distractor>
+            <distractor>
+              <text>geo</text>
+            </distractor>
+            <distractor>
+              <text>foto</text>
+            </distractor>
+            <distractor>
+              <text>bio</text>
+            </distractor>
+            <distractor>
+              <text>grafía</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;animal que vive tanto en la tierra como en el agua&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; [anfi]&amp;lt;-&amp;gt;[bio]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>logía</text>
+            </distractor>
+            <distractor>
+              <text>geo</text>
+            </distractor>
+            <distractor>
+              <text>eco</text>
+            </distractor>
+            <distractor>
+              <text>grafía</text>
+            </distractor>
+            <distractor>
+              <text>síntesis</text>
+            </distractor>
+            <distractor>
+              <text>foto</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;proceso por el que las plantas usan energ&amp;#237;a del Sol para alimentarse&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; [foto]&amp;lt;-&amp;gt;[s&amp;#237;ntesis]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>logía</text>
+            </distractor>
+            <distractor>
+              <text>geo</text>
+            </distractor>
+            <distractor>
+              <text>eco</text>
+            </distractor>
+            <distractor>
+              <text>grafía</text>
+            </distractor>
+            <distractor>
+              <text>anfi</text>
+            </distractor>
+            <distractor>
+              <text>bio</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;ciencia del lugar que ocupan las cosas en la tierra&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;[geo]&amp;lt;-&amp;gt;[graf&amp;#237;a]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>logía</text>
+            </distractor>
+            <distractor>
+              <text>eco</text>
+            </distractor>
+            <distractor>
+              <text>anfi</text>
+            </distractor>
+            <distractor>
+              <text>síntesis</text>
+            </distractor>
+            <distractor>
+              <text>foto</text>
+            </distractor>
+            <distractor>
+              <text>bio</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;instrumento que se utiliza para ver objetos distantes&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; [tele]&amp;lt;-&amp;gt;[scopio]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>auto</text>
+            </distractor>
+            <distractor>
+              <text>sofía</text>
+            </distractor>
+            <distractor>
+              <text>grafía</text>
+            </distractor>
+            <distractor>
+              <text>logía</text>
+            </distractor>
+            <distractor>
+              <text>filo</text>
+            </distractor>
+            <distractor>
+              <text>tecno</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;firma&amp;#160;escrita a mano&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; [aut&amp;#243;]&amp;lt;-&amp;gt;[grafo]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>tele</text>
+            </distractor>
+            <distractor>
+              <text>scopio</text>
+            </distractor>
+            <distractor>
+              <text>sofía</text>
+            </distractor>
+            <distractor>
+              <text>logía</text>
+            </distractor>
+            <distractor>
+              <text>tecno</text>
+            </distractor>
+            <distractor>
+              <text>filo</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;normas para el&amp;#160;uso correcto de las letras y la&amp;#160;escritura&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; [orto]&amp;lt;-&amp;gt;[graf&amp;#237;a]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>auto</text>
+            </distractor>
+            <distractor>
+              <text>tele</text>
+            </distractor>
+            <distractor>
+              <text>tele</text>
+            </distractor>
+            <distractor>
+              <text>filo</text>
+            </distractor>
+            <distractor>
+              <text>scopio</text>
+            </distractor>
+            <distractor>
+              <text>sofía</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;estudio de las ideas b&amp;#225;sicas del conocimiento,&amp;#160;la verdad,&amp;#160;y la naturaleza y el significado de la vida&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; [filo]&amp;lt;-&amp;gt;[sof&amp;#237;a]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>auto</text>
+            </distractor>
+            <distractor>
+              <text>tele</text>
+            </distractor>
+            <distractor>
+              <text>grafía</text>
+            </distractor>
+            <distractor>
+              <text>scopio</text>
+            </distractor>
+            <distractor>
+              <text>geno</text>
+            </distractor>
+            <distractor>
+              <text>hidró</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

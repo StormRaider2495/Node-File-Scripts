@@ -1,0 +1,377 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phoneme Categorization",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture to hear its name. Drag pictures with the same middle sound into the blue box. Drag pictures with a different middle sound into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_008A_114242_D.jpg",
+                  "audio": "hay.mp3",
+                  "altText": "A stack of hay and a pitchfork."
+                },
+                {
+                  "text": "M100_UW041_020A_114242_D.jpg",
+                  "audio": "trail.mp3",
+                  "altText": "A walking path in the woods."
+                },
+                {
+                  "text": "M100_UW041_002A_114242_D.jpg",
+                  "audio": "mail.mp3",
+                  "altText": "A girl dropping a letter in a blue collection box."
+                },
+                {
+                  "text": "M100_UW041_006A_114242_D.jpg",
+                  "audio": "tail.mp3",
+                  "altText": "An iguana. A red arrow points to its tail."
+                },
+                {
+                  "text": "M100_UW041_021A_114242_D.jpg",
+                  "audio": "maid.mp3",
+                  "altText": "A maid holding folded towels."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_007A_114242_D.jpg",
+                  "audio": "cat.mp3",
+                  "altText": "A smiling orange cat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_024A_114242_D.jpg",
+                  "audio": "rain.mp3",
+                  "altText": "Raindrops falling from a cloud."
+                },
+                {
+                  "text": "M100_UW041_022A_114242_D.jpg",
+                  "audio": "paint.mp3",
+                  "altText": "A can of pink paint."
+                },
+                {
+                  "text": "M100_UW041_023A_114242_D.jpg",
+                  "audio": "spray.mp3",
+                  "altText": "A bottle of liquid being sprayed. A red arrow points to the spray leaving the bottle."
+                },
+                {
+                  "text": "M100_UW041_010A_114242_D.jpg",
+                  "audio": "chain.mp3",
+                  "altText": "A chain."
+                },
+                {
+                  "text": "M100_UW041_025A_114242_D.jpg",
+                  "audio": "gray.mp3",
+                  "altText": "A gray blob of paint."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_020A_114242_D.jpg",
+                  "audio": "track.mp3",
+                  "altText": "A race car track with two drag race cars on it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_017A_114242_D.jpg",
+                  "audio": "tray.mp3",
+                  "altText": "A serving tray."
+                },
+                {
+                  "text": "M100_UW041_011A_114242_D.jpg",
+                  "audio": "mane.mp3",
+                  "altText": "A lion. A red arrow points to its mane."
+                },
+                {
+                  "text": "M100_UW041_007A_114242_D.jpg",
+                  "audio": "snail.mp3",
+                  "altText": "A snail."
+                },
+                {
+                  "text": "M100_UW041_003A_114242_D.jpg",
+                  "audio": "nail.mp3",
+                  "altText": "A nail."
+                },
+                {
+                  "text": "M100_UW041_002A_114242_D.jpg",
+                  "audio": "mail.mp3",
+                  "altText": "A girl dropping a letter in a blue collection box."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_019A_114242_D.jpg",
+                  "audio": "truck.mp3",
+                  "altText": "A blue pickup truck."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_025A_114242_D.jpg",
+                  "audio": "gray.mp3",
+                  "altText": "A gray blob of paint."
+                },
+                {
+                  "text": "M100_UW041_013A_114242_D.jpg",
+                  "audio": "drain.mp3",
+                  "altText": "A shower drain."
+                },
+                {
+                  "text": "M100_UW041_026A_114242_D.jpg",
+                  "audio": "rail.mp3",
+                  "altText": "A staircase. A red arrow points to the railing."
+                },
+                {
+                  "text": "M100_UW041_006A_114242_D.jpg",
+                  "audio": "tail.mp3",
+                  "altText": "An iguana. A red arrow points to its tail."
+                },
+                {
+                  "text": "M100_UW041_005A_114242_D.jpg",
+                  "audio": "sail.mp3",
+                  "altText": "A sailboat."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW032_004A_114242_D.jpg",
+                  "audio": "dime.mp3",
+                  "altText": "A dime."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_001A_114242_D.jpg",
+                  "audio": "jail.mp3",
+                  "altText": "A jail cell."
+                },
+                {
+                  "text": "M100_UW041_027A_114242_D.jpg",
+                  "audio": "bait.mp3",
+                  "altText": "A worm on a fishing hook."
+                },
+                {
+                  "text": "M100_UW041_010A_114242_D.jpg",
+                  "audio": "chain.mp3",
+                  "altText": "A chain."
+                },
+                {
+                  "text": "M100_UW041_007A_114242_D.jpg",
+                  "audio": "snail.mp3",
+                  "altText": "A snail."
+                },
+                {
+                  "text": "M100_UW041_004A_114242_D.jpg",
+                  "audio": "pail.mp3",
+                  "altText": "A bucket of sand with a small green shovel in it."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW032_003A_114242_D.jpg",
+                  "audio": "kite.mp3",
+                  "altText": "A red kite."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

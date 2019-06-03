@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Normas del lenguaje: las comas en aposiciones y explicaciones&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona la opci&amp;#243;n que incluya la puntuaci&amp;#243;n correcta.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;No entraron al estadio porque hubo un accidente pero vieron el juego en la pantalla exterior.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>No entraron al estadio, porque hubo un accidente, pero vieron el juego en la pantalla exterior.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>No entraron al estadio, porque hubo un accidente pero vieron el juego en la pantalla exterior.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>No entraron al estadio porque hubo un accidente, pero vieron el juego en la pantalla exterior.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Luis el director de la banda dio instrucciones precisas para la funci&amp;#243;n del viernes.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Luis el director de la banda, dio instrucciones precisas, para la función del viernes.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Luis el director de la banda, dio instrucciones precisas para la función del viernes.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Luis, el director de la banda, dio instrucciones precisas para la función del viernes.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Jos&amp;#233; el pen&amp;#250;ltimo de los hermanos ten&amp;#237;a sue&amp;#241;os extra&amp;#241;os y dif&amp;#237;ciles de interpretar.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>José el penúltimo, de los hermanos tenía, sueños extraños y difíciles de interpretar.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>José, el penúltimo de los hermanos tenía, sueños extraños y difíciles de interpretar.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>José, el penúltimo de los hermanos, tenía sueños extraños y difíciles de interpretar.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

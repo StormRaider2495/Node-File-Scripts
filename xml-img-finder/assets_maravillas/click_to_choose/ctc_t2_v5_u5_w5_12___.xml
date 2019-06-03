@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Normas del lenguaje: puntuaci&amp;#243;n&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Escoge&amp;#160;la oraci&amp;#243;n donde se emplea correctamente&amp;#160;la puntuaci&amp;#243;n.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;vean la sorpresa que les he tra&amp;#237;do&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Vean la sorpresa que les he traído.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Vean la sorpresa que les he traído…</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>vean la sorpresa que les he traído,</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;la obra de teatro del segundo grado va a comenzar a las 2 00 de la tarde&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>La obra de teatro del segundo grado va a comenzar a las 2 00 de la tarde.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>la obra de teatro del segundo grado va a comenzar a las 2 de la tarde.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>La obra de teatro del segundo grado va a comenzar a las 2:00 de la tarde.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;yo salgo de la escuela llego a mi casa tomo una merienda hago mis tareas salgo a jugar un rato es decir estoy ocupada todo el d&amp;#237;a&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Yo salgo de la escuela, llego a mi casa, tomo una merienda; hago mis tareas, salgo a jugar un rato, es decir estoy ocupada todo el día.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Yo salgo de la escuela, llego a mi casa, tomo una merienda, hago mis tareas, salgo a jugar un rato; es decir, estoy ocupada todo el día.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Yo salgo de la escuela; llego a mi casa, tomo una merienda, hago mis tareas, salgo a jugar un rato es decir, estoy ocupada todo el día.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;ma&amp;#241;ana tengo que levantarme m&amp;#225;s temprano &amp;#160;pens&amp;#243; margarita&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>“Mañana tengo que levantarme más temprano”, pensó Margarita.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>—Mañana tengo que levantarme más temprano — pensó Margarita.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—Mañana tengo que levantarme más temprano”, pensó Margarita.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;marcos me dejo varias cosas su colecci&amp;#243;n de estampillas una camiseta floreada dos libros y varios discos compactos&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>marcos me dejo varias cosas, su colección de estampillas, una camiseta floreada, dos libros, y varios discos compactos.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Marcos me dejo varias cosas: su colección de estampillas, una camiseta floreada, dos libros y varios discos compactos.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Marcos me dejo varias cosas, su colección de estampillas una camiseta floreada dos libros y varios discos compactos.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#191;por qu&amp;#233; tienes las orejas tan grandes? pregunt&amp;#243; Caperucita&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>—¿Por qué tienes las orejas tan grandes? —preguntó Caperucita.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>"¿Por qué tienes las orejas tan grandes?”, preguntó Caperucita.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>“¿Por qué tienes las orejas tan grandes?” — preguntó Caperucita.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;para o&amp;#237;rte mejor contest&amp;#243; el lobo&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>“Para oírte mejor”, contestó el lobo.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>“Para oírte mejor” —contestó el lobo.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—Para oírte mejor —contestó el lobo.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;jaime estudia canta en el coro trabaja los fines de semana ayuda a los ancianos&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Jaime estudia, canta en el coro; trabaja los fines de semana, ayuda a los ancianos.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Jaime estudia, canta en el coro, trabaja los fines de semana, ayuda a los ancianos…</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Jaime estudia; canta en el coro; trabaja los fines de semana, ayuda a los ancianos</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

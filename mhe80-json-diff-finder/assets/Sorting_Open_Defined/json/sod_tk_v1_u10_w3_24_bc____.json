@@ -1,0 +1,212 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Category Words: Baby Animals",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture to hear its name. Drag words that name a baby animal to the blue box. Drag words that do not into the red box. Then click OK.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Baby Animal Names",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_031A_193002_d.jpg",
+                  "audio": "chick.mp3",
+                  "altText": "A canary."
+                },
+                {
+                  "text": "M100_UW053_005A_193002_d.jpg",
+                  "audio": "cub.mp3",
+                  "altText": "A bear doing a handstand."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Baby Animal Names",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_028A_193002_d.jpg",
+                  "audio": "duck.mp3",
+                  "altText": "A mallard duck."
+                },
+                {
+                  "text": "M100_UW071_003A_193002_d.jpg",
+                  "audio": "bear.mp3",
+                  "altText": "A bear."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Baby Animal Names",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW103_001A_193002_d.jpg",
+                  "audio": "joey.mp3",
+                  "altText": "A rabbit."
+                },
+                {
+                  "text": "M100_UW103_002A_193002_d.jpg",
+                  "audio": "piglet.mp3",
+                  "altText": "A pig in mud."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Baby Animal Names",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW062_018A_193002_d.jpg",
+                  "audio": "kangaroo.mp3",
+                  "altText": "A kangaroo."
+                },
+                {
+                  "text": "M100_UW011_007A_114242_D.jpg",
+                  "audio": "cat.mp3",
+                  "altText": "A smiling orange cat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Baby Animal Names",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW103_003A_193002_d.jpg",
+                  "audio": "calf.mp3",
+                  "altText": "A cow."
+                },
+                {
+                  "text": "M100_UW103_004A_193002_d.jpg",
+                  "audio": "tadpole.mp3",
+                  "altText": "A tadpole."
+                },
+                {
+                  "text": "M100_UW023_034A_193002_d.jpg",
+                  "audio": "puppy.mp3",
+                  "altText": "A smiling brown dog."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Baby Animal Names",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_027A_193002_d.jpg",
+                  "audio": "cow.mp3",
+                  "altText": "A cow with a bell around its neck."
+                },
+                {
+                  "text": "M100_UW041_017A_193002_d.jpg",
+                  "audio": "frog.mp3",
+                  "altText": "A green frog with yellow spots."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

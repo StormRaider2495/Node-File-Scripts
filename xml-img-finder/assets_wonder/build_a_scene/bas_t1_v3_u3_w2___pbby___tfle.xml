@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn Text Features: Diagrams</title>
+  <directions>Look at the diagram. Drag the correct words to the circles to complete the diagram.</directions>
+  <directionsAudio>dl_drag_words_complete_diagram.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow1" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="109.55" y="147.1"/&gt;  &lt;position x="183.15" y="520.6"/&gt;  &lt;position x="563.85" y="542.15"/&gt;  &lt;position x="126.9" y="582.55"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="227.85" y="255.25"/&gt;  &lt;position x="347.55" y="475.9"/&gt;  &lt;position x="180.25" y="343.2"/&gt;  &lt;position x="553.75" y="415.35"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW032_006A_114242_D.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>leaves</text>
+          <image />
+          <audio>leaves.mp3</audio>
+        </item>
+        <item>
+          <text>branch</text>
+          <image />
+          <audio>branch.mp3</audio>
+        </item>
+        <item>
+          <text>trunk</text>
+          <image />
+          <audio>trunk.mp3</audio>
+        </item>
+        <item>
+          <text>root</text>
+          <image />
+          <audio>root.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW032_007A_114242_D.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>ear</text>
+          <image />
+          <audio>ear.mp3</audio>
+        </item>
+        <item>
+          <text>leg</text>
+          <image />
+          <audio>leg.mp3</audio>
+        </item>
+        <item>
+          <text>tail</text>
+          <image />
+          <audio>tail.mp3</audio>
+        </item>
+        <item>
+          <text>mouth</text>
+          <image />
+          <audio>mouth.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

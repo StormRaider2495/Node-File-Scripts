@@ -1,0 +1,247 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Listen to each word. Drag words with the vowel sound /air/ into the blue box. Drag words that do not have the vowel sound /air/ into the red box.</p>",
+    "audio": "dl_vowel_sound_air.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/air/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "air.mp3"
+              },
+              "contents": [
+                {
+                  "text": "dare",
+                  "audio": "dare.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "stare",
+                  "audio": "stare.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "fare",
+                  "audio": "fare.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "car",
+                  "audio": "car.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "three",
+                  "audio": "three.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "bird",
+                  "audio": "bird.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/air/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "air.mp3"
+              },
+              "contents": [
+                {
+                  "text": "stairs",
+                  "audio": "stairs.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "pair",
+                  "audio": "pair.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "chair",
+                  "audio": "chair.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "peer",
+                  "audio": "peer.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "purse",
+                  "audio": "purse.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "dirt",
+                  "audio": "dirt.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/air/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "air.mp3"
+              },
+              "contents": [
+                {
+                  "text": "bear",
+                  "audio": "bear.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "pear",
+                  "audio": "pear.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "where",
+                  "audio": "where.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "there",
+                  "audio": "there.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "burn",
+                  "audio": "burn.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "part",
+                  "audio": "part.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "deer",
+                  "audio": "deer.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "farm",
+                  "audio": "farm.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

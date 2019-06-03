@@ -1,0 +1,297 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Drag words with a short vowel sound into the blue box. Drag words that do not have a short vowel sound into the red box. The word <i>bell</i> is an example of a word with a short vowel sound.</p>",
+    "audio": "dl_different_vowel_sounds3.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M300_UW011_022A_114244_D.jpg",
+                  "altText": "A yellow bell."
+                },
+                "audio": "short_vowels.mp3"
+              },
+              "contents": [
+                {
+                  "text": "tax",
+                  "audio": "tax.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "bell",
+                  "audio": "bell.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "mill",
+                  "audio": "mill.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "rot",
+                  "audio": "rot.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "mud",
+                  "audio": "mud.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "band",
+                  "audio": "band.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": "A yellow bell."
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "old",
+                  "audio": "old.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "cry",
+                  "audio": "cry.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "mold",
+                  "audio": "mold.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "mile",
+                  "audio": "mile.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M300_UW011_022A_114244_D.jpg",
+                  "altText": "A yellow bell."
+                },
+                "audio": "short_vowels.mp3"
+              },
+              "contents": [
+                {
+                  "text": "past",
+                  "audio": "past.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "tick",
+                  "audio": "tick.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "trap",
+                  "audio": "trap.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "stop",
+                  "audio": "stop.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "bump",
+                  "audio": "bump.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "slim",
+                  "audio": "slim.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": "A yellow bell."
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "like",
+                  "audio": "like.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "bay",
+                  "audio": "bay.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "stoop",
+                  "audio": "stoop.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "take",
+                  "audio": "take.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M300_UW011_022A_114244_D.jpg",
+                  "altText": "A yellow bell."
+                },
+                "audio": "short_vowels.mp3"
+              },
+              "contents": [
+                {
+                  "text": "rested",
+                  "audio": "rested.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "magnet",
+                  "audio": "magnet.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "contest",
+                  "audio": "contest.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "unselfish",
+                  "audio": "unselfish.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "pond",
+                  "audio": "pond.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "trash",
+                  "audio": "trash.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": "A yellow bell."
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "tonight",
+                  "audio": "tonight.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "roadway",
+                  "audio": "roadway.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "slime",
+                  "audio": "slime.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "moon",
+                  "audio": "moon.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

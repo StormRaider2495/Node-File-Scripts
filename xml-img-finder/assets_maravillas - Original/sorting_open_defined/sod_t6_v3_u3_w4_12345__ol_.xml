@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Normas del lenguaje: la barra&lt;/p&gt;</title>
+  <directions>&lt;p&gt;&lt;b&gt;Clasifica seg&amp;#250;n est&amp;#233; bien o mal escrita las siguientes:&lt;/b&gt;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>correcto</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>60 km/hora</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>incorrecto</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>60 km-hora</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>60 km(hora)</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>60/km x hora</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>60/km/hora/</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>correcto</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>doctor/a</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>incorrecto</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>doctor-a</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>doctor//a</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>doctor=a</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>doctor/(a)/</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>correcto</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>15/10/2016</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>incorrecto</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>15//10//2016</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>15--10--2016</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>15(10)/2016</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>/15/10/2016/</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+            <item>
+              <bins>
+                <bin>
+                  <title>Correcto</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>340 m/s  = 340 metros por segundo</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Incorrecto</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>340 (/m/s) = 340 metros por segundo</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>340 m//s = 340 metros por segundo</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>340 (m x  s)  = 340 metros por segundo</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+            <item>
+              <bins>
+                <bin>
+                  <title>Correcto</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>km/s</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Incorrecto</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>/km/s</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>km x s</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>km (p) s</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>km/(s)</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

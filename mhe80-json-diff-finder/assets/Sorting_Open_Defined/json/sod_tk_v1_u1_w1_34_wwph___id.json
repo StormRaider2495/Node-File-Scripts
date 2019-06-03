@@ -1,0 +1,461 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phonics: Identify/Categorize",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on a picture to hear its name. Drag words that <u>begin</u> with the /m/ sound spelled by the letter <i>m</i> to the <a  data-key-term=\"key-term\" data-key-term-id=\"\">m box. Drag words that <u>end</u> with <i>m</i> to the <b>m</b> box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "m___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_021A _193002_d.jpg",
+                  "audio": "moth.mp3",
+                  "altText": "A butterfly with brown wings."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "___m",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_ UW011_016A_193002_d.jpg",
+                  "audio": "gem.mp3",
+                  "altText": "A yellow ring with a blue diamond."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "m___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_067A_193002_d.jpg",
+                  "audio": "map.mp3",
+                  "altText": "An aerial map of an island."
+                },
+                {
+                  "text": "M100_UW011_077A_193002_d.jpg",
+                  "audio": "moon.mp3",
+                  "altText": "A crescent moon."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "____m",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_015A_114242_D.jpg",
+                  "audio": "farm.mp3",
+                  "altText": "A farm with a barn and fence, a cow, a pig, and three chickens."
+                },
+                {
+                  "text": "M100_UW011_053A_193002_d.jpg",
+                  "audio": "worm.mp3",
+                  "altText": "A green worm."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "m___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_039A_193002_d.jpg",
+                  "audio": "mask.mp3",
+                  "altText": "A blue domino mask."
+                },
+                {
+                  "text": "M100_UW011_037A_193002_d.jpg",
+                  "audio": "mix.mp3",
+                  "altText": "A girl in pigtails mixing a substance in a blue bowl."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "___m",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_030A_193002_d.jpg",
+                  "audio": "team.mp3",
+                  "altText": "A team of 11 children wearing hats and sports gear. They have a gold trophy."
+                },
+                {
+                  "text": "M100_ UW011_031A_193002_d.jpg",
+                  "audio": "ham.mp3",
+                  "altText": "Sliced ham."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "m___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_038A_193002_d.jpg",
+                  "audio": "mop.mp3",
+                  "altText": "A mop placed over a puddle of water."
+                },
+                {
+                  "text": "M100_UW011_041A_193002_d.jpg",
+                  "audio": "mouse.mp3",
+                  "altText": "A mouse."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "____m",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_014A_114242_D.jpg",
+                  "audio": "jam.mp3",
+                  "altText": "A jar of grape jam."
+                },
+                {
+                  "text": "M100_UW011_080A_193002_d.jpg",
+                  "audio": "inchworm.mp3",
+                  "altText": "A green worm."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "m___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_024A_193002_d.jpg",
+                  "audio": "mail.mp3",
+                  "altText": "A stack of stamped envelopes."
+                },
+                {
+                  "text": "M100_UW011_035A_193002_d.jpg",
+                  "audio": "mat.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "M100_UW011_036A_193002_d.jpg",
+                  "audio": "man.mp3",
+                  "altText": "A boy smiling with one hand in his pocket."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "___m",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_ UW011_017A_193002_d.jpg",
+                  "audio": "broom.mp3",
+                  "altText": "A broom with a brown handle and yellow straw."
+                },
+                {
+                  "text": "M100_UW015_008A_114242_D.jpg",
+                  "audio": "plum.mp3",
+                  "altText": "A purple plum."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "m___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_025A_193002_d.jpg",
+                  "audio": "marble.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "M100_UW011_078A_193002_d.jpg",
+                  "audio": "muffin.mp3",
+                  "altText": "A brown muffin."
+                },
+                {
+                  "text": "M100_UW011_029A_193002_d.jpg",
+                  "audio": "mouth.mp3",
+                  "altText": "A person's lips. A blue arrow points to them."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "___m",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_006A_114242_D.jpg",
+                  "audio": "clam.mp3",
+                  "altText": "A pink seashell."
+                },
+                {
+                  "text": "M100_UW011_033A_193002_d.jpg",
+                  "audio": "dream.mp3",
+                  "altText": "A boy sleeping in bed at night. A thought bubble is over his head."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "m___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_026A_193002_d.jpg",
+                  "audio": "mice.mp3",
+                  "altText": "Six hamsters in a hamster cage. The cage includes a wheel and a hiding tube."
+                },
+                {
+                  "text": "M100_UW011_045A_193002_d.jpg",
+                  "audio": "milk.mp3",
+                  "altText": "A glass half full of milk."
+                },
+                {
+                  "text": "M100_UW011_028A_193002_d.jpg",
+                  "audio": "mitt.mp3",
+                  "altText": "A person wearing purple oven mitts removing cookies from the oven."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "___m",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_018A_193002_d.jpg",
+                  "audio": "drum.mp3",
+                  "altText": "A purple drum with two brown mallets."
+                },
+                {
+                  "text": "M100_UW011_034A_193002_d.jpg",
+                  "audio": "room.mp3",
+                  "altText": "A door that opens to a room that has a window."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "m___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_023A_193002_d.jpg",
+                  "audio": "monkey.mp3",
+                  "altText": "A monkey holding a banana."
+                },
+                {
+                  "text": "M100_UW011_027A_193002_d.jpg",
+                  "audio": "mug.mp3",
+                  "altText": "A blue mug with an image of a smiling sun."
+                },
+                {
+                  "text": "M100_UW011_079A_193002_d.jpg",
+                  "audio": "mirror.mp3",
+                  "altText": "A handheld mirror."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "___m",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_ UW011_017A_193002_d.jpg",
+                  "audio": "broom.mp3",
+                  "altText": "A broom with a brown handle and yellow straw."
+                },
+                {
+                  "text": "M100_UW011_022A_193002_d.jpg",
+                  "audio": "steam.mp3",
+                  "altText": "A boiling red and yellow tea kettle. A blue arrow points to the steam."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

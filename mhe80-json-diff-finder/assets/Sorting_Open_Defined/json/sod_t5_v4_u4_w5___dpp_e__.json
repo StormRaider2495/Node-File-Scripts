@@ -1,0 +1,267 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics- <i>-ence</i> and <i>-ance</i>",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>You will see two bins with the labels -<i>ence”</i>and  <i>-ance. </i>Read the words in the word list. Sort each word into the bin labeled with its suffix.</p>",
+    "audio": "dl_sort_bin_suffix.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "-ance",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_ance.mp3"
+              },
+              "contents": [
+                {
+                  "text": "acceptance",
+                  "audio": "acceptance.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "clearance",
+                  "audio": "clearance.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "guidance",
+                  "audio": "guidance.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "insurance",
+                  "audio": "insurance.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "-ence",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_ence.mp3"
+              },
+              "contents": [
+                {
+                  "text": "difference",
+                  "audio": "difference.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "coincidence",
+                  "audio": "coincidence.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "dependence",
+                  "audio": "dependence.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "evidence",
+                  "audio": "evidence.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "-ance",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_ance.mp3"
+              },
+              "contents": [
+                {
+                  "text": "brilliance",
+                  "audio": "brilliance.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "disturbance",
+                  "audio": "disturbance.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "importance",
+                  "audio": "importance.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "reliance",
+                  "audio": "reliance.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "-ence",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_ence.mp3"
+              },
+              "contents": [
+                {
+                  "text": "confidence",
+                  "audio": "confidence.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "patience",
+                  "audio": "patience.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "obedience",
+                  "audio": "obedience.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "preference",
+                  "audio": "preference.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "-ance",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_ance.mp3"
+              },
+              "contents": [
+                {
+                  "text": "inheritance",
+                  "audio": "inheritance.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "insurance",
+                  "audio": "insurance.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "significance",
+                  "audio": "significance.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "accordance",
+                  "audio": "accordance.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "–ence",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_ence.mp3"
+              },
+              "contents": [
+                {
+                  "text": "confidence",
+                  "audio": "confidence.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "correspondence",
+                  "audio": "correspondence.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "magnificence",
+                  "audio": "magnificence.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "prevalence",
+                  "audio": "prevalence.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

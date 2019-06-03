@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proof_reading_pro>
+  <title>Normas del lenguaje: acentuación de mayúsculas</title>
+  <directions>Corrige las palabras que no están escritas correctamente.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <rounds>
+    <round>
+      <sentences>
+        <text>{s|Alvaro|Álvaro} se está preparando muy bien para la carrera del {l}Sábado.</text>
+        <text>El desierto del Sahara queda en el {l}Norte de {s|Africa|África}.</text>
+        <text>{s|El|Él} me dijo que había comprado todos los regalos, pero se olvidó del mío.</text>
+      </sentences>
+    </round>
+    <round>
+      <sentences>
+        <text>{s|Angela|Ángela} sacó su tableta y mandó la invitación a todos sus amigos.</text>
+        <text>{s|Ultimas|Últimas} rebajas, ¡aprovéchelas!,  decía el rótulo a la entrada de la {l}Tienda.</text>
+        <text>APRENDA A TOCAR PIANO U {s|ORGANO|ÓRGANO}.</text>
+      </sentences>
+    </round>
+  </rounds>
+</proof_reading_pro>
+

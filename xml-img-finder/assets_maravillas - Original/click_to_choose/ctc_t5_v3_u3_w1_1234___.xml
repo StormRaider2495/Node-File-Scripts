@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Estrategias de vocabulario: claves de contexto&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona la clave de contexto que te permite comprender el significado de la palabra subrayada.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Para la pr&amp;#243;xima semana, quiero que traigan un &lt;u&gt;&amp;#225;rbol geneal&amp;#243;gico&lt;/u&gt; con fotos de su familia. &amp;#161;Vamos a ver qu&amp;#233; fue lo que heredaron ustedes!&lt;/p&gt;
+&lt;p&gt;&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>¡Vamos a ver qué fue lo que heredaron!</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>fotos de su familia</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Para la próxima semana, quiero que traigan</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Ah, y para que lo sepas, mis pap&amp;#225;s mor&amp;#237;an de ganas de que yo llegara. Me esperaron durante a&amp;#241;os, as&amp;#237; que si yo soy &lt;u&gt;suertuda&lt;/u&gt; por tenerlos, &amp;#161;ellos son tan suertudos como yo!&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>mis papás morían de ganas de que yo llegara</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>¡ellos son tan suertudos como yo!</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Ah, y para que lo sepas</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#160;&amp;#8212;S&amp;#243;lo vamos a buscar papeles &amp;#8212;le dije&amp;#8212;, no vamos a asaltar un banco. Pero la verdad, mi coraz&amp;#243;n lat&amp;#237;a como el de un colibr&amp;#237; &lt;u&gt;delincuente&lt;/u&gt; cuando abr&amp;#237; el primer caj&amp;#243;n del cl&amp;#243;set de mis pap&amp;#225;s.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>mi corazón latía como el de un colibrí</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>abrí el primer cajón del clóset de mis papás</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>asaltar un banco</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Todav&amp;#237;a lo guardo en un caj&amp;#243;n de mi &lt;u&gt;bur&amp;#243;&lt;/u&gt; y lo veo de vez en cuando.&lt;/p&gt;
+&lt;p&gt;&amp;#160;&lt;/p&gt;
+&lt;p&gt;&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>lo veo de vez en cuando</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Todavía lo guardo</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>un cajón</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Cuando yo me &lt;u&gt;enter&amp;#233;&lt;/u&gt; &amp;#8212;porque todo se sabe en Quinto A&amp;#8212; me puse como &lt;i&gt;Hulk&lt;/i&gt; con dolor de muelas.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>me puse como Hulk</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>todo se sabe</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Cuando yo</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

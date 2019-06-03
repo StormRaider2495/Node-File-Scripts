@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blending>
+  <title>Fonética: sílabas con m</title>
+  <directions>Coloca las fichas y escucha cada sílaba. Luego escucha la palabra.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <variant value="C" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>SR14_TEgames_blend_k_mama.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>SR14_TEgames_blend_k_ma.mp3</audio>
+              <text>ma</text>
+            </sound>
+            <sound>
+              <audio>SR14_TEgames_blend_k_ma1.mp3</audio>
+              <text>má</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>SR14_TEgames_blend_k_mesa.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>SR14_TEgames_blend_k_me.mp3</audio>
+              <text>me</text>
+            </sound>
+            <sound>
+              <audio>SR14_TEgames_blend_k_sa.mp3</audio>
+              <text>sa</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>SR14_TEgames_blend_k_moto.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>SR14_TEgames_blend_k_mo1.mp3</audio>
+              <text>mo</text>
+            </sound>
+            <sound>
+              <audio>SR14_TEgames_blend_k_to.mp3</audio>
+              <text>to</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>SR14_TEgames_blend_k_mula.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>SR14_TEgames_blend_k_mu.mp3</audio>
+              <text>mu</text>
+            </sound>
+            <sound>
+              <audio>SR14_TEgames_blend_k_la.mp3</audio>
+              <text>la</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <normalReadAudio>SR14_TEgames_blend_k_moneda.mp3</normalReadAudio>
+          <blendedReadAudio>
+            <filename />
+            <duration />
+          </blendedReadAudio>
+          <reverseBlendedReadAudio>
+            <filename />
+            <duration />
+          </reverseBlendedReadAudio>
+          <imageFile />
+          <useSoundCounts value="no" />
+          <sounds>
+            <sound>
+              <audio>SR14_TEgames_blend_k_mo1.mp3</audio>
+              <text>mo</text>
+            </sound>
+            <sound>
+              <audio>SR14_TEgames_blend_k_ne.mp3</audio>
+              <text>ne</text>
+            </sound>
+            <sound>
+              <audio>SR14_TEgames_blend_k_da.mp3</audio>
+              <text>da</text>
+            </sound>
+          </sounds>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</blending>
+

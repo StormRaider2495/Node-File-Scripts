@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Normas del lenguaje: el par&amp;#233;ntesis&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona la opci&amp;#243;n que incluye los par&amp;#233;ntesis colocados correctamente.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;La tarde de la inauguraci&amp;#243;n el martes 25 decidieron dejar abierto el gimnasio.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>La tarde de la (inauguración el martes 25) decidieron dejar abierto el gimnasio.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>La tarde de la inauguración (el martes 25) decidieron dejar abierto el gimnasio.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>La tarde de la inauguración el martes 25 decidieron (dejar abierto) el gimnasio.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Las decisiones comunicadas por el FMI Fondo Monetario Internacional fueron criticadas por muchos asistentes.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Las decisiones comunicadas por el FMI (Fondo Monetario Internacional) fueron criticadas por muchos asistentes.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Las decisiones (comunicadas por el FMI) Fondo Monetario Internacional fueron criticadas por muchos asistentes.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Las decisiones comunicadas por el FMI Fondo (Monetario Internacional) fueron criticadas por muchos asistentes.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;En el a&amp;#241;o de la revoluci&amp;#243;n 1789 el pueblo hab&amp;#237;a estado inquieto y expresando su descontento.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>En el año de la revolución (1789) el pueblo había estado inquieto y expresando su descontento.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>En el año de la revolución 1789 el pueblo había estado inquieto (y expresando) su descontento.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>En el año de la revolución 1789 (el pueblo) había estado inquieto y expresando su descontento.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;La Asamblea se concentr&amp;#243; en el asunto que preocupaba a todos la clase de energ&amp;#237;a que usar&amp;#237;an y olvid&amp;#243; comentar las novedades del d&amp;#237;a.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>La Asamblea se concentró en el asunto que (preocupaba a todos) la clase de energía que usarían y olvidó comentar las novedades del día.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>La Asamblea se concentró en el asunto que preocupaba a todos (la clase de energía que usarían) y olvidó comentar las novedades del día.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>La Asamblea se concentró en el asunto que preocupaba a todos (la clase de energía) que usarían y olvidó comentar las novedades del día.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Los muebles del abuelo que hab&amp;#237;an durado muchos a&amp;#241;os segu&amp;#237;an siendo los favoritos de todos.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Los muebles del abuelo que habían durado muchos años (seguían siendo) los favoritos de todos.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Los muebles (del abuelo que habían durado) muchos años seguían siendo los favoritos de todos.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Los muebles del abuelo (que habían durado muchos años) seguían siendo los favoritos de todos.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;En el edificio de la ONU Organizaci&amp;#243;n de las Naciones Unidas vimos una intrigante escultura.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>En el edificio de la (ONU Organización de las Naciones Unidas) vimos una intrigante escultura.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>En el edificio de la ONU Organización de las Naciones Unidas (vimos una) intrigante escultura.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>En el edificio de la ONU (Organización de las Naciones Unidas) vimos una intrigante escultura.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

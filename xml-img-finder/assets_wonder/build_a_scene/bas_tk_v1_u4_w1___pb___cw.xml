@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Category Words</title>
+  <directions>Click each picture to hear its name. Drag the pictures of people who do a job to the red stars on the bus so they can go to work. Click OK when you are done.</directions>
+  <directionsAudio>dl_drag_people_job.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="133.4" y="304.9"/&gt;  &lt;position x="223.7" y="306.9"/&gt;  &lt;position x="310.9" y="306.9"/&gt;  &lt;position x="400.2" y="306.95"/&gt;  &lt;position x="491.45" y="306.9"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="132.4" y="304.9"/&gt;  &lt;position x="223.65" y="305.9"/&gt;  &lt;position x="311.9" y="305.9"/&gt;  &lt;position x="403.2" y="306.9"/&gt;  &lt;position x="490.45" y="307.9"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW041_803A_193002_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M100_UW041_003A_193002_d.jpg</image>
+          <audio>police_officer.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW032_005A_193002_d.jpg</image>
+          <audio>truck_driver.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW073_006A_193002_d.jpg</image>
+          <audio>bike_mechanic.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW012_043A_193002_d.jpg</image>
+          <audio>astronaut.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW032_028A_193002_d.jpg</image>
+          <audio>nurse.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UWSS1_001A_193002_d.jpg</image>
+          <audio>boy.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW012_031A_193002_d.jpg</image>
+          <audio>key.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW011_083A_193002_d.jpg</image>
+          <audio>plane.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW021_009A_193002_d.jpg</image>
+          <audio>elephant.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW041_803A_193002_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M100_UW023_026A_193002_d.jpg</image>
+          <audio>vet.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UWSS1_004A_193002_d.jpg</image>
+          <audio>farmer.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M300_UW042_801A_193002_d.jpg</image>
+          <audio>grocer.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M300_UW041_801A_193002_d.jpg</image>
+          <audio>chef.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M300_UW041_802A_193002_d.jpg</image>
+          <audio>construction_worker.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW013_026A_193002_d.jpg</image>
+          <audio>pig.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW032_003A_A_193002_d.jpg</image>
+          <audio>man.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW011_058A_193002_d.jpg</image>
+          <audio>rake.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW013_041A_193002_d.jpg</image>
+          <audio>snowman.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Listen to each word. Drag words with the same short vowel digraph into the boxes.&lt;/p&gt;</directions>
+  <directionsAudio>dl_listen_short_diagraph.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>ea</title>
+                  <titleImage />
+                  <titleAudio>ea.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>bread</text>
+                      <audio>bread.mp3</audio>
+                    </item>
+                    <item>
+                      <text>thread</text>
+                      <audio>thread.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>ou</title>
+                  <titleImage />
+                  <titleAudio>ou.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>touch</text>
+                      <audio>touch.mp3</audio>
+                    </item>
+                    <item>
+                      <text>double</text>
+                      <audio>double.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>y</title>
+                  <titleImage />
+                  <titleAudio>y.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>myth</text>
+                      <audio>myth.mp3</audio>
+                    </item>
+                    <item>
+                      <text>gym</text>
+                      <audio>gym.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>ea</title>
+                  <titleImage />
+                  <titleAudio>ea.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>steady</text>
+                      <audio>steady.mp3</audio>
+                    </item>
+                    <item>
+                      <text>dead</text>
+                      <audio>dead.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>ou</title>
+                  <titleImage />
+                  <titleAudio>ou.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>couple</text>
+                      <audio>couple.mp3</audio>
+                    </item>
+                    <item>
+                      <text>rough</text>
+                      <audio>rough.mp3</audio>
+                    </item>
+                    <item>
+                      <text>southern</text>
+                      <audio>southern.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>y</title>
+                  <titleImage />
+                  <titleAudio>y.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>crystal</text>
+                      <audio>crystal.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

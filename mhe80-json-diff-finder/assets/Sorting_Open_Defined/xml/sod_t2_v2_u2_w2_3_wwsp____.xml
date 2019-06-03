@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>Spelling: Word Sort with Short u and Long u</title>
+  <directions>&lt;p&gt;Drag the words with the same vowel sound into the boxes.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>u</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>plum</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>dug</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cub</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>hum</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>must</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>fun</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>u_e</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>mule</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>fuse</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>use</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>huge</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>u</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>cup</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>drum</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>jump</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>plus</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>rust</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>snug</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>u_e</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>cute</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>duke</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>dune</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>tune</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

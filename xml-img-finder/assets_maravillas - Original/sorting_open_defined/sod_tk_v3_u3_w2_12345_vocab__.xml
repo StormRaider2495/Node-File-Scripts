@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras:&amp;#160;sonidos&lt;/p&gt;</title>
+  <directions>&lt;p&gt;En esta actividad los ni&amp;#241;os clasifican palabras seg&amp;#250;n una categor&amp;#237;a.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las palabras que&amp;#160;indican&amp;#160;un sonido&amp;#160;en la caja azul. Coloca las palabras que no&amp;#160;indican&amp;#160;un sonido&amp;#160;en la caja roja.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un sonido</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_gato.jpg</text>
+                      <audio>TEG_miau.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_vacas.jpg</text>
+                      <audio>TEG_muu.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_telefono.jpg</text>
+                      <audio>TEG_riing.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un sonido</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_jabon.jpg</text>
+                      <audio>TEG_jabon.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_pecera.jpg</text>
+                      <audio>TEG_pecera.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_naranja.jpg</text>
+                      <audio>TEG_naranja.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las palabras que indican un sonido en la caja azul. Coloca las palabras que no indican un sonido en la caja roja.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un sonido</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_reloj.jpg</text>
+                      <audio>TEG_tictac.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_gallo.jpg</text>
+                      <audio>TEG_kikiriki.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_splash.jpg</text>
+                      <audio>TEG_splash.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un sonido</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_lentes.jpg</text>
+                      <audio>TEG_lentes.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_microondas.jpg</text>
+                      <audio>TEG_microondas.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_oso.jpg</text>
+                      <audio>TEG_oso.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

@@ -1,0 +1,247 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Vocabulary",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Read the sentences and look at the underlined word. If the underlined vocabulary word is used correctly, sort it to the “yes” bin. If the vocabulary word is used incorrectly, sort it to the “no” bin.<i> </i></p>",
+    "audio": "dl_ul_vocab_word.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "YES",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "The farmer used his agricultural knowledge to know when to plant the seeds.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "If there is probably rain, the outdoor concert most likely will not happen.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "The plants will thrive and grow with enough rain and sunlight.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "The disorder of my room can be fixed when I pick up my clothes off of the floor.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "The rain was so widespread that there were floods everywhere.",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "NO",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "As the number of trees declined, we saw the forest get bigger and bigger.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Larry’s surprise birthday party was unexpected, and he was not caught off guard.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Steve was able to identify the rock, and he couldn’t tell us the name of it at all.",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "YES",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "There is a possibility I might go or might not go to the concert.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "The descent of clothes prices means everything is costing less.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "I hope you prosper and do well.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Joanne determined that the mystery rock was quartz.",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "NO",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "There were many complaints against Maria because everyone liked her.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "We came to a slow and gradual stop that was very abrupt.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "The sweeping rule affected just one group of people.",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Yes",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "We succeeded at school by earning good grades.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "The old man had many maladies that made it hard for him to walk.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "It was surprising that I was hungry, because I ate ten minutes ago.",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "No",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "The sunlight began to wane, and it got brighter.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "I can pinpoint exactly when I saw you last, because I can’t remember who you are.",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

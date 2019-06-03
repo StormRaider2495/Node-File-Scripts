@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<word_letter_focus>
+  <title>Análisis estructural: palabras con -ista</title>
+  <directions>&lt;p&gt;Lee las palabras. Marca con el pote las palabras que describen la profesi&amp;#243;n de una persona.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text>{wh}violinista{/wh}</text>
+            </word>
+            <word>
+              <text>carta</text>
+            </word>
+            <word>
+              <text>{wh}dentista{/wh}</text>
+            </word>
+            <word>
+              <text>{wh}masajista{/wh}</text>
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text />
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text>pistacho</text>
+            </word>
+            <word>
+              <text>{wh}tenista{/wh}</text>
+            </word>
+            <word>
+              <text>{wh}alpinista{/wh}</text>
+            </word>
+            <word>
+              <text>yunque</text>
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text />
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text>{wh}cuentista{/wh}</text>
+            </word>
+            <word>
+              <text>{wh}deportista{/wh}</text>
+            </word>
+            <word>
+              <text>{wh}modista{/wh}</text>
+            </word>
+            <word>
+              <text>autopista</text>
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text />
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</word_letter_focus>
+

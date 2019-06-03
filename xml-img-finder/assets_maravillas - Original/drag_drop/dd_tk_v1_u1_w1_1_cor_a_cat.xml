@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Arrastrar y colocar</title>
+  <directions>Elegir un elemento de la columna izquierda y ubicarlo en la columa derecha</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Fui a&amp;#160;[comer] [nachos]&amp;#160;a la casa de mis abuelos.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>luchar</text>
+            </distractor>
+            <distractor>
+              <text>gas</text>
+            </distractor>
+            <distractor>
+              <text>leones</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

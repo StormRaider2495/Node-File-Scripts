@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras: tama&amp;#241;os&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las palabras que indican un tama&amp;#241;o en la caja azul. Coloca las palabras que no indican un tama&amp;#241;o en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un tamaño</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_pequen1o.jpg</text>
+                      <audio>TEG_pequen1a.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_alto.jpg</text>
+                      <audio>TEG_alto.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_larga.jpg</text>
+                      <audio>TEG_larga.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_grande.jpg</text>
+                      <audio>TEG_grande.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un tamaño</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_amarillo.jpg</text>
+                      <audio>TEG_amarillo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_inclinado.jpg</text>
+                      <audio>TEG_inclinado.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_cuadrado.jpg</text>
+                      <audio>TEG_cuadrado.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las palabras que indican un tama&amp;#241;o en la caja azul. Coloca las palabras que no indican un tama&amp;#241;o en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un tamaño</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_alta.jpg</text>
+                      <audio>TEG_alta.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_bajito.jpg</text>
+                      <audio>TEG_bajito.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_pequen1o2.jpg</text>
+                      <audio>TEG_pequen1o.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un tamaño</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_fuerte.jpg</text>
+                      <audio>TEG_fuerte.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_redondo.jpg</text>
+                      <audio>TEG_redondo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_verde.jpg</text>
+                      <audio>TEG_verde.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

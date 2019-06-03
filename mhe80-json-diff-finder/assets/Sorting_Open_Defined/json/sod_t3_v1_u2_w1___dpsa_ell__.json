@@ -1,0 +1,336 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics &#8211; Long Vowels <i>i, u</i>",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Read each word aloud. Sort words with long <i>u</i> and long <i>i</i> into the appropriate columns. If a word does not have long <i>u</i> or <i>i,</i> move it to the <i>Other</i> column.</p>",
+    "audio": "dl_longu_longi_columns.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>long u</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "unit",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cute",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "few",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>long i</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "pie",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bite",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "might",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "fly",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "find",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>Other</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "bat",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cut",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>long u</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "use",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "few",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "music",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>long i</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "kind",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "light",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "tie",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "by",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "hide",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>Other</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "cup",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mud",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>long u</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "view",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cube",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "menu",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>long i</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "try",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mind",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "high",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "lies",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "tide",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>Other</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "tub",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "hip",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

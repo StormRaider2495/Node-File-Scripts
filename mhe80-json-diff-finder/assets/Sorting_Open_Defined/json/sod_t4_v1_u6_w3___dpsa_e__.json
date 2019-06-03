@@ -1,0 +1,345 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics &#8211; Prefixes",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Identify the prefix in each word. Then drag each word to the correct bin.</p>",
+    "audio": "dl_identify_prefix.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>dis-</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "dis.mp3"
+              },
+              "contents": [
+                {
+                  "text": "distrust",
+                  "audio": "distrust.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "distaste",
+                  "audio": "distaste.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>non-</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "non.mp3"
+              },
+              "contents": [
+                {
+                  "text": "nonstop",
+                  "audio": "nonstop.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>un-</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "un.mp3"
+              },
+              "contents": [
+                {
+                  "text": "unplug",
+                  "audio": "unplug.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "unkind",
+                  "audio": "unkind.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "unfair",
+                  "audio": "unfair.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>mis-</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "mis.mp3"
+              },
+              "contents": [
+                {
+                  "text": "mislead",
+                  "audio": "mislead.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "misplace",
+                  "audio": "misplace.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>dis-</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "dis.mp3"
+              },
+              "contents": [
+                {
+                  "text": "disorder",
+                  "audio": "disorder.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "disloyal",
+                  "audio": "disloyal.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>non-</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "non.mp3"
+              },
+              "contents": [
+                {
+                  "text": "nonfiction",
+                  "audio": "nonfiction.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>un-</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "un.mp3"
+              },
+              "contents": [
+                {
+                  "text": "uncertain",
+                  "audio": "uncertain.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "unofficial",
+                  "audio": "unofficial.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "uncover",
+                  "audio": "uncover.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "unable",
+                  "audio": "unable.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>mis-</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "mis.mp3"
+              },
+              "contents": [
+                {
+                  "text": "misstep",
+                  "audio": "misstep.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>dis-</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "dis.mp3"
+              },
+              "contents": [
+                {
+                  "text": "disbelief",
+                  "audio": "disbelief.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "dishonest",
+                  "audio": "dishonest.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>non-</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "non.mp3"
+              },
+              "contents": [
+                {
+                  "text": "nonsense",
+                  "audio": "nonsense.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>un-</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "un.mp3"
+              },
+              "contents": [
+                {
+                  "text": "uncomfortable",
+                  "audio": "uncomfortable.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "unfriendly",
+                  "audio": "unfriendly.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "<i>mis-</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "mis.mp3"
+              },
+              "contents": [
+                {
+                  "text": "mislabel",
+                  "audio": "mislabel.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "miscount",
+                  "audio": "miscount.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "misunderstand",
+                  "audio": "misunderstand.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

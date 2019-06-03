@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras: colores&lt;/p&gt;</title>
+  <directions>&lt;p&gt;En esta actividad los ni&amp;#241;os clasifican palabras seg&amp;#250;n una categor&amp;#237;a.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las palabras que&amp;#160;nombran un color&amp;#160;en la caja azul. Coloca las palabras que no&amp;#160;nombran un color&amp;#160;en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un color</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_verde.jpg</text>
+                      <audio>TEG_verde.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_marron.jpg</text>
+                      <audio>TEG_marron.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_rojo.jpg</text>
+                      <audio>TEG_rojo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_azul.jpg</text>
+                      <audio>TEG_azul.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un color</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_alto.jpg</text>
+                      <audio>TEG_alto.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_pequen1o.jpg</text>
+                      <audio>TEG_pequen1a.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_numeros.jpg</text>
+                      <audio>TEG_numeros.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_fuerte.jpg</text>
+                      <audio>TEG_fuerte.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las palabras que nombran un color en la caja azul. Coloca las palabras que no nombran un color en la caja roja.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un color</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_gris.jpg</text>
+                      <audio>TEG_gris.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_amarillo.jpg</text>
+                      <audio>TEG_amarillo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_morado.jpg</text>
+                      <audio>TEG_morado.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un color</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_grande.jpg</text>
+                      <audio>TEG_grande.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_nieve.jpg</text>
+                      <audio>TEG_frio.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_gato.jpg</text>
+                      <audio>TEG_suave.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

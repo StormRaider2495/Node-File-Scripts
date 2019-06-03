@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Text Features</title>
+  <directions>Read each label. Drag each label to the part of the picture it describes. Labels tell more about a picture.</directions>
+  <directionsAudio>dl_label_picture_describes.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="646.25" y="205"/&gt;  &lt;position x="85.4" y="385.2"/&gt;  &lt;position x="311.6" y="562.55"/&gt;  &lt;position x="86.35" y="443.1"/&gt;  &lt;position x="514.75" y="159.95"/&gt;  &lt;position x="88.25" y="512.9"/&gt;  &lt;position x="645.3" y="470.7"/&gt;  &lt;position x="649" y="323.6"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW013_023A_114242_D.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>hill</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>ax</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>can</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>hat</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>flag</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>cat</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>chicks</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>pig</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>van</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>clam</text>
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

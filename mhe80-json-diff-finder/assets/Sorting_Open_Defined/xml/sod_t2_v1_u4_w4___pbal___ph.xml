@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Listen to each word. Drag each word into the box with the same sound-spelling.&lt;/p&gt;</directions>
+  <directionsAudio>dl_same_sound_spelling.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>ear</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>fear</text>
+                      <audio>fear.mp3</audio>
+                    </item>
+                    <item>
+                      <text>near</text>
+                      <audio>near.mp3</audio>
+                    </item>
+                    <item>
+                      <text>hear</text>
+                      <audio>hear.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>eer</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>peer</text>
+                      <audio>peer.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cheer</text>
+                      <audio>cheer.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>ere</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>here</text>
+                      <audio>here.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>ear</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>clear</text>
+                      <audio>clear.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tear</text>
+                      <audio>tear2.mp3</audio>
+                    </item>
+                    <item>
+                      <text>dear</text>
+                      <audio>dear.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>eer</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>steer</text>
+                      <audio>steer.mp3</audio>
+                    </item>
+                    <item>
+                      <text>deer</text>
+                      <audio>deer.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>ere</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>mere</text>
+                      <audio>mere.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

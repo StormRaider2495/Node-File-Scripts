@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>Spelling: Word Sort with Two-Letter Blends</title>
+  <directions>&lt;p&gt;Drag the words with the same two-letter blends into the boxes.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>clip</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>grass</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>trips</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>crack</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>still</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>clap</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>plans</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>felt</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>west</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>mask</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>milk</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>belt</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>clip</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>crib</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>grip</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>step</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>track</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>clop</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>plug</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>felt</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>dust</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>fast</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>silk</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>wilt</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

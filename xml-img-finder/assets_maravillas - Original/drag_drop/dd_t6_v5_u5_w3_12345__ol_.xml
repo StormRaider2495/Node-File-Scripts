@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Gramática: adjetivos comparativos, numerales y ordinales</title>
+  <directions>Lee la oración y los adjetivos del recuadro. Agarra el adjetivo correcto y suéltalo en el espacio en blanco.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Era [mejor] haber entregado a tiempo los trabajos.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>tuyo</text>
+            </distractor>
+            <distractor>
+              <text>bajo</text>
+            </distractor>
+            <distractor>
+              <text>tercero</text>
+            </distractor>
+            <distractor>
+              <text>menos</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Siempre hab&amp;#237;a llegado de [segundo], pero esta vez ser&amp;#237;a distinto.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>mayor</text>
+            </distractor>
+            <distractor>
+              <text>casi</text>
+            </distractor>
+            <distractor>
+              <text>un</text>
+            </distractor>
+            <distractor>
+              <text>nuestra</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Sof&amp;#237;a compart&amp;#237;a la [mitad] de las frutas con sus compa&amp;#241;eros.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>tuya</text>
+            </distractor>
+            <distractor>
+              <text>mía</text>
+            </distractor>
+            <distractor>
+              <text>los</text>
+            </distractor>
+            <distractor>
+              <text>nuestra</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;El [menor] de los hermanos segu&amp;#237;a los rastros que hab&amp;#237;an dejado en el bosque.&amp;#160;&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>mía</text>
+            </distractor>
+            <distractor>
+              <text>unos</text>
+            </distractor>
+            <distractor>
+              <text>mitad</text>
+            </distractor>
+            <distractor>
+              <text>suyo</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Lo [peor] fue esperar hasta el &amp;#250;ltimo momento para iniciar la fogata.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>suelo</text>
+            </distractor>
+            <distractor>
+              <text>suyo</text>
+            </distractor>
+            <distractor>
+              <text>mal</text>
+            </distractor>
+            <distractor>
+              <text>tercer</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Hoy tuvo que dar [doble] raci&amp;#243;n de alimento a la jaur&amp;#237;a.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>dos</text>
+            </distractor>
+            <distractor>
+              <text>primer</text>
+            </distractor>
+            <distractor>
+              <text>malo</text>
+            </distractor>
+            <distractor>
+              <text>suyas</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

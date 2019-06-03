@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Phoneme Categorization&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Click each picture to hear its name. Drag pictures that have the /i/ sound into the blue box. Drag pictures that do not have the /i/ sound into the red box.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <vspacing />
+  <contentMode value="images" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/i/ Sound</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW031_014A_193002_d.jpg</text>
+                      <audio>invitation.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW031_015A_193002_d.jpg</text>
+                      <audio>iguana.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW031_033A_193002_d.jpg</text>
+                      <audio>inch.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No /i/ Sound</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW012_042A_193002_d.jpg</text>
+                      <audio>apple.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/i/ Sound</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW031_012A_193002_d.jpg</text>
+                      <audio>ink.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW031_008A_193002_d.jpg</text>
+                      <audio>instruments.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW031_010A_193002_d.jpg</text>
+                      <audio>insect.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No /i/ Sound</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW021_025A_193002_d.jpg</text>
+                      <audio>rug.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_036A_193002_d.jpg</text>
+                      <audio>man.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

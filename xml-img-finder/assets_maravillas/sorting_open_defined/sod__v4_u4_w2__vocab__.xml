@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras:&amp;#160;&lt;i&gt;Clases de alimentos&lt;/i&gt;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;En esta actividad los ni&amp;#241;os clasifican palabras seg&amp;#250;n una categor&amp;#237;a.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las palabras que nombran frutas&amp;#160;en la caja azul.&amp;#160;Coloca las palabras que nombran alimentos de origen animal en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Frutas</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_banana.jpg</text>
+                      <audio>TEG_banana.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_uvas.jpg</text>
+                      <audio>TEG_uvas.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_naranja.jpg</text>
+                      <audio>TEG_naranja.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Alimentos de origen animal</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_filete.jpg</text>
+                      <audio>TEG_filete.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_huevo.jpg</text>
+                      <audio>TEG_huevo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_leche.jpg</text>
+                      <audio>TEG_leche.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las palabras que nombran verduras en la caja azul.&amp;#160;Coloca las palabras que nombran alimentos preparados en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Verduras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_esparrago.jpg</text>
+                      <audio>TEG_esparrago.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_lechuga.jpg</text>
+                      <audio>TEG_lechuga.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_repollo.jpg</text>
+                      <audio>TEG_repollo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Alimentos preparados</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_sopa.jpg</text>
+                      <audio>TEG_sopa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_sandwich.jpg</text>
+                      <audio>TEG_sandwich.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_crepa.jpg</text>
+                      <audio>TEG_crepa.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

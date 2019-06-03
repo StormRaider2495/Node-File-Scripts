@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title />
+  <directions />
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image>maleta.jpg</image>
+          <audio>SR14_TEgames_blend_k_maleta.mp3</audio>
+          <sentence />
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>lugar</text>
+            </distractor>
+            <distractor>
+              <text>persona</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

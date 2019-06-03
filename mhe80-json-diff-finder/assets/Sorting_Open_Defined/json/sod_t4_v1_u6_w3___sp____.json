@@ -1,0 +1,488 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Spelling: Prefixes",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p><b>Sort the spelling words into the columns using the key words or word parts.</b></p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "disbelief",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "disorder",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "displease",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "distaste",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "distrust",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "disloyal",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "mislead",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "misplace",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mislabel",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "misstep",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "misnumber",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "nonsense",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "nonfat",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "nonfiction",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "nonstop",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "unplug",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "unable",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unkind",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unfair",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "uncover",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unclean",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "disbelief",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "discourage",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "disappoint",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "distrust",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "disloyal",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "mislead",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "misnumber",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mislabel",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "misplace",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "misstep",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "nonsense",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "nonfat",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "nonfiction",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "nonstop",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "unplug",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "unable",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "uncertain",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "uncomfortable",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unclean",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "uncover",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "disbelief",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "discourage",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "disappointment",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "disappear",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "disloyal",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "mislead",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "mismanage",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "misheard",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "misfortune",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "misstep",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "misnumber",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "nonsense",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "nonessential",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "nonfiction",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "nonspecific",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "unplug",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "unable",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unofficial",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "uncertain",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "uncomfortable",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unpredictable",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unnecessary",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

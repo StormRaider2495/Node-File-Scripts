@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras: sentimientos&lt;/p&gt;</title>
+  <directions>&lt;p&gt;En esta actividad los ni&amp;#241;os clasifican palabras seg&amp;#250;n una categor&amp;#237;a.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las palabras que expresan un sentimiento&amp;#160;en la caja azul. Coloca las palabras que no expresan un sentimiento en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Expresa un sentimiento</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_feliz.jpg</text>
+                      <audio>TEG_feliz.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_triste.jpg</text>
+                      <audio>TEG_triste.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No expresa un sentimiento</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_libros.jpg</text>
+                      <audio>TEG_libros.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_arana.jpg</text>
+                      <audio>TEG_arana.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las palabras que expresan un sentimiento&amp;#160;en la caja azul. Coloca las palabras que no expresan un sentimiento en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Expresa un sentimiento</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_asustado.jpg</text>
+                      <audio>TEG_asustado.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_enojado.jpg</text>
+                      <audio>TEG_enojado.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No expresa un sentimiento</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_gato.jpg</text>
+                      <audio>TEG_gato.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_pala.jpg</text>
+                      <audio>TEG_pala.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las palabras que expresan un sentimiento&amp;#160;en la caja azul. Coloca las palabras que no expresan un sentimiento en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Expresa un sentimiento</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_aburrido.jpg</text>
+                      <audio>TEG_aburrido.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_contenta.jpg</text>
+                      <audio>TEG_contenta.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No expresa un sentiemiento</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_queso.jpg</text>
+                      <audio>TEG_queso.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_casa.jpg</text>
+                      <audio>TEG_casa.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

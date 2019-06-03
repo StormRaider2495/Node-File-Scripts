@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Build Vocabulary: Academic Vocabulary</title>
+  <directions>Drag the appropriate words from the list on the right to the space on left.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow1" />
+  <layoutMode value="yes" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData />
+  <rounds>
+    <round>
+      <contentImage>BAS_T3v1_U6W5_Vocab.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <positionData />
+      <items>
+        <item>
+          <text>entertaining</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>entertainment</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>entertainer</text>
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>BAS_T3v1_U6W5_Vocab_2.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <positionData />
+      <items>
+        <item>
+          <text>resident</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>residence</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>residential</text>
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>BAS_T3v1_U6W5_Vocab_3.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <positionData />
+      <items>
+        <item>
+          <text>specifics</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>specific</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>unspecified</text>
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

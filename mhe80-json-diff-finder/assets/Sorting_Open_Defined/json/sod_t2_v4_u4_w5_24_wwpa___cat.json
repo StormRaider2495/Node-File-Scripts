@@ -1,0 +1,465 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phoneme Categorization",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on the pictures to hear the words. Drag the pictures with words that have the /ar/ sound into the blue box. Drag the other pictures into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ar/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_002A_193002_186626_d.jpg",
+                  "audio": "chair.mp3",
+                  "altText": "A blue chair."
+                },
+                {
+                  "text": "M100_UW013_030A_186626_d.jpg",
+                  "audio": "stare.mp3",
+                  "altText": "A staircase in a building. A red arrow points to one of the stairs."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_059A_193002_186626_d.jpg",
+                  "audio": "bird.mp3",
+                  "altText": "A red cardinal."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ar/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M300_UW014_002A_118701_D.jpg",
+                  "audio": "hair.mp3",
+                  "altText": "A woman. A red arrow points to her long hair."
+                },
+                {
+                  "text": "M100_UW053_005A_193002_186626_d.jpg",
+                  "audio": "bear.mp3",
+                  "altText": "A bear doing a handstand."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_072A_193002_186626_d.jpg",
+                  "audio": "horse.mp3",
+                  "altText": "A horse."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ar/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_070A_193002_186626_d.jpg",
+                  "audio": "pair.mp3",
+                  "altText": "A pair of purple socks."
+                },
+                {
+                  "text": "M100_UW021_035A_193002_186626_d.jpg",
+                  "audio": "tear.mp3",
+                  "altText": "A lion ripping up a piece of paper."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_006A_193002_186626_d.jpg",
+                  "audio": "fire.mp3",
+                  "altText": "A campfire."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ar/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW045_047A_186626_d.jpg",
+                  "audio": "glare.mp3",
+                  "altText": "A boy looking in the sky. The sun and clouds are in the sky."
+                },
+                {
+                  "text": "M100_UW025_050A_186626_d.jpg",
+                  "audio": "spare.mp3",
+                  "altText": "A bowling ball knocking a bowling pin over."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW025_052A_186626_d.jpg",
+                  "audio": "glue.mp3",
+                  "altText": "A jar of glue, a piece of red paper, and a pair of scissors. A red arrow points to the jar of glue."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ar/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW025_037A_186626_d.jpg",
+                  "audio": "share.mp3",
+                  "altText": "A boy and girl holding spoons preparing to eat a banana split."
+                },
+                {
+                  "text": "M100_UW022_002A_193002_186626_d.jpg",
+                  "audio": "square.mp3",
+                  "altText": "A blue square with a dark blue border."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW061_006A_193002_186626_d.jpg",
+                  "audio": "store.mp3",
+                  "altText": "A mother and son bear buying three cupcakes from a donkey in a bakery."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ar/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_039A_193002_186626_d.jpg",
+                  "audio": "hare.mp3",
+                  "altText": "A white rabbit."
+                },
+                {
+                  "text": "M100_UW045_008A_186626_d.jpg",
+                  "audio": "fair.mp3",
+                  "altText": "A Ferris wheel and other attractions at a fair. The sun is in the sky."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_055A_186626_d.jpg",
+                  "audio": "deer.mp3",
+                  "altText": "A reindeer."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ar/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW045_003A_186626_d.jpg",
+                  "audio": "pear.mp3",
+                  "altText": "A yellow pear."
+                },
+                {
+                  "text": "M100_UW045_021A_186626_d.jpg",
+                  "audio": "stare.mp3",
+                  "altText": "A girl looking at a goldfish in a fish bowl."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_032A_193002_186626_d.jpg",
+                  "audio": "car.mp3",
+                  "altText": "A green car."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ar/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW045_036A_186626_d.jpg",
+                  "audio": "mare.mp3",
+                  "altText": "A horse and its colt. A red arrow points to the colt."
+                },
+                {
+                  "text": "M100_UW045_016A_186626_d.jpg",
+                  "audio": "bare.mp3",
+                  "altText": "A tree. All of its leaves have fallen to the ground."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_013A_193002_186626_d.jpg",
+                  "audio": "bale.mp3",
+                  "altText": "A bale of hay."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ar/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW045_018A_186626_d.jpg",
+                  "audio": "there.mp3",
+                  "altText": "A map of a group of islands."
+                },
+                {
+                  "text": "M100_UW045_021A_186626_d.jpg",
+                  "audio": "stare.mp3",
+                  "altText": "A girl looking at a goldfish in a fish bowl."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW045_007A_186626_d.jpg",
+                  "audio": "three.mp3",
+                  "altText": "The number three."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ar/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW045_086A_186626_d.jpg",
+                  "audio": "snare.mp3",
+                  "altText": "A rope tied to a stake in the ground."
+                },
+                {
+                  "text": "M100_UW073_004A_193002_186626_d.jpg",
+                  "audio": "lair.mp3",
+                  "altText": "A bear hibernating in a cave."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW043_016A_186626_d.jpg",
+                  "audio": "snore.mp3",
+                  "altText": "A man sleeping on a pillow."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

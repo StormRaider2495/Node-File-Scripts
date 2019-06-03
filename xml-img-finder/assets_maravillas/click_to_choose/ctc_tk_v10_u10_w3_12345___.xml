@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Palabras de uso frecuente&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz en clic en el bot&amp;#243;n que est&amp;#225; al lado de la palabra para o&amp;#237;rla. Luego, haz clic en las im&amp;#225;genes para o&amp;#237;r las oraciones. Elige la oraci&amp;#243;n que tiene la palabra de la casilla.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;hago&lt;/b&gt;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_hago.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_escribir.jpg</image>
+              <audio>hago_sentence.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_rojo.jpg</image>
+              <audio>color_sentence.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;familia&lt;/b&gt;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_familia.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_playa.jpg</image>
+              <audio>man1ana_sentence.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_familia.jpg</image>
+              <audio>familia_sentence.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;con&lt;/b&gt;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_con.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_pancontomate.jpg</image>
+              <audio>con_sentence.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_limon.jpg</image>
+              <audio>un_sentence.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;tambi&amp;#233;n&lt;/b&gt;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_tambien.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_nina.jpg</image>
+              <audio>tambien_sentence.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_bicicleta.jpg</image>
+              <audio>vieja_sentence.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;hay&lt;/b&gt;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_hay.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_biblioteca.jpg</image>
+              <audio>que_sentence.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_pecera.jpg</image>
+              <audio>hay_sentence.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;nuevo&lt;/b&gt;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_nuevo.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_perro.jpg</image>
+              <audio>bueno_sentence.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_lapiz.jpg</image>
+              <audio>nuevo_sentence.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;hace&lt;/b&gt;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_hace.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_escribir.jpg</image>
+              <audio>hace_sentence.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_silla.jpg</image>
+              <audio>mover_sentence.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;pero&lt;/b&gt;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_pero.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_television.jpg</image>
+              <audio>siglo_sentence.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_nieve.jpg</image>
+              <audio>pero_sentence.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;sin&lt;/b&gt;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_sin.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_fuerte.jpg</image>
+              <audio>sin_sentence.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_tesoro.jpg</image>
+              <audio>encontrar_sentence.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;m&amp;#225;s&lt;/b&gt;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_mas.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_rio.jpg</image>
+              <audio>ri1o_sentence.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_alto2.jpg</image>
+              <audio>mas_sentence.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

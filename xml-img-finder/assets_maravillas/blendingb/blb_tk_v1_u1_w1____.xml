@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blendingb>
+  <title>Fónetica: Sílabas con m</title>
+  <directions>Coloca cada letra en la tarjeta y escucha la sílaba.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <audio>SR14_TEgames_blend_k_ma.mp3</audio>
+              <image />
+              <sounds>
+                <sound>
+                  <audio />
+                </sound>
+                <sound>
+                  <audio />
+                </sound>
+              </sounds>
+            </word>
+            <word>
+              <audio />
+              <image />
+              <sounds>
+                <sound>
+                  <audio />
+                </sound>
+                <sound>
+                  <audio />
+                </sound>
+              </sounds>
+            </word>
+            <word>
+              <audio />
+              <image />
+              <sounds>
+                <sound>
+                  <audio />
+                </sound>
+                <sound>
+                  <audio />
+                </sound>
+              </sounds>
+            </word>
+          </words>
+          <question>
+            <correctIndex />
+          </question>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</blendingb>
+

@@ -1,0 +1,427 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Build Vocabulary: Shades of Meaning",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Look at the word at the top of the column. Drag the related words from the Word Bank to the labeled column.  If a word isn&#8217;t related, move it to the box labeled o<i>ther.</i></p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "innovative",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "creative",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "inventive",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "pioneering",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "new",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "gracious",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "kind",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "friendly",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "generous",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "exceptional",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "phenomenal",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "extraordinary",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "special",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unique",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "strict",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "serious",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "harsh",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "tough",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "expedition",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "journey",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mission",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "quest",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "voyage",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "enemy",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "adversary",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "opponent",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "foe",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "compassionate",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "gracious",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "kind",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "friendly",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "generous",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "tough",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "adversary",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unique",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "inventive",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "stern",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "strict",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "serious",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "harsh",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "tough",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "friendly",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "gracious",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "creative",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "special",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

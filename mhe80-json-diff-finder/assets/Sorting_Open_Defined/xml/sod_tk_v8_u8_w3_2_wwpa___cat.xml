@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Phoneme Categorization&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Click each picture to hear its name. Drag pictures that have the /j/ sound into the blue box. Drag pictures that do not have the /j/ sound into the red box.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <vspacing />
+  <contentMode value="images" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/j/ Sound</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW013_014A_114242_D.jpg</text>
+                      <audio>jam.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW051_021A_114242_D.jpg</text>
+                      <audio>jar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW021_043A_193002_d.jpg</text>
+                      <audio>juice.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No /j/ Sound</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_071A_193002_d.jpg</text>
+                      <audio>girl.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/j/ Sound</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW023_005A_193002_d.jpg</text>
+                      <audio>jump.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW081_001A_193002_186626_d.jpg</text>
+                      <audio>jet.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW051_016A_193002_d.jpg</text>
+                      <audio>jacket.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW021_043A_193002_d.jpg</text>
+                      <audio>juice.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No /j/ Sound</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW082_013A_193002_d.jpg</text>
+                      <audio>yellow.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW042_004A_193002_d.jpg</text>
+                      <audio>gate.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

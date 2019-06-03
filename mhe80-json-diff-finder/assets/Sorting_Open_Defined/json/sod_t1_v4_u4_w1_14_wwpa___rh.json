@@ -1,0 +1,575 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Identify Rhyme",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Words that have the same end sounds rhyme. Click on the pictures. Drag the pictures that rhyme to the blue box. Drag pictures that do not rhyme into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW032_015A_114242_D.jpg",
+                  "audio": "whale.mp3",
+                  "altText": "A whale spraying water."
+                },
+                {
+                  "text": "M100_UW041_001A_114242_D.jpg",
+                  "audio": "jail.mp3",
+                  "altText": "A jail cell."
+                },
+                {
+                  "text": "M100_UW041_002A_114242_D.jpg",
+                  "audio": "mail.mp3",
+                  "altText": "A girl dropping a letter in a blue collection box."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_001A_114242_D.jpg",
+                  "audio": "bag.mp3",
+                  "altText": "A gold handbag with a strap."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_003A_114242_D.jpg",
+                  "audio": "nail.mp3",
+                  "altText": "A nail."
+                },
+                {
+                  "text": "M100_UW041_004A_114242_D.jpg",
+                  "audio": "pail.mp3",
+                  "altText": "A bucket of sand with a small green shovel in it."
+                },
+                {
+                  "text": "M100_UW041_005A_114242_D.jpg",
+                  "audio": "sail.mp3",
+                  "altText": "A sailboat."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW034_026A_114242_D.jpg",
+                  "audio": "pole.mp3",
+                  "altText": "The U.S. flag on a flagpole. A red arrow points to the flagpole."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_002A_114242_D.jpg",
+                  "audio": "mail.mp3",
+                  "altText": "A girl dropping a letter in a blue collection box."
+                },
+                {
+                  "text": "M100_UW041_006A_114242_D.jpg",
+                  "audio": "tail.mp3",
+                  "altText": "An iguana. A red arrow points to its tail."
+                },
+                {
+                  "text": "M100_UW041_007A_114242_D.jpg",
+                  "audio": "snail.mp3",
+                  "altText": "A snail."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW032_001A_114242_D.jpg",
+                  "audio": "bike.mp3",
+                  "altText": "A bicycle."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_008A_114242_D.jpg",
+                  "audio": "hay.mp3",
+                  "altText": "A stack of hay and a pitchfork."
+                },
+                {
+                  "text": "M100_UW041_018A_114242_D.jpg",
+                  "audio": "pay.mp3",
+                  "altText": "Two boys exchanging a dollar bill."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_009A_114242_D.jpg",
+                  "audio": "horse.mp3",
+                  "altText": "A horse."
+                },
+                {
+                  "text": "M100_UW011_010A_114242_D.jpg",
+                  "audio": "dog.mp3",
+                  "altText": "A brown dog wearing a blue collar."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_024A_114242_D.jpg",
+                  "audio": "rain.mp3",
+                  "altText": "Raindrops falling from a cloud."
+                },
+                {
+                  "text": "M100_UW023_021A_114242_D.jpg",
+                  "audio": "train.mp3",
+                  "altText": "A toy train."
+                },
+                {
+                  "text": "M100_UW041_010A_114242_D.jpg",
+                  "audio": "chain.mp3",
+                  "altText": "A chain."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_008A_114242_D.jpg",
+                  "audio": "coat.mp3",
+                  "altText": "An orange zip-up jacket."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_024A_114242_D.jpg",
+                  "audio": "rain.mp3",
+                  "altText": "Raindrops falling from a cloud."
+                },
+                {
+                  "text": "M100_UW031_012A_114242_D.jpg",
+                  "audio": "cane.mp3",
+                  "altText": "A cane."
+                },
+                {
+                  "text": "M100_UW041_011A_114242_D.jpg",
+                  "audio": "mane.mp3",
+                  "altText": "A lion. A red arrow points to its mane."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_026A_114242_D.jpg",
+                  "audio": "sock.mp3",
+                  "altText": "A purple sock."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_010A_114242_D.jpg",
+                  "audio": "chain.mp3",
+                  "altText": "A chain."
+                },
+                {
+                  "text": "M100_UW013_024A_114242_D.jpg",
+                  "audio": "rain.mp3",
+                  "altText": "Raindrops falling from a cloud."
+                },
+                {
+                  "text": "M100_UW031_012A_114242_D.jpg",
+                  "audio": "cane.mp3",
+                  "altText": "A cane."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_019A_114242_D.jpg",
+                  "audio": "truck.mp3",
+                  "altText": "A blue pickup truck."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_018A_114242_D.jpg",
+                  "audio": "man.mp3",
+                  "altText": "A boy wearing glasses and a button-up shirt."
+                },
+                {
+                  "text": "M100_UW011_012A_114242_D.jpg",
+                  "audio": "fan.mp3",
+                  "altText": "An electric fan."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_002A_114242_D.jpg",
+                  "audio": "mail.mp3",
+                  "altText": "A girl dropping a letter in a blue collection box."
+                },
+                {
+                  "text": "M100_UW013_020A_114242_D.jpg",
+                  "audio": "mug.mp3",
+                  "altText": "A red coffee mug."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_013A_114242_D.jpg",
+                  "audio": "drain.mp3",
+                  "altText": "A shower drain."
+                },
+                {
+                  "text": "M100_UW013_024A_114242_D.jpg",
+                  "audio": "rain.mp3",
+                  "altText": "Raindrops falling from a cloud."
+                },
+                {
+                  "text": "M100_UW041_014A_114242_D.jpg",
+                  "audio": "grain.mp3",
+                  "altText": "A wheat stalk. A red arrow points to the top of the stalk."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_020A_114242_D.jpg",
+                  "audio": "mitt.mp3",
+                  "altText": "A brown baseball glove."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_021A_114242_D.jpg",
+                  "audio": "train.mp3",
+                  "altText": "A toy train."
+                },
+                {
+                  "text": "M100_UW031_012A_114242_D.jpg",
+                  "audio": "cane.mp3",
+                  "altText": "A cane."
+                },
+                {
+                  "text": "M100_UW041_015A_114242_D.jpg",
+                  "audio": "crane.mp3",
+                  "altText": "A construction crane."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_016A_114242_D.jpg",
+                  "audio": "hat.mp3",
+                  "altText": "A brown fedora."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_016A_114242_D.jpg",
+                  "audio": "jay.mp3",
+                  "altText": "A blue jay."
+                },
+                {
+                  "text": "M100_UW041_017A_114242_D.jpg",
+                  "audio": "tray.mp3",
+                  "altText": "A serving tray."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_023A_114242_D.jpg",
+                  "audio": "pig.mp3",
+                  "altText": "A pig."
+                },
+                {
+                  "text": "M100_UW041_019A_114242_D.jpg",
+                  "audio": "pillow.mp3",
+                  "altText": "A pillow inside a blue and purple dotted pillowcase."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

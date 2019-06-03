@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Sample Drag and Drop Word Pair</title>
+  <directions>directions</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;astronaut&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left>astor</left>
+              <right>naut</right>
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>tele</text>
+            </distractor>
+            <distractor>
+              <text>graph</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

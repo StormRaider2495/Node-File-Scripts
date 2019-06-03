@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Normas del lenguaje: la raya y otros signos&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona la alternativa en la que se ha colocado el signo de puntuaci&amp;#243;n raya (&amp;#8212;) de manera correcta.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#191;Te gustar&amp;#237;a acompa&amp;#241;arme a dar una vuelta? Se levant&amp;#243; y se dirigi&amp;#243; a la puerta. Regresaremos antes del mediod&amp;#237;a.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>—¿Te gustaría acompañarme a dar una vuelta?—  Se levantó y se dirigió a la puerta—. Regresaremos antes del mediodía—.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—¿Te gustaría acompañarme a dar una vuelta?  —Se levantó y se dirigió a la puerta—. Regresaremos antes del mediodía.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>—¿Te gustaría acompañarme a dar una vuelta?— — Se levantó y se dirigió a la puerta—.  —Regresaremos antes del mediodía—.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—¿Te gustaría acompañarme a dar una vuelta? Se levantó y se dirigió a la puerta. —Regresaremos antes del mediodía.—</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#191;Cu&amp;#225;ndo iremos al teatro? le pregunt&amp;#243; Daniela.&lt;/p&gt;
+&lt;p&gt;Hola, David le dijo In&amp;#233;s al llegar.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>—¿Cuándo iremos al teatro?—  le preguntó Daniela—.  Hola, David—  le dijo Inés al llegar.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>— ¿Cuándo iremos al teatro? — le preguntó Daniela—.  Hola, David— le dijo Inés al llegar.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—¿Cuándo iremos al teatro? —le preguntó Daniela.  —Hola, David —le dijo Inés al llegar.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>¿Cuándo iremos al teatro? —le preguntó Daniela—.  Hola, David —le dijo Inés al llegar—.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Alonso dijo: Te indicar&amp;#233; donde queda, y traz&amp;#243; un dibujo en un papel &amp;#160;de tal manera que no te vayas a perder.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Alonso dijo: —Te indicaré donde queda—   —y trazó un dibujo en un papel,  de tal manera que no te vayas a perder.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Alonso dijo: Te indicaré donde queda— y trazó un dibujo en un papel,  —de tal manera que no te vayas a perder.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Alonso dijo: —Te indicaré donde queda— y trazó un dibujo en un papel,  de tal manera que no te vayas a perder—.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Alonso dijo: Te indicaré donde queda —y trazó un dibujo en un papel—,  de tal manera que no te vayas a perder.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#191;Llover&amp;#225; hoy?&lt;/p&gt;
+&lt;p&gt;Yo creo que si, est&amp;#225; muy nublado el cielo le contest&amp;#243; el t&amp;#237;o.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>—¿Lloverá hoy?—  —Yo creo que si, está muy nublado el cielo— —le contestó el tío—.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—¿Lloverá hoy?  —Yo creo que si, está muy nublado el cielo —le contestó el tío.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>¿Lloverá hoy? — Yo creo que si, está muy nublado el cielo — le contestó — el tío.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>¿Lloverá hoy?—  Yo creo que si, está muy nublado el cielo— le contestó el tío.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Mejor me llevo un paraguas hoy dijo Ana. La otra tarde llegu&amp;#233; empapada.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>—Mejor me llevo un paraguas hoy —dijo Ana—. La otra tarde llegué empapada.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Mejor me llevo un paraguas hoy —dijo Ana. La otra tarde llegué empapada—.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Mejor me llevo un paraguas— hoy dijo Ana. —La otra tarde llegué empapada—.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—Mejor me llevo un paraguas hoy dijo Ana—. La otra tarde llegué empapada—.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;No te imaginas lo que ha sucedido Le dijo apenas la vio. Te tengo que contar las buenas noticias.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>No te imaginas lo que ha sucedido—. Le dijo apenas la vio. —Te tengo que contar las buenas noticias.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—No te imaginas lo que ha sucedido—  —le dijo apenas la vio—. —Te tengo que contar las buenas noticias—.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—No te imaginas lo que ha sucedido—  —le dijo apenas la vio. —Te tengo que contar las buenas noticias.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—No te imaginas lo que ha sucedido —le dijo apenas la vio—. Te tengo que contar las buenas noticias.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

@@ -1,0 +1,336 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics-Short Vowels <i>a</i> and <i>i</i>",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Say each word aloud. Click and drag each word to its correct short <i>i </i>and short <i>a</i> box. If the word does not have the short <i>a </i>or short <i>i</i> pattern, move the word to the other box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short a",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "grass",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "pants",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "rack",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "snacks",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "black",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short i",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "wind",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "brick",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "moss",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "gross",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bike",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short a",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "shack",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "candle",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "batter",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short i",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "flicker",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bitter",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "limp",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "blend",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "curtain",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "flight",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sweat",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short a",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "planet",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "stranded",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "baffle",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "apple",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short i",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "flipper",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "finished",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "striped",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "height",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "stained",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "flames",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Estrategia de vocabulario: claves de contexto&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona la clave de contexto que te permite comprender el significado de la palabra subrayada.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Llegaron &lt;u&gt;jadeando&lt;/u&gt; a casa de la se&amp;#241;ora M&amp;#250;jica. Tuvieron que esperar un minuto sentados en la escalera antes de volver a hablar. S&amp;#243;lo Jaime estaba fresco y en&amp;#233;rgico.&lt;/p&gt;
+&lt;p&gt;&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Tuvieron que esperar un minuto</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>a casa de la señora Mújica</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Tuvieron que esperar un minuto sentados en la escalera antes de volver a hablar.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Gabriela es una &lt;u&gt;genio&lt;/u&gt; en matem&amp;#225;ticas porque es una experta en n&amp;#250;meros. Ella es a los n&amp;#250;meros lo que Beethoven es a la m&amp;#250;sica, creo yo.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>en matemáticas</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>es una experta en números</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Ella es a los números</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Sent&amp;#237;a &lt;u&gt;repulsi&amp;#243;n&lt;/u&gt; por el enorme alacr&amp;#225;n porque no le gustaban algunos insectos. En cambio, la atra&amp;#237;an grandemente las abejas.&lt;/p&gt;
+&lt;p&gt;&amp;#160;&lt;/p&gt;
+&lt;p&gt;&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>no le gustaban algunos insectos. En cambio, la atraían grandemente las abejas.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>por el enorme alacrán</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>En cambio</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Nos quedamos &lt;u&gt;estupefactos&lt;/u&gt; y sin habla. Nos tom&amp;#243; por sorpresa la ca&amp;#237;da de la diva en el escenario. Comenzamos a respirar cuando la bailarina hizo un giro perfecto.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>la diva en el escenario</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Comenzamos a respirar</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Nos tomó por sorpresa la caída de la diva en el escenario. Comenzamos a respirar cuando la bailarina hizo un giro perfecto.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Se nos present&amp;#243; una nueva &lt;u&gt;perspectiva&lt;/u&gt;. El cient&amp;#237;fico comenz&amp;#243; a hablar y nos hizo ver las cosas desde otro punto de vista. Antes pens&amp;#225;bamos que Plut&amp;#243;n era un planeta, ahora cambi&amp;#243; nuestra opini&amp;#243;n: es un planeta enano.&lt;/p&gt;
+&lt;p&gt;&amp;#160;&lt;/p&gt;
+&lt;p&gt;&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>El científico comenzó a hablar</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>El científico comenzó a hablar y nos hizo ver las cosas desde otro punto de vista. Antes pensábamos que Plutón era un planeta, ahora cambió nuestra opinión: es un planeta enano.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>pensábamos que Plutón era un planeta</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Los compa&amp;#241;eros &lt;u&gt;despreciaron&lt;/u&gt; las palabras de Felipe porque a nadie le gust&amp;#243; lo que dijo. En cambio, la exposici&amp;#243;n de Luisa hab&amp;#237;a sido un &amp;#233;xito. Todos aplaudieron de pie.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>las palabras de Felipe</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>a nadie le gustó lo que dijo. En cambio, la exposición de Luisa había sido un éxito. Todos aplaudieron de pie</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Todos aplaudieron de pie.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

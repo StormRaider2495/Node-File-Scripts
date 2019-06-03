@@ -1,0 +1,573 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phoneme Categorization",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture to hear its name. Drag pictures with same beginning sounds into the blue box. Drag pictures with different beginning sounds into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sounds",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW063_011A_114242_D.jpg",
+                  "audio": "wrap.mp3",
+                  "altText": "A girl wrapping a present using transparent tape."
+                },
+                {
+                  "text": "M100_UW063_012A_114242_D.jpg",
+                  "audio": "wreck.mp3",
+                  "altText": "A damaged red car with cracked windows."
+                },
+                {
+                  "text": "M100_UW063_013A_114242_D.jpg",
+                  "audio": "wren.mp3",
+                  "altText": "A bird standing on a branch."
+                },
+                {
+                  "text": "M100_UW063_014A_114242_D.jpg",
+                  "audio": "wrench.mp3",
+                  "altText": "A metal wrench."
+                },
+                {
+                  "text": "M100_UW063_015A_114242_D.jpg",
+                  "audio": "wring.mp3",
+                  "altText": "A woman wringing water from a towel into a bucket."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Beginning Sounds",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW063_022A_114242_D.jpg",
+                  "audio": "fork.mp3",
+                  "altText": "A fork."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sounds",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW043_028A_114242_D.jpg",
+                  "audio": "knee.mp3",
+                  "altText": "A boy with one leg slightly raised. A red arrow points to his knee."
+                },
+                {
+                  "text": "M100_UW063_002A_114242_D.jpg",
+                  "audio": "kneel.mp3",
+                  "altText": "A girl wearing a hat, overalls, and gloves in a garden."
+                },
+                {
+                  "text": "M100_UW063_003A_114242_D.jpg",
+                  "audio": "knife.mp3",
+                  "altText": "A knife."
+                },
+                {
+                  "text": "M100_UW063_004A_114242_D.jpg",
+                  "audio": "knight.mp3",
+                  "altText": "A medieval soldier's uniform."
+                },
+                {
+                  "text": "M100_UW063_005A_114242_D.jpg",
+                  "audio": "knit.mp3",
+                  "altText": "A girl sitting in a chair knitting."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Beginning Sounds",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW032_001A_114242_D.jpg",
+                  "audio": "bike.mp3",
+                  "altText": "A bicycle."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sounds",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW063_016A_114242_D.jpg",
+                  "audio": "wrist.mp3",
+                  "altText": "A hand. A red arrow points to the wrist."
+                },
+                {
+                  "text": "M100_UW063_013A_114242_D.jpg",
+                  "audio": "wren.mp3",
+                  "altText": "A bird standing on a branch."
+                },
+                {
+                  "text": "M100_UW063_014A_114242_D.jpg",
+                  "audio": "wrench.mp3",
+                  "altText": "A metal wrench."
+                },
+                {
+                  "text": "M100_UW063_011A_114242_D.jpg",
+                  "audio": "wrap.mp3",
+                  "altText": "A girl wrapping a present using transparent tape."
+                },
+                {
+                  "text": "M100_UW063_017A_114242_D.jpg",
+                  "audio": "write.mp3",
+                  "altText": "A boy sitting at a desk writing on a sheet of paper."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Beginning Sounds",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_008A_114242_D.jpg",
+                  "audio": "clock.mp3",
+                  "altText": "An alarm clock."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sounds",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW063_006A_114242_D.jpg",
+                  "audio": "knob.mp3",
+                  "altText": "A gold doorknob. A red arrow points to the doorknob."
+                },
+                {
+                  "text": "M100_UW063_007A_114242_D.jpg",
+                  "audio": "knock.mp3",
+                  "altText": "A man knocking on a white door."
+                },
+                {
+                  "text": "M100_UW063_008A_114242_D.jpg",
+                  "audio": "knot.mp3",
+                  "altText": "A rope tied into a knot."
+                },
+                {
+                  "text": "M100_UW063_005A_114242_D.jpg",
+                  "audio": "knit.mp3",
+                  "altText": "A girl sitting in a chair knitting."
+                },
+                {
+                  "text": "M100_UW063_001A_114242_D.jpg",
+                  "audio": "gnome.mp3",
+                  "altText": "A gnome wearing a red hat."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Beginning Sounds",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW043_019A_114242_D.jpg",
+                  "audio": "snow.mp3",
+                  "altText": "Snow falling from a cloud."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sounds",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW063_002A_114242_D.jpg",
+                  "audio": "kneel.mp3",
+                  "altText": "A girl wearing a hat, overalls, and gloves in a garden."
+                },
+                {
+                  "text": "M100_UW063_006A_114242_D.jpg",
+                  "audio": "knob.mp3",
+                  "altText": "A gold doorknob. A red arrow points to the doorknob."
+                },
+                {
+                  "text": "M100_UW063_003A_114242_D.jpg",
+                  "audio": "knife.mp3",
+                  "altText": "A knife."
+                },
+                {
+                  "text": "M100_UW063_004A_114242_D.jpg",
+                  "audio": "knight.mp3",
+                  "altText": "A medieval soldier's uniform."
+                },
+                {
+                  "text": "M100_UW063_008A_114242_D.jpg",
+                  "audio": "knot.mp3",
+                  "altText": "A rope tied into a knot."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Beginning Sounds",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW054_018A_114242_D.jpg",
+                  "audio": "house.mp3",
+                  "altText": "An orange house and its yard."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sounds",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW063_011A_114242_D.jpg",
+                  "audio": "wrap.mp3",
+                  "altText": "A girl wrapping a present using transparent tape."
+                },
+                {
+                  "text": "M100_UW063_016A_114242_D.jpg",
+                  "audio": "wrist.mp3",
+                  "altText": "A hand. A red arrow points to the wrist."
+                },
+                {
+                  "text": "M100_UW063_014A_114242_D.jpg",
+                  "audio": "wrench.mp3",
+                  "altText": "A metal wrench."
+                },
+                {
+                  "text": "M100_UW063_012A_114242_D.jpg",
+                  "audio": "wreck.mp3",
+                  "altText": "A damaged red car with cracked windows."
+                },
+                {
+                  "text": "M100_UW063_013A_114242_D.jpg",
+                  "audio": "wren.mp3",
+                  "altText": "A bird standing on a branch."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Beginning Sounds",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW034_044A_114242_D.jpg",
+                  "audio": "fire.mp3",
+                  "altText": "Logs of wood burning."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sounds",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW063_001A_114242_D.jpg",
+                  "audio": "gnome.mp3",
+                  "altText": "A gnome wearing a red hat."
+                },
+                {
+                  "text": "M100_UW043_028A_114242_D.jpg",
+                  "audio": "knee.mp3",
+                  "altText": "A boy with one leg slightly raised. A red arrow points to his knee."
+                },
+                {
+                  "text": "M100_UW063_002A_114242_D.jpg",
+                  "audio": "kneel.mp3",
+                  "altText": "A girl wearing a hat, overalls, and gloves in a garden."
+                },
+                {
+                  "text": "M100_UW063_003A_114242_D.jpg",
+                  "audio": "knife.mp3",
+                  "altText": "A knife."
+                },
+                {
+                  "text": "M100_UW063_007A_114242_D.jpg",
+                  "audio": "knock.mp3",
+                  "altText": "A man knocking on a white door."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Beginning Sounds",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW063_022A_114242_D.jpg",
+                  "audio": "fork.mp3",
+                  "altText": "A fork."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sounds",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW063_015A_114242_D.jpg",
+                  "audio": "wring.mp3",
+                  "altText": "A woman wringing water from a towel into a bucket."
+                },
+                {
+                  "text": "M100_UW063_012A_114242_D.jpg",
+                  "audio": "wreck.mp3",
+                  "altText": "A damaged red car with cracked windows."
+                },
+                {
+                  "text": "M100_UW063_017A_114242_D.jpg",
+                  "audio": "write.mp3",
+                  "altText": "A boy sitting at a desk writing on a sheet of paper."
+                },
+                {
+                  "text": "M100_UW063_014A_114242_D.jpg",
+                  "audio": "wrench.mp3",
+                  "altText": "A metal wrench."
+                },
+                {
+                  "text": "M100_UW063_011A_114242_D.jpg",
+                  "audio": "wrap.mp3",
+                  "altText": "A girl wrapping a present using transparent tape."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Beginning Sounds",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW043_014A_114242_D.jpg",
+                  "audio": "bowl.mp3",
+                  "altText": "A bowl of cereal."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sounds",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW033_020A_114242_D.jpg",
+                  "audio": "cent.mp3",
+                  "altText": "A penny."
+                },
+                {
+                  "text": "M100_UW033_019A_114242_D.jpg",
+                  "audio": "cell.mp3",
+                  "altText": "The outside of an empty jail cell."
+                },
+                {
+                  "text": "M100_UW063_009A_114242_D.jpg",
+                  "audio": "sing.mp3",
+                  "altText": "A girl singing lyrics from sheet music."
+                },
+                {
+                  "text": "M100_UW012_029A_114242_D.jpg",
+                  "audio": "sick.mp3",
+                  "altText": "A sick girl lying in bed with a thermometer in her mouth."
+                },
+                {
+                  "text": "M100_UW063_010A_114242_D.jpg",
+                  "audio": "swim.mp3",
+                  "altText": "A girl swimming."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Beginning Sounds",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_037A_114242_D.jpg",
+                  "audio": "chick.mp3",
+                  "altText": "A canary singing."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

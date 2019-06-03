@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<word_letter_focus>
+  <title>Estrategia de vocabulario: sufijos</title>
+  <directions>&lt;p&gt;Busca las palabras con sufijos. Con el serrucho, separa el&amp;#160;sufijo del resto de la palabra.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;Mar&amp;#237;a encontr&amp;#243; el camino f&amp;#225;ci{dv}lm{/dv}ente.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Jorge est&amp;#225; muy entusias{dv}ma{/dv}do con su nueva escuela.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;El perro se acerc&amp;#243; sigilos{dv}am{/dv}ente.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;Los ni&amp;#241;os estaban desilusio{dv}na{/dv}dos.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;El auto se alej&amp;#243; velo{dv}zm{/dv}ente.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;El d&amp;#237;a estaba sol{dv}ea{/dv}do.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</word_letter_focus>
+

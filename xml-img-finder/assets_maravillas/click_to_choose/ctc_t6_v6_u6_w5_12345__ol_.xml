@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Gram&amp;#225;tica: Combinaci&amp;#243;n de oraciones&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona la oraci&amp;#243;n que mejor combina las oraciones cortas anotadas.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Esos ni&amp;#241;os son mis amigos. Esos ni&amp;#241;os juegan f&amp;#250;tbol. Juegan en el jard&amp;#237;n. Juegan todos los s&amp;#225;bados. A veces &amp;#160;juegan los domingos.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Los niños que están en el jardín juegan fútbol con mis amigos los sábados y a veces, los domingos.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Esos niños que juegan fútbol en el jardín todos los sábados, y a veces los domingos, son mis amigos.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>El futbol es jugado en el jardín por esos niños, quienes son mis amigos y juegan todos los sábados y a veces los domingos.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Ellos juegan los sábados fútbol en el jardín pero son amigos míos y a veces juegan los domingos.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Fuimos a un paseo. Fuimos con tu hermano. Fuimos ayer.&amp;#160; Fuimos en un bus. El bus es de mi t&amp;#237;o. Mi t&amp;#237;o se llama Abel.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>El bus en el que fuimos al paseo ayer con tu hermano es de mi tío Abel.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Mi tío Abel tiene un bus que en él fuimos al paseo con tu hermano ayer.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Fuimos ayer en un bus cuyo dueño es mi tío que se llama Abel y en él fuimos con tu hermano a un paseo.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Al paseo que fuimos con tu hermano fue ayer, con quien fuimos en el bus de Abel, quien es mi tío.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Ayer estudi&amp;#233; con amigos. Ellos eran tres. Con los tres amigos jugu&amp;#233; hoy. Lo que jugu&amp;#233; fue b&amp;#225;squetbol. Jugu&amp;#233; en el colegio.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Estudié con tres amigos ayer y además con ellos jugué en el colegio básquetbol también.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Con los tres amigos que jugué hoy también estudié con ellos y con quienes jugué básquetbol fue con ellos  y fue en el colegio.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Jugué con tres amigos hoy en el colegio, jugué básquetbol, y ellos quienes eran tres fueron con los que estudié ayer.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Hoy estuve jugando básquetbol en el colegio con los tres amigos con los que estudié ayer.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Te present&amp;#233; un joven. Eso fue la semana pasada. Fue en el parque.&amp;#160; Aquel joven se llama Pedro. Pedro es un gran m&amp;#250;sico. Pedro es mejor escritor que m&amp;#250;sico.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Pedro es un buen músico pero además él es mejor escritor y fue a él a quien yo te  presenté la semana pasada en el parque.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Te presenté a Pedro y esto sucedió en el parque la semana pasada y él es un gran músico pero es un mejor escritor.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Aunque Pedro, el joven que te presenté la semana pasada en el parque, es un gran músico, es todavía mejor escritor.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>En el parque, cuando era la semana pasada, yo te presenté a un joven quien es un gran músico  y quien es mejor escritor y él se llama Pedro.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Dos muchachos vinieron ayer. Los dos muchachos estuvieron cantando. Los dos muchachos son mis vecinos. Ellos se llaman Juan y Luis. Juan y Luis son alegres.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Los dos muchachos que son vecinos mios y quienes estuvieron cantando cuando vinieron ayer, se llaman Juan y Luis y además son alegres.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Juan y Luis, aquellos dos muchachos alegres que vinieron ayer y que estuvieron cantando, son mis vecinos.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Los dos muchachos quienes vinieron ayer y que cantaron son mis vecinos, cuyos nombres son Juan y Luis y quienes son alegres.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Los dos muchachos cuyos nombres son Juan y Luis y que son alegres, ellos vinieron ayer y estuvieron cantando, y quienes son mis vecinos.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Patricia es la chica que est&amp;#225; vestida de azul. Patricia toca guitarra el&amp;#233;ctrica. Patricia toca en una banda. La banda es de rock. Patricia toca todos los fines de semana.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Todos los fines de semana toca una banda de música rock y a cuya banda pertenece Patricia, la chica de azul que toca la guitarra.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>En la banda de rock que toca todos los fines de semana, allí toca Patricia quien es la chica vestida de azul y ella toca la guitarra eléctrica.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Patricia, quien es la chica que está vestida de azul y quien toca la guitarra eléctrica pertenece a una banda eléctrica y que toca todos los fines de semana.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Patricia, la chica de azul, toca guitarra eléctrica en una banda de rock todos los fines de semana.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

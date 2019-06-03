@@ -1,0 +1,222 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phoneme Categorization",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click each picture to hear its name. Drag pictures that have the /s/ sound into the blue box. Drag pictures that do not have the /s/ sound into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/s/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_014A_193002_d.jpg",
+                  "audio": "saw.mp3",
+                  "altText": "A saw."
+                },
+                {
+                  "text": "M100_UW011_068A_193002_d.jpg",
+                  "audio": "sock.mp3",
+                  "altText": "A pair of purple socks."
+                },
+                {
+                  "text": "M100_UW013_012A_193002_d.jpg",
+                  "audio": "sandwich.mp3",
+                  "altText": "A sandwich."
+                },
+                {
+                  "text": "M100_UW013_018A_193002_d.jpg",
+                  "audio": "soup.mp3",
+                  "altText": "A girl in pigtails using a spoon to eat from a bowl."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "No /s/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_045A_193002_d.jpg",
+                  "audio": "milk.mp3",
+                  "altText": "A glass half full of milk."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/s/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_020A_193002_d.jpg",
+                  "audio": "spot.mp3",
+                  "altText": "Purple paint splatter."
+                },
+                {
+                  "text": "M100_UW013_010A_193002_d.jpg",
+                  "audio": "seal.mp3",
+                  "altText": "A walrus."
+                },
+                {
+                  "text": "M100_UW013_015A_193002_d.jpg",
+                  "audio": "sink.mp3",
+                  "altText": "A bathroom sink filled with water."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "No /s/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_067A_193002_d.jpg",
+                  "audio": "map.mp3",
+                  "altText": "An aerial map of an island."
+                },
+                {
+                  "text": "M100_UW012_037A_193002_d.jpg",
+                  "audio": "hat.mp3",
+                  "altText": "A hat with flowers around it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/s/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_023A_193002_d.jpg",
+                  "audio": "string.mp3",
+                  "altText": "A blue ball of yarn."
+                },
+                {
+                  "text": "M100_UW013_013A_193002_d.jpg",
+                  "audio": "soap.mp3",
+                  "altText": "A purple bar of soap."
+                },
+                {
+                  "text": "M100_UW013_009A_193002_d.jpg",
+                  "audio": "sailboat.mp3",
+                  "altText": "A sailboat."
+                },
+                {
+                  "text": "M100_UW013_019A_193002_d.jpg",
+                  "audio": "six.mp3",
+                  "altText": "The number six."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "No /s/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_024A_193002_d.jpg",
+                  "audio": "bat.mp3",
+                  "altText": "A baseball bat."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

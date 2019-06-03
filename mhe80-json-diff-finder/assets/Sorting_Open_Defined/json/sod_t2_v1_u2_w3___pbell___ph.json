@@ -1,0 +1,157 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Listen to each word. Drag words with the soft <i>c</i> sound to the box on the left. Drag words with the soft <i>g</i> sound to the box on the right.</p>",
+    "audio": "dl_listen_softc_softg_box.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Soft c",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "soft_c.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_004A_186626_d.jpg",
+                  "audio": "face.mp3",
+                  "altText": "A little girl."
+                },
+                {
+                  "text": "M100_UW021_047A_193002_186626_d.jpg",
+                  "audio": "pencil.mp3",
+                  "altText": "A pencil. A red arrow points to its tip."
+                },
+                {
+                  "text": "M100_UW033_022A_114242_D.jpg",
+                  "audio": "ice.mp3",
+                  "altText": "A glass of ice water. A red arrow points to the ice."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Soft g",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "soft_g.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW045_009A_186626_d.jpg",
+                  "audio": "giraffe.mp3",
+                  "altText": "A giraffe."
+                },
+                {
+                  "text": "M100_UWSS2_006A_193002_186626_d.jpg",
+                  "audio": "gem.mp3",
+                  "altText": "A gold ring with a blue diamond."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Soft c",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "soft_c.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW023_642A_186626_d.jpg",
+                  "audio": "celery.mp3",
+                  "altText": "Celery sticks."
+                },
+                {
+                  "text": "M100_UW015_001A_186626_d.jpg",
+                  "audio": "mice.mp3",
+                  "altText": "Two mice."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Soft g",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "soft_g.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW023_743A_186626_d.jpg",
+                  "audio": "giant.mp3",
+                  "altText": "A giant man."
+                },
+                {
+                  "text": "M300_UW023_809A_186626_d.jpg",
+                  "audio": "cage.mp3",
+                  "altText": "A birdcage."
+                },
+                {
+                  "text": "M300_UW023_844A_186626_d.jpg",
+                  "audio": "stage.mp3",
+                  "altText": "A stage, curtain, and seats in an auditorium."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

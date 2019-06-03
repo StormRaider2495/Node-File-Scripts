@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Spelling: Word Sort with u_e, ew, ue, u&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Drag the words with the same long u sound spellings into the boxes.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Drag the words with the same long u sound spellings into the boxes.&lt;/p&gt;</directions>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>u_e</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>cute</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cube</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>fumes</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>ew</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>few</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>pew</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>ue</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>fuel</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cues</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>u</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>music</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>menu</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>unit</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>u_e</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>mute</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>mule</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>fuse</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>ew</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>mew</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>dew</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>ue</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>hue</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>due</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>u</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>cubic</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>humid</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>unite</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

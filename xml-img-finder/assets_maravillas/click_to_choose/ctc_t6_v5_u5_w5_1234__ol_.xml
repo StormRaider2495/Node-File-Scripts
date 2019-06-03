@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Normas del lenguaje: los puntos suspensivos&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Lee las oraciones o frases y elige la puntuaci&amp;#243;n correcta.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;El examen estuvo muy dif&amp;#237;cil. Hubo ejercicios talleres preguntas abierta prefiero no recordar.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>El examen estuvo muy difícil. Hubo… ejercicios talleres, preguntas abiertas prefiero no recordar.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>El examen estuvo muy difícil. Hubo ejercicios, talleres, preguntas abiertas… prefiero no recordar.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>El examen estuvo muy difícil. Hubo ejercicios, talleres… preguntas abierta prefiero no recordar.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Por favor no olvides todo lo que encargamos velas f&amp;#243;sforos le&amp;#241;a papel&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Por favor no olvides todo lo que encargamos… velas, fósforos, leña papel</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Por favor, no olvides todo lo que encargamos: velas, fósforos, leña, papel…</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Por favor, no olvides todo lo que encargamos: velas, fósforos, leña… papel.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Carlos es un siempre se porta mal cuando vamos de paseo&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Carlos es un siempre, se porta mal cuando vamos de paseo.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Carlos es un, siempre se porta mal cuando vamos de paseo.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Carlos es un… siempre se porta mal cuando vamos de paseo.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Las clases de m&amp;#250;sica son muy completas vemos armon&amp;#237;a composici&amp;#243;n historia muchos aprendizajes &amp;#250;tiles.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Las clases de música son muy completas vemos armonía… composición historia muchos aprendizajes útiles.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Las clases de música son muy completas; vemos armonía, composición, historia… muchos aprendizajes útiles.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Las clases de música son muy completas… vemos armonía composición, historia. muchos aprendizajes útiles.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

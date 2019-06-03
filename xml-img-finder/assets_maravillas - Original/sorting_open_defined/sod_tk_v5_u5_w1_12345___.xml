@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Gram&amp;#225;tica: el pronombre&lt;/p&gt;</title>
+  <directions />
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Coloca los pronombres&amp;#160;en la caja azul.&amp;#160;&lt;br /&gt;Coloca las otras palabras&amp;#160;en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Pronombres</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>él</text>
+                      <audio>TEG_el.mp3</audio>
+                    </item>
+                    <item>
+                      <text>ella</text>
+                      <audio>TEG_ella.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Otras palabras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>dedo</text>
+                      <audio>TEG_dedo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>ala</text>
+                      <audio>TEG_ala.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Coloca las oraciones con pronombres&amp;#160;en la caja azul.&amp;#160;&lt;br /&gt;Coloca las oraciones sin pronombres en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Oraciones con pronombres</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Ella es mi mamá.</text>
+                      <audio>ella_sentence.mp3</audio>
+                    </item>
+                    <item>
+                      <text>Ella tiene un gato y un ratón.</text>
+                      <audio>tiene2_sentence.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Oraciones sin pronombres</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Subo por la escalera.</text>
+                      <audio>por_sentence.mp3</audio>
+                    </item>
+                    <item>
+                      <text>Mira el mono.</text>
+                      <audio>el_sentence.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

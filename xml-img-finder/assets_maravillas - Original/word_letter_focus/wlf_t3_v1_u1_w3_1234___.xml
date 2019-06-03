@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<word_letter_focus>
+  <title>Estrategia de vocabulario: Palabras compuestas</title>
+  <directions>&lt;p&gt;Usa el serrucho para separar las palabras compuestas en dos.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text>Saca{dv}corchos</text>
+            </word>
+            <word>
+              <text>{dv}Par{/dv}aguas</text>
+            </word>
+            <word>
+              <text>{dv}Medio{/dv}día</text>
+            </word>
+            <word>
+              <text>{dv}Tela{/dv}raña</text>
+            </word>
+            <word>
+              <text>{dv}Peli{/dv}rrojo</text>
+            </word>
+            <word>
+              <text>{dv}Hoja{/dv}lata</text>
+            </word>
+            <word>
+              <text>{dv}Rompe{/dv}cabezas</text>
+            </word>
+            <word>
+              <text>{dv}Sabe{/dv}{dv}lo{/dv}todo</text>
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text />
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</word_letter_focus>
+

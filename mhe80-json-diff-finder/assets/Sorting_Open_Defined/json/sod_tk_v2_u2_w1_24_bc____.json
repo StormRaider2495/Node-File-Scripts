@@ -1,0 +1,217 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Category Words: Color Words",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture to hear its name. Drag color words to the blue box. Drag words that are not color words into the red box. Then click OK. </p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Color Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_032A_114242_D.jpg",
+                  "audio": "green.mp3",
+                  "altText": "A blob of green paint."
+                },
+                {
+                  "text": "M100_UW021_003A_114242_D.jpg",
+                  "audio": "red.mp3",
+                  "altText": "A blob of red."
+                },
+                {
+                  "text": "M100_UW021_005A_193002_d.jpg",
+                  "audio": "black.mp3",
+                  "altText": "A black tire."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Color Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_009A_193002_d.jpg",
+                  "audio": "desk.mp3",
+                  "altText": "A wooden table that has a red book, a slip of paper, a green pencil, and a blue crayon on it."
+                },
+                {
+                  "text": "M100_UW012_013A_193002_d.jpg",
+                  "audio": "ankle.mp3",
+                  "altText": "A woman's leg. She is wearing red shoes. An arrow points to her lower leg."
+                },
+                {
+                  "text": "M100_UW052_005A_193002_d.jpg",
+                  "audio": "tree.mp3",
+                  "altText": "A tree."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Color Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW032_024A_114242_D.jpg",
+                  "audio": "white.mp3",
+                  "altText": "Spilled paint on a wooden floor."
+                },
+                {
+                  "text": "M100_UW041_025A_114242_D.jpg",
+                  "audio": "gray.mp3",
+                  "altText": "A gray blob of paint."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Color Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW071_007A_193002_d.jpg",
+                  "audio": "bag.mp3",
+                  "altText": "A paper bag of groceries."
+                },
+                {
+                  "text": "M100_UW011_001A_193002_d.jpg",
+                  "audio": "happy.mp3",
+                  "altText": "A little boy smiling outside as the sun shines in the background."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Color Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW061_001A_114242_D.jpg",
+                  "audio": "blue.mp3",
+                  "altText": "A blue blob of paint."
+                },
+                {
+                  "text": "M100_UW013_020A_193002_d.jpg",
+                  "audio": "pink.mp3",
+                  "altText": "Purple paint splatter."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_027A_193002_d.jpg",
+                  "audio": "mug.mp3",
+                  "altText": "A blue mug with an image of a smiling sun."
+                },
+                {
+                  "text": "M100_UW011_023A_193002_d.jpg",
+                  "audio": "monkey.mp3",
+                  "altText": "A monkey holding a banana."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

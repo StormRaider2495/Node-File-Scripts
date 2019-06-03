@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Vocabulary&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read the vocabulary word and look at the picture. Read the three words in the box. Two words match the vocabulary word. Drag the synonyms into the correct bin.&lt;/p&gt;</directions>
+  <directionsAudio>dl_read_vocabulary_synonyms.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>plumes</title>
+                  <titleImage />
+                  <titleAudio>plumes.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>feathers</text>
+                      <audio>feathers.mp3</audio>
+                    </item>
+                    <item>
+                      <text>quills</text>
+                      <audio>quills.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>tails</text>
+                      <audio>tails.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>meaningful</title>
+                  <titleImage />
+                  <titleAudio>meaningful.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>significant</text>
+                      <audio>significant.mp3</audio>
+                    </item>
+                    <item>
+                      <text>important</text>
+                      <audio>important.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>minor</text>
+                      <audio>minor.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>barren</title>
+                  <titleImage />
+                  <titleAudio>barren.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>unproductive</text>
+                      <audio>unproductive.mp3</audio>
+                    </item>
+                    <item>
+                      <text>useless</text>
+                      <audio>useless.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>healthy</text>
+                      <audio>healthy.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>expression</title>
+                  <titleImage />
+                  <titleAudio>expression.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>telling</text>
+                      <audio>telling.mp3</audio>
+                    </item>
+                    <item>
+                      <text>communication</text>
+                      <audio>communication.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>example</text>
+                      <audio>example.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>conserve</title>
+                  <titleImage />
+                  <titleAudio>conserve.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>save</text>
+                      <audio>save.mp3</audio>
+                    </item>
+                    <item>
+                      <text>protect</text>
+                      <audio>protect.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>waste</text>
+                      <audio>waste.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

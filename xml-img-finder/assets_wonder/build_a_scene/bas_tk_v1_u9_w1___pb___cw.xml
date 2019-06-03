@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Category Words</title>
+  <directions>Click each picture to hear its name. Drag the pictures that show furniture words into the boxes. If the picture does not show a furniture word, do not drag it.</directions>
+  <directionsAudio>dl_show_furniture_words.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="126.35" y="204.6"/&gt;  &lt;position x="598.8" y="206.6"/&gt;  &lt;position x="603.8" y="521.55"/&gt;  &lt;position x="130.35" y="518.55"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="128.35" y="202.6"/&gt;  &lt;position x="597.75" y="205.6"/&gt;  &lt;position x="601.75" y="519.55"/&gt;  &lt;position x="133.35" y="517.6"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW091_801A_193002_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M300_UW081_808A_193002_d.jpg</image>
+          <audio>bed.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW022_044A_193002_d.jpg</image>
+          <audio>table.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW011_086A_193002_d.jpg</image>
+          <audio>desk.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW022_030A_193002_d.jpg</image>
+          <audio>lamp.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW013_012A_193002_d.jpg</image>
+          <audio>sandwich.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW053_009A_193002_d.jpg</image>
+          <audio>football.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW091_801A_193002_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M300_UW091_802A_193002_d.jpg</image>
+          <audio>dresser.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW011_086A_193002_d.jpg</image>
+          <audio>desk.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW013_002A_193002_d.jpg</image>
+          <audio>chair.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW054_001A_114242_D.jpg</image>
+          <audio>couch.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW023_028A_193002_d.jpg</image>
+          <audio>toothbrush.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW013_032A_193002_d.jpg</image>
+          <audio>car.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

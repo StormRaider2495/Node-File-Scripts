@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Gramática: el sustantivo: singular, plural, colectivo; el y un ante femenino con a acentuada</title>
+  <directions>Lee las oraciones y las palabras del recuadro. Escoge las palabras del recuadro que completan la oración.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;En las [inundaciones] corre [el] agua sin control arrastrando todos los [muebles] que encuentra a su paso.&amp;#160;&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>la</text>
+            </distractor>
+            <distractor>
+              <text>mueble</text>
+            </distractor>
+            <distractor>
+              <text>gira</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Los &amp;#160;[animales] viven como [reyes] en [el] h&amp;#225;bitat natural de su especie hasta que los [cazadores] los acosan y amenazan su supervivencia.&amp;#160;&amp;#160;&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>reys</text>
+            </distractor>
+            <distractor>
+              <text>la</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;[El] tranv&amp;#237;a recorr&amp;#237;a las [calles] de la ciudad repartiendo [la] muchedumbre por todas sus [estaciones].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>parada</text>
+            </distractor>
+            <distractor>
+              <text>series</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Mientras Jos&amp;#233; le&amp;#237;a [los] poemas, [la] audiencia ve&amp;#237;a [las] [im&amp;#225;genes] proyectadas al fondo del escenario.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>el</text>
+            </distractor>
+            <distractor>
+              <text>continuos</text>
+            </distractor>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

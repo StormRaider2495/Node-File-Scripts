@@ -1,0 +1,402 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Build Vocabulary: Shades of Meaning",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Look at the word at the top of the column. Drag synonyms and related words from the Word Bank to the labeled column. If a word isn&#8217;t a synonym or related, move it to the box labeled <i>Other.</i></p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "artificial",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "fake",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unreal",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "make-believe",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "fictitious",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "natural",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "product",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "intelligent",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "collaborate",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "cooperate",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "join together",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "agree",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unite",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "argue",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "disassociate",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "not speak",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "dedicate",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "devote",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "commit",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "concentrate",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "work hard",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "manage",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "forget",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "overlook",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "flexible",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "bendable",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "adjustable",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "stretchable",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "easy-going",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "impossible",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "stiff",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "difficult",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "obstacle",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "barrier",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "block",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "stop",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "restrict",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "help",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "assist",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "goal",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

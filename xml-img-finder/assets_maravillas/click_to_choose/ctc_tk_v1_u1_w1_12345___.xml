@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Gram&amp;#225;tica: el sustantivo&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Completa la oraci&amp;#243;n con la imagen correspondiente.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Un [alfiler] es una cosa.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_un_es_una_cosa.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_alfiler.jpg</image>
+              <audio>TEG_alfiler.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_mariposa.jpg</image>
+              <audio>TEG_mariposa.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_cueva.jpg</image>
+              <audio>TEG_cueva.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;El [yak] es un animal.&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_el_es_un_animal.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_yak.jpg</image>
+              <audio>TEG_yak.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_parque.jpg</image>
+              <audio>TEG_parque.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_pantalon.jpg</image>
+              <audio>TEG_pantalon.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Una [nina] es una persona.&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_una_es_una_persona.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_muela.jpg</image>
+              <audio>TEG_muela.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_nina.jpg</image>
+              <audio>TEG_nin1a.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_patineta.jpg</image>
+              <audio>TEG_patineta.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;El [parque] es un lugar.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_el_es_un_lugar.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_limon.jpg</image>
+              <audio>TEG_limon.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_ala.jpg</image>
+              <audio>TEG_ala.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_parque.jpg</image>
+              <audio>TEG_parque.mp3</audio>
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Un&amp;#160;[libro] es una cosa.&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_un_es_una_cosa.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_papa1.jpg</image>
+              <audio>TEG_papa1.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_camello.jpg</image>
+              <audio>TEG_camello.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_libro.jpg</image>
+              <audio>TEG_libro.mp3</audio>
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Yo comparto mi [pelota].&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_yo_comparto_mi.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_nariz.jpg</image>
+              <audio>TEG_nariz.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_pico.jpg</image>
+              <audio>TEG_pico.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_pelota.jpg</image>
+              <audio>TEG_pelota.mp3</audio>
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read each word. Drag words with the short o sound into the left box. Drag words with the long o sound into the right box.&lt;/p&gt;</directions>
+  <directionsAudio>dl_shorto_longo_box.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>short o</title>
+                  <titleImage />
+                  <titleAudio>sound_short_o.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>box</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>dog</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>lock</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>pot</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>top</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>long o</title>
+                  <titleImage />
+                  <titleAudio>sound_long_o.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>cone</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>rope</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>hole</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>tone</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>poke</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>short o</title>
+                  <titleImage />
+                  <titleAudio>sound_short_o.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>mop</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>hop</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>ox</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>bog</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>rob</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>long o</title>
+                  <titleImage />
+                  <titleAudio>sound_long_o.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>bone</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>home</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>joke</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>pole</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>nose</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

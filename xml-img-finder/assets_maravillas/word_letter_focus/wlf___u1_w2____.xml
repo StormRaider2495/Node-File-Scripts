@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<word_letter_focus>
+  <title>Normas de lenguaje: Puntuación: dos puntos, comas</title>
+  <directions>&lt;p&gt;Subraya la(s) palabra(s) que van delante de &lt;b&gt;los dos puntos&lt;/b&gt; (:) o &lt;b&gt;la coma&lt;/b&gt; (,). Inserta el signo de puntuaci&amp;#243;n correspondiente.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;Querida {wu}hermana{/wu} Hace mucho tiempo que no te escribo.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</word_letter_focus>
+

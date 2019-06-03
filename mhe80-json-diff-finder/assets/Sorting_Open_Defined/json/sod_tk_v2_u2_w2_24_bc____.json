@@ -1,0 +1,107 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Category Words: Shape Words",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture to hear its name. Drag shape words to the blue box. Drag words that are not shape words into the red box. Then click OK.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Shape Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_002A_193002_d.jpg",
+                  "audio": "square.mp3",
+                  "altText": "A blue square with a dark blue border."
+                },
+                {
+                  "text": "M100_UW022_003A_193002_d.jpg",
+                  "audio": "rectangle.mp3",
+                  "altText": "A lime-colored rectangle with a green border."
+                },
+                {
+                  "text": "M100_UW022_004A_193002_d.jpg",
+                  "audio": "triangle.mp3",
+                  "altText": "A yellow triangle with an orange border."
+                },
+                {
+                  "text": "M100_UW022_001A_193002_d.jpg",
+                  "audio": "circle.mp3",
+                  "altText": "A brown circle with a red border."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Shape Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_001A_114242_D.jpg",
+                  "audio": "bell.mp3",
+                  "altText": "A yellow bell."
+                },
+                {
+                  "text": "M100_UW034_031A_114242_D.jpg",
+                  "audio": "house.mp3",
+                  "altText": "A yellow house."
+                },
+                {
+                  "text": "M100_UW021_011A_193002_d.jpg",
+                  "audio": "rose.mp3",
+                  "altText": "A pink rose with stem and leaves."
+                },
+                {
+                  "text": "M100_UW022_005A_193002_d.jpg",
+                  "audio": "ruler.mp3",
+                  "altText": "A wooden ruler."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics: Short <i>a</i>, Short <i>i</i>",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on a picture to hear its name. Listen for the vowel sound /a/ or /i/. Drag the word to the box that has the same vowel sound. </p>",
+    "audio": "dl_click_a_i_sound.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/a/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_a.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW011_001A_1186626_d.jpg",
+                  "audio": "map.mp3",
+                  "altText": "A map of the United States."
+                },
+                {
+                  "text": "M300_UW011_002A_1186626_d.jpg",
+                  "audio": "hat.mp3",
+                  "altText": "A green fedora."
+                },
+                {
+                  "text": "M300_UW011_003A_1186626_d.jpg",
+                  "audio": "pan.mp3",
+                  "altText": "A metal frying pan."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/i/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_i.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW011_013A_1186626_d.jpg",
+                  "audio": "pin.mp3",
+                  "altText": "A safety pin."
+                },
+                {
+                  "text": "M300_UW011_014A_1186626_d.jpg",
+                  "audio": "six.mp3",
+                  "altText": "The number six."
+                },
+                {
+                  "text": "M300_UW011_015A_1186626_d.jpg",
+                  "audio": "pig.mp3",
+                  "altText": "A pig."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/a/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_a.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW011_004A_1186626_d.jpg",
+                  "audio": "mat.mp3",
+                  "altText": "A welcome mat."
+                },
+                {
+                  "text": "M300_UW011_005A_1186626_d.jpg",
+                  "audio": "mad.mp3",
+                  "altText": "An angry boy."
+                },
+                {
+                  "text": "M300_UW011_006A_1186626_d.jpg",
+                  "audio": "sap.mp3",
+                  "altText": "A tree with a faucet attached. Sap drips from the faucet into an orange bucket. A red arrow points to the drops. "
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/i/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_i.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW011_016A_1186626_d.jpg",
+                  "audio": "sit.mp3",
+                  "altText": "A girl sitting in a chair."
+                },
+                {
+                  "text": "M300_UW011_017A_1186626_d.jpg",
+                  "audio": "hill.mp3",
+                  "altText": "A hill that includes some bushes and trees."
+                },
+                {
+                  "text": "M300_UW011_018A_1186626_d.jpg",
+                  "audio": "mix.mp3",
+                  "altText": "A girl using a spoon to mix a substance in a blue bowl."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/a/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_a.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW011_007A_1186626_d.jpg",
+                  "audio": "bag.mp3",
+                  "altText": "A brown handbag."
+                },
+                {
+                  "text": "M300_UW011_008A_1186626_d.jpg",
+                  "audio": "bat.mp3",
+                  "altText": "A wooden baseball bat."
+                },
+                {
+                  "text": "M300_UW011_009A_1186626_d.jpg",
+                  "audio": "can.mp3",
+                  "altText": "Canned tomatoes."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/i/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_i.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW011_019A_1186626_d.jpg",
+                  "audio": "wig.mp3",
+                  "altText": "A wig on a display."
+                },
+                {
+                  "text": "M300_UW011_020A_1186626_d.jpg",
+                  "audio": "rip.mp3",
+                  "altText": "A boy tearing a piece of paper in half."
+                },
+                {
+                  "text": "M300_UW011_021A_1186626_d.jpg",
+                  "audio": "zip.mp3",
+                  "altText": "A zipper."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/a/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_a.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW011_010A_1186626_d.jpg",
+                  "audio": "fan.mp3",
+                  "altText": "An electrical fan."
+                },
+                {
+                  "text": "M300_UW011_011A_1186626_d.jpg",
+                  "audio": "cap.mp3",
+                  "altText": "A red cap."
+                },
+                {
+                  "text": "M300_UW011_012A_1186626_d.jpg",
+                  "audio": "cat.mp3",
+                  "altText": "An orange cat."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/i/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_i.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW011_022A_1186626_d.jpg",
+                  "audio": "dig.mp3",
+                  "altText": "A boy outside gardening. He is holding a shovel. There is a plant in the background."
+                },
+                {
+                  "text": "M300_UW011_023A_1186626_d.jpg",
+                  "audio": "sip.mp3",
+                  "altText": "A boy drinking milk from a glass using a straw."
+                },
+                {
+                  "text": "M300_UW011_024A_1186626_d.jpg",
+                  "audio": "kick.mp3",
+                  "altText": "A rabbit kicking a soccer ball."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

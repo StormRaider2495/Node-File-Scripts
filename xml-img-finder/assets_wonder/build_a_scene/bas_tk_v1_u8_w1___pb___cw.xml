@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Category Words</title>
+  <directions>Click each picture to hear its name. Drag the pictures that show vehicles to the red stars. If the picture does not show a vehicle, do not drag it.</directions>
+  <directionsAudio>dl_show_vehicles_stars.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow2" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="406.2" y="216.65"/&gt;  &lt;position x="107.3" y="451.35"/&gt;  &lt;position x="362.05" y="458.35"/&gt;  &lt;position x="614.85" y="459.35"/&gt;  &lt;position x="496.45" y="563.65"/&gt;  &lt;position x="221.65" y="362.05"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="495.5" y="564.65"/&gt;  &lt;position x="109.3" y="453.35"/&gt;  &lt;position x="406.2" y="219.65"/&gt;  &lt;position x="362.05" y="460.4"/&gt;  &lt;position x="220.65" y="362.05"/&gt;  &lt;position x="613.8" y="460.35"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="499.45" y="565.7"/&gt;  &lt;position x="109.35" y="450.3"/&gt;  &lt;position x="364.05" y="458.35"/&gt;  &lt;position x="221.65" y="364.05"/&gt;  &lt;position x="406.2" y="218.6"/&gt;  &lt;position x="613.85" y="456.35"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW081_801A_193002_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M100_UW011_083A_193002_d.jpg</image>
+          <audio>airplane.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW042_016A_193002_d.jpg</image>
+          <audio>bike.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW012_016A_193002_d.jpg</image>
+          <audio>ambulance.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW013_032A_193002_d.jpg</image>
+          <audio>car.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M300_UW081_876A_193002.jpg</image>
+          <audio>boat.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW025_031A_186626_d.jpg</image>
+          <audio>train.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW072_009A_193002_d.jpg</image>
+          <audio>volcano.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW012_031A_193002_d.jpg</image>
+          <audio>key.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW081_801A_193002_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M100_UW013_009A_193002_d.jpg</image>
+          <audio>sailboat.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M300_UW041_803A_A_193002_d.jpg</image>
+          <audio>bus.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW051_015A_193002_d.jpg</image>
+          <audio>helicopter.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW061_025A_193002_d.jpg</image>
+          <audio>truck.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW025_031A_186626_d.jpg</image>
+          <audio>train.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW013_032A_193002_d.jpg</image>
+          <audio>car.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M300_UW082_806A_193002_d.jpg</image>
+          <audio>butterfly.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M300_UW081_808A_193002_d.jpg</image>
+          <audio>bed.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW081_801A_193002_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M100_UW083_008A_186626_193002_d.jpg</image>
+          <audio>tugboat.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW071_024A_193002_d.jpg</image>
+          <audio>van.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW062_010A_193002_d.jpg</image>
+          <audio>taxi_cab.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW025_031A_186626_d.jpg</image>
+          <audio>train.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW011_083A_193002_d.jpg</image>
+          <audio>airplane.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW061_025A_193002_d.jpg</image>
+          <audio>truck.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW011_023A_193002_d.jpg</image>
+          <audio>monkey.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW012_018A_193002_d.jpg</image>
+          <audio>anchor.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

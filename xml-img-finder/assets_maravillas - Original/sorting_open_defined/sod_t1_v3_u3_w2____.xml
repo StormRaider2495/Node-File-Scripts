@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con r&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la palabra escrita con &lt;u&gt;r&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra&amp;#160;&lt;b&gt;sin&lt;/b&gt;&amp;#160;&lt;u&gt;r&lt;/u&gt;&amp;#160;en la caja roja. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene r</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>ver</text>
+                      <audio>TEG_ver.mp3</audio>
+                    </item>
+                    <item>
+                      <text>rojo</text>
+                      <audio>TEG_rojo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>verano</text>
+                      <audio>TEG_verano.mp3</audio>
+                    </item>
+                    <item>
+                      <text>rebaño</text>
+                      <audio>TEG_reban1o.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tesoro</text>
+                      <audio>TEG_tesoro.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene r</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>terrible</text>
+                      <audio>TEG_terrible.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tiempo</text>
+                      <audio>TEG_tiempo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>torre</text>
+                      <audio>TEG_torre.mp3</audio>
+                    </item>
+                    <item>
+                      <text>zorro</text>
+                      <audio>TEG_zorro.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene r</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>hora</text>
+                      <audio>TEG_hora.mp3</audio>
+                    </item>
+                    <item>
+                      <text>jirafa</text>
+                      <audio>TEG_jirafa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>ayer</text>
+                      <audio>TEG_ayer.mp3</audio>
+                    </item>
+                    <item>
+                      <text>amarillo</text>
+                      <audio>TEG_amarillo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene r</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>burro</text>
+                      <audio>TEG_burro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cachorro</text>
+                      <audio>TEG_cachorro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>carril</text>
+                      <audio>TEG_carril.mp3</audio>
+                    </item>
+                    <item>
+                      <text>castaña</text>
+                      <audio>TEG_castana.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Estrategia de vocabulario: claves de contexto&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona las claves de contexto que te permiten comprender el significado de la palabra subrayada.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Estos majestuosos venados tienen nuevos pelajes densos y &lt;u&gt;cornamentas&lt;/u&gt; aterciopeladas que se curvan hacia el cielo.&lt;/p&gt;
+&lt;p&gt;&amp;#160;&lt;/p&gt;
+&lt;p&gt;&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>tienen nuevos pelajes</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>aterciopeladas</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>que se curvan hacia el cielo</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Con el hocico pegado al suelo, los carib&amp;#250;es detectan el aroma de l&amp;#237;quenes parecidos a hongos. &lt;u&gt;Escarban&lt;/u&gt; para buscar&amp;#160;alimento en los terrones de estos organismos sin ra&amp;#237;ces. Sus pezu&amp;#241;as y piernas delgadas est&amp;#225;n bien adaptadas para escarbar.&amp;#160;&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>para buscar alimento</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Sus pezuñas y piernas delgadas</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>están bien adaptadas</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Cuando un lobo se acerca, un buey&amp;#160;grande baja sus mortales y afilados cuernos. Con un ataque&amp;#160;repentino &lt;u&gt;embiste&lt;/u&gt; al lobo.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>un buey grande</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>baja sus mortales y afilados cuernos</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Cuando un lobo se acerca</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Preparados para el invierno, los carib&amp;#250;es han desarrollado una gruesa capa de grasa mientras comen durante el verano.&amp;#160;Al igual que la ardilla, el oso pardo cavar&amp;#225;&amp;#160;su &lt;u&gt;guarida&lt;/u&gt; invernal para refugiarse en la ladera de una monta&amp;#241;a.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Al igual que la ardilla</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Preparados para el invierno</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>para refugiarse</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;A medida que la temperatura sube, abejorros,&amp;#160;mariposas y otros insectos en estado de &lt;u&gt;letargo&lt;/u&gt; empiezan a despertar. Una oruga peluda se deleita bajo el sol despu&amp;#233;s de haber estado cubierta de nieve durante ocho meses.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>mariposas y otros insectos</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>A medida que la temperatura sube</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>empiezan a despertar</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

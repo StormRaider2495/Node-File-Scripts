@@ -1,0 +1,405 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics-Short Vowels e, o, u",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Click and drag each word with a short vowel to the correct bin.</p>",
+    "audio": "dl_click_drap_shortvowel2.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short e",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "short_e.mp3"
+              },
+              "contents": [
+                {
+                  "text": "fed",
+                  "audio": "fed.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "step",
+                  "audio": "step.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "yet",
+                  "audio": "yet.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short o",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "short_o.mp3"
+              },
+              "contents": [
+                {
+                  "text": "stop",
+                  "audio": "stop.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "top",
+                  "audio": "top.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "clock",
+                  "audio": "clock.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short u",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "short_u.mp3"
+              },
+              "contents": [
+                {
+                  "text": "cut",
+                  "audio": "cut.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "bug",
+                  "audio": "bug.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "jump",
+                  "audio": "jump.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "cake",
+                  "audio": "cake.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "oak",
+                  "audio": "oak.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "stink",
+                  "audio": "stink.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short e",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "short_e.mp3"
+              },
+              "contents": [
+                {
+                  "text": "sped",
+                  "audio": "sped.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "less",
+                  "audio": "less.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short o",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "short_o.mp3"
+              },
+              "contents": [
+                {
+                  "text": "lock",
+                  "audio": "lock.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "mop",
+                  "audio": "mop.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "rock",
+                  "audio": "rock.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short u",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "short_u.mp3"
+              },
+              "contents": [
+                {
+                  "text": "shut",
+                  "audio": "shut.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "bump",
+                  "audio": "bump.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "club",
+                  "audio": "club.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "sheet",
+                  "audio": "sheet.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "cube",
+                  "audio": "cube.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "dish",
+                  "audio": "dish.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "seen",
+                  "audio": "seen.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short e",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "short_e.mp3"
+              },
+              "contents": [
+                {
+                  "text": "stress",
+                  "audio": "stress.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "better",
+                  "audio": "better.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short o",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "short_o.mp3"
+              },
+              "contents": [
+                {
+                  "text": "box",
+                  "audio": "box.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "hockey",
+                  "audio": "hockey.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "flock",
+                  "audio": "flock.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short u",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "short_u.mp3"
+              },
+              "contents": [
+                {
+                  "text": "stump",
+                  "audio": "stump.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "humming",
+                  "audio": "humming.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "drum",
+                  "audio": "drum.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "butter",
+                  "audio": "butter.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "cue",
+                  "audio": "cue.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "toe",
+                  "audio": "toe.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "keep",
+                  "audio": "keep.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

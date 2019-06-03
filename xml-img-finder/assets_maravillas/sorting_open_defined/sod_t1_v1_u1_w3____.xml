@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Reconocimiento fonol&amp;#243;gico: sonido t&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la imagen para o&amp;#237;r su nombre. &lt;br /&gt;Coloca la imagen con el sonido&amp;#160;&lt;u&gt;t&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la imagen&amp;#160;sin el sonido&amp;#160;&lt;u&gt;t&lt;/u&gt; en la caja roja. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Sonido t</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>batido.jpg</text>
+                      <audio>SR14_TEgames_blend_G1_batido.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tapa.jpg</text>
+                      <audio>SR14_TEgames_blend_k_tapa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pirata.jpg</text>
+                      <audio>SR14_TEgames_blend_G1_pirata.mp3</audio>
+                    </item>
+                    <item>
+                      <text>estuche.jpg</text>
+                      <audio>SR14_TEgames_blend_G1_estuche.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No tiene sonido t</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>muneca.jpg</text>
+                      <audio>SR14_TEgames_blend_k_muneca1.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mama.jpg</text>
+                      <audio>SR14_TEgames_blend_k_mama.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mesa.jpg</text>
+                      <audio>SR14_TEgames_blend_k_mesa.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Sonido t</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>cometa.jpg</text>
+                      <audio>SR14_TEgames_blend_G1_cometa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tomate.jpg</text>
+                      <audio>SR14_TEgames_blend_G1_tomate.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tunel.jpg</text>
+                      <audio>SR14_TEgames_blend_G1_tunel.mp3</audio>
+                    </item>
+                    <item>
+                      <text>bota.jpg</text>
+                      <audio>TEG_botas.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No tiene sonido t</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>pan.jpg</text>
+                      <audio>SR14_TEgames_blend_G1_pan.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cocina.jpg</text>
+                      <audio>SR14_TEgames_blend_k_cocina.mp3</audio>
+                    </item>
+                    <item>
+                      <text>sapo.jpg</text>
+                      <audio>SR14_TEgames_blend_k_sapo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Sonido t</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>tesoro.jpg</text>
+                      <audio>SR14_TEgames_blend_G1_tesoro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>telefono.jpg</text>
+                      <audio>SR14_TEgames_blend_G1_telefono.mp3</audio>
+                    </item>
+                    <item>
+                      <text>taza.jpg</text>
+                      <audio>SR14_TEgames_blend_G1_taza.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pelota.jpg</text>
+                      <audio>SR14_TEgames_blend_G1_pelota.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No tiene sonido t</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>escuela.jpg</text>
+                      <audio>SR14_TEgames_blend_k_escuela.mp3</audio>
+                    </item>
+                    <item>
+                      <text>helado.jpg</text>
+                      <audio>SR14_TEgames_blend_k_helado.mp3</audio>
+                    </item>
+                    <item>
+                      <text>conejo.jpg</text>
+                      <audio>SR14_TEgames_blend_k_conejo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

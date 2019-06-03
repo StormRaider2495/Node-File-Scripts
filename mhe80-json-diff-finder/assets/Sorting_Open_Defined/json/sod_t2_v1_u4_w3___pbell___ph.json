@@ -1,0 +1,267 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Drag pictures whose names have the /ar/ sound spelled <i>ar </i>into the /ar/ box. Drag pictures that have the /or/ sound spelled <i>or, ore, </i>or <i>oar </i>into the /or/ box. </p>",
+    "audio": "dl_drag_ar_or_sound.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ar/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ar.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_032A_193002_186626_d.jpg",
+                  "audio": "car.mp3",
+                  "altText": "A green car."
+                },
+                {
+                  "text": "M300_UW043_438A_186626_d.jpg",
+                  "audio": "barn.mp3",
+                  "altText": "A red barn with a fence around it."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/or/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "or.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW053_006A_114242_D.jpg",
+                  "audio": "horn.mp3",
+                  "altText": "A French horn."
+                },
+                {
+                  "text": "M100_UW061_006A_193002_186626_d.jpg",
+                  "audio": "store.mp3",
+                  "altText": "A mother and son bear buying three cupcakes from a donkey in a bakery."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ar/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ar.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_029A_186626_d.jpg",
+                  "audio": "arm.mp3",
+                  "altText": "A smiling girl pointing to her wrist."
+                },
+                {
+                  "text": "M300_UW043_440A_186626_d.jpg",
+                  "audio": "star.mp3",
+                  "altText": "A yellow star."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/or/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "or.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_006A_193002_186626_d.jpg",
+                  "audio": "board.mp3",
+                  "altText": "A board game."
+                },
+                {
+                  "text": "M100_UW033_006A_193002_186626_d.jpg",
+                  "audio": "corn.mp3",
+                  "altText": "An ear of corn."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ar/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ar.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW081_005A_193002_186626_d.jpg",
+                  "audio": "jar.mp3",
+                  "altText": "An empty bottle."
+                },
+                {
+                  "text": "M100_UW043_052A_186626_d.jpg",
+                  "audio": "cart.mp3",
+                  "altText": "A red shopping cart."
+                },
+                {
+                  "text": "M100_UW013_022A_186626_d.jpg",
+                  "audio": "park.mp3",
+                  "altText": "A park with trees and a walking path."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/or/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "or.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_038A_114242_D.jpg",
+                  "audio": "fork.mp3",
+                  "altText": "A fork."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ar/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ar.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW043_014A_186626_d.jpg",
+                  "audio": "start.mp3",
+                  "altText": "Three runners at a starting line."
+                },
+                {
+                  "text": "M100_UW043_021A_186626_d.jpg",
+                  "audio": "card.mp3",
+                  "altText": "A ten of diamonds playing card."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/or/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "or.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW043_451A_186626_d.jpg",
+                  "audio": "thorn.mp3",
+                  "altText": "A red rose. A red arrow points to a thorn."
+                },
+                {
+                  "text": "M100_UW043_019A_186626_d.jpg",
+                  "audio": "score.mp3",
+                  "altText": "A scoreboard. The score for the home team is sixty-eight, and the score for the visiting team is fifty-seven."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

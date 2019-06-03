@@ -1,0 +1,573 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phoneme Categorization",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture to hear its name. Drag pictures with the same ending sound into the blue box. Drag pictures with a different ending sound into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Ending Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW045_006A_114242_D.jpg",
+                  "audio": "city.mp3",
+                  "altText": "A skyline of a city."
+                },
+                {
+                  "text": "M100_UW045_009A_114242_D.jpg",
+                  "audio": "dirty.mp3",
+                  "altText": "A blue shirt with mud stains on it."
+                },
+                {
+                  "text": "M100_UW045_024A_114242_D.jpg",
+                  "audio": "sunny.mp3",
+                  "altText": "The sun shining over green grass."
+                },
+                {
+                  "text": "M100_UW045_007A_114242_D.jpg",
+                  "audio": "curly.mp3",
+                  "altText": "A boy with his hands in his pockets. A red arrow points to his hair."
+                },
+                {
+                  "text": "M100_UW012_032A_114242_D.jpg",
+                  "audio": "sleepy.mp3",
+                  "altText": "A boy in his pajamas yawning."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Ending Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW045_011A_114242_D.jpg",
+                  "audio": "grapes.mp3",
+                  "altText": "A bunch of purple grapes."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Ending Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW045_002A_114242_D.jpg",
+                  "audio": "baggy.mp3",
+                  "altText": "A smiling boy. A red arrow points to his jeans."
+                },
+                {
+                  "text": "M100_UW045_001A_114242_D.jpg",
+                  "audio": "alley.mp3",
+                  "altText": "Garbage cans in an alley."
+                },
+                {
+                  "text": "M100_UW045_032A_114242_D.jpg",
+                  "audio": "puppy.mp3",
+                  "altText": "A dog eating his food from his bowl."
+                },
+                {
+                  "text": "M100_UW045_003A_114242_D.jpg",
+                  "audio": "belly.mp3",
+                  "altText": "A smiling girl. A red arrow points to her overalls."
+                },
+                {
+                  "text": "M100_UW045_005A_114242_D.jpg",
+                  "audio": "bumpy.mp3",
+                  "altText": "A red car driving on an uphill road."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Ending Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_028A_114242_D.jpg",
+                  "audio": "sun.mp3",
+                  "altText": "A yellow sun."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Ending Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW045_004A_114242_D.jpg",
+                  "audio": "buggy.mp3",
+                  "altText": "A green baby buggy."
+                },
+                {
+                  "text": "M100_UW045_008A_114242_D.jpg",
+                  "audio": "daddy.mp3",
+                  "altText": "A man and his daughter wearing winter gear. A red arrow points to the back of his head."
+                },
+                {
+                  "text": "M100_UW045_030A_114242_D.jpg",
+                  "audio": "holly.mp3",
+                  "altText": "Holly."
+                },
+                {
+                  "text": "M100_UW045_012A_114242_D.jpg",
+                  "audio": "guppy.mp3",
+                  "altText": "A goldfish swimming in water."
+                },
+                {
+                  "text": "M100_UW032_021A_114242_D.jpg",
+                  "audio": "happy.mp3",
+                  "altText": "A smiling girl."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Ending Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_023A_114242_D.jpg",
+                  "audio": "pig.mp3",
+                  "altText": "A pig."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Ending Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW045_010A_114242_D.jpg",
+                  "audio": "fuzzy.mp3",
+                  "altText": "A brown teddy bear."
+                },
+                {
+                  "text": "M100_UW045_013A_114242_D.jpg",
+                  "audio": "heavy.mp3",
+                  "altText": "A man carrying a large brown box."
+                },
+                {
+                  "text": "M100_UW023_036A_114242_D.jpg",
+                  "audio": "dusty.mp3",
+                  "altText": "A person using a feather duster to clean a bureau."
+                },
+                {
+                  "text": "M100_UW045_015A_114242_D.jpg",
+                  "audio": "jetty.mp3",
+                  "altText": "A jetty extending out in to the ocean. The sun is in the sky."
+                },
+                {
+                  "text": "M100_UW045_017A_114242_D.jpg",
+                  "audio": "lobby.mp3",
+                  "altText": "A woman behind a reception desk. There is a notebook, bell, and vase on the desk. There are sixteen keys hanging on a board behind her."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Ending Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_008A_114242_D.jpg",
+                  "audio": "coat.mp3",
+                  "altText": "An orange zip-up jacket."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Ending Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW045_014A_114242_D.jpg",
+                  "audio": "hockey.mp3",
+                  "altText": "A hockey player in uniform and helmet, holding his hockey stick. \"Newport\" is on his uniform. The opposing team's goalie is in the background."
+                },
+                {
+                  "text": "M100_UW045_027A_114242_D.jpg",
+                  "audio": "valley.mp3",
+                  "altText": "A river stream flowing through a hilly area."
+                },
+                {
+                  "text": "M100_UW0SS_001A_114242_D.jpg",
+                  "audio": "monkey.mp3",
+                  "altText": "A monkey holding a banana."
+                },
+                {
+                  "text": "M100_UW045_026A_114242_D.jpg",
+                  "audio": "tummy.mp3",
+                  "altText": "A smiling boy."
+                },
+                {
+                  "text": "M100_UW034_035A_114242_D.jpg",
+                  "audio": "grassy.mp3",
+                  "altText": "A red arrow pointing to green grass."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Ending Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW035_025A_114242_D.jpg",
+                  "audio": "foot.mp3",
+                  "altText": "A person's foot."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Ending Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW061_028A_114242_D.jpg",
+                  "audio": "gusty.mp3",
+                  "altText": "A man is wearing glasses. A strong wind blows his fedora away along with a couple of leaves."
+                },
+                {
+                  "text": "M100_UW012_013A_114242_D.jpg",
+                  "audio": "hilly.mp3",
+                  "altText": "A green hill against a blue sky."
+                },
+                {
+                  "text": "M100_UW033_020A_114242_D.jpg",
+                  "audio": "penny.mp3",
+                  "altText": "A penny."
+                },
+                {
+                  "text": "M100_UW045_016A_114242_D.jpg",
+                  "audio": "lily.mp3",
+                  "altText": "Water lilies."
+                },
+                {
+                  "text": "M100_UW014_013A_114242_D.jpg",
+                  "audio": "mommy.mp3",
+                  "altText": "A woman holding her smiling baby."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Ending Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW034_029A_114242_D.jpg",
+                  "audio": "rope.mp3",
+                  "altText": "A rope."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Ending Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW045_018A_114242_D.jpg",
+                  "audio": "muddy.mp3",
+                  "altText": "A dog covered in mud stains."
+                },
+                {
+                  "text": "M100_UW045_020A_114242_D.jpg",
+                  "audio": "rocky.mp3",
+                  "altText": "Boulders and trees."
+                },
+                {
+                  "text": "M100_UW045_028A_114242_D.jpg",
+                  "audio": "wavy.mp3",
+                  "altText": "A squiggly blue curve."
+                },
+                {
+                  "text": "M100_UW023_017A_114242_D.jpg",
+                  "audio": "tiny.mp3",
+                  "altText": "An ant."
+                },
+                {
+                  "text": "M100_UW045_019A_114242_D.jpg",
+                  "audio": "pony.mp3",
+                  "altText": "A horse that has jumped over a white fence."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Ending Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_015A_114242_D.jpg",
+                  "audio": "plane.mp3",
+                  "altText": "An airplane."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Ending Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW045_029A_114242_D.jpg",
+                  "audio": "windy.mp3",
+                  "altText": "A two-story house. Wind is making the leaves fall off the big tree beside it."
+                },
+                {
+                  "text": "M100_UW045_025A_112424_D.jpg",
+                  "audio": "tally.mp3",
+                  "altText": "Tally marks on a chalkboard. Fourteen marks are drawn."
+                },
+                {
+                  "text": "M100_UW045_021A_114242_D.jpg",
+                  "audio": "skinny.mp3",
+                  "altText": "A tall boy."
+                },
+                {
+                  "text": "M100_UW023_006A_114242_D.jpg",
+                  "audio": "sandy.mp3",
+                  "altText": "Desert sand against a blue sky."
+                },
+                {
+                  "text": "M100_UW021_004A_114242_D.jpg",
+                  "audio": "soggy.mp3",
+                  "altText": "A boy laughing in the rain."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Ending Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW045_034A_114242_D.jpg",
+                  "audio": "pie.mp3",
+                  "altText": "A cherry pie."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Ending Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_012A_114242_D.jpg",
+                  "audio": "dolly.mp3",
+                  "altText": "A girl doll."
+                },
+                {
+                  "text": "M100_UW045_031A_114242_D.jpg",
+                  "audio": "bunny.mp3",
+                  "altText": "A white bunny."
+                },
+                {
+                  "text": "M100_UW024_022A_114242_D.jpg",
+                  "audio": "money.mp3",
+                  "altText": "Bills and coins."
+                },
+                {
+                  "text": "M100_UW045_024A_114242_D.jpg",
+                  "audio": "sunny.mp3",
+                  "altText": "The sun shining over green grass."
+                },
+                {
+                  "text": "M100_UW045_023A_114242_D.jpg",
+                  "audio": "study.mp3",
+                  "altText": "A boy sitting at his desk reading a book with a lamp shining a light on the book."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Ending Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_005A_114242_D.jpg",
+                  "audio": "book.mp3",
+                  "altText": "An open book. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

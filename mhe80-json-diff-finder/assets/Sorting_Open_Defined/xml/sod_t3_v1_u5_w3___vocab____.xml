@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Build Vocabulary: Shades of Meaning&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read the labels on the sorting boxes. Then read the words in the word bank. Move each word to the box that has a similar meaning.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <vspacing />
+  <contentMode value="words" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Respond</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>answer</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>feedback</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>reply</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>react</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Harmful</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>damaging</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>hurtful</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>deadly</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>destroy</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Careless</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>forgetful</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>wasteful</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>mindless</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>sloppy</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Equipment</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>tools</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>gear</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>supplies</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>material</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Disasters</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>crash</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>failure</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>ruin</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>tragedy</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Purpose</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>target</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>goal</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>outcome</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>result</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

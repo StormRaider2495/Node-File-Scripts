@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Palabras para aprender: vocabulario</title>
+  <directions>Usa lo que sabes sobre las palabras para elegir la que corresponda a cada oración.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Las plumas de ese pajarillo son una [maravilla].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>comportarse</text>
+            </distractor>
+            <distractor>
+              <text>detenerse</text>
+            </distractor>
+            <distractor>
+              <text>expresar</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Las se&amp;#241;ales indican que es necesario [detenerse] en la bocacalle.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>expresar</text>
+            </distractor>
+            <distractor>
+              <text>maravilla</text>
+            </distractor>
+            <distractor>
+              <text>comportarse</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;En las poes&amp;#237;as puedes [expresar] lo que sientes.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>comportarse</text>
+            </distractor>
+            <distractor>
+              <text>maravilla</text>
+            </distractor>
+            <distractor>
+              <text>detenerse</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Los estudiantes saben [comportarse] en la clase.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>expresar</text>
+            </distractor>
+            <distractor>
+              <text>maravilla</text>
+            </distractor>
+            <distractor>
+              <text>detenerse</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

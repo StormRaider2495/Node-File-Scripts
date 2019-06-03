@@ -1,0 +1,222 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phonics: Identify/Categorize",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on the picture to hear its name. Drag pictures that begin with the letter w into the left box. Drag pictures that begin with the letter g into the right box.  </p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "w___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_053A_193002_d.jpg",
+                  "audio": "worm.mp3",
+                  "altText": "A green worm."
+                },
+                {
+                  "text": "M100_UW011_064A_193002_d.jpg",
+                  "audio": "web.mp3",
+                  "altText": "A spider web."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "g___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_076A_193002_d.jpg",
+                  "audio": "goat.mp3",
+                  "altText": "A goat."
+                },
+                {
+                  "text": "M100_UW011_071A_193002_d.jpg",
+                  "audio": "girl.mp3",
+                  "altText": "A girl with pigtails with her arms folded."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "w___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_025A_193002_d.jpg",
+                  "audio": "watermelon.mp3",
+                  "altText": "A slice of watermelon. A bite has been taken out of it."
+                },
+                {
+                  "text": "M100_UW052_023A_193002_d.jpg",
+                  "audio": "well.mp3",
+                  "altText": "A green bucket attached to a well."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "g___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_005A_193002_d.jpg",
+                  "audio": "gift.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "M100_UW023_008A_193002_d.jpg",
+                  "audio": "green.mp3",
+                  "altText": "A green snake slithering along a path."
+                },
+                {
+                  "text": "M100_UW023_003A_193002_d.jpg",
+                  "audio": "glide.mp3",
+                  "altText": "A seagull."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "w___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_038A_193002_d.jpg",
+                  "audio": "wet.mp3",
+                  "altText": "A mop placed over a puddle of water."
+                },
+                {
+                  "text": "M100_UW042_001A_193002_d.jpg",
+                  "audio": "wag.mp3",
+                  "altText": "A brown dog wearing a collar. A red arrow points to its wagging tail."
+                },
+                {
+                  "text": "M100_UW023_004A_193002_d.jpg",
+                  "audio": "walk.mp3",
+                  "altText": "A bug. Its steps are traced in brown."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "g___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_004A_193002_d.jpg",
+                  "audio": "gate.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "M100_UW062_017A_193002_d.jpg",
+                  "audio": "guitar.mp3",
+                  "altText": "A brown guitar."
+                },
+                {
+                  "text": "M100_UW031_006A_193002_d.jpg",
+                  "audio": "game.mp3",
+                  "altText": "A board game."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

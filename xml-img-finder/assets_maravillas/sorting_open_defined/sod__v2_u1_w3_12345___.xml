@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Palabras con b y con v&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Lee la palabra y col&amp;#243;cala en la columna correspondiente.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>B</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>barco</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>balón</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cabo</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>brinco</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>burro</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>V</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>lava</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cueva</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>voto</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>vida</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>nave</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>B</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>deber</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>subir</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>bolsa</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>saber</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>nube</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>V</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>volar</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>vidrio</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>lluvia</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>lavar</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>vuelta</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

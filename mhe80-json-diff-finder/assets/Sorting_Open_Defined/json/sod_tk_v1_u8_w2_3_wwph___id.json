@@ -1,0 +1,212 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phonics: Identify/Categorize",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture to hear its name. Drag pictures that begin with the letter y into the left box. Drag pictures that begin with the letter z into the right box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "y___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_023A_193002_d.jpg",
+                  "audio": "yarn.mp3",
+                  "altText": "A blue ball of yarn."
+                },
+                {
+                  "text": "M100_UW051_024A_114242_D.jpg",
+                  "audio": "yard.mp3",
+                  "altText": "A small red house with a swing set in the back, surrounded by a white fence. A red arrow points to the house."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "z___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW082_017A_193002_d.jpg",
+                  "audio": "zipper.mp3",
+                  "altText": "A zipper."
+                },
+                {
+                  "text": "M100_UW053_023A_193002_d.jpg",
+                  "audio": "zebra.mp3",
+                  "altText": "A smiling zebra. One hoof is raised."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "y___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_027A_193002_d.jpg",
+                  "audio": "yak.mp3",
+                  "altText": "A buffalo."
+                },
+                {
+                  "text": "M100_UW041_023A_193002_d.jpg",
+                  "audio": "yellow.mp3",
+                  "altText": "A banana."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "z___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW071_028A_193002_d.jpg",
+                  "audio": "zero.mp3",
+                  "altText": "The number zero."
+                },
+                {
+                  "text": "M100_UW082_015A_193002_d.jpg",
+                  "audio": "zigzag.mp3",
+                  "altText": "Three red zig-zags."
+                },
+                {
+                  "text": "M100_UW033_015A_193002_d.jpg",
+                  "audio": "zoo.mp3",
+                  "altText": "An entrance to a zoo. A giraffe and elephant peek out over the gate."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "y___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW082_007A_193002_d.jpg",
+                  "audio": "yawn.mp3",
+                  "altText": "A girl yawning in bed."
+                },
+                {
+                  "text": "M100_UW032_004A_193002_d.jpg",
+                  "audio": "yell.mp3",
+                  "altText": "A boy speaking into a megaphone."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "z___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW082_019A_193002_d.jpg",
+                  "audio": "zucchini.mp3",
+                  "altText": "A green vegetable."
+                },
+                {
+                  "text": "M100_UW053_023A_193002_d.jpg",
+                  "audio": "zebra.mp3",
+                  "altText": "A smiling zebra. One hoof is raised."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

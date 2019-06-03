@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Normas del lenguaje: las comas en una serie&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona la opci&amp;#243;n correcta.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Cuatro colores le ofrecieron: verde amarillo rojo y morado y ninguno le gust&amp;#243;.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Cuatro colores le ofrecieron: verde, amarillo, rojo y morado, y ninguno le gustó.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Cuatro colores le ofrecieron: verde amarillo, rojo y morado y ninguno le gustó.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Cuatro colores le ofrecieron, verde amarillo rojo y morado, y ninguno le gustó.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#191;Crees que el tren el avi&amp;#243;n el carro y la motocicleta son los veh&amp;#237;culos m&amp;#225;s r&amp;#225;pidos?&amp;#160;&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>¿Crees que el tren el avión el carro, y la motocicleta, son los vehículos más rápidos?</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>¿Crees que el tren, el avión, el carro y la motocicleta son los vehículos más rápidos?</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>¿Crees que el tren, el avión el carro, y la motocicleta son los vehículos más rápidos?</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;En una noche despejada puedes ver en el cielo asteroides estrellas cometas y planetas.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>En una noche despejada puedes ver en el cielo asteroides estrellas, cometas y planetas.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>En una noche despejada puedes ver, en el cielo asteroides estrellas cometas, y planetas.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>En una noche despejada puedes ver en el cielo asteroides, estrellas, cometas y planetas.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;La receta de la abuela tiene harina huevos leche mantequilla az&amp;#250;car y mucho cari&amp;#241;o.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>La receta de la abuela tiene harina, huevos, leche, mantequilla, azúcar y mucho cariño.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>La receta de la abuela tiene harina huevos, leche mantequilla, azúcar, y mucho cariño.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>La receta de la abuela tiene, harina huevos, leche, mantequilla azúcar, y mucho cariño.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

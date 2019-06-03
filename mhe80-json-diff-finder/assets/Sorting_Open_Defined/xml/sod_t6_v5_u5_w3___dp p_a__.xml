@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read each word. Sort the words according to their Latin roots.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>&lt;i&gt;aud&lt;/i&gt; means “hear”</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>audible</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>audience</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>auditorium</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>audio</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>&lt;i&gt;flect/flex&lt;/i&gt; means “bend”</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>flexible</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>reflected</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>reflex</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>reflection</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>&lt;i&gt;struct&lt;/i&gt; means “build”</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>structure</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>obstruct</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>destruct</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>instructor</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>&lt;i&gt;bene/bon&lt;/i&gt; means “good”</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>benefit</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>benevolent</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>beneficial</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>&lt;i&gt;port&lt;/i&gt; means “carry”</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>report</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>transport</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>export</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>support</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>&lt;i&gt;fac/fact&lt;/i&gt; means “make or do”</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>artifact</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>factory</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>manufacture</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>faculty</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>factor</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

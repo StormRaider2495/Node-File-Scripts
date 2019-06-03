@@ -1,0 +1,235 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Spelling: Long e: <i>-ey, -y</i> Sound-Spellings",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Drag words with the same sound-spellings into the boxes. If the word does not have the same sound-spellings as any of the sounds, drag it into the “Other” bin.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "-ey",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "key",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "-y",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "bumpy",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "puppy",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "funny",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "penny",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sandy",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "night",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "wash",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "would",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "my",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "-ey",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "monkey",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "valley",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "jockey",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "alley",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "volley",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "hockey",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "-y",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "silly",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "daddy",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "study",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "lucky",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "really",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sunny",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "happy",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

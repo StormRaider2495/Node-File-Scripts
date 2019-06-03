@@ -1,0 +1,307 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Drag words that the long <i>e</i> vowel sound to the labeled column. If a word doesn&#8217;t have long <i>e,</i> drag it to the <i>Other</i> column.</p>",
+    "audio": "dl_longe_other_sound.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M300_UW013_001A_114244_D.jpg",
+                  "altText": "A dollar bill, a quarter, and two pennies."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "zebra",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "scene",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "chief",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "leak",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "feet",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "key",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": "A dollar bill, a quarter, and two pennies."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "person",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "tall",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "chicken",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "hide",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "string",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M300_UW013_001A_114244_D.jpg",
+                  "altText": "A dollar bill, a quarter, and two pennies."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "maybe",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "busy",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sleep",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "here",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "team",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": "A dollar bill, a quarter, and two pennies."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "tire",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "fly",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "quiet",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "pale",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "met",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M300_UW013_001A_114244_D.jpg",
+                  "altText": "A dollar bill, a quarter, and two pennies."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "speech",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "recieve",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "meet",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "these",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cheese",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "treat",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": "A dollar bill, a quarter, and two pennies."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "nine",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cried",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "write",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "play",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "red",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

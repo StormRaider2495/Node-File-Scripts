@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<matching>
+  <title />
+  <directions />
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <pairs>
+      <pair>
+        <term>
+          <text />
+          <image>TEG_bicicleta.jpg</image>
+          <audio>TEG_bicicleta.mp3</audio>
+        </term>
+        <definition>
+          <text />
+          <image>TEG_bicicleta.jpg</image>
+          <audio>TEG_bicicleta.mp3</audio>
+        </definition>
+      </pair>
+      <pair>
+        <term>
+          <text />
+          <image>TEG_filete.jpg</image>
+          <audio>TEG_filete.mp3</audio>
+        </term>
+        <definition>
+          <text />
+          <image />
+          <audio />
+        </definition>
+      </pair>
+      <pair>
+        <term>
+          <text />
+          <image>TEG_botella.jpg</image>
+          <audio>TEG_botella.mp3</audio>
+        </term>
+        <definition>
+          <text />
+          <image>TEG_botella.jpg</image>
+          <audio>TEG_botella.mp3</audio>
+        </definition>
+      </pair>
+    </pairs>
+  </rounds>
+</matching>
+

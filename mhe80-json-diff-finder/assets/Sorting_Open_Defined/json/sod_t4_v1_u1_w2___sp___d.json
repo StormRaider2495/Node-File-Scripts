@@ -1,0 +1,570 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Spelling: Long <i>a</i>",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Sort the spelling words into the columns using the key words or word parts.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "major",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": []
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "rail",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "paid",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "drain",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "faint",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "aim",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "rain",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "clay",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "today",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "tray",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "pale",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "save",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cane",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "face",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "crate",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "late",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mane",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "steak",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "break",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "eight",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "weigh",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "they",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "major",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": []
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "rail",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "bail",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "drain",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "faint",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "claim",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "clay",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "stray",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "today",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "pale",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "face",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "graze",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cane",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "slate",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "ache",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "steak",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "break",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "eight",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": []
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "they",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "obey",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "major",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": []
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "rail",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "railway",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bail",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "wailing",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "frail",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "fainting",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "claimed",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "remain",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "clay",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "display",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "stray",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "relay",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "pale",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "parade",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mistake",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "ache",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "nickname",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "steak",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "break",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "eight",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "eighteen",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "they",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "obeyed",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

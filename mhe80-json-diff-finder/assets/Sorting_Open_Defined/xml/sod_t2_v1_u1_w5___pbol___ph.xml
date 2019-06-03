@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;b&gt;&lt;/b&gt;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read each word. Drag words with the short i sound into the left box. Drag words with the long i sound into the right box.&lt;/p&gt;</directions>
+  <directionsAudio>dl_shorti_longi_box2.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>short i</title>
+                  <titleImage />
+                  <titleAudio>sound_short_i.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>fin</text>
+                      <audio>fin.mp3</audio>
+                    </item>
+                    <item>
+                      <text>wig</text>
+                      <audio>wig.mp3</audio>
+                    </item>
+                    <item>
+                      <text>wick</text>
+                      <audio>wick.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pit</text>
+                      <audio>pit.mp3</audio>
+                    </item>
+                    <item>
+                      <text>lip</text>
+                      <audio>lip.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>long i</title>
+                  <titleImage />
+                  <titleAudio>sound_long_i.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>pile</text>
+                      <audio>pile.mp3</audio>
+                    </item>
+                    <item>
+                      <text>kite</text>
+                      <audio>kite.mp3</audio>
+                    </item>
+                    <item>
+                      <text>file</text>
+                      <audio>file.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mine</text>
+                      <audio>mine.mp3</audio>
+                    </item>
+                    <item>
+                      <text>ride</text>
+                      <audio>ride.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>short i</title>
+                  <titleImage />
+                  <titleAudio>sound_short_i.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>kit</text>
+                      <audio>kit.mp3</audio>
+                    </item>
+                    <item>
+                      <text>kid</text>
+                      <audio>kid.mp3</audio>
+                    </item>
+                    <item>
+                      <text>lid</text>
+                      <audio>lid.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pin</text>
+                      <audio>pin.mp3</audio>
+                    </item>
+                    <item>
+                      <text>rib</text>
+                      <audio>rib.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>long i</title>
+                  <titleImage />
+                  <titleAudio>sound_long_i.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>hike</text>
+                      <audio>hike.mp3</audio>
+                    </item>
+                    <item>
+                      <text>dime</text>
+                      <audio>dime.mp3</audio>
+                    </item>
+                    <item>
+                      <text>ice</text>
+                      <audio>ice.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pine</text>
+                      <audio>pine.mp3</audio>
+                    </item>
+                    <item>
+                      <text>ride</text>
+                      <audio>ride.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

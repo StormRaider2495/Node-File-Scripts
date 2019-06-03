@@ -1,0 +1,550 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "<b>Phonics: Identifying/Categorization</b>",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Read each word. Drag the words with same first three letters into the box on the left. Drag words with different first letters to the Other box on the right.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/spr/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "spray",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "spread",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "spree",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sprint",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sprout",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "spruce",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "sponge",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "stay",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sail",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "slam",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/skr/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "scrap",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "screen",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "scrape",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "scratch",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "stew",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "send",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shake",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "small",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/spl/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "split",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "splice",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "splat",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "splash",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "splint",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "pail",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "snail",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "suppose",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shin",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shoot",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "paint",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/str/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "strum",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "strut",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "strain",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "stray",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "stress",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "tossed",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sunk",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "rusty",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shell",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "saying",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "spell",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shirt",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/thr/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "thread",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "throne",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "throw",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "thrill",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "throb",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "wreck",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "tested",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "tense",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "teal",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "helping",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "tallest",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "teeth",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/shr/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "shrink",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shred",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shrimp",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shrug",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shrew",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "still",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "stamp",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "singing",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "swing",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "silly",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "ramps",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "softer",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

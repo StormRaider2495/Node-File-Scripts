@@ -1,0 +1,187 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "<b>Grammar: Statements and Questions</b>",
+  "contentMode": {
+    "value": "sentences"
+  },
+  "directions": {
+    "text":  "<p>Read each group of words. If it is a complete sentence, drag it to the “Yes” box. If it is not a complete sentence, drag it to the “No” box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Yes",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "I have many friends.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "We play at school.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Steve is a good friend.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Can we play today?",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "No",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "Sometimes after school.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Lives near my house.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "On the bus?",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Yes",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "Do you like your friends?",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "He likes games.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "We play with his bat.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "We read together.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "She walks home with me.",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "No",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "Tells funny jokes.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Play with her outside.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Like my friends a lot?",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "In the morning on the playground.",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

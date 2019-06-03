@@ -1,0 +1,242 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Look at each picture. Click on it to hear its name read. Drag the pictures with the /ou/ sound into the blue box. Drag the pictures that do not have those sounds into the red box.</p>",
+    "audio": "dl_drag_ou_ow_sound3.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ou/ sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ou_sound3b.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_008A_193002_186626_d.jpg",
+                  "audio": "cloud.mp3",
+                  "altText": "Clouds and the sun in the sky. A red arrow points to a cloud."
+                },
+                {
+                  "text": "AK2_CA_CRDP_RD10_202038_A_D28.jpg",
+                  "audio": "brown.mp3",
+                  "altText": "The color brown."
+                },
+                {
+                  "text": "M100_UW012_019A_186626_d.jpg",
+                  "audio": "shout.mp3",
+                  "altText": "A boy in a sweatshirt yelling out."
+                },
+                {
+                  "text": "M300_UW051_514A_186626_d.jpg",
+                  "audio": "crown.mp3",
+                  "altText": "A bejeweled crown."
+                },
+                {
+                  "text": "M100_UW011_043A_193002_186626_d.jpg",
+                  "audio": "house.mp3",
+                  "altText": "A small blue house with a chimney."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW043_005A_18626_d.jpg",
+                  "audio": "horn.mp3",
+                  "altText": "A trumpet."
+                },
+                {
+                  "text": "M100_UW025_075A_186626_d.jpg",
+                  "audio": "sleigh.mp3",
+                  "altText": "An orange sled."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ou/ sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ou_sound3b.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW051_518A_186626_d.jpg",
+                  "audio": "spout.mp3",
+                  "altText": "A tea kettle. A red arrow points to the spout."
+                },
+                {
+                  "text": "M100_UW012_033A_186626_d.jpg",
+                  "audio": "mouth.mp3",
+                  "altText": "A smiling boy. A red arrow points to his smile."
+                },
+                {
+                  "text": "M100_UW024_017A_186626_d.jpg",
+                  "audio": "owl.mp3",
+                  "altText": "A flying owl."
+                },
+                {
+                  "text": "M300_UW051_521A_186626_d.jpg",
+                  "audio": "howl.mp3",
+                  "altText": "A howling wolf."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_013A_193002_186626_d.jpg",
+                  "audio": "hay.mp3",
+                  "altText": "A bale of hay."
+                },
+                {
+                  "text": "M300_UW032_329A_186626_d.jpg",
+                  "audio": "high.mp3",
+                  "altText": "A flying eagle."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ou/ sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "ou_sound3b.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_011A_193002_186626_d.jpg",
+                  "audio": "towel.mp3",
+                  "altText": "A yellow towel on a towel rack."
+                },
+                {
+                  "text": "M100_UW012_027A_193002_186626_d.jpg",
+                  "audio": "cow.mp3",
+                  "altText": "A cow with a bell around its neck."
+                },
+                {
+                  "text": "M100_UW011_074A_193002_186626_d.jpg",
+                  "audio": "mouse.mp3",
+                  "altText": "A mouse."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW043_017A_114242_D.jpg",
+                  "audio": "crow.mp3",
+                  "altText": "A raven."
+                },
+                {
+                  "text": "M100_UW011_008A_114242_D.jpg",
+                  "audio": "coat.mp3",
+                  "altText": "An orange zip-up jacket."
+                },
+                {
+                  "text": "M300_UW033_368A_186626_d.jpg",
+                  "audio": "toast.mp3",
+                  "altText": "A piece of buttered toast."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

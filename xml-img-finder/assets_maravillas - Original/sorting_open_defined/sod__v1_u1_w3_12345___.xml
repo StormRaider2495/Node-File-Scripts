@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras:&amp;#160;&lt;i&gt;Sentidos&lt;/i&gt;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;En esta actividad se deben identificar correctamente las palabras correspondientes a la categor&amp;#237;a de palabras de la semana.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Colocar las palabras que pertenezcan a la categor&amp;#237;a &lt;i&gt;Sentidos&amp;#160;&lt;/i&gt;en la caja roja y las que no pertenezcan en la caja azul.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Sentidos</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_caliente.jpg</text>
+                      <audio>TEG_caliente.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_amargo.jpg</text>
+                      <audio>TEG_amargo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_ruidoso.jpg</text>
+                      <audio>TEG_ruidoso.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Otras palabras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_pavo.jpg</text>
+                      <audio>TEG_pavo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_vela.jpg</text>
+                      <audio>TEG_vela.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_futbolista.jpg</text>
+                      <audio>TEG_futbolista.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Colocar las palabras que pertenezcan a la categor&amp;#237;a&amp;#160;&lt;i&gt;Sentidos&amp;#160;&lt;/i&gt;en la caja roja y las que no pertenezcan en la caja azul.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Sentidos</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_dulce.jpg</text>
+                      <audio>TEG_dulce.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_brillante.jpg</text>
+                      <audio>TEG_brillante.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_frio.jpg</text>
+                      <audio>TEG_fri1o.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Otras palabras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_edificio.jpg</text>
+                      <audio>TEG_edificio.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_vaso.jpg</text>
+                      <audio>TEG_vaso.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_melon.jpg</text>
+                      <audio>TEG_melon.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

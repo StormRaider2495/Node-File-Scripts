@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read each word. Drag words with the diphthongs /oy/ or /oi/ into the blue box. Drag words that do not have these sounds into the red box.&lt;/p&gt;</directions>
+  <directionsAudio>dl_dipthong2.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/oy/ or /oi/</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>soil</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>boil</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>oyster</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>spoil</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>royal</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>more</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>blue</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>how</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>found</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cloud</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/oy/ or /oi/</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>oil</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>coy</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cowboy</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>hoist</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>enjoy</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>box</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>throb</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>play</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>way</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>down</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

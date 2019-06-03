@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Estrategia de vocabulario: claves en el p&amp;#225;rrafo&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona la clave en el p&amp;#225;rrafo que te permite comprender el significado de la palabra subrayada.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Su gran &lt;u&gt;tes&amp;#243;n&lt;/u&gt; le permiti&amp;#243; soportar la exigente competencia. Aunque el p&amp;#250;blico tambi&amp;#233;n lo animaba a continuar,&amp;#160; sin esa decisi&amp;#243;n y persistencia, hubiera abandonado antes. Otros lo hicieron antes de llegar a la meta.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>exigente competencia</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>el público también lo animaba</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>llegar a la meta</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>esa decisión y persistencia</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Jorge es un profesor realmente &lt;u&gt;carism&amp;#225;tico&lt;/u&gt;. Eso le ha permitido captar la atenci&amp;#243;n de todos los alumnos en sus clases de matem&amp;#225;ticas. Lleva dos a&amp;#241;os ense&amp;#241;ando en la escuela pero nos dijo que quiere estar varios a&amp;#241;os m&amp;#225;s.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>captar la atención de todos los alumnos</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Jorge es un profesor</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Lleva dos años enseñando</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>nos dijo que quiere estar varios años más</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Al principio ninguno lograba &lt;u&gt;barruntar&lt;/u&gt; nada. No sab&amp;#237;amos&amp;#160; por d&amp;#243;nde empezar. Finalmente, nos animamos a plantear ideas.&amp;#160; As&amp;#237; fuimos encontrando la soluci&amp;#243;n para el dif&amp;#237;cil problema que ten&amp;#237;amos que resolver. Fue realmente grato haber logrado la colaboraci&amp;#243;n de todos.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>No sabíamos por dónde empezar</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>plantear ideas</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>difícil problema</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>haber logrado la colaboración de todos</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Cuando pase&amp;#225;bamos por el campo mi mam&amp;#225; se detuvo y nos dijo: "&amp;#161;miren esas &lt;u&gt;&amp;#225;nades&lt;/u&gt;!". Ninguno de nosotros sab&amp;#237;a a qu&amp;#233; se refer&amp;#237;a. Mi hermanita se puso a mirar al piso para ver si encontraba algo extra&amp;#241;o. Mi hermano, dirigi&amp;#243; su vista hacia el camino a ver si aparec&amp;#237;a alg&amp;#250;n novedoso veh&amp;#237;culo. Mi primo miraba hacia el bosque. Pero Pedro, que sab&amp;#237;a mucho de biolog&amp;#237;a, dirigi&amp;#243; su vista al cielo, a tiempo para verlas volando a la distancia.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Ninguno de nosotros sabía a qué se refería</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>dirigió su vista al cielo, a tiempo para verlas volando a la distancia</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>dirigió su vista al lago buscando algún misterioso pez que saltaba</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Mi primo miraba hacia el bosque</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

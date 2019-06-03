@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proof_reading_pro>
+  <title>Normas del lenguaje: puntuación, siglas y mayúsculas</title>
+  <directions>Haz correcciones donde corresponda.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <rounds>
+    <round>
+      <sentences>
+        <text>Me encantó el cuento 'El vecindario de {u}quinito'{.}</text>
+        <text>La {s|N.A.S.A|NASA} envió naves a la Luna{.}</text>
+        <text>¿Qué te parecería dar un paseo en bicicleta{?}</text>
+        <text>{u}el edificio principal de la {s|O.N.U|ONU} queda en la ciudad de Nueva York{.}</text>
+      </sentences>
+    </round>
+    <round>
+      <sentences>
+        <text>Sofía {u}blanco
+Dr. Terres No. 44
+Colonia Agua Nueva
+C.P. 06720
+{u}méxico, D.F.
+{u}méxico</text>
+        <text>{u}san {u}francisco{,} 17 de {l}Noviembre
+
+{u}querida abuelita:
+
+{u}estoy pasando unos días muy contenta con mi tía en {u}méxico. {u}me acordé de ti cuando fui a las pirámides{.}
+
+{u}con todo mi cariño{,}
+Melba</text>
+      </sentences>
+    </round>
+  </rounds>
+</proof_reading_pro>
+

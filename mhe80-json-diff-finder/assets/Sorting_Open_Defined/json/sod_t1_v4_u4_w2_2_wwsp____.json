@@ -1,0 +1,381 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Spelling: Word Sort with /&#275;/: e, ee, ea",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Drag words with the same vowel sounds into the boxes. If the word does not have the same vowel as any of the sounds, drag it into the “Other” bin.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "we",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "me",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "we",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "leaf",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "seat",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "beak",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "need",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "feed",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "keep",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "play",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "rain",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "other",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "because",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "we",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "be",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "he",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "she",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "leaf",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "beak",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "beam",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bean",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "beat",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "beast",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "beach",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "need",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "deed",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "deep",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "seek",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "eel",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "seed",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "feel",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "leaf",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "heat",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "meat",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "wheat",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "pea",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sea",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "tea",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "flea",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "need",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "feet",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "weed",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "meet",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "weep",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "need",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "peek",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "peel",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

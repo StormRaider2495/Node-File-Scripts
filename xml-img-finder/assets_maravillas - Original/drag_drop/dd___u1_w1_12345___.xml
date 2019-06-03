@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Gramática: Oraciones enunciativas e interrogativas</title>
+  <directions>Usa las opciones de abajo para completar las oraciones.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;[&amp;#191;Qu&amp;#233;] hora [es?]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>¿Dónde</text>
+            </distractor>
+            <distractor>
+              <text>¡Qué</text>
+            </distractor>
+            <distractor>
+              <text>Quién</text>
+            </distractor>
+            <distractor>
+              <text>¡Cuánto</text>
+            </distractor>
+            <distractor>
+              <text>somos?</text>
+            </distractor>
+            <distractor>
+              <text>es.</text>
+            </distractor>
+            <distractor>
+              <text>son?</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Hoy leeremos un [libro.]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>libro!</text>
+            </distractor>
+            <distractor>
+              <text>libro?</text>
+            </distractor>
+            <distractor>
+              <text>libros?</text>
+            </distractor>
+            <distractor>
+              <text>libros!</text>
+            </distractor>
+            <distractor>
+              <text>libros.</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;[&amp;#191;Vendr&amp;#225;s] ma&amp;#241;ana a mi fiesta?&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>Vendrás</text>
+            </distractor>
+            <distractor>
+              <text>¿Viniste</text>
+            </distractor>
+            <distractor>
+              <text>Tú</text>
+            </distractor>
+            <distractor>
+              <text>¿Harás</text>
+            </distractor>
+            <distractor>
+              <text>¿Sabes</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Me gusta mirar el [cielo.]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>luna.</text>
+            </distractor>
+            <distractor>
+              <text>luna!</text>
+            </distractor>
+            <distractor>
+              <text>cielo!</text>
+            </distractor>
+            <distractor>
+              <text>luna?</text>
+            </distractor>
+            <distractor>
+              <text>cielo?</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<word_letter_focus>
+  <title>Normas del lenguaje: onomatopeyas</title>
+  <directions>&lt;p&gt;Resalta las oraciones que tienen&amp;#160;onomatopeya.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;{wh}Luis estaba muy resfriado y, &amp;#161;ach&amp;#237;s!, estornud&amp;#243;{/wh}.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#160;&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;{wh}El gallo salud&amp;#243; el d&amp;#237;a con un alegre quiquiriqu&amp;#237;{/wh}.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;El agua del lago estaba clara y calma.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;&lt;br /&gt;{wh}&amp;#161;Tal&amp;#225;n, tal&amp;#225;n! sonaban las campanas todos los domingos{/wh}.&lt;/p&gt;
+&lt;p&gt;&amp;#160;&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Se venden guitarras y violines.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;{wh}En la noche, se o&amp;#237;a el tic, tac, tic, tac del viejo reloj{/wh}.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</word_letter_focus>
+

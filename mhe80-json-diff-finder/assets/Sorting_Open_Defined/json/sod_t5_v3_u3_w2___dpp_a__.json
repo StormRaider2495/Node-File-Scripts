@@ -1,0 +1,267 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics- V/V Pattern",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Read the words. Click and drag the words that have the vowel/vowel (V/V) pattern into the box.</p>",
+    "audio": "dl_vowel_vowel_pattern.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "(V/V) pattern",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "vowel_vowel_pattern.mp3"
+              },
+              "contents": [
+                {
+                  "text": "diary",
+                  "audio": "diary.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "lion",
+                  "audio": "lion.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "cruel",
+                  "audio": "cruel.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "diet",
+                  "audio": "diet.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "prey",
+                  "audio": "prey.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "doe",
+                  "audio": "doe.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "mole",
+                  "audio": "mole.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "cream",
+                  "audio": "cream.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "(V/V) pattern",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "vowel_vowel_pattern.mp3"
+              },
+              "contents": [
+                {
+                  "text": "casual",
+                  "audio": "casual.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "prior",
+                  "audio": "prior.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "create",
+                  "audio": "create.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "dual",
+                  "audio": "dual.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "ancient",
+                  "audio": "ancient.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "cries",
+                  "audio": "cries.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "dear",
+                  "audio": "dear.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "dreamer",
+                  "audio": "dreamer.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "(V/V) pattern",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "vowel_vowel_pattern.mp3"
+              },
+              "contents": [
+                {
+                  "text": "video",
+                  "audio": "video.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "science",
+                  "audio": "science.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "ideas",
+                  "audio": "ideas.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "trial",
+                  "audio": "trial.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "pleasant",
+                  "audio": "pleasant.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "curtain",
+                  "audio": "curtain.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "streamer",
+                  "audio": "streamer.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "quarter",
+                  "audio": "quarter.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

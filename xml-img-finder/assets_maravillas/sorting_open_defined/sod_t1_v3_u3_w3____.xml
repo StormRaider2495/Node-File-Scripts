@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con g y j&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la palabra escrita con &lt;u&gt;j&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra con&amp;#160;&lt;u&gt;g&lt;/u&gt;&amp;#160;en la caja roja. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene j</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>ojo</text>
+                      <audio>TEG_ojo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>caja</text>
+                      <audio>TEG_caja.mp3</audio>
+                    </item>
+                    <item>
+                      <text>paisaje</text>
+                      <audio>TEG_paisaje.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pájaro</text>
+                      <audio>TEG_pajaro.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>tiene g</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>recoge</text>
+                      <audio>TEG_recoge.mp3</audio>
+                    </item>
+                    <item>
+                      <text>ruge</text>
+                      <audio>TEG_ruge.mp3</audio>
+                    </item>
+                    <item>
+                      <text>zoológico</text>
+                      <audio>TEG_zoologico.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene j</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>jarabe</text>
+                      <audio>TEG_jarabe.mp3</audio>
+                    </item>
+                    <item>
+                      <text>baja</text>
+                      <audio>TEG_baja.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cruje</text>
+                      <audio>TEG_cruje.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mejor</text>
+                      <audio>TEG_mejor.mp3</audio>
+                    </item>
+                    <item>
+                      <text>hijos</text>
+                      <audio>TEG_hijos.mp3</audio>
+                    </item>
+                    <item>
+                      <text>manija</text>
+                      <audio>TEG_manija.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>tiene g</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>vegetal</text>
+                      <audio>TEG_vegetal.mp3</audio>
+                    </item>
+                    <item>
+                      <text>magia</text>
+                      <audio>TEG_magia.mp3</audio>
+                    </item>
+                    <item>
+                      <text>página</text>
+                      <audio>TEG_pagina1.mp3</audio>
+                    </item>
+                    <item>
+                      <text>refrigerador</text>
+                      <audio>TEG_refrigerador.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

@@ -1,0 +1,207 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Category Words: Weather Words ",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture to hear its name. Drag words that name a type of weather to the blue box. Drag words that do not into the red box. Then click OK.</p><p> </p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Weather Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_008A_193002_d.jpg",
+                  "audio": "cloudy.mp3",
+                  "altText": "Clouds and the sun in the sky. A red arrow points to a cloud."
+                },
+                {
+                  "text": "M100_UW062_020A_193002_d.jpg",
+                  "audio": "rainy.mp3",
+                  "altText": "A girl is wearing rain gear and holding an umbrella in a rainstorm. A duck stands under the umbrella with her."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Weather Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_083A_193002_d.jpg",
+                  "audio": "airplane.mp3",
+                  "altText": "An airplane."
+                },
+                {
+                  "text": "M100_UW022_032A_193002_d.jpg",
+                  "audio": "kite.mp3",
+                  "altText": "A red kite."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Weather Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW062_001A_193002_d.jpg",
+                  "audio": "rain.mp3",
+                  "altText": "A boy and girl wearing rain gear and standing under an umbrella in the rain."
+                },
+                {
+                  "text": "M100_UW062_021A_193002_d.jpg",
+                  "audio": "snowy.mp3",
+                  "altText": "Snow and snowflakes."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Weather Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_026A_193002_d.jpg",
+                  "audio": "nap.mp3",
+                  "altText": "A brown dog sleeping under a blue table."
+                },
+                {
+                  "text": "M100_UW021_029A_193002_d.jpg",
+                  "audio": "pumpkin.mp3",
+                  "altText": "A pumpkin."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Weather Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW062_002A_193002_d.jpg",
+                  "audio": "lightning.mp3",
+                  "altText": "A bolt of lightning between clouds."
+                },
+                {
+                  "text": "M100_UW062_003A_193002_d.jpg",
+                  "audio": "sunny.mp3",
+                  "altText": "The sun and clouds hovering over city buildings."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Weather Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_024A_193002_d.jpg",
+                  "audio": "eagle.mp3",
+                  "altText": "A bald eagle."
+                },
+                {
+                  "text": "M100_UW051_007A_193002_d.jpg",
+                  "audio": "five.mp3",
+                  "altText": "The number five."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

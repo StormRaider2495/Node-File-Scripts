@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Text Features&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Listen to each sentence. Drag the sentence into the box beneath the picture it describes. A photograph shows people, animals, or things in real life.&lt;/p&gt;</directions>
+  <directionsAudio>dl_photograph_people_animals.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title />
+                  <titleImage>M300_UW011_005A_114242_D.jpg</titleImage>
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>The boy is at school.</text>
+                      <audio>boy_school.mp3</audio>
+                    </item>
+                    <item>
+                      <text>The boy has his backpack.</text>
+                      <audio>boy_backpack.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title />
+                  <titleImage>M300_UW011_006A_114242_D.jpg</titleImage>
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>The cat naps.</text>
+                      <audio>cat_naps.mp3</audio>
+                    </item>
+                    <item>
+                      <text>The cat has pointy ears.</text>
+                      <audio>cat_pointy_ears.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

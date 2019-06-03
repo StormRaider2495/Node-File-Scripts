@@ -1,0 +1,297 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Drag words with the long a sound into the blue box. Drag words that do not have the long a sound into the red box. The word <i>train</i> is an example of a word with the long a sound.</p>",
+    "audio": "dl_longa_vowel_sound2.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M300_UW012_001A_114244_D.jpg",
+                  "altText": "A passenger train."
+                },
+                "audio": "a.mp3"
+              },
+              "contents": [
+                {
+                  "text": "drain",
+                  "audio": "drain.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "apron",
+                  "audio": "apron.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "weigh",
+                  "audio": "weigh.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "they",
+                  "audio": "they.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "clay",
+                  "audio": "clay.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "great",
+                  "audio": "great.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "pale",
+                  "audio": "pale.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": "A passenger train."
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "bat",
+                  "audio": "bat.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "pal",
+                  "audio": "pal.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "their",
+                  "audio": "their.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M300_UW012_001A_114244_D.jpg",
+                  "altText": "A passenger train."
+                },
+                "audio": "long_a.mp3"
+              },
+              "contents": [
+                {
+                  "text": "brain",
+                  "audio": "brain.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "break",
+                  "audio": "break.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "obey",
+                  "audio": "obey.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "today",
+                  "audio": "today.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "late",
+                  "audio": "late.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "main",
+                  "audio": "main.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "may",
+                  "audio": "may.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": "A passenger train."
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "brick",
+                  "audio": "brick.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "man",
+                  "audio": "man.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "cash",
+                  "audio": "cash.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M300_UW012_001A_114244_D.jpg",
+                  "altText": "A passenger train."
+                },
+                "audio": "long_a.mp3"
+              },
+              "contents": [
+                {
+                  "text": "stay",
+                  "audio": "stay.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "fake",
+                  "audio": "fake.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "cape",
+                  "audio": "cape.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "steak",
+                  "audio": "steak.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "explain",
+                  "audio": "explain.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "sleigh",
+                  "audio": "sleigh.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "vein",
+                  "audio": "vein.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": "A passenger train."
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "stick",
+                  "audio": "stick.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "mat",
+                  "audio": "mat.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "cap",
+                  "audio": "cap.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

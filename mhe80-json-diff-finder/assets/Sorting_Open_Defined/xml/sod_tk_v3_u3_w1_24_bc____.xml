@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Category Words: Action Words&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Click on each picture to hear its name. Drag action words to the blue box. Drag words that are not&amp;#160;action words into the red box. Then click OK.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Action Words</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW031_003A_193002_d.jpg</text>
+                      <audio>hop.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW031_004A_193002_d.jpg</text>
+                      <audio>kick.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW031_001A_193002_d.jpg</text>
+                      <audio>catch.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Not Action Words</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW031_006A_193002_d.jpg</text>
+                      <audio>game.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW031_008A_193002_d.jpg</text>
+                      <audio>instruments.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW012_033A_193002_d.jpg</text>
+                      <audio>octopus.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Action Words</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_037A_193002_d.jpg</text>
+                      <audio>mix.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW011_010A_193002_d.jpg</text>
+                      <audio>run.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW023_007A_193002_d.jpg</text>
+                      <audio>jump.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Not Action Words</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_004A_193002_d.jpg</text>
+                      <audio>proud.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_ UW011_017A_193002_d.jpg</text>
+                      <audio>broom.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW031_002A_193002_d.jpg</text>
+                      <audio>market.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Phonics</title>
+  <directions>Read the word in the organizer. Which words on the right have the same short o or long o vowel sound? Drag those words to the organizer.</directions>
+  <directionsAudio>dl_organizer_same_shorto.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="148.55" y="504.75"/&gt;  &lt;position x="367.75" y="510.5"/&gt;  &lt;position x="586.9" y="513.35"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="142.75" y="511.9"/&gt;  &lt;position x="367.75" y="519.15"/&gt;  &lt;position x="584" y="510.5"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="139.85" y="504.75"/&gt;  &lt;position x="367.7" y="507.65"/&gt;  &lt;position x="591.25" y="516.3"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW021_201A_186626_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text>ox</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>mom</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>sod</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>nose</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>close</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>road</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>oat</text>
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW021_202A_186626_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text>hope</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>vote</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>broke</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>frog</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>mop</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>robin</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>dozen</text>
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW021_203A_186626_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text>hot</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>lock</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>drop</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>cone</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>rope</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>tone</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>poke</text>
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

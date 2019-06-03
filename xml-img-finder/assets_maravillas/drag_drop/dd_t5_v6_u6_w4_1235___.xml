@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Gramática: palabras compuestas</title>
+  <directions>Lee las oraciones y las palabras del recuadro. Forma la palabra compuesta que completa correctamente la oración.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Abuelo celebr&amp;#243; sus ochenta a&amp;#241;os lanz&amp;#225;ndose en [para]&amp;lt;-&amp;gt;[ca&amp;#237;das].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>bosques</text>
+            </distractor>
+            <distractor>
+              <text>platos</text>
+            </distractor>
+            <distractor>
+              <text>soles</text>
+            </distractor>
+            <distractor>
+              <text>guarda</text>
+            </distractor>
+            <distractor>
+              <text>gira</text>
+            </distractor>
+            <distractor>
+              <text>lava</text>
+            </distractor>
+            <distractor>
+              <text>equipajes</text>
+            </distractor>
+            <distractor>
+              <text>porta</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;En verano, me encanta ver los campos llenos de [gira]&amp;lt;-&amp;gt;[soles].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>caídas</text>
+            </distractor>
+            <distractor>
+              <text>para</text>
+            </distractor>
+            <distractor>
+              <text>venida</text>
+            </distractor>
+            <distractor>
+              <text>guarda</text>
+            </distractor>
+            <distractor>
+              <text>bosques</text>
+            </distractor>
+            <distractor>
+              <text>bien</text>
+            </distractor>
+            <distractor>
+              <text>porta</text>
+            </distractor>
+            <distractor>
+              <text>equipajes</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;&amp;#161;Observa c&amp;#243;mo desciende el [hidro]&amp;lt;-&amp;gt;[avi&amp;#243;n] sobre el r&amp;#237;o!&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>equipajes</text>
+            </distractor>
+            <distractor>
+              <text>caídas</text>
+            </distractor>
+            <distractor>
+              <text>lata</text>
+            </distractor>
+            <distractor>
+              <text>para</text>
+            </distractor>
+            <distractor>
+              <text>soles</text>
+            </distractor>
+            <distractor>
+              <text>porta</text>
+            </distractor>
+            <distractor>
+              <text>hoja</text>
+            </distractor>
+            <distractor>
+              <text>gira</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Edgardo subi&amp;#243; sus maletas al [porta]&amp;lt;-&amp;gt;[equipajes] del tren.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>avión</text>
+            </distractor>
+            <distractor>
+              <text>soles</text>
+            </distractor>
+            <distractor>
+              <text>nauta</text>
+            </distractor>
+            <distractor>
+              <text>caídas</text>
+            </distractor>
+            <distractor>
+              <text>hidro</text>
+            </distractor>
+            <distractor>
+              <text>gira</text>
+            </distractor>
+            <distractor>
+              <text>astro</text>
+            </distractor>
+            <distractor>
+              <text>para</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;La [guarda]&amp;lt;-&amp;gt;[bosques] nos llev&amp;#243; a un lugar donde divisamos una familia de venados.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>para</text>
+            </distractor>
+            <distractor>
+              <text>hidro</text>
+            </distractor>
+            <distractor>
+              <text>platos</text>
+            </distractor>
+            <distractor>
+              <text>porta</text>
+            </distractor>
+            <distractor>
+              <text>avión</text>
+            </distractor>
+            <distractor>
+              <text>lava</text>
+            </distractor>
+            <distractor>
+              <text>equipajes</text>
+            </distractor>
+            <distractor>
+              <text>caídas</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;El [para]&amp;lt;-&amp;gt;[choques] del auto est&amp;#225; lleno de barro.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>lata</text>
+            </distractor>
+            <distractor>
+              <text>avión</text>
+            </distractor>
+            <distractor>
+              <text>soles</text>
+            </distractor>
+            <distractor>
+              <text>hoja</text>
+            </distractor>
+            <distractor>
+              <text>bosques</text>
+            </distractor>
+            <distractor>
+              <text>hidro</text>
+            </distractor>
+            <distractor>
+              <text>gira</text>
+            </distractor>
+            <distractor>
+              <text>guarda</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Javiera tiene una colecci&amp;#243;n de [video]&amp;lt;-&amp;gt;[juegos] impresionante.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>soles</text>
+            </distractor>
+            <distractor>
+              <text>manchas</text>
+            </distractor>
+            <distractor>
+              <text>caídas</text>
+            </distractor>
+            <distractor>
+              <text>hidro</text>
+            </distractor>
+            <distractor>
+              <text>quita</text>
+            </distractor>
+            <distractor>
+              <text>para</text>
+            </distractor>
+            <distractor>
+              <text>avión</text>
+            </distractor>
+            <distractor>
+              <text>gira</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Pap&amp;#225; limpi&amp;#243; la alfombra con el [quita]&amp;lt;-&amp;gt;[manchas].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>avión</text>
+            </distractor>
+            <distractor>
+              <text>para</text>
+            </distractor>
+            <distractor>
+              <text>hidro</text>
+            </distractor>
+            <distractor>
+              <text>venida</text>
+            </distractor>
+            <distractor>
+              <text>bien</text>
+            </distractor>
+            <distractor>
+              <text>bosques</text>
+            </distractor>
+            <distractor>
+              <text>guarda</text>
+            </distractor>
+            <distractor>
+              <text>caídas</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

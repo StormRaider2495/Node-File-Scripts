@@ -1,0 +1,340 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Spelling: Open Syllables",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p><b>Sort the spelling words into the columns using the key words or word parts.</b></p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "local",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "minus",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "loser",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "humor",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "student",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "equal",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "hero",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "parade",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "panic",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "closet",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "camel",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "comet",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "punish",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shiver",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "linen",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "fancy",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "local",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "minus",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "loser",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "humor",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "recent",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "student",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "equal",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "profile",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "panic",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "closet",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "comet",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "punish",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cavern",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shiver",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "linen",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "local",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "relevant",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "separate",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "license",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "rehearse",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "recent",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "utensil",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "vinyl",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "panic",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "comet",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "punished",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "caverns",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

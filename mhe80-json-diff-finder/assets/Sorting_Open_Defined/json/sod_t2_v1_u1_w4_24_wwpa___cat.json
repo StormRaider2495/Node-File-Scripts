@@ -1,0 +1,917 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phoneme Categorization",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on the pictures to hear the words. Drag the pictures with words that have the same middle sound into the blue box. Drag the other pictures into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_024A_193002_186626_d.jpg",
+                  "audio": "bat.mp3",
+                  "altText": "A baseball bat."
+                },
+                {
+                  "text": "M100_UW012_022A_193002_186626_d.jpg",
+                  "audio": "cap.mp3",
+                  "altText": "A blue cap."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_031A_193002_186626_d.jpg",
+                  "audio": "cup.mp3",
+                  "altText": "A pink and purple dotted coffee mug."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_066A_193002_186626_d.jpg",
+                  "audio": "fan.mp3",
+                  "altText": "An electric fan."
+                },
+                {
+                  "text": "M100_UW022_016A_193002_186626_d.jpg",
+                  "audio": "cat.mp3",
+                  "altText": "A smiling cat."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_017A_193002_186626_d.jpg",
+                  "audio": "frog.mp3",
+                  "altText": "A green frog with yellow spots."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_024A_186626_d.jpg",
+                  "audio": "glad.mp3",
+                  "altText": "A young girl smiling. She has a yellow and white flower in her hair."
+                },
+                {
+                  "text": "M100_UW011_085A_193002_d.jpg",
+                  "audio": "mat.mp3",
+                  "altText": "A welcome mat."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_058A_193002_186626_d.jpg",
+                  "audio": "rake.mp3",
+                  "altText": "A green rake with a brown handle."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_072A_186226_d.jpg",
+                  "audio": "mad.mp3",
+                  "altText": "An angry girl wearing a pink shirt and a pink bow in her hair."
+                },
+                {
+                  "text": "M100_UW014_001A_186626_d.jpg",
+                  "audio": "stamp.mp3",
+                  "altText": "A stamped envelope. The name is Ethan Thomas. The address is 123 Main Street, New York, New York 10001. A red arrow points to the stamp."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW071_026A_193002_186626_d.jpg",
+                  "audio": "vase.mp3",
+                  "altText": "A purple vase with red dots."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_054A_193002_186626_d.jpg",
+                  "audio": "jam.mp3",
+                  "altText": "A jar of strawberry jam."
+                },
+                {
+                  "text": "M100_UW013_024A_186626_d.jpg",
+                  "audio": "glad.mp3",
+                  "altText": "A young girl smiling. She has a yellow and white flower in her hair."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_010A_193002_186626_d.jpg",
+                  "audio": "sled.mp3",
+                  "altText": "A sled."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_033A_186626_d.jpg",
+                  "audio": "nap.mp3",
+                  "altText": "A girl sleeping on a pillow."
+                },
+                {
+                  "text": "M100_UW022_039A_193002_186626_d.jpg",
+                  "audio": "tack.mp3",
+                  "altText": "A red thumb tack."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW071_026A_193002_186626_d.jpg",
+                  "audio": "vase.mp3",
+                  "altText": "A purple vase with red dots."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW071_024A_193002_186626_d.jpg",
+                  "audio": "van.mp3",
+                  "altText": "A red van."
+                },
+                {
+                  "text": "M100_UW021_031A_193002_186626_d.jpg",
+                  "audio": "hat.mp3",
+                  "altText": "A red cap."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_010A_193002_186626_d.jpg",
+                  "audio": "run.mp3",
+                  "altText": "A girl running."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_010A_186626_d.jpg",
+                  "audio": "bag.mp3",
+                  "altText": "A yellow shopping bag."
+                },
+                {
+                  "text": "M100_UW011_035A_193002_186626_d.jpg",
+                  "audio": "mat.mp3",
+                  "altText": "A welcome mat."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_006A_193002_186626_d.jpg",
+                  "audio": "flames.mp3",
+                  "altText": "A campfire."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_014A_186626_d.jpg",
+                  "audio": "map.mp3",
+                  "altText": "A map of a group of islands."
+                },
+                {
+                  "text": "M100_UW014_002A_186626_d.jpg",
+                  "audio": "snack.mp3",
+                  "altText": "A hungry cat holding a cupcake."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_006A_193002_186626_d.jpg",
+                  "audio": "game.mp3",
+                  "altText": "A board game."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_022A_193002_186626_d.jpg",
+                  "audio": "cap.mp3",
+                  "altText": "A blue cap."
+                },
+                {
+                  "text": "M100_UW032_016A_193002_186626_d.jpg",
+                  "audio": "can.mp3",
+                  "altText": "A can of peas."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW033_018A_193002_186626_d.jpg",
+                  "audio": "cake.mp3",
+                  "altText": "A cake with a cherry on top."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_025A_186626_d.jpg",
+                  "audio": "bake.mp3",
+                  "altText": "A woman wearing an apron removing a green pan from the oven."
+                },
+                {
+                  "text": "M100_UW014_033A_188626_d.jpg",
+                  "audio": "wave.mp3",
+                  "altText": "A large wave crashing on the beach. A red arrow points to the top of the wave."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_036A_193002_186626_d.jpg",
+                  "audio": "man.mp3",
+                  "altText": "A teenage boy smiling and looking slightly upward."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_006A_193002_186626_d.jpg",
+                  "audio": "game.mp3",
+                  "altText": "A board game."
+                },
+                {
+                  "text": "M100_UW011_058A_193002_186626_d.jpg",
+                  "audio": "rake.mp3",
+                  "altText": "A green rake with a brown handle."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW053_003A_193002_186626_d.jpg",
+                  "audio": "rat.mp3",
+                  "altText": "A mouse."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_083A_193002_186626_d.jpg",
+                  "audio": "plane.mp3",
+                  "altText": "An airplane."
+                },
+                {
+                  "text": "M100_UW014_003A_186626_d.jpg",
+                  "audio": "lake.mp3",
+                  "altText": "A lake in the middle of a mountainous forest."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_030A_193002_186626_d.jpg",
+                  "audio": "lamp.mp3",
+                  "altText": "A purple lamp with a blue lampshade."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_004A_186626_d.jpg",
+                  "audio": "taste.mp3",
+                  "altText": "A girl using a spoon to eat from a bowl."
+                },
+                {
+                  "text": "M100_UW031_025A_193002_186626_d.jpg",
+                  "audio": "grapes.mp3",
+                  "altText": "A bunch of purple grapes."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_002A_186626_d.jpg",
+                  "audio": "snack.mp3",
+                  "altText": "A hungry cat holding a cupcake."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_004A_193002_186626_d.jpg",
+                  "audio": "gate.mp3",
+                  "altText": "An open yellow gate."
+                },
+                {
+                  "text": "M100_UW014_003A_186626_d.jpg",
+                  "audio": "lake.mp3",
+                  "altText": "A lake in the middle of a mountainous forest."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_026A_186626_d.jpg",
+                  "audio": "quack.mp3",
+                  "altText": "A yellow duck."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_006A_193002_186626_d.jpg",
+                  "audio": "flames.mp3",
+                  "altText": "A campfire."
+                },
+                {
+                  "text": "M100_UW033_018A_193002_186626_d.jpg",
+                  "audio": "cake.mp3",
+                  "altText": "A cake with a cherry on top."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_030A_193002_186626_d.jpg",
+                  "audio": "lamp.mp3",
+                  "altText": "A purple lamp with a blue lampshade."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_033A_188626_d.jpg",
+                  "audio": "wave.mp3",
+                  "altText": "A large wave crashing on the beach. A red arrow points to the top of the wave."
+                },
+                {
+                  "text": "M100_UW031_025A_193002_186626_d.jpg",
+                  "audio": "grapes.mp3",
+                  "altText": "A bunch of purple grapes."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_024A_186626_d.jpg",
+                  "audio": "glad.mp3",
+                  "altText": "A young girl smiling. She has a yellow and white flower in her hair."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_083A_193002_186626_d.jpg",
+                  "audio": "plane.mp3",
+                  "altText": "An airplane."
+                },
+                {
+                  "text": "M100_UW014_004A_186626_d.jpg",
+                  "audio": "taste.mp3",
+                  "altText": "A girl using a spoon to eat from a bowl."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_005A_186626_d.jpg",
+                  "audio": "sad.mp3",
+                  "altText": "A girl crying."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_004A_186626_d.jpg",
+                  "audio": "taste.mp3",
+                  "altText": "A girl using a spoon to eat from a bowl."
+                },
+                {
+                  "text": "M100_UW073_001A_193002_186626_d.jpg",
+                  "audio": "cave.mp3",
+                  "altText": "A bear hibernating in a cave."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_031A_193002_186626_d.jpg",
+                  "audio": "mask.mp3",
+                  "altText": "A blue domino mask."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW033_018A_193002_186626_d.jpg",
+                  "audio": "cake.mp3",
+                  "altText": "A cake with a cherry on top."
+                },
+                {
+                  "text": "M100_UW014_003A_186626_d.jpg",
+                  "audio": "lake.mp3",
+                  "altText": "A lake in the middle of a mountainous forest."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_026A_186626_d.jpg",
+                  "audio": "quack.mp3",
+                  "altText": "A yellow duck."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras: estaciones&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en el bot&amp;#243;n que est&amp;#225; al lado de la palabra para o&amp;#237;r el nombre de la estaci&amp;#243;n. Haz clic en la imagen que muestra algo que pasa en esa estaci&amp;#243;n.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;primavera&lt;/b&gt;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_primavera.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_flor.jpg</image>
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_nieve.jpg</image>
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;invierno&lt;/b&gt;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_invierno.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_nieve.jpg</image>
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_playa.jpg</image>
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;oto&amp;#241;o&lt;/b&gt;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_otono.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_helado.jpg</image>
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_oton1o.jpg</image>
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&lt;b&gt;verano&lt;/b&gt;&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_verano.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_lluvia.jpg</image>
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_playa.jpg</image>
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

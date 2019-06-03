@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Gram&amp;#225;tica: el sustantivo&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Completa la oraci&amp;#243;n con la imagen correspondiente. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Este es un [payaso].&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>payaso</text>
+              <image>TEG_payaso.jpg</image>
+              <audio>TEG_payaso.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>pala</text>
+              <image>TEG_pala.jpg</image>
+              <audio>TEG_pala.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Pepe monta su [patineta].&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>patineta</text>
+              <image>TEG_patineta.jpg</image>
+              <audio>TEG_patineta.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>jarra</text>
+              <image>TEG_jarra.jpg</image>
+              <audio>TEG_jarra.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Mapi pasea en [bote].&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>mano</text>
+              <image>mano.jpg</image>
+              <audio>TEG_mano.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>bote</text>
+              <image>bote.jpg</image>
+              <audio>TEG_bote.mp3</audio>
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Pepe tiene un [papalote].&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>botas</text>
+              <image>botas.jpg</image>
+              <audio>TEG_botas.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>papalote</text>
+              <image>papalote.jpg</image>
+              <audio>TEG_papalote.mp3</audio>
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Mimi&amp;#160;pasea&amp;#160;su [perro].&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>perro</text>
+              <image>perro.jpg</image>
+              <audio>TEG_perro.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>ventana</text>
+              <image>ventana.jpg</image>
+              <audio>TEG_ventana.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Pablo es [piloto].&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>pastel</text>
+              <image>pastel.jpg</image>
+              <audio>TEG_pastel.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>piloto</text>
+              <image>piloto.jpg</image>
+              <audio>TEG_piloto.mp3</audio>
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

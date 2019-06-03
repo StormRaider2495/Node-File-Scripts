@@ -1,0 +1,616 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phoneme Categorization",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture to hear its name. Drag pictures with the same beginning sound into the blue box. Drag pictures with different sounds into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW034_035A_114242_D.jpg",
+                  "audio": "grass.mp3",
+                  "altText": "A red arrow pointing to green grass."
+                },
+                {
+                  "text": "M100_UW0SS_043A_114242_D.jpg",
+                  "audio": "grill.mp3",
+                  "altText": "Charcoals in a grill. A red arrow points to the grill."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_041A_114242_D.jpg",
+                  "audio": "clam.mp3",
+                  "altText": "An oyster at the bottom of the ocean with bubbles coming out."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_024A_114242_D.jpg",
+                  "audio": "skunk.mp3",
+                  "altText": "A skunk."
+                },
+                {
+                  "text": "M100_UW015_009A_114242_D.jpg",
+                  "audio": "skip.mp3",
+                  "altText": "A happy girl running."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW015_023A_114242_D.jpg",
+                  "audio": "plus.mp3",
+                  "altText": "A purple cross."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_020A_114242_D.jpg",
+                  "audio": "track.mp3",
+                  "altText": "A race car track with two drag race cars on it."
+                },
+                {
+                  "text": "M100_UW015_013A_114242_D.jpg",
+                  "audio": "trick.mp3",
+                  "altText": "A magician pulling a rabbit out of a hat."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW063_010A_114242_D.jpg",
+                  "audio": "swim.mp3",
+                  "altText": "A girl swimming."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW015_024A_114242_D.jpg",
+                  "audio": "drip.mp3",
+                  "altText": "A faucet. A red arrow points to a drip from the faucet."
+                },
+                {
+                  "text": "M100_UW015_005A_114242_D.jpg",
+                  "audio": "drill.mp3",
+                  "altText": "A power drill."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW0SS_038A_114242_D.jpg",
+                  "audio": "crack.mp3",
+                  "altText": "A cracked egg. A red arrow points to the crack."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW015_002A_114242_D.jpg",
+                  "audio": "breath.mp3",
+                  "altText": "A boy wearing a knit hat and a scarf. He is out in the snow. A red arrow points to his breath."
+                },
+                {
+                  "text": "M100_UW0SS_044A _114242_D.jpg",
+                  "audio": "brim.mp3",
+                  "altText": "A red mug. A red arrow points to its rim."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_029A_114242_D.jpg",
+                  "audio": "plant.mp3",
+                  "altText": "A potted green plant."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_013A_114242_D.jpg",
+                  "audio": "flag.mp3",
+                  "altText": "The flag of the United States."
+                },
+                {
+                  "text": "M100_UW015_006A_114242_D.jpg",
+                  "audio": "flat.mp3",
+                  "altText": "A table with four legs. A red arrow points to the top of the table."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW0SS_015A_114242_D.jpg",
+                  "audio": "stick.mp3",
+                  "altText": "A hockey stick."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_004A_114242_D.jpg",
+                  "audio": "plug.mp3",
+                  "altText": "An electrical cord. A red arrow points to its two prongs."
+                },
+                {
+                  "text": "M100_UW015_008A_114242_D.jpg",
+                  "audio": "plum.mp3",
+                  "altText": "A purple plum."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW015_012A_114242_D.jpg",
+                  "audio": "stump.mp3",
+                  "altText": "A tree stump."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW014_006A_114242_D.jpg",
+                  "audio": "crab.mp3",
+                  "altText": "A crab."
+                },
+                {
+                  "text": "M100_UW022_010A_114242_D.jpg",
+                  "audio": "crib.mp3",
+                  "altText": "A teddy bear in a baby's crib."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW062_010A_114242_D.jpg",
+                  "audio": "stop.mp3",
+                  "altText": "A crossing guard holding a stop sign up to a car."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_018A_114242_D.jpg",
+                  "audio": "trap.mp3",
+                  "altText": "A mouse trap with a piece of cheese on it."
+                },
+                {
+                  "text": "M100_UW023_022A_114242_D.jpg",
+                  "audio": "trunk.mp3",
+                  "altText": "An elephant. A red arrow points to its trunk."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_007A_114242_D.jpg",
+                  "audio": "clip.mp3",
+                  "altText": "A paper clip."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW015_027A_114242_D.jpg",
+                  "audio": "clasp.mp3",
+                  "altText": "A pearl bracelet. A red arrow points to its clasp."
+                },
+                {
+                  "text": "M100_UW024_041A_114242_D.jpg",
+                  "audio": "clam.mp3",
+                  "altText": "An oyster at the bottom of the ocean with bubbles coming out."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW015_007A_114242_D.jpg",
+                  "audio": "gran.mp3",
+                  "altText": "An old woman."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW015_001A_114242_D.jpg",
+                  "audio": "black.mp3",
+                  "altText": "A blob of black."
+                },
+                {
+                  "text": "M100_UW014_002A_114242_D.jpg",
+                  "audio": "block.mp3",
+                  "altText": "An ABC block."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_024A_114242_D.jpg",
+                  "audio": "skunk.mp3",
+                  "altText": "A skunk."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW025_017A_114242_D.jpg",
+                  "audio": "smell.mp3",
+                  "altText": "An old woman smelling her dinner, which includes steak and vegetables."
+                },
+                {
+                  "text": "M100_UW015_010A_114242_D.jpg",
+                  "audio": "smock.mp3",
+                  "altText": "A girl wearing a painter's smock and painting something green."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW032_017A_114242_D.jpg",
+                  "audio": "spill.mp3",
+                  "altText": "A bucket of spilled water."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Beginning Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW023_005A_114242_D.jpg",
+                  "audio": "stamp.mp3",
+                  "altText": "A stamp that stamps smiley faces. Two smiley faces are on a piece of paper."
+                },
+                {
+                  "text": "M100_UW015_011A_114242_D.jpg",
+                  "audio": "step.mp3",
+                  "altText": "A set of stairs. A red arrow points to one of the stair steps."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_008A_114242_D.jpg",
+                  "audio": "clock.mp3",
+                  "altText": "An alarm clock."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

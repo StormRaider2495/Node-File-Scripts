@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Normas del lenguaje: raya en los di&amp;#225;logos&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona la oraci&amp;#243;n que tiene la puntuaci&amp;#243;n correcta.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Mira por la ventana, mam&amp;#225; dijo Eduardo. &amp;#161;Qu&amp;#233; hermosa se ha puesto la ma&amp;#241;ana!&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>“Mira por la ventana, mamá” —dijo Eduardo—. ¡Qué hermosa se ha puesto la mañana!</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—Mira por la ventana, mamá, dijo Eduardo. ¡Qué hermosa se ha puesto la mañana!</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—Mira por la ventana, mamá —dijo Eduardo—. ¡Qué hermosa se ha puesto la mañana!</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#161;Hoy es un d&amp;#237;a perfecto para ir a la playa! continu&amp;#243; Eduardo.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>“¡Hoy es un día perfecto para ir a la playa!”, continuó Eduardo.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—¡Hoy es un día perfecto para ir a la playa! —continuó Eduardo.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>“¡Hoy es un día perfecto para ir a la playa!” —continuó Eduardo.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;S&amp;#237;, mam&amp;#225; agreg&amp;#243; Marta. &amp;#161;Vamos a la playa!&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>“Sí, mamá” agregó Marta ¡Vamos a la playa!</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—Sí, mamá”, agregó Marta, ¡Vamos a la playa!</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—Sí, mamá —agregó Marta—. ¡Vamos a la playa!</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#191;Ya hicieron las tareas? &amp;#160;pregunt&amp;#243; la mam&amp;#225; de los ni&amp;#241;os.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>“¿Ya hicieron las tareas? —preguntó la mamá de los niños.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>“¿Ya hicieron las tareas?” preguntó la mamá de los niños.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—¿Ya hicieron las tareas? —preguntó la mamá de los niños.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#161;Claro que s&amp;#237;, mam&amp;#225;! exclamaron a la vez Marta y Eduardo.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>“¡Claro que sí, mamá!” exclamaron a la vez Marta y Eduardo.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>—¡Claro que sí, mamá! —exclamaron a la vez Marta y Eduardo.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>—¡Claro que sí, mamá!, exclamaron a la vez Marta y Eduardo.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;La mam&amp;#225; sonri&amp;#243; y, sacando una canasta de picnic, dijo: &amp;#161;Prep&amp;#225;rense, chicos!&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>La mamá sonrió y, sacando una canasta de picnic, dijo: —¡Prepárense, chicos!</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>La mamá sonrió y, sacando una canasta de picnic, dijo: “¡Prepárense, chicos!”</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>La mamá sonrió y, sacando una canasta de picnic, dijo “¡Prepárense, chicos!”</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

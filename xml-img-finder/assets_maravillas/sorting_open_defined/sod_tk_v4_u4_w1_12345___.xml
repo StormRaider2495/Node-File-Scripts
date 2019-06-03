@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Gram&amp;#225;tica: el adjetivo&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la imagen para o&amp;#237;r su nombre.&amp;#160;Coloca los adjetivos en la caja azul.&amp;#160;&lt;br /&gt;Coloca las otras palabras&amp;#160;en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Haz clic en la imagen para o&amp;#237;r su nombre.&amp;#160;Coloca los adjetivos en la caja azul.&amp;#160;&lt;br /&gt;Coloca las otras palabras&amp;#160;en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un adjetivo</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_alto.jpg</text>
+                      <audio>TEG_alto.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_azul.jpg</text>
+                      <audio>TEG_azul.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_redondo.jpg</text>
+                      <audio>TEG_redondo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un adjetivo</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_falda.jpg</text>
+                      <audio>TEG_falda.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_cama.jpg</text>
+                      <audio>TEG_cama.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_radio.jpg</text>
+                      <audio>TEG_radio.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en la imagen para o&amp;#237;r su nombre.&amp;#160;Coloca los adjetivos en la caja azul.&amp;#160;&lt;br /&gt;Coloca las otras palabras&amp;#160;en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un adjetivo</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_pequen1o.jpg</text>
+                      <audio>TEG_pequen1a.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_morado.jpg</text>
+                      <audio>TEG_morado.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_roto.jpg</text>
+                      <audio>TEG_roto.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un adjetivo</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_fresa.jpg</text>
+                      <audio>TEG_fresa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_futbol.jpg</text>
+                      <audio>TEG_futbolista.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_familia.jpg</text>
+                      <audio>TEG_familia.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

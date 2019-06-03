@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Gram&amp;#225;tica: el verbo&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Completa la oraci&amp;#243;n con im&amp;#225;genes que muestran una acci&amp;#243;n.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Me gusta [cantar].&lt;/p&gt;</text>
+            <image />
+            <audio>me_gusta.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_cantar.jpg</image>
+              <audio>TEG_cantar.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_casa.jpg</image>
+              <audio>TEG_casa.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_parrilla.jpg</image>
+              <audio>TEG_parrilla.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_crayon.jpg</image>
+              <audio>TEG_crayon.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Me gusta [correr].&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_me_gusta.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_vela.jpg</image>
+              <audio>TEG_vela.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_correr.jpg</image>
+              <audio>TEG_correr.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_crater.jpg</image>
+              <audio>TEG_crater.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_mapa.jpg</image>
+              <audio>TEG_mapa.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Me gusta [leer].&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_me_gusta.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_leer.jpg</image>
+              <audio>TEG_leer.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_microbio.jpg</image>
+              <audio>TEG_microbio.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_lampara.jpg</image>
+              <audio>TEG_lampara.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Me gusta [pasear].&lt;/p&gt;</text>
+            <image />
+            <audio>TEG_me_gusta.mp3</audio>
+          </question>
+          <answers>
+            <answer>
+              <text />
+              <image>TEG_arana.jpg</image>
+              <audio>TEG_arana.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_pasear.jpg</image>
+              <audio>TEG_pasear.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_pajarraco.jpg</image>
+              <audio>TEG_pajarraco.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text />
+              <image>TEG_un1a.jpg</image>
+              <audio>TEG_un1a.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

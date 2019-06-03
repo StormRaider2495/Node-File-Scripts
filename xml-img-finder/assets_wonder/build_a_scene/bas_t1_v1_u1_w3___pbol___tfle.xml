@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title />
+  <directions>Listen to each word. Drag each label to the part of the animal it describes. Labels tell more about a picture.</directions>
+  <directionsAudio>dl_listen_label_animal.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="401.9" y="182.55"/&gt;  &lt;position x="201.35" y="499.3"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="580.35" y="455.1"/&gt;  &lt;position x="116.25" y="440.35"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="287.3" y="550.05"/&gt;  &lt;position x="84.3" y="365.85"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="192.4" y="148.15"/&gt;  &lt;position x="525.4" y="478"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW013_019A_114242_D.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>mane</text>
+          <image />
+          <audio>mane.mp3</audio>
+        </item>
+        <item>
+          <text>hoof</text>
+          <image />
+          <audio>hoof.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW013_020A_114242_D.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>paw</text>
+          <image />
+          <audio>paw.mp3</audio>
+        </item>
+        <item>
+          <text>whiskers</text>
+          <image />
+          <audio>whiskers.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW013_022A_114242_D.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>claw</text>
+          <image />
+          <audio>claw.mp3</audio>
+        </item>
+        <item>
+          <text>wing</text>
+          <image />
+          <audio>wing.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW013_021A_114242_D.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>fin</text>
+          <image />
+          <audio>fin.mp3</audio>
+        </item>
+        <item>
+          <text>gill</text>
+          <image />
+          <audio>gill.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

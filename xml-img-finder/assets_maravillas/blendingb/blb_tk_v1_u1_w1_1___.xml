@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blendingb>
+  <title>Reconocer la sílaba</title>
+  <directions />
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <audio />
+              <image>cometa.jpg</image>
+              <sounds>
+                <sound>
+                  <audio>co.mp3</audio>
+                </sound>
+                <sound>
+                  <audio>me.mp3</audio>
+                </sound>
+                <sound>
+                  <audio>ta.mp3</audio>
+                </sound>
+              </sounds>
+            </word>
+            <word>
+              <audio />
+              <image>cocina.jpg</image>
+              <sounds>
+                <sound>
+                  <audio>co.mp3</audio>
+                </sound>
+                <sound>
+                  <audio>ci.mp3</audio>
+                </sound>
+                <sound>
+                  <audio>na.mp3</audio>
+                </sound>
+              </sounds>
+            </word>
+            <word>
+              <audio />
+              <image>conejo.jpg</image>
+              <sounds>
+                <sound>
+                  <audio>co.mp3</audio>
+                </sound>
+                <sound>
+                  <audio>ne.mp3</audio>
+                </sound>
+                <sound>
+                  <audio>jo.mp3</audio>
+                </sound>
+              </sounds>
+            </word>
+          </words>
+          <question>
+            <correctIndex>1</correctIndex>
+          </question>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <audio />
+              <image>pirata.jpg</image>
+              <sounds>
+                <sound>
+                  <audio>pi.mp3</audio>
+                </sound>
+                <sound>
+                  <audio>ra.mp3</audio>
+                </sound>
+                <sound>
+                  <audio>ta.mp3</audio>
+                </sound>
+              </sounds>
+            </word>
+            <word>
+              <audio />
+              <image>maleta.jpg</image>
+              <sounds>
+                <sound>
+                  <audio>ma.mp3</audio>
+                </sound>
+                <sound>
+                  <audio>le.mp3</audio>
+                </sound>
+                <sound>
+                  <audio>ta.mp3</audio>
+                </sound>
+              </sounds>
+            </word>
+            <word>
+              <audio />
+              <image>cometa.jpg</image>
+              <sounds>
+                <sound>
+                  <audio>co.mp3</audio>
+                </sound>
+                <sound>
+                  <audio>me.mp3</audio>
+                </sound>
+                <sound>
+                  <audio>ta.mp3</audio>
+                </sound>
+              </sounds>
+            </word>
+          </words>
+          <question>
+            <correctIndex>3</correctIndex>
+          </question>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</blendingb>
+

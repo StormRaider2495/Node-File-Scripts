@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con bl&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la palabra escrita con &lt;u&gt;bl&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra&amp;#160;&lt;b&gt;sin&lt;/b&gt;&amp;#160;&lt;u&gt;bl&lt;/u&gt;&amp;#160;en la caja roja. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene bl</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>habla</text>
+                      <audio>TEG_habla.mp3</audio>
+                    </item>
+                    <item>
+                      <text>imposible</text>
+                      <audio>TEG_imposible.mp3</audio>
+                    </item>
+                    <item>
+                      <text>biblioteca</text>
+                      <audio>TEG_biblioteca.mp3</audio>
+                    </item>
+                    <item>
+                      <text>blanco</text>
+                      <audio>TEG_blanco.mp3</audio>
+                    </item>
+                    <item>
+                      <text>bloques</text>
+                      <audio>TEG_bloques.mp3</audio>
+                    </item>
+                    <item>
+                      <text>blusa</text>
+                      <audio>TEG_blusa.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene bl</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>libro</text>
+                      <audio>TEG_libro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>labrador</text>
+                      <audio>TEG_labrador.mp3</audio>
+                    </item>
+                    <item>
+                      <text>boleto</text>
+                      <audio>TEG_boleto.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene bl</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>blanqueador</text>
+                      <audio>TEG_blanqueador.mp3</audio>
+                    </item>
+                    <item>
+                      <text>blusón</text>
+                      <audio>TEG_bluson.mp3</audio>
+                    </item>
+                    <item>
+                      <text>blando</text>
+                      <audio>TEG_blando.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mueble</text>
+                      <audio>TEG_mueble.mp3</audio>
+                    </item>
+                    <item>
+                      <text>niebla</text>
+                      <audio>TEG_niebla.mp3</audio>
+                    </item>
+                    <item>
+                      <text>problema</text>
+                      <audio>TEG_problema.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene bl</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>balón</text>
+                      <audio>TEG_balon.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pulso</text>
+                      <audio>TEG_pulso.mp3</audio>
+                    </item>
+                    <item>
+                      <text>brocóli</text>
+                      <audio>TEG_brocoli.mp3</audio>
+                    </item>
+                    <item>
+                      <text>brindar</text>
+                      <audio>TEG_brindar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cabello</text>
+                      <audio>TEG_cabello.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

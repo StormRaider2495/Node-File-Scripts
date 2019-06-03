@@ -1,0 +1,182 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phoneme Categorization",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click each picture to hear its name. Drag pictures that have the /h/ sound into the blue box. Drag pictures that do not have the /h/ sound into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/h/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_037A_193002_d.jpg",
+                  "audio": "hammer.mp3",
+                  "altText": "A hammer."
+                },
+                {
+                  "text": "M100_UW041_013A_193002_d.jpg",
+                  "audio": "hay.mp3",
+                  "altText": "A bale of hay."
+                },
+                {
+                  "text": "M100_UW032_005A_193002_d.jpg",
+                  "audio": "honk.mp3",
+                  "altText": "A red truck carrying a load."
+                },
+                {
+                  "text": "M100_UW051_001A_193002_d.jpg",
+                  "audio": "hippo.mp3",
+                  "altText": "A rhinoceros."
+                },
+                {
+                  "text": "M100_UW031_003A_193002_d.jpg",
+                  "audio": "hop.mp3",
+                  "altText": "A hopping rabbit."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Do Not Have /h/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_035A_193002_d.jpg",
+                  "audio": "nut.mp3",
+                  "altText": "A walnut."
+                },
+                {
+                  "text": "M100_UW013_007A_193002_d.jpg",
+                  "audio": "kitten.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/h/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_038A_193002_d.jpg",
+                  "audio": "hold.mp3",
+                  "altText": "A boy holding a hamster."
+                },
+                {
+                  "text": "M100_UW011_043A_193002_d.jpg",
+                  "audio": "house.mp3",
+                  "altText": "A small blue house with a chimney."
+                },
+                {
+                  "text": "M100_UW012_022A_193002_d.jpg",
+                  "audio": "hat.mp3",
+                  "altText": "A hat with flowers around it."
+                },
+                {
+                  "text": "M100_UW051_014A_193002_d.jpg",
+                  "audio": "hanger.mp3",
+                  "altText": "A blue sweater on a hanger."
+                },
+                {
+                  "text": "M100_UW011_047A_193002_d.jpg",
+                  "audio": "hen.mp3",
+                  "altText": "A rooster."
+                },
+                {
+                  "text": "M100_UW051_013A_193002_d.jpg",
+                  "audio": "hand.mp3",
+                  "altText": "A hand with fingernail polish on it."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Do Not Have /h/ Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_028A_193002_d.jpg",
+                  "audio": "lemon.mp3",
+                  "altText": "A lemon."
+                },
+                {
+                  "text": "M100_UW031_033A_193002_d.jpg",
+                  "audio": "inch.mp3",
+                  "altText": "Part of a green ruler, from zero to one."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

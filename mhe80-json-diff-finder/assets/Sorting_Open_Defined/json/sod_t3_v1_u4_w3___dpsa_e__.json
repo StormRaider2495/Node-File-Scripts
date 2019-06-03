@@ -1,0 +1,267 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics - Variant Vowel /&#244;/",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Say each word. Then drag the words with the /&#244;/ vowel sound to the bin.</p>",
+    "audio": "dl_drag_ô_sound.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ô/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_aw.mp3"
+              },
+              "contents": [
+                {
+                  "text": "haul",
+                  "audio": "haul.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "salt",
+                  "audio": "salt.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "walk",
+                  "audio": "walk.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "straw",
+                  "audio": "straw.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "ball",
+                  "audio": "ball.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "won",
+                  "audio": "won.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "nurse",
+                  "audio": "nurse.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "earn",
+                  "audio": "earn.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ô/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_aw.mp3"
+              },
+              "contents": [
+                {
+                  "text": "bought",
+                  "audio": "bought.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "talk",
+                  "audio": "talk.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "halls",
+                  "audio": "halls.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "small",
+                  "audio": "small.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "caused",
+                  "audio": "caused.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "show",
+                  "audio": "show.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "chop",
+                  "audio": "chop.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "bats",
+                  "audio": "bats.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/ô/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_aw.mp3"
+              },
+              "contents": [
+                {
+                  "text": "water",
+                  "audio": "water.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "taught",
+                  "audio": "taught.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "straw",
+                  "audio": "straw.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "halted",
+                  "audio": "halted.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "caught",
+                  "audio": "caught.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "coughing",
+                  "audio": "coughing.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "other.mp3"
+              },
+              "contents": [
+                {
+                  "text": "maybe",
+                  "audio": "maybe.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "lunches",
+                  "audio": "lunches.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

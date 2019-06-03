@@ -1,0 +1,327 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Build Vocabulary: Shades of Meaning",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Look at the word at the top of the column. Drag the related words from the Word Bank to the labeled column. If a word isn&#8217;t related, move it to the box labeled o<i>ther.</i></p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "absorb",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "suck up",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "take in",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "include",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "embrace",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "moisten",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "not use",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "misunderstand",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "conserve",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "maintain",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "preserve",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "keep",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "hold",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "spend",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "throw away",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "use",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "cycle",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "circle",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "round",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "chain",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "series",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "stop",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "union",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "partial",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "necessity",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "essential",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "requirement",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "condition",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "demand",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "desire",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "wish",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "hope",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

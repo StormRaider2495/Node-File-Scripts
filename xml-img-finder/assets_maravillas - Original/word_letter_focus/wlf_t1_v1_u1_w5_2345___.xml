@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<word_letter_focus>
+  <title>Análisis estructural: palabras en plural con -es</title>
+  <directions>&lt;p&gt;Lee las palabras. Marca con el pote las palabras que indican m&amp;#225;s de uno.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text>mil</text>
+            </word>
+            <word>
+              <text>{wh}miles{/wh}</text>
+            </word>
+            <word>
+              <text>sol</text>
+            </word>
+            <word>
+              <text>{wh}soles{/wh}</text>
+            </word>
+            <word>
+              <text>mal</text>
+            </word>
+            <word>
+              <text>{wh}males{/wh}</text>
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text />
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text>{wh}panes{/wh}</text>
+            </word>
+            <word>
+              <text>pan</text>
+            </word>
+            <word>
+              <text>melón</text>
+            </word>
+            <word>
+              <text>{wh}melones{/wh}</text>
+            </word>
+            <word>
+              <text>{wh}boles{/wh}</text>
+            </word>
+            <word>
+              <text>bol</text>
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text />
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text>mantel</text>
+            </word>
+            <word>
+              <text>{wh}manteles{/wh}</text>
+            </word>
+            <word>
+              <text>botón</text>
+            </word>
+            <word>
+              <text>{wh}botones{/wh}</text>
+            </word>
+            <word>
+              <text>panal</text>
+            </word>
+            <word>
+              <text>{wh}panales{/wh}</text>
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text />
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</word_letter_focus>
+

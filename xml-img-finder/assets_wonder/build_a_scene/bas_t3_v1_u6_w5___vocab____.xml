@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Build Vocabulary: Academic Vocabulary</title>
+  <directions>Drag the appropriate words from the list on the right to the space on left.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow1" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="147.45" y="532.55"/&gt;  &lt;position x="582.75" y="532.6"/&gt;  &lt;position x="367.1" y="533.65"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="370.1" y="530.55"/&gt;  &lt;position x="150.35" y="531.6"/&gt;  &lt;position x="583.75" y="529.6"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="369.05" y="529.6"/&gt;  &lt;position x="155.45" y="530.55"/&gt;  &lt;position x="587.75" y="524.55"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>BAS_T3v1_U6W5_Vocab.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>entertaining</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>entertainment</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>entertainer</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>BAS_T3v1_U6W5_Vocab_2.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>resident</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>residence</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>residential</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>BAS_T3v1_U6W5_Vocab_3.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>specifics</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>specific</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>unspecified</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

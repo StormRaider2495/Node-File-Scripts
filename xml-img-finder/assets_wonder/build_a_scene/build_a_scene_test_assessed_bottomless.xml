@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>World Flags</title>
+  <directions>Label the countries using the text captions. When you have finished click the right arrow to move onto the next one.</directions>
+  <directionsAudio>directions_audio_test.mp3</directionsAudio>   
+  <layoutMode value="no" />
+  <itemReplenishmentMode value="bottomless" />
+  <assessmentMode value="assessed" />
+  <positionData><![CDATA[<data><screen>  <position x="104" y="269"/>  <position x="130" y="230"/>  <position x="196" y="531"/></screen><screen>  <position x="543" y="533"/>  <position x="274" y="504"/>  <position x="367" y="366"/></screen></data>]]></positionData>
+  <rounds>
+	<round>
+		<assessedOverride value="true"/>
+		<contentImage>test_map_world.jpg</contentImage>
+		<contentImageAudio></contentImageAudio>	
+		  <imageSize value="medium" />
+		  <textSize></textSize> 
+			<items>
+				<item>
+				  <text>Have visited</text>
+				  <image></image>
+				</item>
+				<item>
+				  <text>Want to visit</text>
+				  <image></image>
+				</item>
+				<item>
+				  <text>Don't want to visit</text>
+				  <image></image>
+				</item>
+			</items>
+		</round>  
+		<round>
+		<assessedOverride value="true"/>
+		<contentImage>test_map_world.jpg</contentImage>
+		<contentImageAudio></contentImageAudio>			
+		  <imageSize value="medium" />
+		  <textSize></textSize> 
+			<items>
+				<item>
+				  <text>Large population</text>
+				  <image></image>
+				</item>
+				<item>
+				  <text>Small Population</text>
+				  <image></image>
+				</item>
+				<item>
+				  <text>Medium Population</text>
+				  <image></image>
+				</item>
+			</items>
+		</round> 
+	</rounds>  		
+		  
+		  
+		  
+</build_a_scene>
+

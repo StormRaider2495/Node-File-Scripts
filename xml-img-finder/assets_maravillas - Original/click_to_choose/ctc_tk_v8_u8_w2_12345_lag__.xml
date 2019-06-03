@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Gram&amp;#225;tica: oraciones con preposiciones&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona una preposici&amp;#243;n para completar la oraci&amp;#243;n.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;La camiseta est&amp;#225; [en] el ropero.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>a</text>
+              <image />
+              <audio>TEG_a.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>en</text>
+              <image />
+              <audio>TEG_en.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>para</text>
+              <image />
+              <audio>TEG_para.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Vi una pel&amp;#237;cula&amp;#160;[sobre] animales.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>a</text>
+              <image />
+              <audio>TEG_a.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>hacia</text>
+              <image />
+              <audio>TEG_hacia.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>sobre</text>
+              <image />
+              <audio>TEG_sobre.mp3</audio>
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Mi silla est&amp;#225; [entre] la tuya y la de M&amp;#243;nica.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>entre</text>
+              <image />
+              <audio>TEG_entre.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>por</text>
+              <image />
+              <audio>TEG_por.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>de</text>
+              <image />
+              <audio>TEG_de.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Voy de paseo [con] mi pap&amp;#225;.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>en</text>
+              <image />
+              <audio>TEG_en.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>con</text>
+              <image />
+              <audio>TEG_con.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>a</text>
+              <image />
+              <audio>TEG_a.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

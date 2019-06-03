@@ -1,0 +1,336 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phonics: Soft <i>c</i> and <i>g</i>",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Decide if each word has the soft <i>c </i>sound<i>,</i> soft <i>g</i> sound, or other sound. Then drag the word to the correct column.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Soft <i>c</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "place",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "pounce",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cell",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "fancy",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Soft <i>g</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "gem",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "wage",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "gently",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "fang",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "gasp",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cloudy",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Soft <i>c</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "space",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "central",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "office",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Soft <i>g</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "change",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "giant",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "germ",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "large",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "gear",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "champ",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "guard",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Soft <i>c</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "century",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "peaceful",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "price",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "dancer",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Soft <i>g</i>",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "village",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "general",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "message",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "capital",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "greatly",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "practical",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

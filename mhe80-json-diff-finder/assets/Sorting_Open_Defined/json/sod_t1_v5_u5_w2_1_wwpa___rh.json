@@ -1,0 +1,377 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Identify Rhyme",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Words that have the same end sounds rhyme. Click on the pictures. Drag the pictures that rhyme to the blue box. Drag pictures that do not rhyme into the red box.<b> </b></p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW052_001A_114242_D.jpg",
+                  "audio": "clerk.mp3",
+                  "altText": "A cashier ringing up bananas."
+                },
+                {
+                  "text": "M100_UW052_002A_114242_D.jpg",
+                  "audio": "smirk.mp3",
+                  "altText": "A girl."
+                },
+                {
+                  "text": "M100_UW052_003A_114242_D.jpg",
+                  "audio": "work.mp3",
+                  "altText": "A woman is sitting behind her desk at her office talking on the telephone and holding some papers. In the background is a computer and some books and folders. On her desk are more papers."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW021_005A_114242_D.jpg",
+                  "audio": "ham.mp3",
+                  "altText": "A cooked ham with steam coming off it."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW052_004A_114242_D.jpg",
+                  "audio": "bird.mp3",
+                  "altText": "A blue bird."
+                },
+                {
+                  "text": "M100_UW052_005A_114242_D.jpg",
+                  "audio": "third.mp3",
+                  "altText": "Three boys and a girl. A red arrow points to the girl."
+                },
+                {
+                  "text": "M100_UW052_006A_114242_D.jpg",
+                  "audio": "herd.mp3",
+                  "altText": "A group of cows. "
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_023A_114242_D.jpg",
+                  "audio": "pig.mp3",
+                  "altText": "A pig."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_015A_114242_D.jpg",
+                  "audio": "shirt.mp3",
+                  "altText": "A yellow shirt."
+                },
+                {
+                  "text": "M100_UW052_007A_114242_D.jpg",
+                  "audio": "skirt.mp3",
+                  "altText": "A red tennis skirt."
+                },
+                {
+                  "text": "M100_UW052_008A_114242_D.jpg",
+                  "audio": "dirt.mp3",
+                  "altText": "A shovel and a pile of dirt. A red arrow points to the pile of dirt."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW024_013A_114242_D.jpg",
+                  "audio": "sheep.mp3",
+                  "altText": "A lamb."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW052_010A_114242_D.jpg",
+                  "audio": "birch.mp3",
+                  "altText": "A tree."
+                },
+                {
+                  "text": "M100_UW052_011A_114242_D.jpg",
+                  "audio": "perch.mp3",
+                  "altText": "A toucan standing on a dowel."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_011A_114242_D.jpg",
+                  "audio": "nut.mp3",
+                  "altText": "A walnut."
+                },
+                {
+                  "text": "M100_UW051_015A_114242_D.jpg",
+                  "audio": "farm.mp3",
+                  "altText": "A farm with a barn and fence, a cow, a pig, and three chickens."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW052_012A_114242_D.jpg",
+                  "audio": "purse.mp3",
+                  "altText": "A gold and orange purse."
+                },
+                {
+                  "text": "M100_UW052_013A_114242_D.jpg",
+                  "audio": "nurse.mp3",
+                  "altText": "A doctor wearing glasses and holding a clipboard."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW021_009A_114242_D.jpg",
+                  "audio": "bread.mp3",
+                  "altText": "A loaf of bread with two slices cut out."
+                },
+                {
+                  "text": "M100_UW032_003A_114242_D.jpg",
+                  "audio": "kite.mp3",
+                  "altText": "A red kite."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW052_014A_114242_D.jpg",
+                  "audio": "churn.mp3",
+                  "altText": "A butter churner."
+                },
+                {
+                  "text": "M100_UW052_015A_114242_D.jpg",
+                  "audio": "turn.mp3",
+                  "altText": "A page in a book being turned. A red arrow indicates the page is being turned."
+                },
+                {
+                  "text": "M100_UW052_016A_114242_D.jpg",
+                  "audio": "fern.mp3",
+                  "altText": "A potted fern."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW032_001A_114242_D.jpg",
+                  "audio": "bike.mp3",
+                  "altText": "A bicycle."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Rhyming Words",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW052_017A_114242_D.jpg",
+                  "audio": "blurred.mp3",
+                  "altText": "A blurry capital R."
+                },
+                {
+                  "text": "M100_UW052_018A_114242_D.jpg",
+                  "audio": "stirred.mp3",
+                  "altText": "A girl with a chef's hat on stirring a pot."
+                },
+                {
+                  "text": "M100_UW052_019A_114242_D.jpg",
+                  "audio": "word.mp3",
+                  "altText": "The word \"word.\" A red arrow points to the d."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW021_001A_114242_D.jpg",
+                  "audio": "pen.mp3",
+                  "altText": "A red and gold ink pen."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

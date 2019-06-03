@@ -1,0 +1,357 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics&#8211; Vowel Sounds",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Read each word aloud, paying attention to the vowel sound. Sort words into the appropriate columns.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Long Vowel",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "lake",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mane",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "vine",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bite",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mean",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "steep",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cube",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "huge",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short Vowel",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "mad",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sit",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "met",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "hug",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cot",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sat",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Long Vowel",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "foam",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "roam",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "snake",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "plate",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "smile",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "grime",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "dream",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "pleat",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short Vowel",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "flop",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "slap",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "prim",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "pet",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cut",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "rot",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Long Vowel",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "gleam",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "treat",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "glide",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "spice",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unite",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "pew",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "blaze",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "brave",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Short Vowel",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "bread",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "drip",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "drum",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "flap",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "drop",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "trip",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

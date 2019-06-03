@@ -1,0 +1,222 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phonics: Identify/Categorize",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on the picture to hear its name. Drag pictures that begin with the letter u into the left box. Drag pictures with the letter u in the middle into the right box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "u___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW021_023A_193002_d.jpg",
+                  "audio": "up.mp3",
+                  "altText": "A pink rabbit walking up steps. A brown arrow points the way up the steps."
+                },
+                {
+                  "text": "M100_UW041_004A_193002_d.jpg",
+                  "audio": "umpire.mp3",
+                  "altText": "A baseball umpire."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "__u__",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_007A_193002_d.jpg",
+                  "audio": "tug.mp3",
+                  "altText": "A blue tugboat."
+                },
+                {
+                  "text": "M100_UW013_043A_193002_d.jpg",
+                  "audio": "sun.mp3",
+                  "altText": "A yellow sun."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "u___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW071_016A_193002_d.jpg",
+                  "audio": "umbrella.mp3",
+                  "altText": "An orange and blue umbrella."
+                },
+                {
+                  "text": "M100_UW042_017A_193002_d.jpg",
+                  "audio": "under.mp3",
+                  "altText": "A pink rabbit under a blue chair."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "__u__",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW071_009A_193002_d.jpg",
+                  "audio": "brush.mp3",
+                  "altText": "A boy holding toothpaste and using a toothbrush to brush his teeth."
+                },
+                {
+                  "text": "M100_UW053_017A_193002_d.jpg",
+                  "audio": "bunny.mp3",
+                  "altText": "A white bunny."
+                },
+                {
+                  "text": "M100_UW011_078A_193002_d.jpg",
+                  "audio": "muffin.mp3",
+                  "altText": "A brown muffin."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "u___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW071_022A_193002_d.jpg",
+                  "audio": "upsidedown.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "M100_UW071_021A_193002_d.jpg",
+                  "audio": "undershirt.mp3",
+                  "altText": "A white tank top."
+                },
+                {
+                  "text": "M100_UW071_001A_193002_d.jpg",
+                  "audio": "uncle.mp3",
+                  "altText": "A younger boy and two older boys. A blue arrow points to one of the older boys."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "__u__",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW021_014A_.193002_dx.jpg",
+                  "audio": "puzzle.mp3",
+                  "altText": "A flower puzzle with two pieces not filled in."
+                },
+                {
+                  "text": "M100_UW023_034A_193002_d.jpg",
+                  "audio": "puppy.mp3",
+                  "altText": "A smiling brown dog."
+                },
+                {
+                  "text": "M100_UW022_012A_193002_d.jpg",
+                  "audio": "truck.mp3",
+                  "altText": "A red and yellow fire truck."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

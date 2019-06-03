@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras: n&amp;#250;meros&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Coloca las im&amp;#225;genes que muestran n&amp;#250;meros en la caja azul. Coloca las im&amp;#225;genes que no muestran n&amp;#250;meros en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un número</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_dos.jpg</text>
+                      <audio>TEG_dos.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_siete.jpg</text>
+                      <audio>TEG_siete.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_nueve.jpg</text>
+                      <audio>TEG_nueve.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un número</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_escoba.jpg</text>
+                      <audio>TEG_escoba.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_mesa.jpg</text>
+                      <audio>TEG_mesa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_clavo.jpg</text>
+                      <audio>TEG_clavo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Coloca las im&amp;#225;genes que muestran n&amp;#250;meros en la caja azul. Coloca las im&amp;#225;genes que no muestran n&amp;#250;meros en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un número</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_cuatro.jpg</text>
+                      <audio>TEG_cuatro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_seis.jpg</text>
+                      <audio>TEG_seis.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_diez.jpg</text>
+                      <audio>TEG_diez.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un número</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_cubo.jpg</text>
+                      <audio>TEG_cubo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_figura.jpg</text>
+                      <audio>TEG_figura.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_gris.jpg</text>
+                      <audio>TEG_gris.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

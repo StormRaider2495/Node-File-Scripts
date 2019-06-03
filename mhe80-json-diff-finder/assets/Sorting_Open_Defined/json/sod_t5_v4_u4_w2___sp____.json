@@ -1,0 +1,640 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Spelling: Prefixes",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p><b>Sort the spelling words into the columns using the key words or word parts.</b></p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "un-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "unusual",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unaware",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unfriendly",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unfinished",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unimportant",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "re-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "regain",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "repaired",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "refreeze",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "replenish",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "reunite",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "rediscover",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "dis-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "disconnect",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "dislike",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "distrust",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "non-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "nonslip",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "mis-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "misguide",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "over-/under-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "overact",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "underwater",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "sub-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "submerge",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "un-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "unusual",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unaware",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unfriendly",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unfinished",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unimportant",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "re-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "regain",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "repaired",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "refreeze",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "replenish",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "reunite",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "rediscover",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "dis-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "disconnect",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "discourage",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "dishonest",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "non-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "nonspecific",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "mis-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "misguide",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "over-/under-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "overwhelm",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "underwater",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "sub-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "submerge",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "un-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "unusually",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unfriendly",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unfinished",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "unimportant",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "re-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "regain",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "repaired",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "replenished",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "reunited",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "rewrap",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "rediscovering",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "dis-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "dishonestly",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "discouraged",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "disconnect",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "non",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "nonspecific",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "mis-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "misguided",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "miscalculated",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "over-/under-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "overwhelm",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "underwater",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "sub-",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "subaquatic",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "submerge",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

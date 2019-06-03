@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras: ropa&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las palabras que nombran prendas de ropa en la caja azul. Coloca las palabras que no nombran prendas de ropa en la caja roja.&amp;#160;&lt;b&gt;&amp;#160;&lt;/b&gt;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es ropa</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_sombrero.jpg</text>
+                      <audio>TEG_sombrero.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_pantalon.jpg</text>
+                      <audio>TEG_pantalon.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_camisa.jpg</text>
+                      <audio>TEG_camisa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_vestido.jpg</text>
+                      <audio>TEG_vestido.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es ropa</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_boca.jpg</text>
+                      <audio>TEG_boca.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_arbol.jpg</text>
+                      <audio>TEG_arbol.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_mariposa.jpg</text>
+                      <audio>TEG_mariposa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_popote.jpg</text>
+                      <audio>TEG_popote.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las palabras que nombran prendas de ropa en la caja azul. Coloca las palabras que no nombran prendas de ropa en la caja roja.&amp;#160;&lt;b&gt;&amp;#160;&lt;/b&gt;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es ropa</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_zapatos.jpg</text>
+                      <audio>TEG_zapatos.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_falda.jpg</text>
+                      <audio>TEG_falda.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_gorro.jpg</text>
+                      <audio>TEG_gorro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_abrigo.jpg</text>
+                      <audio>TEG_abrigo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es ropa</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_ventilador.jpg</text>
+                      <audio>TEG_ventilador.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_raqueta.jpg</text>
+                      <audio>TEG_raqueta.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_bicicleta.jpg</text>
+                      <audio>TEG_bicicleta.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_acrobata.jpg</text>
+                      <audio>TEG_acrobata.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

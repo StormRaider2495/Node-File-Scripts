@@ -1,0 +1,377 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phoneme Categorization",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture to hear its name. Drag pictures with the same middle sound into the blue box. Drag pictures with a different middle sound into the red box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW044_001A_114242_D.jpg",
+                  "audio": "sign.mp3",
+                  "altText": "A no left turn sign."
+                },
+                {
+                  "text": "M100_UW044_002A_114242_D.jpg",
+                  "audio": "blinds.mp3",
+                  "altText": "Window blinds. A red arrow points to the blinds."
+                },
+                {
+                  "text": "M100_UW044_003A_114242_D.jpg",
+                  "audio": "cry.mp3",
+                  "altText": "A crying baby."
+                },
+                {
+                  "text": "M100_UW044_004A_114242_D.jpg",
+                  "audio": "fly.mp3",
+                  "altText": "A dragonfly flying around."
+                },
+                {
+                  "text": "M100_UW044_005A_114242_D.jpg",
+                  "audio": "child.mp3",
+                  "altText": "A boy in a wheelchair."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_037A_114242_D.jpg",
+                  "audio": "chick.mp3",
+                  "altText": "A canary singing."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW044_007A_114242_D.jpg",
+                  "audio": "sky.mp3",
+                  "altText": "A country road with mountains on both sides. A red arrow points between two clouds in the sky."
+                },
+                {
+                  "text": "M100_UW044_008A_114242_D.jpg",
+                  "audio": "light.mp3",
+                  "altText": "A street light shining at night."
+                },
+                {
+                  "text": "M100_UW044_009A_114242_D.jpg",
+                  "audio": "spy.mp3",
+                  "altText": "A boy wearing glasses sitting on the ground while another boy peeks over a brick wall."
+                },
+                {
+                  "text": "M100_UW044_011A_114242_D.jpg",
+                  "audio": "high.mp3",
+                  "altText": "A smiling girl sliding down a slide."
+                },
+                {
+                  "text": "M100_UW044_012A_114242_D.jpg",
+                  "audio": "night.mp3",
+                  "altText": "A moon and stars in the night sky."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW044_010A_114242_D.jpg",
+                  "audio": "sponge.mp3",
+                  "altText": "A sponge with bubbles floating around it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW044_013A_114242_D.jpg",
+                  "audio": "tight.mp3",
+                  "altText": "A boy with a belt tightly around his waist."
+                },
+                {
+                  "text": "M100_UW044_014A_114242_D.jpg",
+                  "audio": "thigh.mp3",
+                  "altText": "A girl standing with her arms folded. A red arrow points to her pants."
+                },
+                {
+                  "text": "M100_UW044_015A_114242_D.jpg",
+                  "audio": "shy.mp3",
+                  "altText": "A girl standing with her hands together."
+                },
+                {
+                  "text": "M100_UW044_016A_114242_D.jpg",
+                  "audio": "pie.mp3",
+                  "altText": "A slice of apple pie."
+                },
+                {
+                  "text": "M100_UW044_017A_114242_D.jpg",
+                  "audio": "tie.mp3",
+                  "altText": "A collared shirt and striped tie. A red arrow points to the tie."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW043_023A_114242_D.jpg",
+                  "audio": "toe.mp3",
+                  "altText": "A person's foot. A red arrow points to the big toe."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW044_004A_114242_D.jpg",
+                  "audio": "fly.mp3",
+                  "altText": "A dragonfly flying around."
+                },
+                {
+                  "text": "M100_UW044_018A_114242_D.jpg",
+                  "audio": "dry.mp3",
+                  "altText": "A girl using a dish towel to dry a plate."
+                },
+                {
+                  "text": "M100_UW044_019A_114242_D.jpg",
+                  "audio": "pry.mp3",
+                  "altText": "A hand using a screwdriver to open a can of green paint."
+                },
+                {
+                  "text": "M100_UW044_020A_114242_D.jpg",
+                  "audio": "wind2.mp3",
+                  "altText": "A hand setting a watch."
+                },
+                {
+                  "text": "M100_UW044_003A_114242_D.jpg",
+                  "audio": "cry.mp3",
+                  "altText": "A crying baby."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW043_017A_114242_D.jpg",
+                  "audio": "crow.mp3",
+                  "altText": "A raven."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Same Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW044_005A_114242_D.jpg",
+                  "audio": "child.mp3",
+                  "altText": "A boy in a wheelchair."
+                },
+                {
+                  "text": "M100_UW044_012A_114242_D.jpg",
+                  "audio": "night.mp3",
+                  "altText": "A moon and stars in the night sky."
+                },
+                {
+                  "text": "M100_UW044_016A_114242_D.jpg",
+                  "audio": "pie.mp3",
+                  "altText": "A slice of apple pie."
+                },
+                {
+                  "text": "M100_UW044_009A_114242_D.jpg",
+                  "audio": "spy.mp3",
+                  "altText": "A boy wearing glasses sitting on the ground while another boy peeks over a brick wall."
+                },
+                {
+                  "text": "M100_UW044_008A_114242_D.jpg",
+                  "audio": "light.mp3",
+                  "altText": "A street light shining at night."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Different Middle Sound",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW034_019A_114242_D.jpg",
+                  "audio": "nose.mp3",
+                  "altText": "A red arrow pointing to a boy's nose."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Gram&amp;#225;tica: el pronombre&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Selecciona un pronombre para completar la oraci&amp;#243;n.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;[Yo] como cebolla.&amp;#160;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Ellos</text>
+              <image />
+              <audio>TEG_ellos.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Tú</text>
+              <image />
+              <audio>TEG_tu1.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Yo</text>
+              <image />
+              <audio>TEG_yo.mp3</audio>
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;[Nosotros] caminamos hasta aqu&amp;#237;.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Ellos</text>
+              <image />
+              <audio>TEG_ellos.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Ella</text>
+              <image />
+              <audio>TEG_ella.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Nosotros</text>
+              <image />
+              <audio>TEG_nosotros.mp3</audio>
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#191;[Ellos] son Pepe&amp;#160;y Tito?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Ellos</text>
+              <image />
+              <audio>TEG_ellos.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Yo</text>
+              <image />
+              <audio>TEG_yo.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Ella</text>
+              <image />
+              <audio>TEG_ella.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;[Ella] se llama Susana.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Nosotros</text>
+              <image />
+              <audio>TEG_nosotros.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Ella</text>
+              <image />
+              <audio>TEG_ella.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Él</text>
+              <image />
+              <audio>TEG_el.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras: &lt;i&gt;Colores&lt;/i&gt;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;En esta actividad los ni&amp;#241;os clasifican palabras seg&amp;#250;n una categor&amp;#237;a.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Colocar las palabras que pertenezcan a la categor&amp;#237;a &lt;i&gt;Colores&lt;/i&gt; en la caja roja y las que no pertenezcan en la caja azul.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Colores</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_verde.jpg</text>
+                      <audio>TEG_verde.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_negro.jpg</text>
+                      <audio>TEG_negro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_rojo.jpg</text>
+                      <audio>TEG_rojo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Otras palabras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_sandwich.jpg</text>
+                      <audio>TEG_sandwich.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_pera.jpg</text>
+                      <audio>TEG_pera.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_ancla.jpg</text>
+                      <audio>TEG_ancla.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Colocar las palabras que pertenezcan a la categor&amp;#237;a&amp;#160;&lt;i&gt;Colores&lt;/i&gt;&amp;#160;en la caja roja y las que no pertenezcan en la caja azul.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Colores</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_gris.jpg</text>
+                      <audio>TEG_gris.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_blanco.jpg</text>
+                      <audio>TEG_blanco.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_amarillo.jpg</text>
+                      <audio>TEG_amarillo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Otras palabras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_perro.jpg</text>
+                      <audio>TEG_perro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_juguetes.jpg</text>
+                      <audio>TEG_juguetes.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_nube.jpg</text>
+                      <audio>TEG_nube.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Colocar las palabras que pertenezcan a la categor&amp;#237;a&amp;#160;&lt;i&gt;Colores&lt;/i&gt;&amp;#160;en la caja roja y las que no pertenezcan en la caja azul.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Colores</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_azul.jpg</text>
+                      <audio>TEG_azul.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_rosado.jpg</text>
+                      <audio>TEG_rosado.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_marron.jpg</text>
+                      <audio>TEG_marron.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Otras palabras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_bicicleta.jpg</text>
+                      <audio>TEG_bicicleta.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_ciclon.jpg</text>
+                      <audio>TEG_ciclon.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_crucero.jpg</text>
+                      <audio>TEG_crucero.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

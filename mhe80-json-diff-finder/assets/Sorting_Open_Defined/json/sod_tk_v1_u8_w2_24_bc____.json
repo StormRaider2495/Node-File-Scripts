@@ -1,0 +1,202 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Category Words: Ordinal Numbers",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture to hear its name. Drag words that are ordinal numbers to the blue box. Drag words that are not into the red box. Then click OK.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Ordinal Numbers",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW082_001A_193002_d.jpg",
+                  "audio": "first.mp3",
+                  "altText": "Two runners. One is numbered two hundred one and has just crossed the finish line. The other is numbered six hundred twelve."
+                },
+                {
+                  "text": "M100_UW082_002A_193002_d.jpg",
+                  "audio": "sixteenth.mp3",
+                  "altText": "A calendar with thirty-one days. Day sixteen is circled in red."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Ordinal Numbers",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW083_005A_193002_d.jpg",
+                  "audio": "fast.mp3",
+                  "altText": "Two brown dogs running."
+                },
+                {
+                  "text": "M100_UW011_001A_193002_d.jpg",
+                  "audio": "happy.mp3",
+                  "altText": "A little boy smiling outside as the sun shines in the background."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Ordinal Numbers",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW082_003A_193002_d.jpg",
+                  "audio": "second.mp3",
+                  "altText": "Three doves flying. A red arrow points to the middle dove."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Ordinal Numbers",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_082A_193002_d.jpg",
+                  "audio": "sleep.mp3",
+                  "altText": "A boy sleeping in bed with a teddy bear."
+                },
+                {
+                  "text": "M100_UW032_004A_193002_d.jpg",
+                  "audio": "shout.mp3",
+                  "altText": "A boy speaking into a megaphone."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Ordinal Numbers",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW082_004A_193002_d.jpg",
+                  "audio": "third.mp3",
+                  "altText": "Three cars at a traffic light: a green one, a blue one, and a red one. A red arrow points to the red one."
+                },
+                {
+                  "text": "M100_UW082_005A_193002_d.jpg",
+                  "audio": "fifth.mp3",
+                  "altText": "A group of children playing on the monkey bars. A black arrow points to a girl waiting in line."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Not Ordinal Numbers",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_010A_193002_d.jpg",
+                  "audio": "girl.mp3",
+                  "altText": "A girl running."
+                },
+                {
+                  "text": "M100_UW031_014A_193002_d.jpg",
+                  "audio": "invitation.mp3",
+                  "altText": "A greeting card invitation. It reads \"You're Invited to a Party\""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

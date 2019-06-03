@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con ga, go y gu&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;Coloca la palabra en su columna correspondiente. Las palabras que no pertenecen a ninguna columna, ponlas en "otras".&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene ga</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>amiga</text>
+                      <audio>TEG_amiga.mp3</audio>
+                    </item>
+                    <item>
+                      <text>arruga</text>
+                      <audio>TEG_arruga.mp3</audio>
+                    </item>
+                    <item>
+                      <text>elegante</text>
+                      <audio>TEG_elegante.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>tiene go</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>goma</text>
+                      <audio>TEG_goma.mp3</audio>
+                    </item>
+                    <item>
+                      <text>gorra</text>
+                      <audio>TEG_gorra.mp3</audio>
+                    </item>
+                    <item>
+                      <text>luego</text>
+                      <audio>TEG_luego.mp3</audio>
+                    </item>
+                    <item>
+                      <text>lago</text>
+                      <audio>TEG_lago.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>tiene gu</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>gusta</text>
+                      <audio>TEG_gusta.mp3</audio>
+                    </item>
+                    <item>
+                      <text>orgulloso</text>
+                      <audio>TEG_orgulloso.mp3</audio>
+                    </item>
+                    <item>
+                      <text>gusano</text>
+                      <audio>TEG_gusano.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>otras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>ligero</text>
+                      <audio>TEG_ligero.mp3</audio>
+                    </item>
+                    <item>
+                      <text>página</text>
+                      <audio>TEG_pagina1.mp3</audio>
+                    </item>
+                    <item>
+                      <text>digital</text>
+                      <audio>TEG_digital.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cigüeña</text>
+                      <audio>TEG_ciguen1a.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene ga</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>galleta</text>
+                      <audio>TEG_galleta.mp3</audio>
+                    </item>
+                    <item>
+                      <text>galaxia</text>
+                      <audio>TEG_galaxia.mp3</audio>
+                    </item>
+                    <item>
+                      <text>juega</text>
+                      <audio>TEG_juega.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>tiene go</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>mago</text>
+                      <audio>TEG_mago.mp3</audio>
+                    </item>
+                    <item>
+                      <text>oigo</text>
+                      <audio>TEG_oigo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>hago</text>
+                      <audio>TEG_hago.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>tiene gu</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>pregunta</text>
+                      <audio>TEG_pregunta.mp3</audio>
+                    </item>
+                    <item>
+                      <text>rectángulo</text>
+                      <audio>TEG_rectangulo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>seguro</text>
+                      <audio>TEG_seguro.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>otras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>vegetal</text>
+                      <audio>TEG_vegetal.mp3</audio>
+                    </item>
+                    <item>
+                      <text>gemela</text>
+                      <audio>TEG_gemela.mp3</audio>
+                    </item>
+                    <item>
+                      <text>vergüenza</text>
+                      <audio>TEG_verguenza.mp3</audio>
+                    </item>
+                    <item>
+                      <text>bilingüe</text>
+                      <audio>TEG_bilingue.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

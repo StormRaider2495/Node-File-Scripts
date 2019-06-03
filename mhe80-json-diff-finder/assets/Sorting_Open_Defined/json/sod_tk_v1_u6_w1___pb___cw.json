@@ -1,0 +1,234 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Category Words",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click each picture at the top. Then look at each picture and decide if it goes with winter, spring, summer, or fall. Drag the picture to the correct box. </p>",
+    "audio": "dl_winter_fall_spring.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW061_028A_193002_d.jpg",
+                  "altText": "Snow and snowflakes."
+                },
+                "audio": "winter.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_048A_193002_d.jpg",
+                  "audio": "",
+                  "altText": "A pair of purple mittens."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW061_023A_193002_d.jpg",
+                  "altText": "A hummingbird flying around flowers. A bright yellow sun shines in the sky."
+                },
+                "audio": "spring.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_041A_193002_d.jpg",
+                  "audio": "",
+                  "altText": "A potted plant."
+                },
+                {
+                  "text": "M100_UW071_016A_193002_d.jpg",
+                  "audio": "",
+                  "altText": "An orange and blue umbrella."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW061_024A_193002_d.jpg",
+                  "altText": "Two beach chairs covered by an umbrella. A sailboat floats in the water."
+                },
+                "audio": "summer.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW062_801A_193002_d.jpg",
+                  "audio": "",
+                  "altText": "A glass of lemonade with a sliced lemon beside it."
+                },
+                {
+                  "text": "M100_UW041_025A_193002_d.jpg",
+                  "audio": "",
+                  "altText": "A slice of watermelon. A bite has been taken out of it."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW061_011A_193002_d.jpg",
+                  "altText": "A tree with brown leaves, some of them falling."
+                },
+                "audio": "fall.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_058A_193002_d.jpg",
+                  "audio": "",
+                  "altText": "A green rake with a brown handle."
+                },
+                {
+                  "text": "M100_UW021_029A_193002_d.jpg",
+                  "audio": "",
+                  "altText": "A pumpkin."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW061_028A_193002_d.jpg",
+                  "altText": "Snow and snowflakes."
+                },
+                "audio": "winter.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW061_801A_193002_d.jpg",
+                  "audio": "",
+                  "altText": "A boy wearing a scarf and gloves throwing a snowball from a pile of snowballs. A fir tree is in the background."
+                },
+                {
+                  "text": "M100_UW013_041A_193002_d.jpg",
+                  "audio": "",
+                  "altText": "A snowman wearing a knit hat and a scarf."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW061_023A_193002_d.jpg",
+                  "altText": "A hummingbird flying around flowers. A bright yellow sun shines in the sky."
+                },
+                "audio": "spring.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_032A_193002_d.jpg",
+                  "audio": "",
+                  "altText": "A red kite."
+                },
+                {
+                  "text": "M300_UW061_802A_193002_d.jpg",
+                  "audio": "",
+                  "altText": "A girl planting flower seeds in a garden. There is a stick in the ground and one lying on the ground."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW061_024A_193002_d.jpg",
+                  "altText": "Two beach chairs covered by an umbrella. A sailboat floats in the water."
+                },
+                "audio": "summer.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_062A_193002_d.jpg",
+                  "audio": "",
+                  "altText": "A yellow sun."
+                },
+                {
+                  "text": "M100_UW042_029A_114242_D.jpg",
+                  "audio": "",
+                  "altText": "A multicolored beach ball and pail on the beach. The ocean and sun are in the background."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW061_011A_193002_d.jpg",
+                  "altText": "A tree with brown leaves, some of them falling."
+                },
+                "audio": "fall.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M300_UW032_368A_193002_d.jpg",
+                  "audio": "",
+                  "altText": "A leaf."
+                },
+                {
+                  "text": "M300_UW061_804A_193002_d.jpg",
+                  "audio": "",
+                  "altText": "A boy raking leaves that have fallen off the tree behind him."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Text Feature",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Read each word and list title. Drag the words into the boxes to form lists based on the titles and pictures.</p>",
+    "audio": "dl_titles_pictures.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Things to Eat",
+                "image": {
+                  "src": "M100_UW042_049A_114242_D.jpg",
+                  "altText": "A girl in pigtails using a spoon to eat from a bowl."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "salad",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "ham",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "ribs",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Things That Go",
+                "image": {
+                  "src": "M100_UW051_019A_114242_D.jpg",
+                  "altText": "A blue car."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "van",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cab",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bus",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Things to Put On",
+                "image": {
+                  "src": "M100_UW024_015A_114242_D.jpg",
+                  "altText": "A yellow shirt."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "socks",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "vest",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "belt",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Pets",
+                "image": {
+                  "src": "M100_UW045_031A_114242_D.jpg",
+                  "altText": "A white bunny."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "cat",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "dog",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "rabbit",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Things to Eat",
+                "image": {
+                  "src": "M100_UW042_049A_114242_D.jpg",
+                  "altText": "A girl in pigtails using a spoon to eat from a bowl."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "eggs",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bread",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "jam",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Things to Do",
+                "image": {
+                  "src": "M100_UW062_026A_114242_D.jpg",
+                  "altText": "A boy walking his dog on a leash outside."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "jump",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "jog",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "swim",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Things to Put On",
+                "image": {
+                  "src": "M100_UW024_015A_114242_D.jpg",
+                  "altText": "A yellow shirt."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "cap",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "hat",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mittens",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Wild Animals",
+                "image": {
+                  "src": "M300_UW022_010A_114242_D.jpg",
+                  "altText": "A bear hibernating in a cave."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "fox",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "skunk",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cub",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Things to Go Into",
+                "image": {
+                  "src": "M100_UW034_031A_114242_D.jpg",
+                  "altText": "A yellow house."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "tent",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shed",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shop",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Things to Do",
+                "image": {
+                  "src": "M100_UW062_026A_114242_D.jpg",
+                  "altText": "A boy walking his dog on a leash outside."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "sing",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "hop",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "clap",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

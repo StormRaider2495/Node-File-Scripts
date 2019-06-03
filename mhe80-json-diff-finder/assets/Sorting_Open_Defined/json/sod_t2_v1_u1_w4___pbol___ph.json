@@ -1,0 +1,247 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Look at each picture. Click on it to hear its name read. Drag the pictures with the short a sound into the short a box. Drag the pictures with the long a sound into the long a box.</p>",
+    "audio": "dl_drag_shorta_longa_box.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "short a",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_a.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_085A_193002_186626_d.jpg",
+                  "audio": "mat.mp3",
+                  "altText": "A welcome mat."
+                },
+                {
+                  "text": "M100_UW011_036A_186626_d.jpg",
+                  "audio": "man.mp3",
+                  "altText": "A boy smiling with one hand in his pocket."
+                },
+                {
+                  "text": "M100_UW022_039A_193002_186626_d.jpg",
+                  "audio": "tack.mp3",
+                  "altText": "A red thumb tack."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "long a",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_a.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_083A_193002_186626_d.jpg",
+                  "audio": "plane.mp3",
+                  "altText": "An airplane."
+                },
+                {
+                  "text": "M100_UW014_033A_188626_d.jpg",
+                  "audio": "wave.mp3",
+                  "altText": "A large wave crashing on the beach. A red arrow points to the top of the wave."
+                },
+                {
+                  "text": "M100_UW033_018A_193002_186626_d.jpg",
+                  "audio": "cake.mp3",
+                  "altText": "A cake with a cherry on top."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "short a",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_a.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_067A_193002_186626_d.jpg",
+                  "audio": "map.mp3",
+                  "altText": "A map of the United States."
+                },
+                {
+                  "text": "M100_UW021_022A_193002_186626_d.jpg",
+                  "audio": "sap.mp3",
+                  "altText": "A a tree with a faucet attached. Sap drips from the faucet into an orange bucket. A red arrow points to the drops. "
+                },
+                {
+                  "text": "M300_UW014_802A_186626_d.jpg",
+                  "audio": "hat.mp3",
+                  "altText": "A brown fedora."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "long a",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_a.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_025A_193002_186626_d.jpg",
+                  "audio": "grapes.mp3",
+                  "altText": "A bunch of purple grapes."
+                },
+                {
+                  "text": "M100_UW011_058A_193002_186626_d.jpg",
+                  "audio": "rake.mp3",
+                  "altText": "A green rake with a brown handle."
+                },
+                {
+                  "text": "M100_UW014_003A_186626_d.jpg",
+                  "audio": "lake.mp3",
+                  "altText": "A lake in the middle of a mountainous forest."
+                },
+                {
+                  "text": "M100_UW032_017A_193002_186626_d.jpg",
+                  "audio": "mane.mp3",
+                  "altText": "A lion. A red arrow points to its mane."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "short a",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_a.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_016A_193002_186626_d.jpg",
+                  "audio": "cat.mp3",
+                  "altText": "A smiling cat."
+                },
+                {
+                  "text": "M100_UW042_001A_A_193002_d.jpg",
+                  "audio": "wag.mp3",
+                  "altText": "A brown dog wearing a collar. A red arrow points to its wagging tail."
+                },
+                {
+                  "text": "M100_UW061_001A_186626_d.jpg",
+                  "audio": "sack.mp3",
+                  "altText": "An orange drawstring bag."
+                },
+                {
+                  "text": "M100_UW012_086A_186626_d.jpg",
+                  "audio": "ax.mp3",
+                  "altText": "An ax."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "long a",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_a.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW073_001A_193002_186626_d.jpg",
+                  "audio": "cave.mp3",
+                  "altText": "A bear hibernating in a cave."
+                },
+                {
+                  "text": "M100_UW091_002A_193002_186626_d.jpg",
+                  "audio": "cape.mp3",
+                  "altText": "A black cape."
+                },
+                {
+                  "text": "M100_UW031_011A_114242_D.jpg",
+                  "audio": "tape.mp3",
+                  "altText": "A roll of transparent tape."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

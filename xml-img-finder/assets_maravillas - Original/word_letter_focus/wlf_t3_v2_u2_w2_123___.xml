@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<word_letter_focus>
+  <title>Estrategia de vocabulario: símiles</title>
+  <directions>&lt;p&gt;Usa el resaltador amarillo para resaltar los s&amp;#237;miles en las oraciones.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;Cuando Lupe hablaba, era {wh}como si escuch&amp;#225;ramos m&amp;#250;sica{/wh}.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Su gato obedec&amp;#237;a {wh}cual perro ovejero{/wh}.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Las nubes {wh}parec&amp;#237;an algodones{/wh} que flotaban en el cielo.&amp;#160;&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Sus cabellos eran {wh}como hilos de oro{/wh} que brillaban en el sol.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</word_letter_focus>
+

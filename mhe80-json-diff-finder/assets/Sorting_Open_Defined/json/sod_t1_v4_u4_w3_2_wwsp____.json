@@ -1,0 +1,491 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Spelling: Word Sort with Long o: o, oa, ow, oe",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Drag words with the same vowel sound and spelling into the boxes. If the word does not have the same sound as any of the sounds, drag it into the “Other” bin.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "go",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "no",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "coat",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "boat",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "oat",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "snow",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "low",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "row",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "doe",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "toe",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "we",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "keep",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "over",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "more",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "go",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "most",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "so",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "both",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "gold",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mold",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "coat",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "coal",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "coast",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "coach",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "foam",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "goat",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "load",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "snow",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "bow",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "tow",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "mow",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "own",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "doe",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "foe",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "hoe",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Joe",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": []
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "go",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "told",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "sold",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "bolt",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "colt",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "scold",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "don't",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "coat",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "loaf",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "loan",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "moan",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "road",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "toast",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "roast",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "snow",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "grow",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "show",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "stow",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "know",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "blow",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "slow",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "doe",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": []
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

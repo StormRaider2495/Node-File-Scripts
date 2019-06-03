@@ -1,0 +1,235 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Text Features",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Look at each picture. Drag each caption to the box of the picture it describes.</p>",
+    "audio": "dl_picture_caption_box.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW032_015A_114242_D.jpg",
+                  "altText": "A whale spraying water."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "This is a blue whale.",
+                  "audio": "blue_whale.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW042_046A_114242_D.jpg",
+                  "altText": "An eel in the water."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "An eel is a fish.",
+                  "audio": "eel_fish.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW051_015A_114242_D.jpg",
+                  "altText": "A farm with a barn and fence, a cow, a pig, and three chickens."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "Animals live together on a farm.",
+                  "audio": "animals_farm.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW014_009A_114242_D.jpg",
+                  "altText": "A flock of birds."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "Some birds fly together.",
+                  "audio": "birds_fly.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW042_047A_114242_D.jpg",
+                  "altText": "Two geese."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "Geese have big wings.",
+                  "audio": "geese_bigwings.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M300_UW042_005A_114242.jpg",
+                  "altText": "A canary."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "A chick is a baby chicken.",
+                  "audio": "chick_baby.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW032_027A_114242_D.jpg",
+                  "altText": "A gorilla."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "The ape is a big animal.",
+                  "audio": "ape_biganimal.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW062_028A_114242_D.jpg",
+                  "altText": "A crab. A red arrow points to one of its claws."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "The crab has claws.",
+                  "audio": "crab_claws.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW023_017A_114242_D.jpg",
+                  "altText": "An ant."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "An ant has six legs.",
+                  "audio": "ant_6legs.mp3",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "",
+                "image": {
+                  "src": "M100_UW042_003A_114242_D.jpg",
+                  "altText": "A wasp."
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "This bee has stripes.",
+                  "audio": "bee_stripes.mp3",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

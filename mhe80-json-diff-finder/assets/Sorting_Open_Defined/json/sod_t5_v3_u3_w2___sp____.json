@@ -1,0 +1,645 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Spelling: Open Syllables (V/V)",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p><b>Sort the spelling words into the columns using the key words or word parts.</b></p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "ea",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "ideas",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "eo",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "video",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "rodeo",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "ia",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "piano",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "diary",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "giant",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "dial",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "trial",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "ie",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "diet",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "science",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "quiet",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "io",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "riot",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "radio",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "lion",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "prior",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "oe",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "poet",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "ua/ue/ui",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "casual",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cruel",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "fuel",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "ruin",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "ea",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "ideas",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "meander",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "eo",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "video",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "rodeo",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "meteor",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "ia",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "piano",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "diary",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "trial",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "diameter",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "ie/io",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "diet",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "riot",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "radio",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "patriot",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "oe",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "poet",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "ua/ue",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "casual",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cruel",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "fuel",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "ui",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "ruin",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "fluid",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "genuine",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "ea",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "ideas",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "meander",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "eo",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "meteor",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "ia",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "dialect",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "radiance",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "trials",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "diameter",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "ie",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "variety",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "io",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "riot",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "pioneers",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "glorious",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "patriot",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "ua/ue",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "evaluate",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "casual",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "grueling",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "cruelly",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "ui",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "ruined",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "fluidity",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "genuine",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

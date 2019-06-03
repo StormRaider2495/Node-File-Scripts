@@ -1,0 +1,212 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Category Words: Days of the Week",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each word or picture to hear its name. Drag days of the week to the blue box. Drag words that are not days of the week into the red box. Then click OK.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Days of the Week",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "Monday.jpg",
+                  "audio": "monday.mp3",
+                  "altText": "The text Monday."
+                },
+                {
+                  "text": "Thursday.jpg",
+                  "audio": "thursday.mp3",
+                  "altText": "The text Thursday."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Days of the Week",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW032_007A_114242_D.jpg",
+                  "audio": "five.mp3",
+                  "altText": "The number five."
+                },
+                {
+                  "text": "M100_UW022_001A_193002_d.jpg",
+                  "audio": "circle.mp3",
+                  "altText": "A brown circle with a red border."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Days of the Week",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "Sunday.jpg",
+                  "audio": "sunday.mp3",
+                  "altText": "The text Sunday."
+                },
+                {
+                  "text": "Friday.jpg",
+                  "audio": "friday.mp3",
+                  "altText": "The word Friday."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Days of the Week",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "e.jpg",
+                  "audio": "e.mp3",
+                  "altText": "Lowercase letter e."
+                },
+                {
+                  "text": "M100_UW061_035A_114242_D.jpg",
+                  "audio": "two.mp3",
+                  "altText": "The number two."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Days of the Week",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "Wednesday.jpg",
+                  "audio": "wednesday.mp3",
+                  "altText": "The text Wednesday."
+                },
+                {
+                  "text": "Saturday.jpg",
+                  "audio": "saturday.mp3",
+                  "altText": "The text Saturday."
+                },
+                {
+                  "text": "Tuesday.jpg",
+                  "audio": "tuesday.mp3",
+                  "altText": "The text Tuesday."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Days of the Week",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_009A_193002_d.jpg",
+                  "audio": "desk.mp3",
+                  "altText": "A wooden table that has a red book, a slip of paper, a green pencil, and a blue crayon on it."
+                },
+                {
+                  "text": "a.jpg",
+                  "audio": "a.mp3",
+                  "altText": "Lowercase letter a."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

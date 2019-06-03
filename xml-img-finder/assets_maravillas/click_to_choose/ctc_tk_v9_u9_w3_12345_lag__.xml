@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Gram&amp;#225;tica: el adjetivo&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Escoge el adjetivo que corresponde para llenar el espacio en blanco y completar cada oraci&amp;#243;n.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Comer&amp;#233; esas&amp;#160;peras [maduras].&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>maduras</text>
+              <image />
+              <audio>TEG_maduras.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>dañado</text>
+              <image />
+              <audio>TEG_dan1ado.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Tengo el pelo&amp;#160;[mojado].&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>lisa</text>
+              <image />
+              <audio>TEG_lisa.mp3</audio>
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>mojado</text>
+              <image />
+              <audio>TEG_mojado.mp3</audio>
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Mi amigo [mejicano] cocina tacos.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>mejicano</text>
+              <image />
+              <audio>TEG_mexicano.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>pequeña</text>
+              <image />
+              <audio>TEG_pequen1a.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Me gusta el queso&amp;#160;[derretido].&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>derretido</text>
+              <image />
+              <audio>TEG_derretido.mp3</audio>
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>dura</text>
+              <image />
+              <audio>TEG_dura.mp3</audio>
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

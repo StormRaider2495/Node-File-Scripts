@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Phoneme Categorization&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Click each picture to hear its name. Drag pictures that have the /m/ sound into the blue box. Drag pictures that do not have the /m/ sound into the red box.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <vspacing />
+  <contentMode value="images" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Click each picture to hear its name. Drag pictures that have the /m/ sound into the blue box. Drag pictures that do not have the /m/ sound into the red box.&lt;/p&gt;</directions>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/m/ Sound</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_017A_193002_186626_d.jpg</text>
+                      <audio>broom.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW051_015A_114242_D.jpg</text>
+                      <audio>farm.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_074A_193002_d.jpg</text>
+                      <audio>mouse.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No /m/ Sound</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_027A_114242_D.jpg</text>
+                      <audio>ten.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/m/ Sound</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_018A_193002_d.jpg</text>
+                      <audio>drum.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_023A_193002_d.jpg</text>
+                      <audio>monkey.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_021A_193002_d.jpg</text>
+                      <audio>moth.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No /m/ Sound</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_055A_193002_d.jpg</text>
+                      <audio>ant.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_056A_193002_d.jpg</text>
+                      <audio>crayon.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

@@ -1,0 +1,339 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Your Turn: Phonics",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on a picture to hear its name. Listen for the vowel sound /e/, /o/, or /u/. Drag the word to the box that has the same vowel sound. </p>",
+    "audio": "dl_click_picture_vowel_sounds_b2.mp3"
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/e/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_e.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_064A_193002_186626_d.jpg",
+                  "audio": "web.mp3",
+                  "altText": "A spider web."
+                },
+                {
+                  "text": "M100_UW022_041A_193002_186626_d.jpg",
+                  "audio": "net.mp3",
+                  "altText": "A net."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/o/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_o.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_038A_193002_186626_d.jpg",
+                  "audio": "mop.mp3",
+                  "altText": "A mop placed over a puddle of water."
+                },
+                {
+                  "text": "M100_UW013_029A_193002_186626_d.jpg",
+                  "audio": "top.mp3",
+                  "altText": "A spinning top."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/u/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_u.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_062A_193002_186626_d.jpg",
+                  "audio": "sun.mp3",
+                  "altText": "A yellow sun."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/e/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_e.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_061A_193002_186626_d.jpg",
+                  "audio": "nest.mp3",
+                  "altText": "A nest in a tree."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/o/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_o.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_047A_186626_d.jpg",
+                  "audio": "mom.mp3",
+                  "altText": "A mother holding her sleeping baby."
+                },
+                {
+                  "text": "M100_UW012_041A_193002_186626_d.jpg",
+                  "audio": "pot.mp3",
+                  "altText": "A pot."
+                },
+                {
+                  "text": "M100_UW011_068A_193002_186626_d.jpg",
+                  "audio": "sock.mp3",
+                  "altText": "A green sock."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/u/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_u.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_010A_193002_186626_d.jpg",
+                  "audio": "run.mp3",
+                  "altText": "A girl running."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/e/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_e.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_002A_186626_d.jpg",
+                  "audio": "pet.mp3",
+                  "altText": "A girl holding her dog on a leash. A red arrow points to the dog."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/o/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_o.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_013A_186626_d.jpg",
+                  "audio": "hog.mp3",
+                  "altText": "A hog."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/u/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_u.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_028A_193002_186626_d.jpg",
+                  "audio": "duck.mp3",
+                  "altText": "A mallard duck."
+                },
+                {
+                  "text": "M100_UW022_033A_193002_186626_d.jpg",
+                  "audio": "bug.mp3",
+                  "altText": "An insect."
+                },
+                {
+                  "text": "M100_UW012_003A_186626_d.jpg",
+                  "audio": "hut.mp3",
+                  "altText": "A small cottage."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/e/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_e.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_047A_193002_186626_d.jpg",
+                  "audio": "hen.mp3",
+                  "altText": "A rooster."
+                },
+                {
+                  "text": "M100_UW011_073A_193002_186626_d.jpg",
+                  "audio": "pen.mp3",
+                  "altText": "A yellow and purple ink pen."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/o/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_o.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_031A_193002_186626_d.jpg",
+                  "audio": "rock.mp3",
+                  "altText": "A rock on top of grass."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "/u/",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": "sound_short_u.mp3"
+              },
+              "contents": [
+                {
+                  "text": "M100_UW022_017A_193002_186626_d.jpg",
+                  "audio": "tub.mp3",
+                  "altText": "A bathtub."
+                },
+                {
+                  "text": "M300_UW012_139A_186626_d.jpg",
+                  "audio": "mud.mp3",
+                  "altText": "A boy wearing yellow boots stepping on dirt. A red arrow points to the dirt. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

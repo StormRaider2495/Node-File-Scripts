@@ -1,0 +1,267 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Grammar: Commands &amp; Exclamations",
+  "contentMode": {
+    "value": "sentences"
+  },
+  "directions": {
+    "text":  "<p>Sort the sentences according to which punctuation should be added to the end.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  ".",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "Go to the store to buy milk",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Please help me bake these cookies",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Throw the ball to the dog",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Do your homework before you play",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "!",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "There’s nothing better than a Thanksgiving feast",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "The fireworks were unbelievable",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Ron’s birthday celebration was very fun",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Ted, you are a great baseball player",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  ".",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "Bring your notebook home after school",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Do not run in the hallways",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Read the directions, and then answer the question",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Do not talk during the exam",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "!",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "The last day of school is finally here",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "This town is beautiful",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "I love to ride my bike",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "The math test is finally over",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  ".",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "Wait in the dining room while I finish the soup",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Lock the door behind you",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Help your sister with her science project",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Stop and look both ways before crossing the street",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "!",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "We were so upset that the movie was sold out",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "The school bus was very late this morning",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "I was up all night reading a great book",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "I was amazed by the snow",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

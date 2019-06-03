@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con f&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la palabra escrita con &lt;u&gt;f&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra&amp;#160;&lt;b&gt;sin&lt;/b&gt;&amp;#160;&lt;u&gt;f&lt;/u&gt;&amp;#160;en la caja roja. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene f</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>familia</text>
+                      <audio>TEG_familia.mp3</audio>
+                    </item>
+                    <item>
+                      <text>falda</text>
+                      <audio>TEG_falda.mp3</audio>
+                    </item>
+                    <item>
+                      <text>sofá</text>
+                      <audio>TEG_sofa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>jirafa</text>
+                      <audio>TEG_jirafa.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene f</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>mesa</text>
+                      <audio>TEG_mesa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>ahí</text>
+                      <audio>TEG_ahi.mp3</audio>
+                    </item>
+                    <item>
+                      <text>jarabe</text>
+                      <audio>TEG_jarabe.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene f</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>saxofón</text>
+                      <audio>TEG_saxofo1n.mp3</audio>
+                    </item>
+                    <item>
+                      <text>forro</text>
+                      <audio>TEG_forro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>búfalo</text>
+                      <audio>TEG_bufalo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>alfabeto</text>
+                      <audio>TEG_alfabeto.mp3</audio>
+                    </item>
+                    <item>
+                      <text>afán</text>
+                      <audio>TEG_afan.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene f</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>caja</text>
+                      <audio>TEG_caja.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pesa</text>
+                      <audio>TEG_pesa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>trozo</text>
+                      <audio>TEG_trozo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>triciclo</text>
+                      <audio>TEG_triciclo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

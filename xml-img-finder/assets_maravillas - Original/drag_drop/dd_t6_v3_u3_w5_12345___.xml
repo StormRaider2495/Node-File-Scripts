@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Normas del lenguaje:  Los paréntesis</title>
+  <directions>Agarra los signos de paréntesis y colócalos donde sean necesarios.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;El representante de la ONU &amp;#160;Organizaci&amp;#243;n de las Naciones Unidas &amp;#160;asistir&amp;#225; a la reuni&amp;#243;n anual.&lt;/p&gt;
+&lt;p&gt;&amp;#160;&lt;/p&gt;
+&lt;p&gt;Creo haberlo dicho ya &amp;#160;y si no, lo digo ahora &amp;#160;que si no ahorramos agua, en el futuro escasear&amp;#225; este irremplazable l&amp;#237;quido.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left>(</left>
+              <right>)</right>
+            </pair>
+            <pair>
+              <left>(</left>
+              <right>)</right>
+            </pair>
+            <pair>
+              <left>&amp;</left>
+              <right>=</right>
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>(</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

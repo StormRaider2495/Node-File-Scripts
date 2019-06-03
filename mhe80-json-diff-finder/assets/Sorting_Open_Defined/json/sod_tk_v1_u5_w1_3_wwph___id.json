@@ -1,0 +1,267 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phonics: Identify/Categorize",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture to hear its name. Drag pictures that begin with the letter h to the left box. Drag pictures that begin with the letter d to the right box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "h___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_022A_193002_d.jpg",
+                  "audio": "hat.mp3",
+                  "altText": "A hat with flowers around it."
+                },
+                {
+                  "text": "M100_UW051_001A_193002_d.jpg",
+                  "audio": "hippo.mp3",
+                  "altText": "A hippopotamus."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "d___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_001A_193002_d (3)",
+                  "audio": "dog.mp3",
+                  "altText": "A brown dog wearing a collar. "
+                },
+                {
+                  "text": "M100_UW012_036A_193002_d.jpg",
+                  "audio": "door.mp3",
+                  "altText": "A blue door."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "h___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW041_013A_193002_d.jpg",
+                  "audio": "hay.mp3",
+                  "altText": "A bale of hay."
+                },
+                {
+                  "text": "M100_UW011_047A_193002_d.jpg",
+                  "audio": "hen.mp3",
+                  "altText": "A rooster."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "d___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_028A_193002_d.jpg",
+                  "audio": "duck.mp3",
+                  "altText": "A mallard duck."
+                },
+                {
+                  "text": "M100_UW012_006A_193002_d.jpg",
+                  "audio": "dad.mp3",
+                  "altText": "A father, son, and daughter kicking a ball. A red arrow points to the father."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "h___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_003A_193002_d.jpg",
+                  "audio": "hop.mp3",
+                  "altText": "A hopping rabbit."
+                },
+                {
+                  "text": "M100_UW011_072A_193002_d.jpg",
+                  "audio": "horse.mp3",
+                  "altText": "A horse."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "d___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_033A_193002_d.jpg",
+                  "audio": "dream.mp3",
+                  "altText": "A boy sleeping in bed at night. A thought bubble is over his head."
+                },
+                {
+                  "text": "M100_UW011_018A_193002_d.jpg",
+                  "audio": "drum.mp3",
+                  "altText": "A purple drum with two brown mallets."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "h___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_ UW011_031A_193002_d.jpg",
+                  "audio": "ham.mp3",
+                  "altText": "Sliced ham."
+                },
+                {
+                  "text": "M100_UW031_037A_193002_d.jpg",
+                  "audio": "hammer.mp3",
+                  "altText": "A hammer."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "d___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW051_019A_daughter_193002",
+                  "audio": "daughter.mp3",
+                  "altText": "A dad, a mom, a son, and a daughter. A red arrow points to the daughter."
+                },
+                {
+                  "text": "M100_UW011_009A_193002_d.jpg",
+                  "audio": "desk.mp3",
+                  "altText": "A wooden table that has a red book, a slip of paper, a green pencil, and a blue crayon on it."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Text Features</title>
+  <directions>Listen to each word. Drag each word to the part of the picture it describes to complete the diagram.</directions>
+  <directionsAudio>dl_listen_drag_diagram.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow2" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="205.05" y="517.55"/&gt;  &lt;position x="584.65" y="538.65"/&gt;  &lt;position x="151.7" y="581"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW032_005A_114242_D.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>branch</text>
+          <image />
+          <audio>branch.mp3</audio>
+        </item>
+        <item>
+          <text>trunk</text>
+          <image />
+          <audio>trunk.mp3</audio>
+        </item>
+        <item>
+          <text>root</text>
+          <image />
+          <audio>root.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con tr&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la palabra escrita con t&lt;u&gt;r&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra&amp;#160;&lt;b&gt;sin&lt;/b&gt;&amp;#160;&lt;u&gt;tr&lt;/u&gt;&amp;#160;en la caja roja. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene tr</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>triunfo</text>
+                      <audio>TEG_triunfo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>muestro</text>
+                      <audio>TEG_muestro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>nosotras</text>
+                      <audio>TEG_nosotras.mp3</audio>
+                    </item>
+                    <item>
+                      <text>otro</text>
+                      <audio>TEG_otro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>postre</text>
+                      <audio>TEG_postre.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene tr</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>precio</text>
+                      <audio>TEG_precio.mp3</audio>
+                    </item>
+                    <item>
+                      <text>temor</text>
+                      <audio>TEG_temor.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tiempo</text>
+                      <audio>TEG_tiempo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tenedor</text>
+                      <audio>TEG_tenedor.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene tr</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>sastre</text>
+                      <audio>TEG_sastre.mp3</audio>
+                    </item>
+                    <item>
+                      <text>teatro</text>
+                      <audio>TEG_teatro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>treinta</text>
+                      <audio>TEG_treinta.mp3</audio>
+                    </item>
+                    <item>
+                      <text>travieso</text>
+                      <audio>TEG_travieso.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tranquila</text>
+                      <audio>TEG_tranquila.mp3</audio>
+                    </item>
+                    <item>
+                      <text>actriz</text>
+                      <audio>TEG_actriz.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene tr</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>actividad</text>
+                      <audio>TEG_actividad.mp3</audio>
+                    </item>
+                    <item>
+                      <text>artista</text>
+                      <audio>TEG_artista.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cuarto</text>
+                      <audio>TEG_cuarto.mp3</audio>
+                    </item>
+                    <item>
+                      <text>estufa</text>
+                      <audio>TEG_estufa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>fuerte</text>
+                      <audio>TEG_fuerte.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

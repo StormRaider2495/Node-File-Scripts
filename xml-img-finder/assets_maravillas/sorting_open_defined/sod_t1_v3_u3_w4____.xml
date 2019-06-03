@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con c y q&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;Coloca la palabra escrita con &lt;u&gt;c&lt;/u&gt;&amp;#160;o &lt;u&gt;q&lt;/u&gt;&amp;#160;en su columna correspondiente. Si no tiene ninguna de esas letras, ponla en "otras".&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene c</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>carro</text>
+                      <audio>TEG_carro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>campana</text>
+                      <audio>TEG_campana.mp3</audio>
+                    </item>
+                    <item>
+                      <text>caricia</text>
+                      <audio>TEG_caricia.mp3</audio>
+                    </item>
+                    <item>
+                      <text>crocante</text>
+                      <audio>TEG_crocante.mp3</audio>
+                    </item>
+                    <item>
+                      <text />
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>tiene q</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>quizá</text>
+                      <audio>TEG_quiza.mp3</audio>
+                    </item>
+                    <item>
+                      <text>vaquero</text>
+                      <audio>TEG_vaquero.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cheque</text>
+                      <audio>TEG_cheque.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>otras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>chapa</text>
+                      <audio>TEG_chapa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>boda</text>
+                      <audio>TEG_boda.mp3</audio>
+                    </item>
+                    <item>
+                      <text>gusto</text>
+                      <audio>TEG_gusto.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene c</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>cantar</text>
+                      <audio>TEG_cantar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>casi</text>
+                      <audio>TEG_casi.mp3</audio>
+                    </item>
+                    <item>
+                      <text>hamaca</text>
+                      <audio>TEG_hamaca.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pescado</text>
+                      <audio>TEG_pescado.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>tiene q</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>pequeña</text>
+                      <audio>TEG_pequen1a.mp3</audio>
+                    </item>
+                    <item>
+                      <text>porque</text>
+                      <audio>TEG_porque.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mosquito</text>
+                      <audio>TEG_mosquito.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>otras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>lágrima</text>
+                      <audio>TEG_lagrima.mp3</audio>
+                    </item>
+                    <item>
+                      <text>ganado</text>
+                      <audio>TEG_ganado.mp3</audio>
+                    </item>
+                    <item>
+                      <text>semilla</text>
+                      <audio>TEG_semilla.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

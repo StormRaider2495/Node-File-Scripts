@@ -1,0 +1,282 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Grammar: Present- and Future-Tense Verbs",
+  "contentMode": {
+    "value": "sentences"
+  },
+  "directions": {
+    "text":  "<p>Read each sentence. If the sentence is past-tense, drag it to the Past-Tense box. If the sentence is future-tense, drag it to the Future-Tense box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Past -Tense",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "Sam made lunch.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Chet fetched some water.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Tish rushed to school.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Trent banged on a pan.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Mike thanked Dad for the bike.",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Future - Tense",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "I will bake a cake.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Frank will ring the bell.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Grant will run back.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "He will drop the bag.",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Past -Tense",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "Kate packed for the trip.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "She tossed the ball.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Ross yanked the band.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Clint raced with Matt.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "She skated fast.",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Future -Tense",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "Fred will run fast.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Bob will make a mistake.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "We will pick up the bag.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Cass will take a nap.",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Past -Tense",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "Nan rocked her doll.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Rob and Tom locked the gate.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Nate named the dog.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Lance filed nine tiles.",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Future -Tense",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "Ben will sing today.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Ike will dance a jig.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Chad will sketch a branch.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Rafe will slice the bread.",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "Blake will think of brunch.",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

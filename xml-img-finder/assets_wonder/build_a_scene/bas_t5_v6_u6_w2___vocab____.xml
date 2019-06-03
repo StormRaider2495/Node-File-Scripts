@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Build Vocabulary: Shades of Meaning</title>
+  <directions>Read the word on the left. Identify how the words on the right are related. Then arrange the words in order, from top to bottom, to show the shades of meaning.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow2" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="366.05" y="415.2"/&gt;  &lt;position x="367.05" y="530.55"/&gt;  &lt;position x="367.05" y="303.8"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="367.1" y="416.2"/&gt;  &lt;position x="366.1" y="533.55"/&gt;  &lt;position x="368.05" y="299.9"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="366.05" y="532.6"/&gt;  &lt;position x="368.05" y="303.9"/&gt;  &lt;position x="367.05" y="413.2"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>BAS_T5v6_U6W2_Vocab.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>bold</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>self-assured</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>confident</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>BAS_T5v6_U6W2_Vocab_2.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>disagreement</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>difference</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>argument</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>BAS_T5v6_U6W2_Vocab_3.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>caring</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>defensive</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>sympathetic</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

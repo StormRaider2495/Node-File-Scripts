@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Phonics</title>
+  <directions>Read the word in the organizer. Identify which words on the right have the same &lt;i&gt;u&lt;/i&gt; sound as the word in the organizer. Then drag those words to the organizer.</directions>
+  <directionsAudio>dl_organizer_same_u.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="145.6" y="513.35"/&gt;  &lt;position x="369.15" y="510.5"/&gt;  &lt;position x="592.7" y="509.05"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="151.4" y="513.4"/&gt;  &lt;position x="369.15" y="511.95"/&gt;  &lt;position x="586.95" y="510.45"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="148.55" y="510.5"/&gt;  &lt;position x="367.7" y="513.4"/&gt;  &lt;position x="588.35" y="511.95"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW035_348A_186626_d.jpg</contentImage>
+      <contentImageAudio>fuel.mp3</contentImageAudio>
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text>unit</text>
+          <image />
+          <audio>unit.mp3</audio>
+        </item>
+        <item>
+          <text>glue</text>
+          <image />
+          <audio>glue.mp3</audio>
+        </item>
+        <item>
+          <text>few</text>
+          <image />
+          <audio>few.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>puppy</text>
+          <image />
+          <audio>puppy.mp3</audio>
+        </item>
+        <item>
+          <text>fuss</text>
+          <image />
+          <audio>fuss.mp3</audio>
+        </item>
+        <item>
+          <text>about</text>
+          <image />
+          <audio>about.mp3</audio>
+        </item>
+        <item>
+          <text>table</text>
+          <image />
+          <audio>table.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW035_349A_186626_d.jpg</contentImage>
+      <contentImageAudio>huge.mp3</contentImageAudio>
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text>cute</text>
+          <image />
+          <audio>cute.mp3</audio>
+        </item>
+        <item>
+          <text>tune</text>
+          <image />
+          <audio>tune.mp3</audio>
+        </item>
+        <item>
+          <text>crude</text>
+          <image />
+          <audio>crude.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>joined</text>
+          <image />
+          <audio>joined.mp3</audio>
+        </item>
+        <item>
+          <text>trout</text>
+          <image />
+          <audio>trout.mp3</audio>
+        </item>
+        <item>
+          <text>plane</text>
+          <image />
+          <audio>plane.mp3</audio>
+        </item>
+        <item>
+          <text>coast</text>
+          <image />
+          <audio>coast.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW035_350A_186626_d.jpg</contentImage>
+      <contentImageAudio>crew.mp3</contentImageAudio>
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text>stew</text>
+          <image />
+          <audio>stew.mp3</audio>
+        </item>
+        <item>
+          <text>dew</text>
+          <image />
+          <audio>dew.mp3</audio>
+        </item>
+        <item>
+          <text>grew</text>
+          <image />
+          <audio>grew.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text>board</text>
+          <image />
+          <audio>board.mp3</audio>
+        </item>
+        <item>
+          <text>jumped</text>
+          <image />
+          <audio>jumped.mp3</audio>
+        </item>
+        <item>
+          <text>shout</text>
+          <image />
+          <audio>shout.mp3</audio>
+        </item>
+        <item>
+          <text>trust</text>
+          <image />
+          <audio>trust.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

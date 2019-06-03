@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;i&gt;&lt;/i&gt;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Listen to each word. Drag words with the same long u spelling into the box with the matching heading. Drag words that do not have the long u sound into the other box.&lt;/p&gt;</directions>
+  <directionsAudio>dl_longu_sound.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>u_e</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>cube</text>
+                      <audio>cube.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cute</text>
+                      <audio>cute.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mule</text>
+                      <audio>mule.mp3</audio>
+                    </item>
+                    <item>
+                      <text>yule</text>
+                      <audio>yule.mp3</audio>
+                    </item>
+                    <item>
+                      <text>fumes</text>
+                      <audio>fumes.mp3</audio>
+                    </item>
+                    <item>
+                      <text>use</text>
+                      <audio>use.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>ue</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>cue</text>
+                      <audio>cue.mp3</audio>
+                    </item>
+                    <item>
+                      <text>due</text>
+                      <audio>due.mp3</audio>
+                    </item>
+                    <item>
+                      <text>blue</text>
+                      <audio>blue.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>u</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>human</text>
+                      <audio>human.mp3</audio>
+                    </item>
+                    <item>
+                      <text>truth</text>
+                      <audio>truth.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tuba</text>
+                      <audio>tuba.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>ew</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>dew</text>
+                      <audio>dew.mp3</audio>
+                    </item>
+                    <item>
+                      <text>few</text>
+                      <audio>few.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>bird</text>
+                      <audio>bird.mp3</audio>
+                    </item>
+                    <item>
+                      <text>shame</text>
+                      <audio>shame.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tone</text>
+                      <audio>tone.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>u_e</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>fuse</text>
+                      <audio>fuse.mp3</audio>
+                    </item>
+                    <item>
+                      <text>plume</text>
+                      <audio>plume.mp3</audio>
+                    </item>
+                    <item>
+                      <text>dune</text>
+                      <audio>dune.mp3</audio>
+                    </item>
+                    <item>
+                      <text>rule</text>
+                      <audio>rule.mp3</audio>
+                    </item>
+                    <item>
+                      <text>duke</text>
+                      <audio>duke.mp3</audio>
+                    </item>
+                    <item>
+                      <text>huge</text>
+                      <audio>huge.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mute</text>
+                      <audio>mute.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>ue</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>clue</text>
+                      <audio>clue.mp3</audio>
+                    </item>
+                    <item>
+                      <text>hue</text>
+                      <audio>hue.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>u</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>music</text>
+                      <audio>music.mp3</audio>
+                    </item>
+                    <item>
+                      <text>unit</text>
+                      <audio>unit.mp3</audio>
+                    </item>
+                    <item>
+                      <text>gnu</text>
+                      <audio>gnu.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>ew</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>pew</text>
+                      <audio>pew.mp3</audio>
+                    </item>
+                    <item>
+                      <text>stew</text>
+                      <audio>stew.mp3</audio>
+                    </item>
+                    <item>
+                      <text>knew</text>
+                      <audio>knew.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>broke</text>
+                      <audio>broke.mp3</audio>
+                    </item>
+                    <item>
+                      <text>hive</text>
+                      <audio>hive.mp3</audio>
+                    </item>
+                    <item>
+                      <text>store</text>
+                      <audio>store.mp3</audio>
+                    </item>
+                    <item>
+                      <text>shade</text>
+                      <audio>shade.mp3</audio>
+                    </item>
+                    <item>
+                      <text>soar</text>
+                      <audio>soar.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>u_e</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>tube</text>
+                      <audio>tube.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tune</text>
+                      <audio>tune.mp3</audio>
+                    </item>
+                    <item>
+                      <text>dude</text>
+                      <audio>dude.mp3</audio>
+                    </item>
+                    <item>
+                      <text>rude</text>
+                      <audio>rude.mp3</audio>
+                    </item>
+                    <item>
+                      <text>spruce</text>
+                      <audio>spruce.mp3</audio>
+                    </item>
+                    <item>
+                      <text>flute</text>
+                      <audio>flute.mp3</audio>
+                    </item>
+                    <item>
+                      <text>prune</text>
+                      <audio>prune.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>ue</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>fuel</text>
+                      <audio>fuel.mp3</audio>
+                    </item>
+                    <item>
+                      <text>true</text>
+                      <audio>true.mp3</audio>
+                    </item>
+                    <item>
+                      <text>glue</text>
+                      <audio>glue.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>u</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>menu</text>
+                      <audio>menu.mp3</audio>
+                    </item>
+                    <item>
+                      <text>ruby</text>
+                      <audio>ruby.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tulip</text>
+                      <audio>tulip.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>ew</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>new</text>
+                      <audio>new.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mew</text>
+                      <audio>mew.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>board</text>
+                      <audio>board.mp3</audio>
+                    </item>
+                    <item>
+                      <text>more</text>
+                      <audio>more.mp3</audio>
+                    </item>
+                    <item>
+                      <text>grown</text>
+                      <audio>grown.mp3</audio>
+                    </item>
+                    <item>
+                      <text>soap</text>
+                      <audio>soap.mp3</audio>
+                    </item>
+                    <item>
+                      <text>toast</text>
+                      <audio>toast.mp3</audio>
+                    </item>
+                    <item>
+                      <text>choose</text>
+                      <audio>choose.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

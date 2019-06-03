@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Category Words</title>
+  <directions>Look at the picture. Read or listen to each word. Drag a word to the correct red star to label the parts of the tree.</directions>
+  <directionsAudio>dl_drag_parts_tree.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow2" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="577.75" y="250.75"/&gt;  &lt;position x="163.5" y="270.8"/&gt;  &lt;position x="123.35" y="388.15"/&gt;  &lt;position x="335.55" y="509.1"/&gt;  &lt;position x="369.15" y="380.6"/&gt;  &lt;position x="520.55" y="578.7"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW052_801A_193002_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>leaf</text>
+          <image />
+          <audio>leaf.mp3</audio>
+        </item>
+        <item>
+          <text>acorn</text>
+          <image />
+          <audio>acorn.mp3</audio>
+        </item>
+        <item>
+          <text>branch</text>
+          <image />
+          <audio>branch.mp3</audio>
+        </item>
+        <item>
+          <text>bark</text>
+          <image />
+          <audio>bark.mp3</audio>
+        </item>
+        <item>
+          <text>trunk</text>
+          <image />
+          <audio>trunk.mp3</audio>
+        </item>
+        <item>
+          <text>roots</text>
+          <image />
+          <audio>roots.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

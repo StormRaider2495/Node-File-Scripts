@@ -1,0 +1,267 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Phonics: Identify/Categorize",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on the picture to hear its name. Drag pictures that begin with the /d/ sound spelled by the letter d into the d___ box. Drag pictures that end with the letter d into the ___d box.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "d___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW031_020A_193002_d.jpg",
+                  "audio": "dime.mp3",
+                  "altText": "A dime."
+                },
+                {
+                  "text": "M100_UW011_009A_193002_d.jpg",
+                  "audio": "desk.mp3",
+                  "altText": "A wooden table that has a red book, a slip of paper, a green pencil, and a blue crayon on it."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "___d",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_010A_193002_d.jpg",
+                  "audio": "sled.mp3",
+                  "altText": "A sled."
+                },
+                {
+                  "text": "M100_UW041_005A_193002_d.jpg",
+                  "audio": "build.mp3",
+                  "altText": "A boy and a girl building with blocks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "d___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_007A_193002.jpg",
+                  "audio": "daughter.mp3",
+                  "altText": "A dad, a mom, a son, and a daughter. A red arrow points to the son."
+                },
+                {
+                  "text": "M100_UW011_033A_193002_d.jpg",
+                  "audio": "dream.mp3",
+                  "altText": "A boy sleeping in bed at night. A thought bubble is over his head."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "___d",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW013_006A_193002_d.jpg",
+                  "audio": "cold.mp3",
+                  "altText": "An ice cream cone with vanilla, chocolate, and strawberry scoops. A blue arrow points to the vanilla scoop."
+                },
+                {
+                  "text": "M100_UW012_011A_193002_d.jpg",
+                  "audio": "friend.mp3",
+                  "altText": "Two girls sitting and reading a red book together. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "d___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_018A_193002_d.jpg",
+                  "audio": "drum.mp3",
+                  "altText": "A purple drum with two brown mallets."
+                },
+                {
+                  "text": "M100_UW012_036A_193002_d.jpg",
+                  "audio": "door.mp3",
+                  "altText": "A blue door."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "___d",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_011A_193002_d.jpg",
+                  "audio": "seed.mp3",
+                  "altText": "Seeds being planted in a field."
+                },
+                {
+                  "text": "M100_UW011_036A_193002_d.jpg",
+                  "audio": "stand.mp3",
+                  "altText": "A boy smiling with one hand in his pocket."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "d___",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW042_012A_193002_d.jpg",
+                  "audio": "dark.mp3",
+                  "altText": "A girl standing near an open door."
+                },
+                {
+                  "text": "M100_UW012_028A_193002_d.jpg",
+                  "audio": "duck.mp3",
+                  "altText": "A mallard duck."
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "___d",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_004A_193002_d.jpg",
+                  "audio": "proud.mp3",
+                  "altText": "A boy smiling and wearing a red ribbon that has 1st on it."
+                },
+                {
+                  "text": "M100_UW041_014A_193002_d.jpg",
+                  "audio": "rod.mp3",
+                  "altText": "A fishing pole."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

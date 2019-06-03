@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Reconocimiento fonol&amp;#243;gico: sonido&amp;#160;&lt;i&gt;p&lt;/i&gt;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la imagen para o&amp;#237;r su nombre. &lt;br /&gt;Coloca la imagen &lt;b&gt;con&lt;/b&gt; el sonido&amp;#160;&lt;i&gt;p&lt;/i&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la imagen&amp;#160;&lt;b&gt;sin&lt;/b&gt; el sonido&amp;#160;&lt;i&gt;p&lt;/i&gt; en la caja roja.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Tiene el sonido p</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>pintura.jpg</text>
+                      <audio>TEG_pintura.mp3</audio>
+                    </item>
+                    <item>
+                      <text>sapo.jpg</text>
+                      <audio>TEG_sapo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No tiene el sonido p</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>dedo.jpg</text>
+                      <audio>TEG_dedo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>bicicleta.jpg</text>
+                      <audio>TEG_bicicleta.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+            <item>
+              <bins>
+                <bin>
+                  <title>Tiene el sonido p</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>lupa.jpg</text>
+                      <audio>TEG_lupa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pie.jpg</text>
+                      <audio>TEG_pie.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mapa.jpg</text>
+                      <audio>TEG_mapa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>campana.jpg</text>
+                      <audio>TEG_campana.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No tiene el sonido p</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>hamaca.jpg</text>
+                      <audio>TEG_hamaca.mp3</audio>
+                    </item>
+                    <item>
+                      <text>botella.jpg</text>
+                      <audio>TEG_botella.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Tiene el sonido p</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>perro.jpg</text>
+                      <audio>TEG_perro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>zapato.jpg</text>
+                      <audio>TEG_zapato.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pizza.jpg</text>
+                      <audio>TEG_pizza.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No tiene el sonido p</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>cocodrilo.jpg</text>
+                      <audio>TEG_cocodrilo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>rosa.jpg</text>
+                      <audio>TEG_rosa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>telefono.jpg</text>
+                      <audio>TEG_telefono.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+            <item>
+              <bins>
+                <bin>
+                  <title>Tiene el sonido p</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>espejo.jpg</text>
+                      <audio>TEG_espejo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>garrapata.jpg</text>
+                      <audio>TEG_garrapata.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cepillo.jpg</text>
+                      <audio>TEG_cepillo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>polilla.jpg</text>
+                      <audio>TEG_polilla.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No tiene el sonido p</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>limon.jpg</text>
+                      <audio>TEG_limon.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tomate.jpg</text>
+                      <audio>TEG_tomate.mp3</audio>
+                    </item>
+                    <item>
+                      <text>vestido.jpg</text>
+                      <audio>TEG_vestido.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

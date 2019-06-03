@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Category Words</title>
+  <directions>Click each picture to hear its name. Drag the pictures that show food words onto the red stars. If the picture does not show a food word, do not drag it.</directions>
+  <directionsAudio>dl_drag_food_words.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow1" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="254.75" y="365.05"/&gt;  &lt;position x="333" y="262.75"/&gt;  &lt;position x="401.2" y="343"/&gt;  &lt;position x="479.4" y="240.7"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="255.75" y="366.05"/&gt;  &lt;position x="330.95" y="264.8"/&gt;  &lt;position x="402.2" y="344"/&gt;  &lt;position x="479.4" y="239.7"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="254.8" y="367.05"/&gt;  &lt;position x="332.95" y="263.8"/&gt;  &lt;position x="402.2" y="346"/&gt;  &lt;position x="480.45" y="241.7"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="254.75" y="366.05"/&gt;  &lt;position x="334" y="264.8"/&gt;  &lt;position x="403.2" y="345.05"/&gt;  &lt;position x="480.45" y="241.7"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW053_801A_193002_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M100_UW041_023A_193002_d.jpg</image>
+          <audio>banana.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW023_017A_193002_d.jpg</image>
+          <audio>carrot.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW033_018A_193002_d.jpg</image>
+          <audio>cake.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW035_078A_186626_d.jpg</image>
+          <audio>muffin.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW062_010A_193002_d.jpg</image>
+          <audio>cab.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW052_007A_193002_d.jpg</image>
+          <audio>net.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW053_801A_193002_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M300_UW053_807A_193002_d.jpg</image>
+          <audio>pizza.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW013_012A_193002_d.jpg</image>
+          <audio>sandwich.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW023_037A_193002_d.jpg</image>
+          <audio>tomato.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW041_025A_193002_d.jpg</image>
+          <audio>watermelon.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW051_001A_193002_d.jpg</image>
+          <audio>hippo.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW053_009A_193002_d.jpg</image>
+          <audio>football.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW053_801A_193002_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M100_UW012_042A_193002_d.jpg</image>
+          <audio>apple.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW023_033A_A_193002_d.jpg</image>
+          <audio>popcorn.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW041_019A_193002_d.jpg</image>
+          <audio>pasta.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW031_025A_193002_d.jpg</image>
+          <audio>grapes.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M100_UW011_061A_193002_d.jpg</image>
+          <audio>nest.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW021_014A_193002_d.jpg</image>
+          <audio>puzzle.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW053_801A_193002_d.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="true" />
+      <textSize />
+      <items>
+        <item>
+          <text />
+          <image>M100_UW041_024A_193002_d.jpg</image>
+          <audio>broccoli.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW042_030A_193002_d.jpg</image>
+          <audio>cupcake.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M300_UW042_806A_193002_d.jpg</image>
+          <audio>orange.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW021_011A_193002_186626_d.jpg</image>
+          <audio>pie.mp3</audio>
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image>M300_UW052_807A_193002_d.jpg</image>
+          <audio>comb.mp3</audio>
+        </item>
+        <item>
+          <text />
+          <image>M100_UW023_028A_193002_d.jpg</image>
+          <audio>toothbrush.mp3</audio>
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

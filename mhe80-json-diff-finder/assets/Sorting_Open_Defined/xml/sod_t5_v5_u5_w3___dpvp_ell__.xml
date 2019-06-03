@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Vocabulary&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read the vocabulary word and look at the picture. Read the three words in the box. Two words match the vocabulary word. Drag the synonyms into the correct bin.&lt;/p&gt;</directions>
+  <directionsAudio>dl_read_vocabulary_synonyms.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>atmosphere</title>
+                  <titleImage />
+                  <titleAudio>atmosphere.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>mass of air</text>
+                      <audio>mass_of_air.mp3</audio>
+                    </item>
+                    <item>
+                      <text>surrounding gases</text>
+                      <audio>surrounding_gases.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>breath</text>
+                      <audio>breath.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>variations</title>
+                  <titleImage />
+                  <titleAudio>variations.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>differences</text>
+                      <audio>differences.mp3</audio>
+                    </item>
+                    <item>
+                      <text>diversity</text>
+                      <audio>diversity.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>similarity</text>
+                      <audio>similarity.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>receding</title>
+                  <titleImage />
+                  <titleAudio>receding.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>moving back</text>
+                      <audio>moving_back.mp3</audio>
+                    </item>
+                    <item>
+                      <text>growing smaller</text>
+                      <audio>growing_smaller.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>repeating</text>
+                      <audio>repeating.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>noticeably</title>
+                  <titleImage />
+                  <titleAudio>noticeably.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>clearly</text>
+                      <audio>clearly.mp3</audio>
+                    </item>
+                    <item>
+                      <text>obviously</text>
+                      <audio>obviously.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>quickly</text>
+                      <audio>quickly.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>stability</title>
+                  <titleImage />
+                  <titleAudio>stability.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>steadiness</text>
+                      <audio>steadiness.mp3</audio>
+                    </item>
+                    <item>
+                      <text>firmness</text>
+                      <audio>firmness.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>happiness</text>
+                      <audio>happiness.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

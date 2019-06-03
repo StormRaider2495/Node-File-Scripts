@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build_a_scene>
+  <title>Your Turn: Text Features</title>
+  <directions>Look at the diagram. Then read the labels. Drag the labels to the correct part of the diagram.</directions>
+  <directionsAudio>dl_diagram_labels.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <layoutMode value="no" />
+  <assessmentMode value="assessed" />
+  <itemReplenishmentMode value="singular" />
+  <randomizePool value="yes" />
+  <positionData>&lt;data&gt;&lt;screen&gt;  &lt;position x="623.7" y="297.95"/&gt;  &lt;position x="188.25" y="197.25"/&gt;  &lt;position x="393.7" y="545.1"/&gt;  &lt;position x="257.85" y="568.85"/&gt;&lt;/screen&gt;&lt;screen&gt;  &lt;position x="118.7" y="311"/&gt;  &lt;position x="117" y="215.3"/&gt;  &lt;position x="115.4" y="432.2"/&gt;  &lt;position x="622.9" y="311.8"/&gt;  &lt;position x="621.25" y="211.2"/&gt;  &lt;position x="624.55" y="532.05"/&gt;  &lt;position x="116.25" y="529.55"/&gt;  &lt;position x="624.5" y="433.8"/&gt;&lt;/screen&gt;&lt;/data&gt;</positionData>
+  <rounds>
+    <round>
+      <contentImage>M300_UW015_017A_114242_D.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>seat</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>handlebars</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>pedal</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>wheel</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+    <round>
+      <contentImage>M300_UW015_016A_114242_D.jpg</contentImage>
+      <contentImageAudio />
+      <imageSize value="medium" />
+      <assessedOverride value="false" />
+      <textSize />
+      <items>
+        <item>
+          <text>eye</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>eyebrow</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>nose</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>ear</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>eyelash</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>mouth</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>chin</text>
+          <image />
+          <audio />
+        </item>
+        <item>
+          <text>cheek</text>
+          <image />
+          <audio />
+        </item>
+      </items>
+      <distractors>
+        <item>
+          <text />
+          <image />
+          <audio />
+        </item>
+      </distractors>
+    </round>
+  </rounds>
+</build_a_scene>
+

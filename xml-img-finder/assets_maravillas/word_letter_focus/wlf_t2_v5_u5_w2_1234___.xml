@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<word_letter_focus>
+  <title>Estrategia de vocabulario: modismos</title>
+  <directions>&lt;p&gt;Resalta los modismos que tienen estas oraciones.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <words>
+            <word>
+              <text />
+            </word>
+          </words>
+          <sentences>
+            <sentence>
+              <text>&lt;p&gt;Julio es muy distra&amp;#237;do, siempre {wh}anda por las nubes{/wh}.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Aprende mucho,&amp;#160;{wh}s&amp;#225;cale el jugo{/wh} a tus estudios.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;A pesar de la lluvia, vamos a hacer el desfile {wh}contra viento y marea{/wh}.&lt;/p&gt;</text>
+            </sentence>
+            <sentence>
+              <text>&lt;p&gt;Todo nos sali&amp;#243;&amp;#160;{wh}a pedir de boca{/wh} durante las vacaciones.&lt;/p&gt;</text>
+            </sentence>
+          </sentences>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</word_letter_focus>
+

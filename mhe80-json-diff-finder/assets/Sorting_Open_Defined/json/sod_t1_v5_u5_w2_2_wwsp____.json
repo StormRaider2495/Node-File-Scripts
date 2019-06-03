@@ -1,0 +1,435 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Spelling: Word Sort with /&#251;r/: er, ir, ur, or",
+  "contentMode": {
+    "value": "words"
+  },
+  "directions": {
+    "text":  "<p>Drag words with the same vowel sound and spelling into the boxes. If the word does not have the same sound as any of the sounds, drag it into the “Other” bin.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "verb",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "her",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "fern",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "girl",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "bird",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "dirt",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "turn",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "fur",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "worm",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "work",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "other",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "barn",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "arm",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "climb",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "through",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "verb",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "Herb",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "clerk",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "herd",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "germ",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "girl",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "bird",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "birth",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "squirt",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "firm",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "turn",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "blur",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "curb",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "curl",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "burp",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "worm",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "worm",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "word",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "world",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "worth",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "worse",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "serve",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "perk",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "pert",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "stern",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "term",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "nerve",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "sir",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "skirt",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "stir",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "swirl",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "third",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "shirt",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            },
+            {
+              "type": "normal",
+              "title": {
+                "text":  "blurt",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "church",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "surf",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "slurp",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "turn",
+                  "audio": "",
+                  "altText": ""
+                },
+                {
+                  "text": "hurt",
+                  "audio": "",
+                  "altText": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

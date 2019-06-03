@@ -1,0 +1,207 @@
+{
+  "type": "sorting_open_defined",
+  "title":  "Category Words: Animal Homes<b></b>",
+  "contentMode": {
+    "value": "images"
+  },
+  "directions": {
+    "text":  "<p>Click on each picture to hear its name. Drag words that name where an animal lives to the blue box. Drag words that do not into the red box. Then click OK.</p>",
+    "audio": ""
+  },
+  "sfxPool": {
+    "value": "pool1"
+  },
+  "background": {
+    "value": "yellow2.png"
+  },
+  "help": {
+    "text":  "<b>Sorting Defined Help</b><br /><br />Answering Questions<ol><li><b>Read</b> the directions at the start of the activity.</li><li>Then, read each question and answer choice.</li><li>Use the <b>speaker button</b> to listen to the recorded audio when available.</li><li>Click or tap your answer, and don't let go! Then, drag it to the response line.</li><li>As an alternative to the mouse, the keyboard may be used. Tab to your answer, press Space to select it, and press Enter to place it on the response line.</li><li>Use the <b>Check</b> button to find out if your answer is correct.</li><li>If the answer is incorrect, use the <b>Try Again button</b>, then choose a new answer.</li><li>Use the <b>Previous</b> and <b>Next</b> buttons to navigate between question screens. You may review previous answers. </li></ol>Top Buttons<ol><li>Use the button with the <b>question mark</b> to come back to this help page.</li><li>Use the button with the <b>X</b> to close the activity.</li><li>Use the button with the <b>speaker</b> to mute automatic audio feedback.</li></ol>",
+    "audio": "SOD_Help.mp3"
+  },
+  "levels": [
+    {
+      "screens": [
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Animal Homes",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_061A_193002_d.jpg",
+                  "audio": "nest.mp3",
+                  "altText": "A nest in a tree."
+                },
+                {
+                  "text": "M100_UW073_001A_193002_d.jpg",
+                  "audio": "cave.mp3",
+                  "altText": "A bear hibernating in a cave."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Animal Homes",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW012_030A_193002_d.jpg",
+                  "audio": "bus.mp3",
+                  "altText": "A girl running to her school bus. On the bus are a driver and two boys."
+                },
+                {
+                  "text": "M100_UW013_043A_193002_d.jpg",
+                  "audio": "sun.mp3",
+                  "altText": "A yellow sun."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Animal Homes",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW033_021A_193002_d.jpg",
+                  "audio": "tree.mp3",
+                  "altText": "An outdoor park on a sunny day with trees, flowers, and a path. A swing is attached to a tree branch."
+                },
+                {
+                  "text": "M100_UW032_008A_114242_D.jpg",
+                  "audio": "hive.mp3",
+                  "altText": "A beehive with three bees flying around."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Animal Homes",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW011_035A_193002_d.jpg",
+                  "audio": "mat.mp3",
+                  "altText": ""
+                },
+                {
+                  "text": "M100_UW014_018A_114242_D.jpg",
+                  "audio": "rock.mp3",
+                  "altText": "A rock on top of green grass."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "feedback": {
+            "correct": {
+              "text": "Correct",
+              "audio": "correct.mp3"
+            },
+            "incorrect": {
+              "text": "Incorrect",
+              "audio": "incorrect.mp3"
+            }
+          },
+          "bins": [
+            {
+              "type": "normal",
+              "title": {
+                "text":  "Animal Homes",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW073_003A_193002_d.jpg",
+                  "audio": "burrow.mp3",
+                  "altText": "A gopher underground."
+                },
+                {
+                  "text": "M100_UW073_004A_193002_d.jpg",
+                  "audio": "lair.mp3",
+                  "altText": "A bear hibernating in a cave."
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "title": {
+                "text":  "Not Animal Homes",
+                "image": {
+                  "src": "",
+                  "altText": ""
+                },
+                "audio": ""
+              },
+              "contents": [
+                {
+                  "text": "M100_UW033_010A_193002_d.jpg",
+                  "audio": "can.mp3",
+                  "altText": "A can of beans."
+                },
+                {
+                  "text": "M100_UW053_009A_193002_d.jpg",
+                  "audio": "ball.mp3",
+                  "altText": "A football."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
