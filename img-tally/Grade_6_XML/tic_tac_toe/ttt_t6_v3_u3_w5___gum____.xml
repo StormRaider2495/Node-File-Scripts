@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tic_tac_toe>
+  <title>Grammar: Irregular Verbs</title>
+  <directions>Play Tic-Tac-Toe by choosing the correct answer from the word box that correctly fits in the sentences. Then place your "X" on the board. Three spaces in a row (across, down, or diagonal) wins.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <opponentStrength value="medium" />
+  <rounds>
+    <round>
+      <sentences>
+        <item>
+          <text>Marty asked Grandpa to [tell] him a story.</text>
+          <audio />
+        </item>
+        <item>
+          <text>I [have gone] to that store many times.</text>
+          <audio />
+        </item>
+        <item>
+          <text>The crossing guard [told] us to wait for his signal before crossing the street.</text>
+          <audio />
+        </item>
+        <item>
+          <text>[Go] directly home after school so you are not late for soccer practice.</text>
+          <audio />
+        </item>
+        <item>
+          <text>Francis made a wish and [blew] out the candles on her birthday cake.</text>
+          <audio />
+        </item>
+        <item>
+          <text>Mrs. Weaver showed me how to [blow] in the trumpet, but I struggled to do it correctly.</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="authored" />
+      <gapAudios>
+        <gapAudio>
+          <gap>tell</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>have gone</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>told</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>go</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>blew</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>blow</gap>
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+    <round>
+      <sentences>
+        <item>
+          <text>Ann [chose] the pink pair of shoes.</text>
+          <audio />
+        </item>
+        <item>
+          <text>Keith and Bob [have caught] many fish in that lake.</text>
+          <audio />
+        </item>
+        <item>
+          <text>Tony [rang] the doorbell, but no one came to the door.</text>
+          <audio />
+        </item>
+        <item>
+          <text>The broken toy boat began to [sink] to the bottom of the pool.</text>
+          <audio />
+        </item>
+        <item>
+          <text>I [know] how to spell all the words on this week’s spelling list.</text>
+          <audio />
+        </item>
+        <item>
+          <text>Several ships [have sunk] in the rough seas near Wickham Island.</text>
+          <audio />
+        </item>
+        <item>
+          <text>Leslie [knew] she had a good chance of winning the spelling bee.</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="authored" />
+      <gapAudios>
+        <gapAudio>
+          <gap>chose</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>have caught</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>rang</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>sink</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>know</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>have sunk</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>knew</gap>
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+    <round>
+      <sentences>
+        <item>
+          <text>I [have seen] this movie before.</text>
+          <audio />
+        </item>
+        <item>
+          <text>We [have spoken] on the telephone before.</text>
+          <audio />
+        </item>
+        <item>
+          <text>The soldiers [stood] motionless outside the gate.</text>
+          <audio />
+        </item>
+        <item>
+          <text>Elizabeth had to [stand] in line for 2 hours to get tickets to the concert.</text>
+          <audio />
+        </item>
+        <item>
+          <text>Alex [has worn] holes in the bottom of his favorite shoes.</text>
+          <audio />
+        </item>
+        <item>
+          <text>The teacher [had spoken] to the class about late homework several times in the past.</text>
+          <audio />
+        </item>
+        <item>
+          <text>Televisions across the country were tuned in as the president [spoke] about the crisis.</text>
+          <audio />
+        </item>
+        <item>
+          <text>My pants [tore] when they got caught in my bicycle chain.</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="authored" />
+      <gapAudios>
+        <gapAudio>
+          <gap>have seen</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>have spoken</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>sood</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>stand</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>has worn</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>had spoken</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>spoke</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>tore</gap>
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+  </rounds>
+</tic_tac_toe>
+

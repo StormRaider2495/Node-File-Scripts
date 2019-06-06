@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tic_tac_toe_v2>
+  <title>EL More Vocabulary: Unit 2</title>
+  <directions>Listen to the question and the answer choices. Drag the answer choice that best completes the sentence. Then place your "X" to play Tic-Tac-Toe.</directions>
+  <directionsAudio>eld_ttt2_dl.mp3</directionsAudio>
+  <background value="yellow3" />
+  <opponentStrength value="medium" />
+  <rounds>
+    <round>
+      <screens>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI21_q1.mp3</audioPrompt>
+              <questionText>Last year our school [adopted] a new dress code.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_adopted.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI21_q2.mp3</audioPrompt>
+              <questionText>My older brother designed and [constructed] his own tree house.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_constructed.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI21_q3.mp3</audioPrompt>
+              <questionText>The roses will [flourish] if you water them well.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_flourish.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI21_q4.mp3</audioPrompt>
+              <questionText>Carolina is making [remarkable] progress in English because she studies every day.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_remarkable.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI21_q5.mp3</audioPrompt>
+              <questionText>Liba keeps detailed [records] of the experiments we do in science class.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_records.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+      </screens>
+      <distractors>
+        <distractorOptions>
+          <gap>explore</gap>
+          <audio>eld_ttt2_explore.mp3</audio>
+        </distractorOptions>
+        <distractorOptions>
+          <gap>used</gap>
+          <audio>eld_ttt2_used.mp3</audio>
+        </distractorOptions>
+        <distractorOptions>
+          <gap>believed</gap>
+          <audio>eld_ttt2_believed.mp3</audio>
+        </distractorOptions>
+      </distractors>
+    </round>
+    <round>
+      <screens>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI22_q1.mp3</audioPrompt>
+              <questionText>Next year our school will adopt a new grading [system].</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_system.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI22_q2.mp3</audioPrompt>
+              <questionText>The sick kitten began to [thrive] after Teresa gave it food and attention.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_thrive.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI22_q3.mp3</audioPrompt>
+              <questionText>Linh [records] in her diary the things that happen every day.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_records_alt.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI22_q4.mp3</audioPrompt>
+              <questionText>Jessica and Carlos [constructed] a sand castle at the beach.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_constructed.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI22_q5.mp3</audioPrompt>
+              <questionText>In recent years, schools have [adopted] new methods for teaching math.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_adopted.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+      </screens>
+      <distractors>
+        <distractorOptions>
+          <gap>explored</gap>
+          <audio>eld_ttt2_explored.mp3</audio>
+        </distractorOptions>
+        <distractorOptions>
+          <gap>enabled</gap>
+          <audio>eld_ttt2_enabled.mp3</audio>
+        </distractorOptions>
+        <distractorOptions>
+          <gap>establishes</gap>
+          <audio>eld_ttt2_establishes.mp3</audio>
+        </distractorOptions>
+      </distractors>
+    </round>
+    <round>
+      <screens>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI23_q1.mp3</audioPrompt>
+              <questionText>Students need a [balance] between studying hard and having fun.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_balance.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI23_q2.mp3</audioPrompt>
+              <questionText>The new movie has many [critics] who say it will not be popular.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_critics.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI23_q3.mp3</audioPrompt>
+              <questionText>In social studies class, we [debated] the advantages of democracy.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_debated.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI23_q4.mp3</audioPrompt>
+              <questionText>The principal [endorsed] the students' volunteer program because he thought it was a good idea.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_endorsed.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI23_q5.mp3</audioPrompt>
+              <questionText>Marisa can [pick up] a tune easily and play it on the guitar.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_pick_up.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+      </screens>
+      <distractors>
+        <distractorOptions>
+          <gap>philosophers</gap>
+          <audio>eld_ttt2_philosophers.mp3</audio>
+        </distractorOptions>
+        <distractorOptions>
+          <gap>studied</gap>
+          <audio>eld_ttt2_studied.mp3</audio>
+        </distractorOptions>
+        <distractorOptions>
+          <gap>shared</gap>
+          <audio>eld_ttt2_shared.mp3</audio>
+        </distractorOptions>
+      </distractors>
+    </round>
+    <round>
+      <screens>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI24_q1.mp3</audioPrompt>
+              <questionText>In a class survey, students responded that the rules [governing] their school were fair.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_governing.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI24_q2.mp3</audioPrompt>
+              <questionText>Mr. Robertson [urged] his son to wear a biking helmet for safety.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_urged.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI24_q3.mp3</audioPrompt>
+              <questionText>Dad's car [breaks down] often because it is old.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_breaks_down.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI24_q4.mp3</audioPrompt>
+              <questionText>Malikah and Emma [debated] the benefits of the new school dress code.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_debated.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI24_q5.mp3</audioPrompt>
+              <questionText>The students [endorsed] Mateo as class secretary.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_endorsed.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+      </screens>
+      <distractors>
+        <distractorOptions>
+          <gap>valued</gap>
+          <audio>eld_ttt2_valued.mp3</audio>
+        </distractorOptions>
+        <distractorOptions>
+          <gap>included</gap>
+          <audio>eld_ttt2_included.mp3</audio>
+        </distractorOptions>
+        <distractorOptions>
+          <gap>put into practice</gap>
+          <audio>eld_ttt2_put_into_practice.mp3</audio>
+        </distractorOptions>
+      </distractors>
+    </round>
+    <round>
+      <screens>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI25_q1.mp3</audioPrompt>
+              <questionText>At the museum, Jimena saw a collection of old coins from [ancient] Rome.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_ancient.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI25_q2.mp3</audioPrompt>
+              <questionText>I tried to [convince] mom to let me go to the movies by promising that I would do my homework.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_convince.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI25_q3.mp3</audioPrompt>
+              <questionText>Heejin is [eager] to go to the mall with her mom this weekend. She can't wait!</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_eager.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI25_q4.mp3</audioPrompt>
+              <questionText>My parents are [impressed] with my progress in science.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_impressed.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI25_q5.mp3</audioPrompt>
+              <questionText>Jack looked [nervously] at the questions in the test.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_nervously.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+      </screens>
+      <distractors>
+        <distractorOptions>
+          <gap>arrive</gap>
+          <audio>eld_ttt2_arrive.mp3</audio>
+        </distractorOptions>
+        <distractorOptions>
+          <gap>timid</gap>
+          <audio>eld_ttt2_timid.mp3</audio>
+        </distractorOptions>
+        <distractorOptions>
+          <gap>truly</gap>
+          <audio>eld_ttt2_truly.mp3</audio>
+        </distractorOptions>
+      </distractors>
+    </round>
+    <round>
+      <screens>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI26_q1.mp3</audioPrompt>
+              <questionText>Our school hopes to [obtain] permission to hold a fair.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_obtain.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI26_q2.mp3</audioPrompt>
+              <questionText>Joe and his brother [possess] the ability to speak many languages.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_possess.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI26_q3.mp3</audioPrompt>
+              <questionText>Zara petted the tiny kitten [gently].</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_gently.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI26_q4.mp3</audioPrompt>
+              <questionText>Mark and Noah were [impressed] by the amazing special effects in the movie.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_impressed.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI26_q5.mp3</audioPrompt>
+              <questionText>Emily hopes to [convince] her parents to buy her a new bike.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_convince.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+      </screens>
+      <distractors>
+        <distractorOptions>
+          <gap>think</gap>
+          <audio>eld_ttt2_think.mp3</audio>
+        </distractorOptions>
+        <distractorOptions>
+          <gap>surveys</gap>
+          <audio>eld_ttt2_surveys.mp3</audio>
+        </distractorOptions>
+        <distractorOptions>
+          <gap>tossed</gap>
+          <audio>eld_ttt2_tossed.mp3</audio>
+        </distractorOptions>
+      </distractors>
+    </round>
+    <round>
+      <screens>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI27_q1.mp3</audioPrompt>
+              <questionText>The crowd watched in [amazement] as Alberto scored the winning basket.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_amazement.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI27_q2.mp3</audioPrompt>
+              <questionText>The mother gave her baby a big hug to [display] her love.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_display.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI27_q3.mp3</audioPrompt>
+              <questionText>Nasim was homesick at camp and thought [longingly] about his parents.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_longingly.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI27_q4.mp3</audioPrompt>
+              <questionText>Our team lost, but we are full of [optimism] and hope to win the next game.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_optimism.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI27_q5.mp3</audioPrompt>
+              <questionText>Eduardo likes to [show off] his diving skills at the pool.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_show_off.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+      </screens>
+      <distractors>
+        <distractorOptions>
+          <gap>understand</gap>
+          <audio>eld_ttt2_understand.mp3</audio>
+        </distractorOptions>
+        <distractorOptions>
+          <gap>fall silent</gap>
+          <audio>eld_ttt2_fall_silent.mp3</audio>
+        </distractorOptions>
+        <distractorOptions>
+          <gap>secretly</gap>
+          <audio>eld_ttt2_secretly.mp3</audio>
+        </distractorOptions>
+      </distractors>
+    </round>
+    <round>
+      <screens>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI28_q1.mp3</audioPrompt>
+              <questionText>The children had to wait [patiently] to cross the busy street.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_patiently.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI28_q2.mp3</audioPrompt>
+              <questionText>Bernardo's dad spoke [sternly] to him because he did not do his chores.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_sternly.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI28_q3.mp3</audioPrompt>
+              <questionText>The little boy's face [lit up] when he received a new toy truck for his birthday.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_lit_up.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI28_q4.mp3</audioPrompt>
+              <questionText>Nguyen gazed in [amazement] at the huge whale.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_amazement.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI28_q5.mp3</audioPrompt>
+              <questionText>Susan wished [longingly] to see her old friends again.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_longingly.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+      </screens>
+      <distractors>
+        <distractorOptions>
+          <gap>deftly</gap>
+          <audio>eld_ttt2_deftly.mp3</audio>
+        </distractorOptions>
+        <distractorOptions>
+          <gap>contentedly</gap>
+          <audio>eld_ttt2_contentedly.mp3</audio>
+        </distractorOptions>
+        <distractorOptions>
+          <gap>alarm</gap>
+          <audio>eld_ttt2_alarm.mp3</audio>
+        </distractorOptions>
+      </distractors>
+    </round>
+    <round>
+      <screens>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI29_q1.mp3</audioPrompt>
+              <questionText>Every year the Boy Scouts [create] flyers for their food drive.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_create.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI29_q2.mp3</audioPrompt>
+              <questionText>Roberto is filled with [gloom] because his bicycle was stolen.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_gloom.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI29_q3.mp3</audioPrompt>
+              <questionText>Kyu was asked to [shun] milk products because he is allergic to them.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_shun.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI29_q4.mp3</audioPrompt>
+              <questionText>In my [view], reading books is a wonderful activity.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_view.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+        <screen>
+          <sentences>
+            <item>
+              <imagePrompt />
+              <audioPrompt>eld_ttt2_6AI29_q5.mp3</audioPrompt>
+              <questionText>Writers use [personification] to give human qualities to animals.</questionText>
+              <questionImage />
+              <wordBankAudio>eld_ttt2_personification.mp3</wordBankAudio>
+            </item>
+          </sentences>
+        </screen>
+      </screens>
+      <distractors>
+        <distractorOptions>
+          <gap>despair</gap>
+          <audio>eld_ttt2_despair.mp3</audio>
+        </distractorOptions>
+        <distractorOptions>
+          <gap>share</gap>
+          <audio>eld_ttt2_share.mp3</audio>
+        </distractorOptions>
+        <distractorOptions>
+          <gap>rhyme scheme</gap>
+          <audio>eld_ttt2_rhyme_scheme.mp3</audio>
+        </distractorOptions>
+      </distractors>
+    </round>
+  </rounds>
+</tic_tac_toe_v2>
+

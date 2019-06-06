@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>Grammar: Run-On Sentences and Comma Splices</title>
+  <directions>Read each run-on sentence or comma splice. Then read the revised sentences below. Click on the sentence that is revised correctly.</directions>
+  <sfxPool value="pool1" />
+  <background value="yellow1" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <question>
+            <text>&lt;p&gt;A wild animal park is a special kind of zoo its animals are not caged but roam freely.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>A wild animal park is a special kind of zoo, its animals are not caged but roam freely.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>A wild animal park is a special kind of zoo. Its animals are not caged but roam freely.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;People ride through the park in vans and they watch the animals as they pass them.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>People ride through the park in vans. And they watch the animals as they pass them.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>People ride through the park in vans, and they watch the animals as they pass them.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;Visitors are not allowed to feed or touch the animals, they must respect the zoo&amp;#8217;s rules.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Visitors are not allowed to feed or touch the animals they must respect the zoo’s rules.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Visitors are not allowed to feed or touch the animals. They must respect the zoo’s rules.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;Guides share facts about the animals they tell how people can help protect each species.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Guides share facts about the animals, and they tell how people can help protect each species.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Guides share facts about the animals. And they tell how people can help protect each species.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <question>
+            <text>&lt;p&gt;Alyssa has visited several national parks, she saw them on a family vacation.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Alyssa has visited several national parks; she saw them on a family vacation.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Alyssa has visited several national parks, or she saw them on a family vacation.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;She spent three days at Yellowstone National Park her favorite park was the Grand Canyon.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>She spent four days at Yellowstone National Park, but her favorite park was the Grand Canyon.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>She spent four days at Yellowstone National Park, her favorite park was the Grand Canyon.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;Next year Alyssa wants to visit Crater Lake her brother wants to visit Mount Rainier.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Next year Alyssa wants to visit Crater Lake. Her brother wants to visit Mount Rainier.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Next year Alyssa wants to visit Crater Lake, her brother wants to visit Mount Rainier.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;Alyssa and her brother wanted to visit Sequoia National Park they didn&amp;#8217;t have time.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Alyssa and her brother wanted to visit Sequoia National Park, they didn’t have time.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Alyssa and her brother wanted to visit Sequoia National Park, but they didn’t have time.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <question>
+            <text>&lt;p&gt;Mesa Verde is a unique national park it has ancient Native American cliff-side homes.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Mesa Verde is a unique national park; it has ancient Native American cliff-side homes.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Mesa Verde is a unique national park, it has ancient Native American cliff-side homes.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;Yosemite is a beautiful national park it has a famous rock formation called El Capitan.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Yosemite is a beautiful national park, it has a famous rock formation called El Capitan.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Yosemite is a beautiful national park. It has a famous rock formation called El Capitan.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;Everglades National Park is home to many protected species the American crocodile is one.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Everglades National Park is home to many protected species; the American crocodile is one.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Everglades National Park is home to many protected species, the American crocodile is one.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;Marcos has visited seven national forests but there are many more that he wants to visit.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Marcos has visited seven national forests; but there are many more that he wants to visit.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Marcos has visited seven national forests, but there are many more that he wants to visit.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

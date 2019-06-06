@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Your Turn: Vocabulary</title>
+  <directions>Read each pair of sentences. Choose the vocabulary word that completes both sentences.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow1" />
+  <itemReplenishmentMode value="bottomless" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The waterfall [cascaded] over the cliff and into the valley.&lt;/p&gt;
+&lt;p&gt;When I knocked over the bag, a stream of flour [cascaded] onto the floor.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>exerts</text>
+            </distractor>
+            <distractor>
+              <text>plummeting</text>
+            </distractor>
+            <distractor>
+              <text>pulverize</text>
+            </distractor>
+            <distractor>
+              <text>scalding</text>
+            </distractor>
+            <distractor>
+              <text>shards</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The [documentation] in this report comes from two books about the Civil War.&lt;/p&gt;
+&lt;p&gt;That&amp;#8217;s an amazing idea, but what [documentation] do you have to support it?&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>dynamic</text>
+            </distractor>
+            <distractor>
+              <text>shards</text>
+            </distractor>
+            <distractor>
+              <text>plummeting</text>
+            </distractor>
+            <distractor>
+              <text>pulverize</text>
+            </distractor>
+            <distractor>
+              <text>scalding</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;A crowd quickly gathered to hear the [dynamic] speaker.&lt;/p&gt;
+&lt;p&gt;Everyone loved the [dynamic] performance of the marching band.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>cascaded</text>
+            </distractor>
+            <distractor>
+              <text>exerts</text>
+            </distractor>
+            <distractor>
+              <text>pulverize</text>
+            </distractor>
+            <distractor>
+              <text>scalding</text>
+            </distractor>
+            <distractor>
+              <text>shards</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Diego always [exerts] himself at basketball practice.&lt;/p&gt;
+&lt;p&gt;A king or queen [exerts] a great deal of power.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>cascaded</text>
+            </distractor>
+            <distractor>
+              <text>documentation</text>
+            </distractor>
+            <distractor>
+              <text>plummeting</text>
+            </distractor>
+            <distractor>
+              <text>scalding</text>
+            </distractor>
+            <distractor>
+              <text>shards</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The feeling of [plummeting] to earth is what makes that ride so scary.&lt;/p&gt;
+&lt;p&gt;The [plummeting] of the kite caught everyone&amp;#8217;s attention.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>cascaded</text>
+            </distractor>
+            <distractor>
+              <text>documentation</text>
+            </distractor>
+            <distractor>
+              <text>dynamic</text>
+            </distractor>
+            <distractor>
+              <text>pulverize</text>
+            </distractor>
+            <distractor>
+              <text>shards</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;That machine can [pulverize] concrete into dusty gravel.&lt;/p&gt;
+&lt;p&gt;When they [pulverize] the wheat, it becomes flour.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>cascaded</text>
+            </distractor>
+            <distractor>
+              <text>documentation</text>
+            </distractor>
+            <distractor>
+              <text>dynamic</text>
+            </distractor>
+            <distractor>
+              <text>exerts</text>
+            </distractor>
+            <distractor>
+              <text>shards</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;If you&amp;#8217;re not careful, you&amp;#8217;ll be burned by that [scalding] water.&lt;/p&gt;
+&lt;p&gt;The [scalding] milk must cool before you can use it to make pudding.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>cascaded</text>
+            </distractor>
+            <distractor>
+              <text>documentation</text>
+            </distractor>
+            <distractor>
+              <text>dynamic</text>
+            </distractor>
+            <distractor>
+              <text>exerts</text>
+            </distractor>
+            <distractor>
+              <text>plummeting</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The vase fell and burst into a pile of [shards].&lt;/p&gt;
+&lt;p&gt;The [shards] of glass made walking in that area dangerous.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>documentation</text>
+            </distractor>
+            <distractor>
+              <text>dynamic</text>
+            </distractor>
+            <distractor>
+              <text>exerts</text>
+            </distractor>
+            <distractor>
+              <text>plummeting</text>
+            </distractor>
+            <distractor>
+              <text>pulverize</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Fog [engulfs] the seaside town several times each month.&lt;/p&gt;
+&lt;p&gt;As people watch, fire quickly[engulfs] the empty house.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>hostile</text>
+            </distractor>
+            <distractor>
+              <text>obscure</text>
+            </distractor>
+            <distractor>
+              <text>retrieved</text>
+            </distractor>
+            <distractor>
+              <text>smuggle</text>
+            </distractor>
+            <distractor>
+              <text>species</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;I saw a [glimmer] of sadness in the puppy&amp;#8217;s eyes.&lt;/p&gt;
+&lt;p&gt;There was still a [glimmer] of flame among the coals in the fireplace.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>commit</text>
+            </distractor>
+            <distractor>
+              <text>obscure</text>
+            </distractor>
+            <distractor>
+              <text>retrieved</text>
+            </distractor>
+            <distractor>
+              <text>smuggle</text>
+            </distractor>
+            <distractor>
+              <text>species</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Justin exclaimed, &amp;#8220;I hate it when clouds [obscure] the sun!&amp;#8221;&lt;/p&gt;
+&lt;p&gt;Those trees might [obscure] our view of the parade.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>commit</text>
+            </distractor>
+            <distractor>
+              <text>engulfs</text>
+            </distractor>
+            <distractor>
+              <text>hostile</text>
+            </distractor>
+            <distractor>
+              <text>smuggle</text>
+            </distractor>
+            <distractor>
+              <text>species</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Can you [commit] to being on the team all season?&lt;/p&gt;
+&lt;p&gt;I will [commit] to helping at the library two days each week.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>engulfs</text>
+            </distractor>
+            <distractor>
+              <text>glimmer</text>
+            </distractor>
+            <distractor>
+              <text>obscure</text>
+            </distractor>
+            <distractor>
+              <text>smuggle</text>
+            </distractor>
+            <distractor>
+              <text>species</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;When Chandra threw the ball, her dog Bouncer ran and [retrieved] it.&lt;/p&gt;
+&lt;p&gt;We dug through the trash until we [retrieved] the lost keys.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>engulfs</text>
+            </distractor>
+            <distractor>
+              <text>glimmer</text>
+            </distractor>
+            <distractor>
+              <text>hostile</text>
+            </distractor>
+            <distractor>
+              <text>obscure</text>
+            </distractor>
+            <distractor>
+              <text>species</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;How did you manage to [smuggle] your pet hamster into school?&lt;/p&gt;
+&lt;p&gt;The spy will [smuggle] the secret plans out of the building.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>commit</text>
+            </distractor>
+            <distractor>
+              <text>engulfs</text>
+            </distractor>
+            <distractor>
+              <text>glimmer</text>
+            </distractor>
+            <distractor>
+              <text>hostile</text>
+            </distractor>
+            <distractor>
+              <text>obscure</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;I wonder how many [species] of sharks there are in the world.&lt;/p&gt;
+&lt;p&gt;Scientists announced the discovery of a new frog [species].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>commit</text>
+            </distractor>
+            <distractor>
+              <text>hostile</text>
+            </distractor>
+            <distractor>
+              <text>obscure</text>
+            </distractor>
+            <distractor>
+              <text>retrieved</text>
+            </distractor>
+            <distractor>
+              <text>smuggle</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The [hostile] dog growled at everyone who passed by.&lt;/p&gt;
+&lt;p&gt;My brother got very [hostile] when I took his T-shirt without asking.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>commit</text>
+            </distractor>
+            <distractor>
+              <text>glimmer</text>
+            </distractor>
+            <distractor>
+              <text>obscure</text>
+            </distractor>
+            <distractor>
+              <text>retrieved</text>
+            </distractor>
+            <distractor>
+              <text>smuggle</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;I was [anxious] to get my test grade back.&lt;/p&gt;
+&lt;p&gt;Sometimes I get [anxious] when I think I&amp;#8217;ll be late for school.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>emotion</text>
+            </distractor>
+            <distractor>
+              <text>excite</text>
+            </distractor>
+            <distractor>
+              <text>perception</text>
+            </distractor>
+            <distractor>
+              <text>reminisce</text>
+            </distractor>
+            <distractor>
+              <text>sarcastic</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Jos&amp;#233; found an old letter in a secret [compartment] in the desk.&lt;/p&gt;
+&lt;p&gt;The top [compartment] of this refrigerator is a freezer.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>emotion</text>
+            </distractor>
+            <distractor>
+              <text>excite</text>
+            </distractor>
+            <distractor>
+              <text>perception</text>
+            </distractor>
+            <distractor>
+              <text>reminisce</text>
+            </distractor>
+            <distractor>
+              <text>sarcastic</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;When I&amp;#8217;m sad, I find [consolation] in talking to my best friend.&lt;/p&gt;
+&lt;p&gt;After her players lost the game, Coach Edwards offered them some [consolation].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>anxious</text>
+            </distractor>
+            <distractor>
+              <text>compartment</text>
+            </distractor>
+            <distractor>
+              <text>perception</text>
+            </distractor>
+            <distractor>
+              <text>reminisce</text>
+            </distractor>
+            <distractor>
+              <text>sarcastic</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Jada showed no [emotion] even though she won first prize.&lt;/p&gt;
+&lt;p&gt;What [emotion] do you feel when you are smiling?&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>anxious</text>
+            </distractor>
+            <distractor>
+              <text>compartment</text>
+            </distractor>
+            <distractor>
+              <text>consolation</text>
+            </distractor>
+            <distractor>
+              <text>reminisce</text>
+            </distractor>
+            <distractor>
+              <text>sarcastic</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;We had a growing [perception] that we were all alone in the building.&lt;/p&gt;
+&lt;p&gt;My [perception] is that something good will happen soon.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>anxious</text>
+            </distractor>
+            <distractor>
+              <text>compartment</text>
+            </distractor>
+            <distractor>
+              <text>consolation</text>
+            </distractor>
+            <distractor>
+              <text>emotion</text>
+            </distractor>
+            <distractor>
+              <text>excite</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Let&amp;#8217;s [reminisce] about our trip to Florida last year.&lt;/p&gt;
+&lt;p&gt;We love to hear Grandma and Grandpa [reminisce] about how they met.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>anxious</text>
+            </distractor>
+            <distractor>
+              <text>consolation</text>
+            </distractor>
+            <distractor>
+              <text>emotion</text>
+            </distractor>
+            <distractor>
+              <text>excite</text>
+            </distractor>
+            <distractor>
+              <text>perception</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Many people have been hurt by Peter&amp;#8217;s [sarcastic] comments.&lt;/p&gt;
+&lt;p&gt;His [sarcastic] smile told me that he was making fun of us.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>consolation</text>
+            </distractor>
+            <distractor>
+              <text>emotion</text>
+            </distractor>
+            <distractor>
+              <text>excite</text>
+            </distractor>
+            <distractor>
+              <text>perception</text>
+            </distractor>
+            <distractor>
+              <text>reminisce</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Please don&amp;#8217;t [excite] the puppy by playing with her too much.&lt;/p&gt;
+&lt;p&gt;The rides at amusement parks often [excite] kids.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>anxious</text>
+            </distractor>
+            <distractor>
+              <text>compartment</text>
+            </distractor>
+            <distractor>
+              <text>perception</text>
+            </distractor>
+            <distractor>
+              <text>reminisce</text>
+            </distractor>
+            <distractor>
+              <text>sarcastic</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Your Turn: Phonics</title>
+  <directions>Read the sentence. Choose one root word and one suffix from the word bank to make a new word that completes the sentence. Drag each word part to the appropriate line.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow1" />
+  <itemReplenishmentMode value="bottomless" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The runway model is considered the most [fashion]&amp;lt;-&amp;gt;[able] woman in the city.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>reli</text>
+            </distractor>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>trace</text>
+            </distractor>
+            <distractor>
+              <text>horr</text>
+            </distractor>
+            <distractor>
+              <text>valu</text>
+            </distractor>
+            <distractor>
+              <text>compat</text>
+            </distractor>
+            <distractor>
+              <text>permiss</text>
+            </distractor>
+            <distractor>
+              <text>predict</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;My father is known by his colleagues as both honest and [reli]&amp;lt;-&amp;gt;[able].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>fashion</text>
+            </distractor>
+            <distractor>
+              <text>trace</text>
+            </distractor>
+            <distractor>
+              <text>horr</text>
+            </distractor>
+            <distractor>
+              <text>valu</text>
+            </distractor>
+            <distractor>
+              <text>compat</text>
+            </distractor>
+            <distractor>
+              <text>permiss</text>
+            </distractor>
+            <distractor>
+              <text>predict</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Modern science has made even tiny clues [trace]&amp;lt;-&amp;gt;[able] to their human sources.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>fashion</text>
+            </distractor>
+            <distractor>
+              <text>reli</text>
+            </distractor>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>valu</text>
+            </distractor>
+            <distractor>
+              <text>horr</text>
+            </distractor>
+            <distractor>
+              <text>permiss</text>
+            </distractor>
+            <distractor>
+              <text>predict</text>
+            </distractor>
+            <distractor>
+              <text>remark</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;In the game, a [horr]&amp;lt;-&amp;gt;[ible] crime is committed by a mysterious character.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>able</text>
+            </distractor>
+            <distractor>
+              <text>fashion</text>
+            </distractor>
+            <distractor>
+              <text>reli</text>
+            </distractor>
+            <distractor>
+              <text>trace</text>
+            </distractor>
+            <distractor>
+              <text>valu</text>
+            </distractor>
+            <distractor>
+              <text>compat</text>
+            </distractor>
+            <distractor>
+              <text>permiss</text>
+            </distractor>
+            <distractor>
+              <text>predict</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;I was lucky to find a [valu]&amp;lt;-&amp;gt;[able] baseball card among the random pack.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>fashion</text>
+            </distractor>
+            <distractor>
+              <text>reli</text>
+            </distractor>
+            <distractor>
+              <text>remark</text>
+            </distractor>
+            <distractor>
+              <text>predict</text>
+            </distractor>
+            <distractor>
+              <text>permiss</text>
+            </distractor>
+            <distractor>
+              <text>compat</text>
+            </distractor>
+            <distractor>
+              <text>accept</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Luckily, my brother and I are [compat]&amp;lt;-&amp;gt;[ible] roommates.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>able</text>
+            </distractor>
+            <distractor>
+              <text>fashion</text>
+            </distractor>
+            <distractor>
+              <text>reli</text>
+            </distractor>
+            <distractor>
+              <text>trace</text>
+            </distractor>
+            <distractor>
+              <text>horr</text>
+            </distractor>
+            <distractor>
+              <text>valu</text>
+            </distractor>
+            <distractor>
+              <text>permiss</text>
+            </distractor>
+            <distractor>
+              <text>predict</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Do you think it should be [permiss]&amp;lt;-&amp;gt;[ible] to stay up late on the weekends?&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>remark</text>
+            </distractor>
+            <distractor>
+              <text>fashion</text>
+            </distractor>
+            <distractor>
+              <text>reli</text>
+            </distractor>
+            <distractor>
+              <text>trace</text>
+            </distractor>
+            <distractor>
+              <text>horr</text>
+            </distractor>
+            <distractor>
+              <text>valu</text>
+            </distractor>
+            <distractor>
+              <text>compat</text>
+            </distractor>
+            <distractor>
+              <text>accept</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The end of the novel was so [predict]&amp;lt;-&amp;gt;[able]; I guessed it halfway through.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>fashion</text>
+            </distractor>
+            <distractor>
+              <text>reli</text>
+            </distractor>
+            <distractor>
+              <text>horr</text>
+            </distractor>
+            <distractor>
+              <text>valu</text>
+            </distractor>
+            <distractor>
+              <text>compat</text>
+            </distractor>
+            <distractor>
+              <text>permiss</text>
+            </distractor>
+            <distractor>
+              <text>accept</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Li&amp;#8217;s talent on the piano was [remark]&amp;lt;-&amp;gt;[able] for someone so young.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>fashion</text>
+            </distractor>
+            <distractor>
+              <text>reli</text>
+            </distractor>
+            <distractor>
+              <text>trace</text>
+            </distractor>
+            <distractor>
+              <text>horr</text>
+            </distractor>
+            <distractor>
+              <text>valu</text>
+            </distractor>
+            <distractor>
+              <text>compat</text>
+            </distractor>
+            <distractor>
+              <text>permiss</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;That behavior is not considered [accept]&amp;lt;-&amp;gt;[able] in a crowded theater.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>fashion</text>
+            </distractor>
+            <distractor>
+              <text>reli</text>
+            </distractor>
+            <distractor>
+              <text>trace</text>
+            </distractor>
+            <distractor>
+              <text>horr</text>
+            </distractor>
+            <distractor>
+              <text>valu</text>
+            </distractor>
+            <distractor>
+              <text>compat</text>
+            </distractor>
+            <distractor>
+              <text>remark</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Although disappointing, the story&amp;#8217;s conclusion was [inevit]&amp;lt;-&amp;gt;[able].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>identifi</text>
+            </distractor>
+            <distractor>
+              <text>salvage</text>
+            </distractor>
+            <distractor>
+              <text>consum</text>
+            </distractor>
+            <distractor>
+              <text>exchange</text>
+            </distractor>
+            <distractor>
+              <text>indefens</text>
+            </distractor>
+            <distractor>
+              <text>indel</text>
+            </distractor>
+            <distractor>
+              <text>perish</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Our lost kitten was [identifi]&amp;lt;-&amp;gt;[able] &amp;#160;because of the pink spot on his nose.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>inevit</text>
+            </distractor>
+            <distractor>
+              <text>idenfens</text>
+            </distractor>
+            <distractor>
+              <text>salvage</text>
+            </distractor>
+            <distractor>
+              <text>consum</text>
+            </distractor>
+            <distractor>
+              <text>exchange</text>
+            </distractor>
+            <distractor>
+              <text>indel</text>
+            </distractor>
+            <distractor>
+              <text>decipher</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The chair would be [salvage]&amp;lt;-&amp;gt;[able] &amp;#160;with a fresh coat of paint and new cushions.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>inevit</text>
+            </distractor>
+            <distractor>
+              <text>combust</text>
+            </distractor>
+            <distractor>
+              <text>consum</text>
+            </distractor>
+            <distractor>
+              <text>exchange</text>
+            </distractor>
+            <distractor>
+              <text>indefens</text>
+            </distractor>
+            <distractor>
+              <text>decipher</text>
+            </distractor>
+            <distractor>
+              <text>perish</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Workbooks are called &amp;#8220;[consum]&amp;lt;-&amp;gt;[ables]&amp;#8221; because they cannot be reused.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>inevit</text>
+            </distractor>
+            <distractor>
+              <text>identifi</text>
+            </distractor>
+            <distractor>
+              <text>salvage</text>
+            </distractor>
+            <distractor>
+              <text>exchange</text>
+            </distractor>
+            <distractor>
+              <text>indefens</text>
+            </distractor>
+            <distractor>
+              <text>perish</text>
+            </distractor>
+            <distractor>
+              <text>decipher</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;If the new jacket doesn&amp;#8217;t fit, the sales clerk said it is [exchange]&amp;lt;-&amp;gt;[able].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>inevit</text>
+            </distractor>
+            <distractor>
+              <text>salvage</text>
+            </distractor>
+            <distractor>
+              <text>consum</text>
+            </distractor>
+            <distractor>
+              <text>indefens</text>
+            </distractor>
+            <distractor>
+              <text>indel</text>
+            </distractor>
+            <distractor>
+              <text>perish</text>
+            </distractor>
+            <distractor>
+              <text>combust</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;His bad behavior on the trip to the zoo was [indefens]&amp;lt;-&amp;gt;[ible].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>able</text>
+            </distractor>
+            <distractor>
+              <text>inevit</text>
+            </distractor>
+            <distractor>
+              <text>salvage</text>
+            </distractor>
+            <distractor>
+              <text>consum</text>
+            </distractor>
+            <distractor>
+              <text>exchange</text>
+            </distractor>
+            <distractor>
+              <text>identifi</text>
+            </distractor>
+            <distractor>
+              <text>combust</text>
+            </distractor>
+            <distractor>
+              <text>perish</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The&amp;#160; [indel]&amp;lt;-&amp;gt;[ible] &amp;#160;ink would never wash out of my clothing.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>able</text>
+            </distractor>
+            <distractor>
+              <text>inevit</text>
+            </distractor>
+            <distractor>
+              <text>identifi</text>
+            </distractor>
+            <distractor>
+              <text>salvage</text>
+            </distractor>
+            <distractor>
+              <text>consum</text>
+            </distractor>
+            <distractor>
+              <text>exchange</text>
+            </distractor>
+            <distractor>
+              <text>decipher</text>
+            </distractor>
+            <distractor>
+              <text>perish</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Food that is [perish]&amp;lt;-&amp;gt;[able] &amp;#160;must be refrigerated promptly.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>inevit</text>
+            </distractor>
+            <distractor>
+              <text>identifi</text>
+            </distractor>
+            <distractor>
+              <text>salvage</text>
+            </distractor>
+            <distractor>
+              <text>consum</text>
+            </distractor>
+            <distractor>
+              <text>exchange</text>
+            </distractor>
+            <distractor>
+              <text>indefens</text>
+            </distractor>
+            <distractor>
+              <text>indel</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Though complicated, the code was [decipher]&amp;lt;-&amp;gt;[able].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>inevit</text>
+            </distractor>
+            <distractor>
+              <text>identifi</text>
+            </distractor>
+            <distractor>
+              <text>salvage</text>
+            </distractor>
+            <distractor>
+              <text>consum</text>
+            </distractor>
+            <distractor>
+              <text>exchange</text>
+            </distractor>
+            <distractor>
+              <text>indefens</text>
+            </distractor>
+            <distractor>
+              <text>indel</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Gasoline is a [combust]&amp;lt;-&amp;gt;[ible] &amp;#160;substance that must be handled safely.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>able</text>
+            </distractor>
+            <distractor>
+              <text>inevit</text>
+            </distractor>
+            <distractor>
+              <text>identifi</text>
+            </distractor>
+            <distractor>
+              <text>salvage</text>
+            </distractor>
+            <distractor>
+              <text>consum</text>
+            </distractor>
+            <distractor>
+              <text>exchange</text>
+            </distractor>
+            <distractor>
+              <text>indefens</text>
+            </distractor>
+            <distractor>
+              <text>decipher</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

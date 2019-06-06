@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tic_tac_toe>
+  <title>Your Turn: Phonics</title>
+  <directions>Match each word in the box to its correct definition. If you are correct, place your X on the board by clicking a square. Three spaces in a row wins.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <opponentStrength value="medium" />
+  <rounds>
+    <round>
+      <sentences>
+        <item>
+          <text>fear of spiders: [arachnophobia]</text>
+          <audio />
+        </item>
+        <item>
+          <text>study of myths: [mythology]</text>
+          <audio />
+        </item>
+        <item>
+          <text>scientist who studies living things: [biologist]</text>
+          <audio />
+        </item>
+        <item>
+          <text>scientist who studies zoology: [zoologist]</text>
+          <audio />
+        </item>
+        <item>
+          <text>sensitivity to or fear of light: [photophobia]</text>
+          <audio />
+        </item>
+        <item>
+          <text>specialist in setting up technical equipment: [technician]</text>
+          <audio />
+        </item>
+        <item>
+          <text>specialist in mathematics: [mathematician]</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="noAudio" />
+      <gapAudios>
+        <gapAudio>
+          <gap />
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+    <round>
+      <sentences>
+        <item>
+          <text>someone who studies human beings: [anthropologist]</text>
+          <audio />
+        </item>
+        <item>
+          <text>study of secret codes: [cryptology]</text>
+          <audio />
+        </item>
+        <item>
+          <text>specialist in diets: [dietician]</text>
+          <audio />
+        </item>
+        <item>
+          <text>ruled by the people: [democracy]</text>
+          <audio />
+        </item>
+        <item>
+          <text>study of smallest forms of life: [microbiology]</text>
+          <audio />
+        </item>
+        <item>
+          <text>specialist in projection equipment: [projectionist]</text>
+          <audio />
+        </item>
+        <item>
+          <text>sensitivity to or fear of sound: [phonophobia]</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="noAudio" />
+      <gapAudios>
+        <gapAudio>
+          <gap />
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+    <round>
+      <sentences>
+        <item>
+          <text>specialist in manicures: [manicurist]</text>
+          <audio />
+        </item>
+        <item>
+          <text>fear of water: [aquaphobia]</text>
+          <audio />
+        </item>
+        <item>
+          <text>study of radio waves (x-ray) : [radiology]</text>
+          <audio />
+        </item>
+        <item>
+          <text>state of being hypnotized: [hypnotism]</text>
+          <audio />
+        </item>
+        <item>
+          <text>ruled by minor officials: [bureaucracy]</text>
+          <audio />
+        </item>
+        <item>
+          <text>study of weather: [meteorology]</text>
+          <audio />
+        </item>
+        <item>
+          <text>specialist in electrical systems: [electrician]</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="noAudio" />
+      <gapAudios>
+        <gapAudio>
+          <gap />
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+  </rounds>
+</tic_tac_toe>
+

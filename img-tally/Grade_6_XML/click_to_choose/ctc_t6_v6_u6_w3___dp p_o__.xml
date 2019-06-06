@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read each Greek suffix on the left. Then read each definition and answer choice. Choose the word with the Greek suffix that best matches the definition. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;fear of water: [aquaphobia]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>democracy</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>aquaphobia</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>cardiology</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>musician</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;ruled by the people: [democracy]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>democracy</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>aquaphobia</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>cardiology</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>musician</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;a specialist in music: [musician]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>democracy</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>aquaphobia</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>cardiology</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>musician</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;science of the heart: [cardiology]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>aquaphobia</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>democracy</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>cardiology</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>musician</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;specialist in politics: [politician]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>politician</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>novelist</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>arachnophobia</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>mythology</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;study of myths: [mythology]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>politician</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>novelist</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>arachnophobia</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>mythology</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;fear of spiders: [arachnophobia]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>politician</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>novelist</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>arachnophobia</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>mythology</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;someone who writes novels: [novelist]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>politician</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>novelist</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>arachnophobia</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>mythology</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;rule by the &amp;#8220;best&amp;#8221; people: [aristocracy]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>ecology</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>patriotism</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>biologist</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>aristocracy</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;support of one&amp;#8217;s country: [patriotism]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>ecology</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>patriotism</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>biologist</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>aristocracy</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;scientist who specializes in biology: [biologist]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>ecology</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>patriotism</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>biologist</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>aristocracy</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;science of ecosystems: [ecology]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>ecology</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>patriotism</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>biologist</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>aristocracy</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;support of women&amp;#8217;s causes: [feminism]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>specialist</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>feminism</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>physician</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>anthropology</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;someone who practices a specialty: [specialist]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>specialist</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>feminism</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>physician</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>anthropology</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;specialist in medicine: [physician]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>specialist</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>feminism</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>physician</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>anthropology</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;study of human beings: [anthropology]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>specialist</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>feminism</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>physician</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>anthropology</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;fear of closed spaces: [claustrophobia]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>bureaucracy</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>criminology</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>claustrophobia</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>conformist</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;someone who conforms: [conformist]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>bureaucracy</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>criminology</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>claustrophobia</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>conformist</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;study of crime: [criminology]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>bureaucracy</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>criminology</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>claustrophobia</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>conformist</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;ruled by many small offices: [bureaucracy]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>bureaucracy</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>criminology</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>claustrophobia</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>conformist</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;study of hearing: [audiology]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>audiology</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>entomologist</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>mathematician</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>realism</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;showing reality, especially in the arts: [realism]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>audiology</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>entomologist</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>mathematician</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>realism</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#160;math specialist: [mathematician]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>audiology</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>entomologist</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>mathematician</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>realism</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Suffixes&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;-ician&lt;/i&gt; means &amp;#8220;a specialist in&amp;#8221;&lt;i&gt;&lt;br /&gt;-crat&lt;/i&gt; and &lt;i&gt;-cracy&lt;/i&gt; mean &amp;#8220;rule&amp;#8221;&lt;i&gt;&lt;br /&gt;-ology&lt;/i&gt; and &lt;i&gt;-ologist&lt;/i&gt; mean &amp;#8220;science of&amp;#8221; and &amp;#8220;scientist&amp;#8221;&lt;i&gt;&lt;br /&gt;-phobia&lt;/i&gt; means &amp;#8220;an abnormal fear&amp;#8221;&lt;i&gt;&lt;br /&gt;-ist&lt;/i&gt; means &amp;#8220;one who practices&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;scientist who studies insects: [entomologist]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>audiology</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>entomologist</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>mathematician</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>realism</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

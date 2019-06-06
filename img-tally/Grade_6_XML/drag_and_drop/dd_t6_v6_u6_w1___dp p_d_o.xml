@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Your Turn: Phonics</title>
+  <directions>Read the sentence. Choose one root word and one suffix from the word bank to make a new word that completes the sentence. Drag each word part to the appropriate line.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow2" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;I consider Daron&amp;#8217;s friendship one of my most [valu]&amp;lt;-&amp;gt;[able] possessions.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>profit</text>
+            </distractor>
+            <distractor>
+              <text>consider</text>
+            </distractor>
+            <distractor>
+              <text>lov</text>
+            </distractor>
+            <distractor>
+              <text>horr</text>
+            </distractor>
+            <distractor>
+              <text>honor</text>
+            </distractor>
+            <distractor>
+              <text>change</text>
+            </distractor>
+            <distractor>
+              <text>revers</text>
+            </distractor>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The ice cream store is most [profit]&amp;lt;-&amp;gt;[able] during the summer months.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>valu</text>
+            </distractor>
+            <distractor>
+              <text>consider</text>
+            </distractor>
+            <distractor>
+              <text>lov</text>
+            </distractor>
+            <distractor>
+              <text>honor</text>
+            </distractor>
+            <distractor>
+              <text>revers</text>
+            </distractor>
+            <distractor>
+              <text>imposs</text>
+            </distractor>
+            <distractor>
+              <text>notice</text>
+            </distractor>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Though it took&amp;#160; [consider]&amp;lt;-&amp;gt;[able] effort, I cleaned my room before dinner.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>valu</text>
+            </distractor>
+            <distractor>
+              <text>profit</text>
+            </distractor>
+            <distractor>
+              <text>lov</text>
+            </distractor>
+            <distractor>
+              <text>honor</text>
+            </distractor>
+            <distractor>
+              <text>terr</text>
+            </distractor>
+            <distractor>
+              <text>imposs</text>
+            </distractor>
+            <distractor>
+              <text>notice</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Our cute, new puppy couldn&amp;#8217;t be more [lov]&amp;lt;-&amp;gt;[able].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>valu</text>
+            </distractor>
+            <distractor>
+              <text>profit</text>
+            </distractor>
+            <distractor>
+              <text>consider</text>
+            </distractor>
+            <distractor>
+              <text>horr</text>
+            </distractor>
+            <distractor>
+              <text>notice</text>
+            </distractor>
+            <distractor>
+              <text>imposs</text>
+            </distractor>
+            <distractor>
+              <text>change</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The [horr]&amp;lt;-&amp;gt;[ible] crime was reported in the local newspaper.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>able</text>
+            </distractor>
+            <distractor>
+              <text>valu</text>
+            </distractor>
+            <distractor>
+              <text>profit</text>
+            </distractor>
+            <distractor>
+              <text>consider</text>
+            </distractor>
+            <distractor>
+              <text>lov</text>
+            </distractor>
+            <distractor>
+              <text>change</text>
+            </distractor>
+            <distractor>
+              <text>change</text>
+            </distractor>
+            <distractor>
+              <text>notice</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The watch comes with&amp;#160; [change]&amp;lt;-&amp;gt;[able] bands in many colors.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>valu</text>
+            </distractor>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>profit</text>
+            </distractor>
+            <distractor>
+              <text>consider</text>
+            </distractor>
+            <distractor>
+              <text>lov</text>
+            </distractor>
+            <distractor>
+              <text>horr</text>
+            </distractor>
+            <distractor>
+              <text>honor</text>
+            </distractor>
+            <distractor>
+              <text>revers</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The judge&amp;#8217;s final decision was not [revers]&amp;lt;-&amp;gt;[ible].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>able</text>
+            </distractor>
+            <distractor>
+              <text>valu</text>
+            </distractor>
+            <distractor>
+              <text>profit</text>
+            </distractor>
+            <distractor>
+              <text>consider</text>
+            </distractor>
+            <distractor>
+              <text>lov</text>
+            </distractor>
+            <distractor>
+              <text>horr</text>
+            </distractor>
+            <distractor>
+              <text>honor</text>
+            </distractor>
+            <distractor>
+              <text>change</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;A day of fun turned [terr]&amp;lt;-&amp;gt;[ible] when the power failed at the amusement park.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>able</text>
+            </distractor>
+            <distractor>
+              <text>valu</text>
+            </distractor>
+            <distractor>
+              <text>profit</text>
+            </distractor>
+            <distractor>
+              <text>consider</text>
+            </distractor>
+            <distractor>
+              <text>lov</text>
+            </distractor>
+            <distractor>
+              <text>horr</text>
+            </distractor>
+            <distractor>
+              <text>honor</text>
+            </distractor>
+            <distractor>
+              <text>change</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;It is good to believe that nothing is [imposs]&amp;lt;-&amp;gt;[ible].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>able</text>
+            </distractor>
+            <distractor>
+              <text>valu</text>
+            </distractor>
+            <distractor>
+              <text>profit</text>
+            </distractor>
+            <distractor>
+              <text>consider</text>
+            </distractor>
+            <distractor>
+              <text>lov</text>
+            </distractor>
+            <distractor>
+              <text>horr</text>
+            </distractor>
+            <distractor>
+              <text>honor</text>
+            </distractor>
+            <distractor>
+              <text>change</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The tide rose so gradually that it was hardly [notice]&amp;lt;-&amp;gt;[able].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>imposs</text>
+            </distractor>
+            <distractor>
+              <text>terr</text>
+            </distractor>
+            <distractor>
+              <text>revers</text>
+            </distractor>
+            <distractor>
+              <text>change</text>
+            </distractor>
+            <distractor>
+              <text>change</text>
+            </distractor>
+            <distractor>
+              <text>consider</text>
+            </distractor>
+            <distractor>
+              <text>profit</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Some say the strict new laws are not [enforce]&amp;lt;-&amp;gt;[able].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>excus</text>
+            </distractor>
+            <distractor>
+              <text>replace</text>
+            </distractor>
+            <distractor>
+              <text>pronounce</text>
+            </distractor>
+            <distractor>
+              <text>plaus</text>
+            </distractor>
+            <distractor>
+              <text>attain</text>
+            </distractor>
+            <distractor>
+              <text>formid</text>
+            </distractor>
+            <distractor>
+              <text>revers</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The baby&amp;#8217;s behavior was [excus]&amp;lt;-&amp;gt;[able] as he was cutting his first tooth.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>plaus</text>
+            </distractor>
+            <distractor>
+              <text>attain</text>
+            </distractor>
+            <distractor>
+              <text>formid</text>
+            </distractor>
+            <distractor>
+              <text>revers</text>
+            </distractor>
+            <distractor>
+              <text>invalu</text>
+            </distractor>
+            <distractor>
+              <text>desir</text>
+            </distractor>
+            <distractor>
+              <text>pronounce</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Most objects that we own are [replace]&amp;lt;-&amp;gt;[able].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>enforce</text>
+            </distractor>
+            <distractor>
+              <text>excus</text>
+            </distractor>
+            <distractor>
+              <text>desir</text>
+            </distractor>
+            <distractor>
+              <text>pronounce</text>
+            </distractor>
+            <distractor>
+              <text>invalu</text>
+            </distractor>
+            <distractor>
+              <text>formid</text>
+            </distractor>
+            <distractor>
+              <text>attain</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;When you learn a new language, some words seem hardly [pronounce]&amp;lt;-&amp;gt;[able].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>enforce</text>
+            </distractor>
+            <distractor>
+              <text>excus</text>
+            </distractor>
+            <distractor>
+              <text>replace</text>
+            </distractor>
+            <distractor>
+              <text>plaus</text>
+            </distractor>
+            <distractor>
+              <text>attain</text>
+            </distractor>
+            <distractor>
+              <text>formid</text>
+            </distractor>
+            <distractor>
+              <text>revers</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;We tried to pitch our tent at the most [desir]&amp;lt;-&amp;gt;[able] campsite.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>enforce</text>
+            </distractor>
+            <distractor>
+              <text>excus</text>
+            </distractor>
+            <distractor>
+              <text>replace</text>
+            </distractor>
+            <distractor>
+              <text>pronounce</text>
+            </distractor>
+            <distractor>
+              <text>invalu</text>
+            </distractor>
+            <distractor>
+              <text>revers</text>
+            </distractor>
+            <distractor>
+              <text>formid</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The best [invalu]&amp;lt;-&amp;gt;[able] advice I&amp;#8217;ve ever received is, &amp;#8220;Work hard and play hard!&amp;#8221;&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>enforce</text>
+            </distractor>
+            <distractor>
+              <text>excus</text>
+            </distractor>
+            <distractor>
+              <text>replace</text>
+            </distractor>
+            <distractor>
+              <text>pronounce</text>
+            </distractor>
+            <distractor>
+              <text>desir</text>
+            </distractor>
+            <distractor>
+              <text>revers</text>
+            </distractor>
+            <distractor>
+              <text>formid</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;I found the perfect [revers]&amp;lt;-&amp;gt;[ible] jacket to bring on vacation.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>able</text>
+            </distractor>
+            <distractor>
+              <text>enforce</text>
+            </distractor>
+            <distractor>
+              <text>excus</text>
+            </distractor>
+            <distractor>
+              <text>replace</text>
+            </distractor>
+            <distractor>
+              <text>pronounce</text>
+            </distractor>
+            <distractor>
+              <text>invalu</text>
+            </distractor>
+            <distractor>
+              <text>desir</text>
+            </distractor>
+            <distractor>
+              <text>formid</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;We planned a new strategy to take on the [formid]&amp;lt;-&amp;gt;[able] opponent.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>enforce</text>
+            </distractor>
+            <distractor>
+              <text>excus</text>
+            </distractor>
+            <distractor>
+              <text>replace</text>
+            </distractor>
+            <distractor>
+              <text>pronounce</text>
+            </distractor>
+            <distractor>
+              <text>desir</text>
+            </distractor>
+            <distractor>
+              <text>invalu</text>
+            </distractor>
+            <distractor>
+              <text>revers</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;My goals are definitely [attain]&amp;lt;-&amp;gt;[able] if I&amp;#8217;m willing to work hard.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ible</text>
+            </distractor>
+            <distractor>
+              <text>enforce</text>
+            </distractor>
+            <distractor>
+              <text>excus</text>
+            </distractor>
+            <distractor>
+              <text>replace</text>
+            </distractor>
+            <distractor>
+              <text>pronounce</text>
+            </distractor>
+            <distractor>
+              <text>desir</text>
+            </distractor>
+            <distractor>
+              <text>invalu</text>
+            </distractor>
+            <distractor>
+              <text>revers</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The story was [plaus]&amp;lt;-&amp;gt;[ible].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>able</text>
+            </distractor>
+            <distractor>
+              <text>enforce</text>
+            </distractor>
+            <distractor>
+              <text>excus</text>
+            </distractor>
+            <distractor>
+              <text>replace</text>
+            </distractor>
+            <distractor>
+              <text>pronounce</text>
+            </distractor>
+            <distractor>
+              <text>desir</text>
+            </distractor>
+            <distractor>
+              <text>invalu</text>
+            </distractor>
+            <distractor>
+              <text>revers</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

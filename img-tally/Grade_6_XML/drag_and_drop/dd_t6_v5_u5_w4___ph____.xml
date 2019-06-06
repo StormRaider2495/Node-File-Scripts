@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Word Study: Greek Roots</title>
+  <directions>Read each sentence and answer choice. Drag the Greek root or roots to the line to complete the sentence.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow2" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Because it was a rainy day, the image in the [photo]&amp;lt;-&amp;gt;[graph] was dark.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>graphs</text>
+            </distractor>
+            <distractor>
+              <text>auto</text>
+            </distractor>
+            <distractor>
+              <text>aerial</text>
+            </distractor>
+            <distractor>
+              <text>psyche</text>
+            </distractor>
+            <distractor>
+              <text>aero</text>
+            </distractor>
+            <distractor>
+              <text>dynamic</text>
+            </distractor>
+            <distractor>
+              <text>psych</text>
+            </distractor>
+            <distractor>
+              <text>ology</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;[psych]&amp;lt;-&amp;gt;[ology] is the study of the mind.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>photo</text>
+            </distractor>
+            <distractor>
+              <text>graph</text>
+            </distractor>
+            <distractor>
+              <text>auto</text>
+            </distractor>
+            <distractor>
+              <text>graphs</text>
+            </distractor>
+            <distractor>
+              <text>aerial</text>
+            </distractor>
+            <distractor>
+              <text>psyche</text>
+            </distractor>
+            <distractor>
+              <text>aero</text>
+            </distractor>
+            <distractor>
+              <text>dynamic</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The [aerial] images were taken from a hot air balloon.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>photo</text>
+            </distractor>
+            <distractor>
+              <text>graph</text>
+            </distractor>
+            <distractor>
+              <text>auto</text>
+            </distractor>
+            <distractor>
+              <text>graphs</text>
+            </distractor>
+            <distractor>
+              <text>psyche</text>
+            </distractor>
+            <distractor>
+              <text>aero</text>
+            </distractor>
+            <distractor>
+              <text>dynamic</text>
+            </distractor>
+            <distractor>
+              <text>psych</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The baseball players all signed [auto]&amp;lt;-&amp;gt;[graphs]before the game.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>photo</text>
+            </distractor>
+            <distractor>
+              <text>graph</text>
+            </distractor>
+            <distractor>
+              <text>aerial</text>
+            </distractor>
+            <distractor>
+              <text>psyche</text>
+            </distractor>
+            <distractor>
+              <text>aero</text>
+            </distractor>
+            <distractor>
+              <text>dynamic</text>
+            </distractor>
+            <distractor>
+              <text>psych</text>
+            </distractor>
+            <distractor>
+              <text>ology</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;A person&amp;#8217;s [psyche] affects how he or she thinks and acts.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>photo</text>
+            </distractor>
+            <distractor>
+              <text>graph</text>
+            </distractor>
+            <distractor>
+              <text>auto</text>
+            </distractor>
+            <distractor>
+              <text>graphs</text>
+            </distractor>
+            <distractor>
+              <text>aerial</text>
+            </distractor>
+            <distractor>
+              <text>aero</text>
+            </distractor>
+            <distractor>
+              <text>dynamic</text>
+            </distractor>
+            <distractor>
+              <text>psych</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The branch of science that focuses on the study of the earth is called [geol]&amp;lt;-&amp;gt;[ogy].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>Baro</text>
+            </distractor>
+            <distractor>
+              <text>meter</text>
+            </distractor>
+            <distractor>
+              <text>graph</text>
+            </distractor>
+            <distractor>
+              <text>geo</text>
+            </distractor>
+            <distractor>
+              <text>graphy</text>
+            </distractor>
+            <distractor>
+              <text>biblio</text>
+            </distractor>
+            <distractor>
+              <text>graphy</text>
+            </distractor>
+            <distractor>
+              <text>cycle</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Farmers plant crops based on the [cycle] of the seasons.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>Baro</text>
+            </distractor>
+            <distractor>
+              <text>meter</text>
+            </distractor>
+            <distractor>
+              <text>graph</text>
+            </distractor>
+            <distractor>
+              <text>geo</text>
+            </distractor>
+            <distractor>
+              <text>graphy</text>
+            </distractor>
+            <distractor>
+              <text>geol</text>
+            </distractor>
+            <distractor>
+              <text>ogy</text>
+            </distractor>
+            <distractor>
+              <text>biblio</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;&amp;#160;The [geo]&amp;lt;-&amp;gt;[graphy] of the region is mountainous.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>Baro</text>
+            </distractor>
+            <distractor>
+              <text>meter</text>
+            </distractor>
+            <distractor>
+              <text>graph</text>
+            </distractor>
+            <distractor>
+              <text>geol</text>
+            </distractor>
+            <distractor>
+              <text>ogy</text>
+            </distractor>
+            <distractor>
+              <text>biblio</text>
+            </distractor>
+            <distractor>
+              <text>cycle</text>
+            </distractor>
+            <distractor>
+              <text>dontist</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Record your information using the x- and y-axis of the [graph].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>Baro</text>
+            </distractor>
+            <distractor>
+              <text>meter</text>
+            </distractor>
+            <distractor>
+              <text>geo</text>
+            </distractor>
+            <distractor>
+              <text>graphy</text>
+            </distractor>
+            <distractor>
+              <text>geol</text>
+            </distractor>
+            <distractor>
+              <text>ogy</text>
+            </distractor>
+            <distractor>
+              <text>cycle</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;&amp;#160;The instrument used to measure air pressure is a [baro]&amp;lt;-&amp;gt;[meter].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>graph</text>
+            </distractor>
+            <distractor>
+              <text>geo</text>
+            </distractor>
+            <distractor>
+              <text>graphy</text>
+            </distractor>
+            <distractor>
+              <text>geol</text>
+            </distractor>
+            <distractor>
+              <text>ogy</text>
+            </distractor>
+            <distractor>
+              <text>biblio</text>
+            </distractor>
+            <distractor>
+              <text>phile</text>
+            </distractor>
+            <distractor>
+              <text>cycle</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The [ortho]&amp;lt;-&amp;gt;[dontist] put braces on Marco&amp;#8217;s teeth.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>biblio</text>
+            </distractor>
+            <distractor>
+              <text>phile</text>
+            </distractor>
+            <distractor>
+              <text>pedic</text>
+            </distractor>
+            <distractor>
+              <text>calli</text>
+            </distractor>
+            <distractor>
+              <text>graphy</text>
+            </distractor>
+            <distractor>
+              <text>cyclo</text>
+            </distractor>
+            <distractor>
+              <text>meter</text>
+            </distractor>
+            <distractor>
+              <text>geo</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;In ancient times, manuscripts were handwritten with elaborate [calli]&amp;lt;-&amp;gt;[graphy].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>biblio</text>
+            </distractor>
+            <distractor>
+              <text>phile</text>
+            </distractor>
+            <distractor>
+              <text>ortho</text>
+            </distractor>
+            <distractor>
+              <text>pedic</text>
+            </distractor>
+            <distractor>
+              <text>cyclo</text>
+            </distractor>
+            <distractor>
+              <text>meter</text>
+            </distractor>
+            <distractor>
+              <text>ortho</text>
+            </distractor>
+            <distractor>
+              <text>dontist</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;James is a [biblio]&amp;lt;-&amp;gt;[phile] who loves to read.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ortho</text>
+            </distractor>
+            <distractor>
+              <text>pedic</text>
+            </distractor>
+            <distractor>
+              <text>calli</text>
+            </distractor>
+            <distractor>
+              <text>graphy</text>
+            </distractor>
+            <distractor>
+              <text>cyclo</text>
+            </distractor>
+            <distractor>
+              <text>meter</text>
+            </distractor>
+            <distractor>
+              <text>ortho</text>
+            </distractor>
+            <distractor>
+              <text>dontist</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;[ortho]&amp;lt;-&amp;gt;[pedic] shoes can help correct foot injuries.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>biblio</text>
+            </distractor>
+            <distractor>
+              <text>phile</text>
+            </distractor>
+            <distractor>
+              <text>calli</text>
+            </distractor>
+            <distractor>
+              <text>graphy</text>
+            </distractor>
+            <distractor>
+              <text>cyclo</text>
+            </distractor>
+            <distractor>
+              <text>meter</text>
+            </distractor>
+            <distractor>
+              <text>dontist</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;A [cyclo]&amp;lt;-&amp;gt;[meter] records the revolutions of a wheel.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>biblio</text>
+            </distractor>
+            <distractor>
+              <text>phile</text>
+            </distractor>
+            <distractor>
+              <text>ortho</text>
+            </distractor>
+            <distractor>
+              <text>pedic</text>
+            </distractor>
+            <distractor>
+              <text>calli</text>
+            </distractor>
+            <distractor>
+              <text>graphy</text>
+            </distractor>
+            <distractor>
+              <text>ortho</text>
+            </distractor>
+            <distractor>
+              <text>dontist</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Your Turn: Phonics</title>
+  <directions>Read each target word. Drag its correct plural form to the line.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow1" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;shelf:&amp;#160;&amp;#160; &amp;#160;[shelves]&lt;/p&gt;
+&lt;p&gt;knife:&amp;#160;&amp;#160; &amp;#160;[knives]&lt;/p&gt;
+&lt;p&gt;echo: &amp;#160;&amp;#160;&amp;#160;&amp;#160;[echoes]&lt;/p&gt;
+&lt;p&gt;thief:&amp;#160;&amp;#160; &amp;#160;[thieves]&lt;/p&gt;
+&lt;p&gt;life:&amp;#160;&amp;#160;&amp;#160; [lives]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>shelfs</text>
+            </distractor>
+            <distractor>
+              <text>knifes</text>
+            </distractor>
+            <distractor>
+              <text>echos</text>
+            </distractor>
+            <distractor>
+              <text>thiefs</text>
+            </distractor>
+            <distractor>
+              <text>lifes</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;wolf:&amp;#160;&amp;#160;&amp;#160; &amp;#160;[wolves]&lt;/p&gt;
+&lt;p&gt;potato:&amp;#160;&amp;#160; &amp;#160;[potatoes]&lt;/p&gt;
+&lt;p&gt;medium: &amp;#160;&amp;#160;&amp;#160;[media]&lt;/p&gt;
+&lt;p&gt;bacterium :&amp;#160;&amp;#160; &amp;#160;[bacteria]&lt;/p&gt;
+&lt;p&gt;datum:&amp;#160;&amp;#160;&amp;#160; [data]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>wolfs</text>
+            </distractor>
+            <distractor>
+              <text>potatos</text>
+            </distractor>
+            <distractor>
+              <text>mediums</text>
+            </distractor>
+            <distractor>
+              <text>bacterias</text>
+            </distractor>
+            <distractor>
+              <text>datams</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;leaf: &amp;#160;&amp;#160;&amp;#160;&amp;#160;[leaves]&lt;/p&gt;
+&lt;p&gt;tomato: &amp;#160;&amp;#160;&amp;#160;[tomatoes]&lt;/p&gt;
+&lt;p&gt;loaf: &amp;#160;&amp;#160;&amp;#160;[loaves]&lt;/p&gt;
+&lt;p&gt;wharf:&amp;#160;&amp;#160;&amp;#160; [wharves]&lt;/p&gt;
+&lt;p&gt;stratum: &amp;#160;&amp;#160;&amp;#160;[strata]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>leafs</text>
+            </distractor>
+            <distractor>
+              <text>loafs</text>
+            </distractor>
+            <distractor>
+              <text>tomatos</text>
+            </distractor>
+            <distractor>
+              <text>wharfs</text>
+            </distractor>
+            <distractor>
+              <text>stratums</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;cargo:&amp;#160;&amp;#160;&amp;#160; &amp;#160;[cargoes]&lt;/p&gt;
+&lt;p&gt;memorandum:&amp;#160;&amp;#160; &amp;#160;[memoranda]&lt;/p&gt;
+&lt;p&gt;self:&amp;#160;&amp;#160;&amp;#160; [selves]&lt;/p&gt;
+&lt;p&gt;torpedo: &amp;#160;&amp;#160;&amp;#160;&amp;#160;[torpedoes]&lt;/p&gt;
+&lt;p&gt;veto: &amp;#160;&amp;#160;&amp;#160;[vetoes]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>cargos</text>
+            </distractor>
+            <distractor>
+              <text>memorandas</text>
+            </distractor>
+            <distractor>
+              <text>selfs</text>
+            </distractor>
+            <distractor>
+              <text>torpedos</text>
+            </distractor>
+            <distractor>
+              <text>vetos</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;scarf:&amp;#160;&amp;#160; &amp;#160;[scarves]&lt;/p&gt;
+&lt;p&gt;zero:&amp;#160;&amp;#160; &amp;#160;[zeroes]&lt;/p&gt;
+&lt;p&gt;ovum:&amp;#160;&amp;#160;&amp;#160; [ova]&lt;/p&gt;
+&lt;p&gt;buffalo:&amp;#160; &amp;#160;[buffaloes]&lt;/p&gt;
+&lt;p&gt;hero:&amp;#160;&amp;#160; &amp;#160;[heroes]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>scarfs</text>
+            </distractor>
+            <distractor>
+              <text>zeros</text>
+            </distractor>
+            <distractor>
+              <text>ovas</text>
+            </distractor>
+            <distractor>
+              <text>heros</text>
+            </distractor>
+            <distractor>
+              <text>buffalos</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

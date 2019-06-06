@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Your Turn: Vocabulary</title>
+  <directions>Read each sentence and word choice. Choose the word that best completes each analogy and drag it to the line.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;barn : loft :: house : [alcove]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>stifling</text>
+            </distractor>
+            <distractor>
+              <text>utmost</text>
+            </distractor>
+            <distractor>
+              <text>fluent</text>
+            </distractor>
+            <distractor>
+              <text>exotic</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;warm : hot :: change : [upheaval]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>exotic</text>
+            </distractor>
+            <distractor>
+              <text>fluent</text>
+            </distractor>
+            <distractor>
+              <text>stifling</text>
+            </distractor>
+            <distractor>
+              <text>utmost</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;friends : social :: family : [domestic]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>exotic</text>
+            </distractor>
+            <distractor>
+              <text>fluent</text>
+            </distractor>
+            <distractor>
+              <text>stifling</text>
+            </distractor>
+            <distractor>
+              <text>utmost</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;ocean : sailing :: bazaar : [commerce]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>utmost</text>
+            </distractor>
+            <distractor>
+              <text>stifling</text>
+            </distractor>
+            <distractor>
+              <text>fluent</text>
+            </distractor>
+            <distractor>
+              <text>exotic</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;frown : smile :: ordinary : [exotic]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>alcove</text>
+            </distractor>
+            <distractor>
+              <text>upheaval</text>
+            </distractor>
+            <distractor>
+              <text>commerce</text>
+            </distractor>
+            <distractor>
+              <text>domestic</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;instrument : accomplished :: language : [fluent]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>alcove</text>
+            </distractor>
+            <distractor>
+              <text>upheaval</text>
+            </distractor>
+            <distractor>
+              <text>commerce</text>
+            </distractor>
+            <distractor>
+              <text>domestic</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;novice : amateur :: suffocating : [stifling]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>alcove</text>
+            </distractor>
+            <distractor>
+              <text>upheaval</text>
+            </distractor>
+            <distractor>
+              <text>commerce</text>
+            </distractor>
+            <distractor>
+              <text>domestic</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;grumble : complain :: absolute : [utmost]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>alcove</text>
+            </distractor>
+            <distractor>
+              <text>upheaval</text>
+            </distractor>
+            <distractor>
+              <text>commerce</text>
+            </distractor>
+            <distractor>
+              <text>domestic</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;eggplant : vegetable :: jewelry : [accessory]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>vocabulary</text>
+            </distractor>
+            <distractor>
+              <text>moreover</text>
+            </distractor>
+            <distractor>
+              <text>peril</text>
+            </distractor>
+            <distractor>
+              <text>forefather</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;government : democracy :: subject : [mathematics]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>vocabulary</text>
+            </distractor>
+            <distractor>
+              <text>peril</text>
+            </distractor>
+            <distractor>
+              <text>moreover</text>
+            </distractor>
+            <distractor>
+              <text>forefather</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;ask : inquire :: conclude : [infer]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>moreover</text>
+            </distractor>
+            <distractor>
+              <text>vocabulary</text>
+            </distractor>
+            <distractor>
+              <text>peril</text>
+            </distractor>
+            <distractor>
+              <text>forefather</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;counterfeit : genuine :: reckless : [prudent]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>peril</text>
+            </distractor>
+            <distractor>
+              <text>vocabulary</text>
+            </distractor>
+            <distractor>
+              <text>moreover</text>
+            </distractor>
+            <distractor>
+              <text>forefather</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;modification : revision :: ancestor : [forefather]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>accessory</text>
+            </distractor>
+            <distractor>
+              <text>mathematics</text>
+            </distractor>
+            <distractor>
+              <text>stifling</text>
+            </distractor>
+            <distractor>
+              <text>prudent</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;therefore : because :: furthermore : [moreover]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>accessory</text>
+            </distractor>
+            <distractor>
+              <text>mathematics</text>
+            </distractor>
+            <distractor>
+              <text>stifling</text>
+            </distractor>
+            <distractor>
+              <text>prudent</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;fragment : portion :: hazard : [peril]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>accessory</text>
+            </distractor>
+            <distractor>
+              <text>mathematics</text>
+            </distractor>
+            <distractor>
+              <text>stifling</text>
+            </distractor>
+            <distractor>
+              <text>prudent</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;biology : science :: words : [vocabulary]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>accessory</text>
+            </distractor>
+            <distractor>
+              <text>mathematics</text>
+            </distractor>
+            <distractor>
+              <text>stifling</text>
+            </distractor>
+            <distractor>
+              <text>prudent</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;yearn : crave :: intense : [vivid]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>marathon</text>
+            </distractor>
+            <distractor>
+              <text>turret</text>
+            </distractor>
+            <distractor>
+              <text>ominous</text>
+            </distractor>
+            <distractor>
+              <text>tedious</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;infant : elder :: simple : [elaborate]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ominous</text>
+            </distractor>
+            <distractor>
+              <text>tedious</text>
+            </distractor>
+            <distractor>
+              <text>turret</text>
+            </distractor>
+            <distractor>
+              <text>marathon</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;chicken : poultry :: science fiction : [literature]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>tedious</text>
+            </distractor>
+            <distractor>
+              <text>ominous</text>
+            </distractor>
+            <distractor>
+              <text>turret</text>
+            </distractor>
+            <distractor>
+              <text>marathon</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;hurdle : obstacle :: true substance : [essence]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>tedious</text>
+            </distractor>
+            <distractor>
+              <text>ominous</text>
+            </distractor>
+            <distractor>
+              <text>turret</text>
+            </distractor>
+            <distractor>
+              <text>marathon</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;gymnast : floor routine :: runner : [marathon]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>vivid</text>
+            </distractor>
+            <distractor>
+              <text>elaborate</text>
+            </distractor>
+            <distractor>
+              <text>literature</text>
+            </distractor>
+            <distractor>
+              <text>essence</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;bread : yeast :: castle : [turret]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>vivid</text>
+            </distractor>
+            <distractor>
+              <text>elaborate</text>
+            </distractor>
+            <distractor>
+              <text>literature</text>
+            </distractor>
+            <distractor>
+              <text>essence</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;formula : recipe :: threatening : [ominous]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>vivid</text>
+            </distractor>
+            <distractor>
+              <text>elaborate</text>
+            </distractor>
+            <distractor>
+              <text>literature</text>
+            </distractor>
+            <distractor>
+              <text>essence</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;motivate : discourage :: entertaining : [tedious]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>vivid</text>
+            </distractor>
+            <distractor>
+              <text>elaborate</text>
+            </distractor>
+            <distractor>
+              <text>literature</text>
+            </distractor>
+            <distractor>
+              <text>essence</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

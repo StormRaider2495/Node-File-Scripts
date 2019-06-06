@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Your Turn: Phonics</title>
+  <directions>Read the sentence. Choose one root word and one suffix from the word bank to make a new word that completes the sentence. Drag each word part to the appropriate line.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <itemReplenishmentMode value="bottomless" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Our parents taught us that it is [import]&amp;lt;-&amp;gt;[ant] to tell the truth, even when it&amp;#8217;s hard.&lt;/p&gt;
+&lt;p&gt;All&amp;#160; [evid]&amp;lt;-&amp;gt;[ence] pointed to the villain.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ance</text>
+            </distractor>
+            <distractor>
+              <text>ent</text>
+            </distractor>
+            <distractor>
+              <text>defi</text>
+            </distractor>
+            <distractor>
+              <text>excel</text>
+            </distractor>
+            <distractor>
+              <text>viol</text>
+            </distractor>
+            <distractor>
+              <text>persist</text>
+            </distractor>
+            <distractor>
+              <text>disappear</text>
+            </distractor>
+            <distractor>
+              <text>fragr</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The girl&amp;#8217;s [defi]&amp;lt;-&amp;gt;[ance] added tension to a difficult situation.&lt;/p&gt;
+&lt;p&gt;Since he was an [excell]&amp;lt;-&amp;gt;[ent] student, he revised his essays more than once.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ence</text>
+            </distractor>
+            <distractor>
+              <text>ant</text>
+            </distractor>
+            <distractor>
+              <text>import</text>
+            </distractor>
+            <distractor>
+              <text>import</text>
+            </distractor>
+            <distractor>
+              <text>viol</text>
+            </distractor>
+            <distractor>
+              <text>persist</text>
+            </distractor>
+            <distractor>
+              <text>disappear</text>
+            </distractor>
+            <distractor>
+              <text>fragr</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The mechanic&amp;#8217;s [persist]&amp;lt;-&amp;gt;[ence] paid off when he discovered the source of the leak.&lt;/p&gt;
+&lt;p&gt;Many people believe that [viol]&amp;lt;-&amp;gt;[ence] in the media has a negative effect on children.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ance</text>
+            </distractor>
+            <distractor>
+              <text>ent</text>
+            </distractor>
+            <distractor>
+              <text>ant</text>
+            </distractor>
+            <distractor>
+              <text>import</text>
+            </distractor>
+            <distractor>
+              <text>evid</text>
+            </distractor>
+            <distractor>
+              <text>defi</text>
+            </distractor>
+            <distractor>
+              <text>excel</text>
+            </distractor>
+            <distractor>
+              <text>confer</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Who might be responsible for the [disappear]&amp;lt;-&amp;gt;[ance] of the opponent&amp;#8217;s posters?&lt;/p&gt;
+&lt;p&gt;The [fragr]&amp;lt;-&amp;gt;[ant] smells of my mother&amp;#8217;s cooking make me hungry!&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ence</text>
+            </distractor>
+            <distractor>
+              <text>ent</text>
+            </distractor>
+            <distractor>
+              <text>confide</text>
+            </distractor>
+            <distractor>
+              <text>confer</text>
+            </distractor>
+            <distractor>
+              <text>persist</text>
+            </distractor>
+            <distractor>
+              <text>viol</text>
+            </distractor>
+            <distractor>
+              <text>excel</text>
+            </distractor>
+            <distractor>
+              <text>defi</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Our teacher attended a [confer]&amp;lt;-&amp;gt;[ence] about new ways to teach math.&lt;/p&gt;
+&lt;p&gt;It&amp;#8217;s good to be [confid]&amp;lt;-&amp;gt;[ent] and realistic at the same time.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ance</text>
+            </distractor>
+            <distractor>
+              <text>ant</text>
+            </distractor>
+            <distractor>
+              <text>import</text>
+            </distractor>
+            <distractor>
+              <text>evid</text>
+            </distractor>
+            <distractor>
+              <text>defi</text>
+            </distractor>
+            <distractor>
+              <text>excel</text>
+            </distractor>
+            <distractor>
+              <text>viol</text>
+            </distractor>
+            <distractor>
+              <text>persist</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Our neighbor showed [leni]&amp;lt;-&amp;gt;[ence] when our puppy dug a hole under her fence.&lt;/p&gt;
+&lt;p&gt;The more I practice, the more [compet]&amp;lt;-&amp;gt;[ent] I&amp;#160; become at using tools.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ant</text>
+            </distractor>
+            <distractor>
+              <text>obedi</text>
+            </distractor>
+            <distractor>
+              <text>promin</text>
+            </distractor>
+            <distractor>
+              <text>neglig</text>
+            </distractor>
+            <distractor>
+              <text>immin</text>
+            </distractor>
+            <distractor>
+              <text>presc</text>
+            </distractor>
+            <distractor>
+              <text>iridesc</text>
+            </distractor>
+            <distractor>
+              <text>signific</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Our dog desperately needs [obedi]&amp;lt;-&amp;gt;[ence] training!&lt;/p&gt;
+&lt;p&gt;The mayor holds a [promin]&amp;lt;-&amp;gt;[ent] position in the community.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ant</text>
+            </distractor>
+            <distractor>
+              <text>leni</text>
+            </distractor>
+            <distractor>
+              <text>compet</text>
+            </distractor>
+            <distractor>
+              <text>neglig</text>
+            </distractor>
+            <distractor>
+              <text>immin</text>
+            </distractor>
+            <distractor>
+              <text>presc</text>
+            </distractor>
+            <distractor>
+              <text>iridesc</text>
+            </distractor>
+            <distractor>
+              <text>signific</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The judge ruled that we were [neglig]&amp;lt;-&amp;gt;[ent] and had to pay for the broken window.&lt;/p&gt;
+&lt;p&gt;I am so excited about the [immin]&amp;lt;-&amp;gt;[ent] arrival of my new baby sister.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ence</text>
+            </distractor>
+            <distractor>
+              <text>ant</text>
+            </distractor>
+            <distractor>
+              <text>leni</text>
+            </distractor>
+            <distractor>
+              <text>compet</text>
+            </distractor>
+            <distractor>
+              <text>obedi</text>
+            </distractor>
+            <distractor>
+              <text>promin</text>
+            </distractor>
+            <distractor>
+              <text>presc</text>
+            </distractor>
+            <distractor>
+              <text>iridesc</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Luckily, we had the [pres]&amp;lt;-&amp;gt;[ence] of mind to bring a flashlight!&lt;/p&gt;
+&lt;p&gt;The [iridesc]&amp;lt;-&amp;gt;[ent] colors of peacock feathers can be breathtaking.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>leni</text>
+            </distractor>
+            <distractor>
+              <text>compet</text>
+            </distractor>
+            <distractor>
+              <text>obedi</text>
+            </distractor>
+            <distractor>
+              <text>promin</text>
+            </distractor>
+            <distractor>
+              <text>neglig</text>
+            </distractor>
+            <distractor>
+              <text>immin</text>
+            </distractor>
+            <distractor>
+              <text>signific</text>
+            </distractor>
+            <distractor>
+              <text>ant</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Sometimes a comma is [signific]&amp;lt;-&amp;gt;[ant] to the meaning of a sentence.&lt;/p&gt;
+&lt;p&gt;The flight [attend]&amp;lt;-&amp;gt;[ant] did everything to make us comfortable during the flight.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ence</text>
+            </distractor>
+            <distractor>
+              <text>ent</text>
+            </distractor>
+            <distractor>
+              <text>leni</text>
+            </distractor>
+            <distractor>
+              <text>obedi</text>
+            </distractor>
+            <distractor>
+              <text>promin</text>
+            </distractor>
+            <distractor>
+              <text>neglig</text>
+            </distractor>
+            <distractor>
+              <text>immin</text>
+            </distractor>
+            <distractor>
+              <text>presc</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

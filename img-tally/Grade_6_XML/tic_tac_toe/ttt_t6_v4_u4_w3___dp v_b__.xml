@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tic_tac_toe>
+  <title>Your Turn: Vocabulary</title>
+  <directions>Choose the word that correctly completes each analogy. If you are correct, place your X on the board by clicking a square. Three spaces in a row wins.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <opponentStrength value="medium" />
+  <rounds>
+    <round>
+      <sentences>
+        <item>
+          <text>confused : puzzled :: understanding : [empathy]</text>
+          <audio />
+        </item>
+        <item>
+          <text>alone : crowd :: few : [multitude]</text>
+          <audio />
+        </item>
+        <item>
+          <text>advice : counselor :: gift : [benefactor]</text>
+          <audio />
+        </item>
+        <item>
+          <text>stop : quit :: try : [endeavor]</text>
+          <audio />
+        </item>
+        <item>
+          <text>fast : quick :: require :: [entail]</text>
+          <audio />
+        </item>
+        <item>
+          <text>confident : doubt :: certainty : [indecision]</text>
+          <audio />
+        </item>
+        <item>
+          <text>recklessly : cautiously :: boldly : [tentatively]</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="noAudio" />
+      <gapAudios>
+        <gapAudio>
+          <gap />
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+    <round>
+      <sentences>
+        <item>
+          <text>miniature : little :: vast : [extensive]</text>
+          <audio />
+        </item>
+        <item>
+          <text>dehydrated : dry :: drenched :: [sodden]</text>
+          <audio />
+        </item>
+        <item>
+          <text>initial : beginning :: ultimate :: [terminal]</text>
+          <audio />
+        </item>
+        <item>
+          <text>ordinary : common :: distinctive : [unique]</text>
+          <audio />
+        </item>
+        <item>
+          <text>witness : observer :: judgment : [verdict]</text>
+          <audio />
+        </item>
+        <item>
+          <text>bustle : leisure :: inactivity : [vitality]</text>
+          <audio />
+        </item>
+        <item>
+          <text>whole : fraction :: castle : [earnest]</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="noAudio" />
+      <gapAudios>
+        <gapAudio>
+          <gap />
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+    <round>
+      <sentences>
+        <item>
+          <text>brutal : harsh :: remote : [vague]</text>
+          <audio />
+        </item>
+        <item>
+          <text>fret : worry :: purpose : [motive]</text>
+          <audio />
+        </item>
+        <item>
+          <text>taint : contaminate :: tenacity : [confidence]</text>
+          <audio />
+        </item>
+        <item>
+          <text>surgeon : surgery :: pirates : [piracy]</text>
+          <audio />
+        </item>
+        <item>
+          <text>obligations : fulfill  :: supplies : [replenish]</text>
+          <audio />
+        </item>
+        <item>
+          <text>cordial : sincere :: dispute : [controversy]</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="noAudio" />
+      <gapAudios>
+        <gapAudio>
+          <gap />
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+  </rounds>
+</tic_tac_toe>
+

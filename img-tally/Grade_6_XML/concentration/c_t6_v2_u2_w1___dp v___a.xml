@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concentration>
+  <title>Your Turn: Vocabulary</title>
+  <directions>Turn over two cards at a time.  Match each vocabulary word to its definition.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow2" />
+  <rounds>
+    <round>
+      <reward>
+        <text>Super!</text>
+        <image />
+        <audio>super_1</audio>
+      </reward>
+      <rows>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;artifact&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;ancient object&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;communal&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;shared by a group&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;derived&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;from original&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;inscription&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;written or carved name&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+      </rows>
+    </round>
+    <round>
+      <reward>
+        <text>Good Job!</text>
+        <image />
+        <audio>good_job_1</audio>
+      </reward>
+      <rows>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;millennium&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;1000 years&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;stationery&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;writing paper&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;utilize&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;use&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;yields&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;harvests&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+      </rows>
+    </round>
+    <round>
+      <reward>
+        <text>Great Job!</text>
+        <image />
+        <audio>great_job_1</audio>
+      </reward>
+      <rows>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;bonus&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;extra; reward&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;mechanism&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;motor; machine&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;foliage&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;greenery&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;eager&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;enthusiastic&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+      </rows>
+    </round>
+    <round>
+      <reward>
+        <text>You Rock!</text>
+        <image />
+        <audio>you_rock_1</audio>
+      </reward>
+      <rows>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;cautious&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;alert&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;discuss&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;converse&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;plank&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;wooden beam&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;fable&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;legendary story&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+      </rows>
+    </round>
+    <round>
+      <reward>
+        <text>Wonderful!</text>
+        <image />
+        <audio>wonderful_1</audio>
+      </reward>
+      <rows>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;excessive&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;extreme&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;falter&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;hesitate&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;device&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;instrument&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;counsel&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;advise&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+      </rows>
+    </round>
+    <round>
+      <reward>
+        <text>Well Done!</text>
+        <image />
+        <audio>well_done_1</audio>
+      </reward>
+      <rows>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;agony&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;distress&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;skyline&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;horizon&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;hoax&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;imitation&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text>&lt;p&gt;communicate&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text>&lt;p&gt;inform&lt;/p&gt;</text>
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+        <row>
+          <pairs>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+            <pair>
+              <card1>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card1>
+              <card2>
+                <text />
+                <image />
+                <audio />
+                <color value="blue" />
+              </card2>
+            </pair>
+          </pairs>
+        </row>
+      </rows>
+    </round>
+  </rounds>
+</concentration>
+

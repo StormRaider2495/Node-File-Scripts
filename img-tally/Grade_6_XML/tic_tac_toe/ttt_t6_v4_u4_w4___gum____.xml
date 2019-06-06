@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tic_tac_toe>
+  <title>Grammar: Pronoun-Verb Agreement</title>
+  <directions>Play Tic-Tac-Toe by choosing the correct answer from the word box that correctly fits in the sentences. Then place a “X” on the board. Three spaces in a row (across, down, or diagonal) wins.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <opponentStrength value="medium" />
+  <rounds>
+    <round>
+      <sentences>
+        <item>
+          <text>Everyone [enjoys] a day at the beach!</text>
+          <audio />
+        </item>
+        <item>
+          <text>All of the children [swim] for hours in the water.</text>
+          <audio />
+        </item>
+        <item>
+          <text>Chris [dives] into the salt water.</text>
+          <audio />
+        </item>
+        <item>
+          <text>I have to [apply] sunscreen to protect my skin.</text>
+          <audio />
+        </item>
+        <item>
+          <text>I [enjoy] reading my book under an umbrella.</text>
+          <audio />
+        </item>
+        <item>
+          <text>Carla [plays] volleyball at the beach.</text>
+          <audio />
+        </item>
+        <item>
+          <text>My family loves [playing ]and digging in the sand.</text>
+          <audio />
+        </item>
+        <item>
+          <text>He [swims] in the ocean when it is very hot.</text>
+          <audio />
+        </item>
+        <item>
+          <text>Everyone is [enjoying] the beach!</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="noAudio" />
+      <gapAudios>
+        <gapAudio>
+          <gap>enjoy</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>playing</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>enjoys</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>swims</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>apply</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>plays</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>dives</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>swim</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>enjoying</gap>
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+    <round>
+      <sentences>
+        <item>
+          <text>We [spend] our vacations at the lake.</text>
+          <audio />
+        </item>
+        <item>
+          <text>He [paddles] a canoe on the water.</text>
+          <audio />
+        </item>
+        <item>
+          <text>Some people [fish] off the big white dock.</text>
+          <audio />
+        </item>
+        <item>
+          <text>You [swim] out to the floating raft.</text>
+          <audio />
+        </item>
+        <item>
+          <text>It [looks] too far for me to swim.</text>
+          <audio />
+        </item>
+        <item>
+          <text>At night they [build] a bonfire on the beach.</text>
+          <audio />
+        </item>
+        <item>
+          <text>He [fishes] in a quiet place, away from all the noise.</text>
+          <audio />
+        </item>
+        <item>
+          <text>Everyone [swims] in the morning before breakfast.</text>
+          <audio />
+        </item>
+        <item>
+          <text>Charlie [builds] his own raft out of logs.</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="authored" />
+      <gapAudios>
+        <gapAudio>
+          <gap>spend</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>paddles</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>fish</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>swim</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>looks</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>build</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>fishes</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>swims</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>builds</gap>
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+    <round>
+      <sentences>
+        <item>
+          <text>We are going [to] the swimming pool downtown.</text>
+          <audio />
+        </item>
+        <item>
+          <text>Do you want to come [too] ?</text>
+          <audio />
+        </item>
+        <item>
+          <text>I think [there] will be many people swimming.</text>
+          <audio />
+        </item>
+        <item>
+          <text>If [you’re] going you’d better hurry.</text>
+          <audio />
+        </item>
+        <item>
+          <text>Bring [your] swimming trunks and a towel.</text>
+          <audio />
+        </item>
+        <item>
+          <text>We’ll stay until [it’s] closing time.</text>
+          <audio />
+        </item>
+        <item>
+          <text>Do you want to use [their] sunscreen?</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="noAudio" />
+      <gapAudios>
+        <gapAudio>
+          <gap>to</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>too</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>there</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>you're</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>your</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>it's</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>their</gap>
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+  </rounds>
+</tic_tac_toe>
+

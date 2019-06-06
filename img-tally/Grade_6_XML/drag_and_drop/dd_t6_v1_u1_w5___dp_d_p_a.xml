@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Your Turn: Phonics</title>
+  <directions>Read each sentence and word choice. Choose two words from the word bank that make a compound word that completes the sentence. Drag each word to the appropriate line.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow2" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Eating [water]&amp;lt;-&amp;gt;[melon] after a barbecue is the perfect summer meal!&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>farm</text>
+            </distractor>
+            <distractor>
+              <text>yard</text>
+            </distractor>
+            <distractor>
+              <text>team</text>
+            </distractor>
+            <distractor>
+              <text>team</text>
+            </distractor>
+            <distractor>
+              <text>heart</text>
+            </distractor>
+            <distractor>
+              <text>beat</text>
+            </distractor>
+            <distractor>
+              <text>sea</text>
+            </distractor>
+            <distractor>
+              <text>shell</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;My [team]&amp;lt;-&amp;gt;[mate] said something to comfort me when I missed the goal.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>farm</text>
+            </distractor>
+            <distractor>
+              <text>yard</text>
+            </distractor>
+            <distractor>
+              <text>water</text>
+            </distractor>
+            <distractor>
+              <text>melon</text>
+            </distractor>
+            <distractor>
+              <text>heart</text>
+            </distractor>
+            <distractor>
+              <text>beat</text>
+            </distractor>
+            <distractor>
+              <text>sea</text>
+            </distractor>
+            <distractor>
+              <text>shell</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Ricki found a rare, pink [sea]&amp;lt;-&amp;gt;[shell] on the beach after the storm.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>farm</text>
+            </distractor>
+            <distractor>
+              <text>yard</text>
+            </distractor>
+            <distractor>
+              <text>team</text>
+            </distractor>
+            <distractor>
+              <text>mate</text>
+            </distractor>
+            <distractor>
+              <text>water</text>
+            </distractor>
+            <distractor>
+              <text>melon</text>
+            </distractor>
+            <distractor>
+              <text>heart</text>
+            </distractor>
+            <distractor>
+              <text>beat</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The doctor let us listen to the [heart]&amp;lt;-&amp;gt;[beat] of our new baby sister.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>out</text>
+            </distractor>
+            <distractor>
+              <text>farm</text>
+            </distractor>
+            <distractor>
+              <text>yard</text>
+            </distractor>
+            <distractor>
+              <text>team</text>
+            </distractor>
+            <distractor>
+              <text>mate</text>
+            </distractor>
+            <distractor>
+              <text>water</text>
+            </distractor>
+            <distractor>
+              <text>melon</text>
+            </distractor>
+            <distractor>
+              <text>sea</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;After choosing our pumpkin, we petted the goats in the [farm]&amp;lt;-&amp;gt;[yard].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>team</text>
+            </distractor>
+            <distractor>
+              <text>mate</text>
+            </distractor>
+            <distractor>
+              <text>water</text>
+            </distractor>
+            <distractor>
+              <text>melon</text>
+            </distractor>
+            <distractor>
+              <text>heart</text>
+            </distractor>
+            <distractor>
+              <text>beat</text>
+            </distractor>
+            <distractor>
+              <text>sea</text>
+            </distractor>
+            <distractor>
+              <text>shell</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;In our sixth grade class,&amp;#160; girls [out]&amp;lt;-&amp;gt;[number] boys.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>down</text>
+            </distractor>
+            <distractor>
+              <text>stream</text>
+            </distractor>
+            <distractor>
+              <text>heart</text>
+            </distractor>
+            <distractor>
+              <text>beat</text>
+            </distractor>
+            <distractor>
+              <text>paper</text>
+            </distractor>
+            <distractor>
+              <text>back</text>
+            </distractor>
+            <distractor>
+              <text>touch</text>
+            </distractor>
+            <distractor>
+              <text>down</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;When the [paper]&amp;lt;-&amp;gt;[back] came out, the novel quickly sold out.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>down</text>
+            </distractor>
+            <distractor>
+              <text>stream</text>
+            </distractor>
+            <distractor>
+              <text>heart</text>
+            </distractor>
+            <distractor>
+              <text>beat</text>
+            </distractor>
+            <distractor>
+              <text>out</text>
+            </distractor>
+            <distractor>
+              <text>number</text>
+            </distractor>
+            <distractor>
+              <text>touch</text>
+            </distractor>
+            <distractor>
+              <text>down</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;As he crossed the end line, the referee yelled, &amp;#8220;[touch]&amp;lt;-&amp;gt;[down]!&amp;#8221;&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>out</text>
+            </distractor>
+            <distractor>
+              <text>come</text>
+            </distractor>
+            <distractor>
+              <text>heart</text>
+            </distractor>
+            <distractor>
+              <text>beat</text>
+            </distractor>
+            <distractor>
+              <text>out</text>
+            </distractor>
+            <distractor>
+              <text>number</text>
+            </distractor>
+            <distractor>
+              <text>paper</text>
+            </distractor>
+            <distractor>
+              <text>back</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Our coach says that sportsmanship counts more than the [out]&amp;lt;-&amp;gt;[come] of the game.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>down</text>
+            </distractor>
+            <distractor>
+              <text>stream</text>
+            </distractor>
+            <distractor>
+              <text>heart</text>
+            </distractor>
+            <distractor>
+              <text>beat</text>
+            </distractor>
+            <distractor>
+              <text>touch</text>
+            </distractor>
+            <distractor>
+              <text>down</text>
+            </distractor>
+            <distractor>
+              <text>paper</text>
+            </distractor>
+            <distractor>
+              <text>back</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;We threw a stick in the river and then raced [down]&amp;lt;-&amp;gt;[stream] to get it.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>heart</text>
+            </distractor>
+            <distractor>
+              <text>beat</text>
+            </distractor>
+            <distractor>
+              <text>out</text>
+            </distractor>
+            <distractor>
+              <text>number</text>
+            </distractor>
+            <distractor>
+              <text>touch</text>
+            </distractor>
+            <distractor>
+              <text>come</text>
+            </distractor>
+            <distractor>
+              <text>paper</text>
+            </distractor>
+            <distractor>
+              <text>back</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

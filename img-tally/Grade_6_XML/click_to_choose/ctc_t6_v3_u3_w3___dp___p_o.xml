@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read each Word List on the left. Then read each question and answer choice. Choose the two words that best answer the question.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;instead&lt;br /&gt;against&lt;br /&gt;people&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words from the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>instead</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>people</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>against</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;br /&gt;&lt;/b&gt;&lt;/u&gt;ready&lt;br /&gt;bread&lt;br /&gt;believe&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words from the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>believe</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>bread</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>ready</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;br /&gt;&lt;/b&gt;&lt;/u&gt;cousin&lt;br /&gt;enough&lt;br /&gt;praise&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words from the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>cousin</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>enough</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>praise</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;thread &lt;br /&gt;because&lt;br /&gt;chain&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words from the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>thread</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>chain</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>because</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;dread&lt;br /&gt;breath&lt;br /&gt;straight&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words from the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>dread</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>breath</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>straight</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;youngster&lt;br /&gt;headstrong&lt;br /&gt;nineteen&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words from the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>youngster</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>nineteen</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>headstrong</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;spreading&lt;br /&gt;wealthy&lt;br /&gt;zeal&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words from the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>zeal</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>wealthy</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>spreading</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;deaf&lt;br /&gt;guess&lt;br /&gt;break&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words from the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>deaf</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>guess</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>break</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;meant&lt;br /&gt;said&lt;br /&gt;freight&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words from the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>meant</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>freight</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>said</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;widespread&lt;br /&gt;younger&lt;br /&gt;grain&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words from the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>grain</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>younger</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>widespread</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;doesn't&lt;br /&gt;instead&lt;br /&gt;grief&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words from the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>doesn’t</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>instead</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>grief</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;stealthy&lt;br /&gt;youngest&lt;br /&gt;dreaming&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words from the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>dreaming</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>youngest</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>stealthy</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Word List&lt;/u&gt;&lt;/b&gt;&lt;br /&gt;dreading&lt;br /&gt;deadliest&lt;br /&gt;feast&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words from the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>dreading</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>feast</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>deadliest</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;healthiest&lt;br /&gt;does&lt;br /&gt;weight&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words from the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>healthiest</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>does</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>weight</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;rougher&lt;br /&gt;touching&lt;br /&gt;steak&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words from the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>steak</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>touching</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>rougher</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;toughness&lt;br /&gt;breathless&lt;br /&gt;breathe&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words from the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>toughness</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>breathe</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>breathless</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;laughter&lt;br /&gt;spreader&lt;br /&gt;cleanest&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words from the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>laughter</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>spreader</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>cleanest</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;enough&lt;br /&gt;wealthier&lt;br /&gt;achievement&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words from the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>enough</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>achievement</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>wealthier</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Word List&lt;/u&gt;&lt;/b&gt;&lt;br /&gt;threatening&lt;br /&gt;sweaty&lt;br /&gt;cleanliness&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words fromt the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>threatening</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>sweaty</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>cleanliness</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;deafening&lt;br /&gt;dreadful&lt;br /&gt;suitable&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Which two words from the Word List have a vowel team that makes a short vowel sound?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>deafening</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>suitable</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>dreadful</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tic_tac_toe>
+  <title>Word Study: Greek Suffixes</title>
+  <directions>Play Tic-Tac-Toe by choosing the suffix from the word box that correctly matches the definition. Then place your “X” on the board. Three spaces in a row (across, down, or diagonal) wins.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow1" />
+  <opponentStrength value="medium" />
+  <rounds>
+    <round>
+      <sentences>
+        <item>
+          <text>diet specialist: diet[ician]</text>
+          <audio />
+        </item>
+        <item>
+          <text>fear of closed spaces: claustro[phobia]</text>
+          <audio />
+        </item>
+        <item>
+          <text>scientist who studies prehistoric life: paleonto[logist]</text>
+          <audio />
+        </item>
+        <item>
+          <text>specialist in physical health: phys[ician]</text>
+          <audio />
+        </item>
+        <item>
+          <text>life science: bio[logy]</text>
+          <audio />
+        </item>
+        <item>
+          <text>fear of water: aqua[phobia]</text>
+          <audio />
+        </item>
+        <item>
+          <text>scientist who studies the nervous system: neuro[logist]</text>
+          <audio />
+        </item>
+        <item>
+          <text>music specialist: mus[ician]</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="noAudio" />
+      <gapAudios>
+        <gapAudio>
+          <gap />
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+    <round>
+      <sentences>
+        <item>
+          <text>traveling for recreation: tour[ism]</text>
+          <audio />
+        </item>
+        <item>
+          <text>government by the wealthy: pluto[cracy]</text>
+          <audio />
+        </item>
+        <item>
+          <text>government by a privileged group: aristo[cracy]</text>
+          <audio />
+        </item>
+        <item>
+          <text>one who practices socialism: social[ist]</text>
+          <audio />
+        </item>
+        <item>
+          <text>technology specialist: techn[ician]</text>
+          <audio />
+        </item>
+        <item>
+          <text>state of judging: critic[ism]</text>
+          <audio />
+        </item>
+        <item>
+          <text>one who treats tumors: oncolog[ist]</text>
+          <audio />
+        </item>
+        <item>
+          <text>electrical specialist: electr[ician]</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="noAudio" />
+      <gapAudios>
+        <gapAudio>
+          <gap />
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+    <round>
+      <sentences>
+        <item>
+          <text>a person who loves books: biblio[phile]</text>
+          <audio />
+        </item>
+        <item>
+          <text>device for hearing over long distances: tele[phone]</text>
+          <audio />
+        </item>
+        <item>
+          <text>resembling a star-shaped object: aster[oid]</text>
+          <audio />
+        </item>
+        <item>
+          <text>a word that sounds like another word: homo[phone]</text>
+          <audio />
+        </item>
+        <item>
+          <text>a conversation between two people: dia[logue]</text>
+          <audio />
+        </item>
+        <item>
+          <text>a person who likes things related to England: Anglo[phile]</text>
+          <audio />
+        </item>
+        <item>
+          <text>a lecture by one person: mono[logue]</text>
+          <audio />
+        </item>
+        <item>
+          <text>resembling human characteristics: human[oid]</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="noAudio" />
+      <gapAudios>
+        <gapAudio>
+          <gap />
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+  </rounds>
+</tic_tac_toe>
+

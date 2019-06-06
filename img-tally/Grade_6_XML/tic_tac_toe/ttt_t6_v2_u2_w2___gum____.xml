@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tic_tac_toe>
+  <title>Grammar: Singular and Plural Nouns</title>
+  <directions>Play Tic-Tac-Toe by choosing the correct answer from the word box that correctly fits in the sentences. Then place your "X". Three spaces in a row (across, down, or diagonal) wins Tic-Tac-Toe.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <opponentStrength value="medium" />
+  <rounds>
+    <round>
+      <sentences>
+        <item>
+          <text>The plural form of bluff is [bluffs].</text>
+          <audio />
+        </item>
+        <item>
+          <text>The plural form of bush is [bushes].</text>
+          <audio />
+        </item>
+        <item>
+          <text>The plural form of wolf is [wolves].</text>
+          <audio />
+        </item>
+        <item>
+          <text>The plural form of password is [passwords].</text>
+          <audio />
+        </item>
+        <item>
+          <text>The plural form of computer is [computers].</text>
+          <audio />
+        </item>
+        <item>
+          <text>The plural form of roof is [roofs].</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="authored" />
+      <gapAudios>
+        <gapAudio>
+          <gap>bluffs</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>bushes</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>wolves</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>passwords</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>computers</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>roofs</gap>
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+    <round>
+      <sentences>
+        <item>
+          <text>The plural form of half is [halves].</text>
+          <audio />
+        </item>
+        <item>
+          <text>The plural form of cuff is [cuffs].</text>
+          <audio />
+        </item>
+        <item>
+          <text>The plural form of valley is [valleys].</text>
+          <audio />
+        </item>
+        <item>
+          <text>The plural form of neighbor is [neighbors].</text>
+          <audio />
+        </item>
+        <item>
+          <text>The plural form of wife is [wives].</text>
+          <audio />
+        </item>
+        <item>
+          <text>The plural form of trench is [trenches].</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="authored" />
+      <gapAudios>
+        <gapAudio>
+          <gap>halves</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>cuffs</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>valleys</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>neighbors</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>wives</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>trenches</gap>
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+    <round>
+      <sentences>
+        <item>
+          <text>The plural form of gallery is [galleries].</text>
+          <audio />
+        </item>
+        <item>
+          <text>The plural form of inch is [inches].</text>
+          <audio />
+        </item>
+        <item>
+          <text>The plural form of shelf is [shelves].</text>
+          <audio />
+        </item>
+        <item>
+          <text>The plural form of cookie is [cookies].</text>
+          <audio />
+        </item>
+        <item>
+          <text>The plural form of candy is [candies].</text>
+          <audio />
+        </item>
+        <item>
+          <text>The plural form of barge is [barges].</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="authored" />
+      <gapAudios>
+        <gapAudio>
+          <gap>galleries</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>inches</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>shelves</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>cookies</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>candies</gap>
+          <audio />
+        </gapAudio>
+        <gapAudio>
+          <gap>barges</gap>
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+  </rounds>
+</tic_tac_toe>
+

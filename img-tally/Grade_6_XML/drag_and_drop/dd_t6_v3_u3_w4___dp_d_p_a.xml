@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Your Turn: Phonics</title>
+  <directions>Read each definition. Choose the prefix that creates a new word that matches the definition.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;not clear: [un]clear&lt;/p&gt;
+&lt;p&gt;not capable:&amp;#160; [in]capable&lt;/p&gt;
+&lt;p&gt;to achieve more than expected:&amp;#160; [over]achieve&lt;/p&gt;
+&lt;p&gt;to make larger:&amp;#160; [en]large&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;to open by releasing a hook:&amp;#160; [un]hook&lt;/p&gt;
+&lt;p&gt;not in a direct way:&amp;#160; [in]direct&lt;/p&gt;
+&lt;p&gt;to make richer:&amp;#160; [en]rich&lt;/p&gt;
+&lt;p&gt;not mature:&amp;#160; [im]mature&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;to not agree:&amp;#160; [dis]agree&lt;/p&gt;
+&lt;p&gt;to bring into danger:&amp;#160; [en]danger&lt;/p&gt;
+&lt;p&gt;not usual:&amp;#160; [un]usual&lt;/p&gt;
+&lt;p&gt;to view before:&amp;#160; [pre]view&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;not common:&amp;#160; [un]common&lt;/p&gt;
+&lt;p&gt;to not obey:&amp;#160; [dis]obey&lt;/p&gt;
+&lt;p&gt;to circle around:&amp;#160; [en]circle&lt;/p&gt;
+&lt;p&gt;to not understand:&amp;#160; [mis]understand&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;to use again:&amp;#160; [re]use&lt;/p&gt;
+&lt;p&gt;to take caution before:&amp;#160; [pre]caution&lt;/p&gt;
+&lt;p&gt;to not like:&amp;#160; [dis]like&lt;/p&gt;
+&lt;p&gt;not violent:&amp;#160; [non]violent&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text />
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;&lt;b&gt;Grammar: Sentence Combining&lt;/b&gt;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read the two sentences. Select the answer(s) that correctly combines the original sentences.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <question>
+            <text>&lt;p&gt;Lisa enjoys visiting the zoo.&lt;/p&gt;
+&lt;p&gt;Juan enjoys visiting the aquarium.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Lisa and Juan enjoy visiting the zoo.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Lisa enjoys visiting the zoo, or Juan enjoys visiting the aquarium.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Lisa enjoys visiting the zoo, but Juan enjoys visiting the aquarium.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Lisa enjoys visiting the zoo, and Juan enjoys visiting the aquarium.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;Lisa went to the aquarium on Saturday.&lt;/p&gt;
+&lt;p&gt;She went to the zoo on Sunday.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Lisa went to the aquarium on Saturday; she went to the zoo on Sunday.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Lisa went to the aquarium on Saturday, or she went to the zoo on Sunday.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Lisa went to the aquarium on Saturday, and she went to the zoo on Sunday.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Lisa went to the aquarium on Saturday, she went to the zoo on Sunday.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;Lisa wanted to see the lions.&lt;/p&gt;
+&lt;p&gt;Lisa saw the polar bears first.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Lisa wanted to see the lions, and she saw the polar bears first.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Lisa wanted to see the lions, saw the polar bears first.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Lisa wanted to see the lions; she saw the polar bears first.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Lisa wanted to see the lions, but she saw the polar bears first.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;Polar bears are great swimmers.&lt;/p&gt;
+&lt;p&gt;Many can swim more than 60 miles at one time.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Polar bears are great swimmers, and many can swim more than 60 miles at one time.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Polar bears are great swimmers; can swim more than 60 miles at one time.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Polar bears are great swimmers; many can swim more than 60 miles at one time.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Polar bears are great swimmers, but they can swim more than 60 miles at one time.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;Polar bears often stalk prey on the ice.&lt;/p&gt;
+&lt;p&gt;They also hunt by swimming beneath the ice.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Polar bears often stalk prey on the ice or they also hunt by swimming beneath the ice.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Polar bears often stalk prey on the ice, but they also hunt by swimming beneath the ice.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Polar bears often stalk prey on the ice, and they also hunt by swimming beneath the ice.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Polar bears often stalk prey on the ice and they also hunt by swimming beneath the ice.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;Lisa will visit the gorillas next&lt;/p&gt;
+&lt;p&gt;Lisa will visit the reptiles next.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Lisa will visit the gorillas next; visit the reptiles next.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Lisa will either visit the gorillas or the reptiles next.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Lisa will visit either the gorillas nor the reptiles next.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Lisa will visit the gorillas next, Lisa will visit the reptiles next.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <question>
+            <text>&lt;p&gt;Jackrabbits are not rabbits.&lt;/p&gt;
+&lt;p&gt;They are hares.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Jackrabbits are neither rabbits, nor are they hares.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Jackrabbits are not rabbits and they are hares.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Jackrabbits are not rabbits, but they are hares.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Jackrabbits are not rabbits; they are hares.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;A jackrabbit&amp;#8217;s ears are long so it can hear well.&lt;/p&gt;
+&lt;p&gt;They also help keep the animal cool.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>A jackrabbit’s ears are long so it can hear well, but they also help keep the animal cool.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>A jackrabbit’s ears are long so it can hear well, or they also help keep the animal cool.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>A jackrabbit’s ears are long so it can hear well, nor they also help keep the animal cool.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>A jackrabbit’s ears are long so it can hear well; they also help keep the animal cool.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;Strong hind legs help a jackrabbit leap long distances.&lt;/p&gt;
+&lt;p&gt;They help it run up to 35 miles per hour.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Strong hind legs help a jackrabbit leap long distances; run up to 35 miles per hour.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Strong hind legs help a jackrabbit leap long distances, but run up to 35 miles per hour.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Strong hind legs help a jackrabbit leap long distances nor run up to 35 miles per hour.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Strong hind legs help a jackrabbit leap long distances and run up to 35 miles per hour.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;Hares are larger than rabbits.&lt;/p&gt;
+&lt;p&gt;They typically have taller hind legs and longer ears.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Hares are larger than rabbits, or have taller hind legs and longer ears.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Hares are larger than rabbits, and they typically have taller hind legs and longer ears.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Hares are either larger than rabbits or have taller hind legs and longer ears.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Hares are larger than rabbits; they typically have taller hind legs and longer ears.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;White-tailed jackrabbits are not common in the tropics.&lt;/p&gt;
+&lt;p&gt;Black-tailed jackrabbits are not common in the tropics.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>White-tailed jackrabbits or black-tailed jackrabbits are not common in the tropics.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Neither white-tailed jackrabbits nor black-tailed jackrabbits are common in the tropics.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>White-tailed jackrabbits and black-tailed jackrabbits are not common in the tropics.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>White-tailed jackrabbits are not and black-tailed jackrabbits are not common in the tropics.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;White-tailed jackrabbits are herbivores.&lt;/p&gt;
+&lt;p&gt;They are prey for coyotes, foxes, and hawks.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>White-tailed jackrabbits are either herbivores or are prey for coyotes, foxes, and hawks.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>White-tailed jackrabbits are herbivores; are prey for coyotes, foxes, and hawks.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>White-tailed jackrabbits are herbivores but they are prey for coyotes, foxes, and hawks.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>White-tailed jackrabbits are herbivores, and they are prey for coyotes, foxes, and hawks.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <question>
+            <text>&lt;p&gt;Juan and Uncle Lucas visited the aquarium on Friday.&lt;/p&gt;
+&lt;p&gt;Juan and Uncle Lucas took a lot of pictures.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Juan visited the aquarium, and Uncle Lucas took a lot of pictures.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Juan and Uncle Lucas visited the aquarium; they took a lot of pictures.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Juan and Uncle Lucas visited the aquarium, but they took a lot of pictures.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Juan and Uncle Lucas visited the aquarium and took a lot of pictures.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;They watched a dolphin show.&lt;/p&gt;
+&lt;p&gt;They also learned interesting facts about whales.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>They watched a dolphin show, but they also learned interesting facts about whales.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>They watched a dolphin show, and they also learned interesting facts about whales.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>They watched a dolphin show and they also learned interesting facts about whales.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>They watched a dolphin show; also learned interesting facts about whales.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;There are different species of dolphins.&lt;/p&gt;
+&lt;p&gt;Most species of dolphins live in shallow areas of the ocean.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>There are different species of dolphins, or most live in shallow areas the ocean.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>There are different species of dolphins and most live in shallow areas the ocean.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>There are different species of dolphins; most live in shallow areas of the ocean.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>There are different species of dolphins but most live in shallow areas of the ocean.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;Bottlenose dolphins look like fish.&lt;/p&gt;
+&lt;p&gt;They are mammals.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Bottlenose dolphins neither look like fish, nor are mammals.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Bottlenose dolphins look like fish and they are mammals.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Bottlenose dolphins look like fish, but they are mammals.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Bottlenose dolphins look like fish; they are mammals.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;Bottlenose dolphins sometimes feed alone.&lt;/p&gt;
+&lt;p&gt;They can team up and hunt in groups.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Bottlenose dolphins sometimes feed alone, but they can team up and hunt in groups.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Bottlenose dolphins sometimes feed alone, or they can team up and hunt in groups.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Bottlenose dolphins sometimes feed alone and they can team up and hunt in groups.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Bottlenose dolphins sometimes feed alone, nor they can team up and hunt in groups.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <question>
+            <text>&lt;p&gt;Uncle Lucas said they could visit the penguins.&lt;/p&gt;
+&lt;p&gt;Uncle Lucas said they could go home.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>Uncle Lucas said they could visit the penguins; could go home.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Uncle Lucas said they could visit the penguins, or they could go home.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Uncle Lucas said they could visit the penguins go home.</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Uncle Lucas said they could either visit the penguins or go home.</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read each sentence and question. Choose the phrase that best answers the question based on the prefix used.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;un&lt;/i&gt;- means &amp;#8220;not&amp;#8221; or &amp;#8220;opposite.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;unzip &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>to zip open</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>to zip again</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;dis&lt;/i&gt;- means &amp;#8220;not.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;disloyal &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>very loyal</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>not loyal</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;non&lt;/i&gt;- means &amp;#8220;not.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;nonstick &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>not able to stick</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>able to stick</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;pre&lt;/i&gt;- means &amp;#8220;before.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;preview&lt;/i&gt; mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>to view before</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>to view after</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;dis&lt;/i&gt;- means &amp;#8220;not.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;dislike &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>to like</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>to not like</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;mis&lt;/i&gt;- means &amp;#8220;wrongly.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;misread&lt;/i&gt; mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>to read correctly</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>to not read correctly</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;over&lt;/i&gt;- means &amp;#8220;too much.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;oversize &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>larger than normal size</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>normal size</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;im&lt;/i&gt;- means &amp;#8220;not.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;impossible &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>not possible</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>extremely possible</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;un&lt;/i&gt;- means &amp;#8220;not&amp;#8221; or &amp;#8220;opposite.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;unclear &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>clear or free from darkness</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>not clear or not free from darkness</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;in&lt;/i&gt;- means &amp;#8220;not.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;incomplete&lt;/i&gt; mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>finished or complete</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>not finished or not complete</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;pre&lt;/i&gt;- means &amp;#8220;before.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;preteen&lt;/i&gt; mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>before the teenage years</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>after the teenage years</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;in&lt;/i&gt;- means &amp;#8220;not.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;informal &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>in a formal way</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>not in a formal way</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;re&lt;/i&gt;- means &amp;#8220;again.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;reprint &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>to print again</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>to print for the first time</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;dis&lt;/i&gt;- means &amp;#8220;not.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;dishonest &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>in an honest way</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>not in an honest way</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;non&lt;/i&gt;- means &amp;#8220;not.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;nonprofit &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>for profit</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>not for profit</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;dis&lt;/i&gt;- means &amp;#8220;not.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;disorder &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>not in order</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>in order</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;un&lt;/i&gt;- means &amp;#8220;not.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;unusual &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>in the usual manner</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>not in the usual manner</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;in&lt;/i&gt;- means &amp;#8220;not.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;incorrect &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>true or correct</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>not true or not correct</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;re&lt;/i&gt;- means &amp;#8220;again.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;rejoin &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>to join again</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>to join for the first time</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;inter&lt;/i&gt;- means &amp;#8220;between.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;interstate &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>between states</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>not between states</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;un&lt;/i&gt;- means &amp;#8220;not.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;unpopular &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>liked or popular</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>not liked or not popular</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;pre&lt;/i&gt;- means &amp;#8220;before.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;precaution &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>to take caution after</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>to take caution before</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;inter&lt;/i&gt;- means &amp;#8220;between.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;international &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>between nations</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>not between nations</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText />
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The prefix &lt;i&gt;mis&lt;/i&gt;- means &amp;#8220;wrongly.&amp;#8221; &lt;br /&gt;&lt;br /&gt;What does the word &lt;i&gt;misunderstand &lt;/i&gt;mean?&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>to understand correctly</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>to not understand correctly</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

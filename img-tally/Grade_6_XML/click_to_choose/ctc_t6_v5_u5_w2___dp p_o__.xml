@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read each word from the Word Origin Bank. Then read each sentence and answer choice. Choose the word that best completes each sentence.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;iglu &lt;/i&gt;&lt;/b&gt;in Inuit means &amp;#8220;house&amp;#8221;&lt;b&gt;&lt;i&gt; &lt;br /&gt;&lt;/i&gt;&lt;/b&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;bazar &lt;/i&gt;&lt;/b&gt;in Persian means &amp;#8220;market&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;pudelhund &lt;/i&gt;&lt;/b&gt;in German means &amp;#8220; to splash about&amp;#8221; plus &amp;#8220;dog&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;kruisen&lt;/i&gt;&lt;/b&gt; in Dutch means &amp;#8220;to cross&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;People stay warm in&amp;#160; [igloos] when they fish in the ice.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>igloos</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>cruise</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>poodle</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>bazaar</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;iglu &lt;/i&gt;&lt;/b&gt;in Inuit means &amp;#8220;house&amp;#8221;&lt;b&gt;&lt;i&gt; &lt;br /&gt;&lt;/i&gt;&lt;/b&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;bazar &lt;/i&gt;&lt;/b&gt;in Persian means &amp;#8220;market&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;pudelhund &lt;/i&gt;&lt;/b&gt;in German means &amp;#8220; to splash about&amp;#8221; plus &amp;#8220;dog&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;kruisen&lt;/i&gt;&lt;/b&gt; in Dutch means &amp;#8220;to cross"&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Our [poodle] loves to splash in the water.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>igloos</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>cruise</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>poodle</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>bazaar</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;iglu &lt;/i&gt;&lt;/b&gt;in Inuit means &amp;#8220;house&amp;#8221;&lt;b&gt;&lt;i&gt; &lt;br /&gt;&lt;/i&gt;&lt;/b&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;bazar &lt;/i&gt;&lt;/b&gt;in Persian means &amp;#8220;market&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;pudelhund &lt;/i&gt;&lt;/b&gt;in German means &amp;#8220; to splash about&amp;#8221; plus &amp;#8220;dog&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;kruisen&lt;/i&gt;&lt;/b&gt; in Dutch means &amp;#8220;to cross&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;We held a [bazaar] to raise money for a good cause.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>igloos</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>cruise</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>poodle</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>bazaar</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;iglu &lt;/i&gt;&lt;/b&gt;in Inuit means &amp;#8220;house&amp;#8221;&lt;b&gt;&lt;i&gt; &lt;br /&gt;&lt;/i&gt;&lt;/b&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;bazar &lt;/i&gt;&lt;/b&gt;in Persian means &amp;#8220;market&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;pudelhund &lt;/i&gt;&lt;/b&gt;in German means &amp;#8220; to splash about&amp;#8221; plus &amp;#8220;dog&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;kruisen&lt;/i&gt;&lt;/b&gt; in Dutch means &amp;#8220;to cross&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;During winter break, our family took a [cruise] in the tropics.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>igloos</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>cruise</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>poodle</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>bazaar</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;plat &lt;/i&gt;&lt;/b&gt;in French means &amp;#8220;flat&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;desierto &lt;/i&gt;&lt;/b&gt;in Spanish means &amp;#8220;desert"&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;nudel&lt;/i&gt;&lt;/b&gt;&lt;b&gt; &lt;/b&gt;in German &amp;#8220;dried strip of dough&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;insectos&lt;/i&gt;&lt;/b&gt; in Spanish means &amp;#8220;insects&amp;#8221;&lt;/p&gt;
+&lt;p&gt;&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Driving across the [plateau], we could see far into the distance.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>plateau</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>desert</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>noodle</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>insects</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;plat &lt;/i&gt;&lt;/b&gt;in French means &amp;#8220;flat&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;desierto &lt;/i&gt;&lt;/b&gt;in Spanish means &amp;#8220;desert"&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;nudel&lt;/i&gt;&lt;/b&gt;&lt;b&gt; &lt;/b&gt;in German &amp;#8220;dried strip of dough&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;insectos&lt;/i&gt;&lt;/b&gt; in Spanish means &amp;#8220;insects&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;There were too many [insects] at that picnic!&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>plateau</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>desert</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>noodle</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>insects</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;plat &lt;/i&gt;&lt;/b&gt;in French means &amp;#8220;flat&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;desierto &lt;/i&gt;&lt;/b&gt;in Spanish means &amp;#8220;desert"&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;nudel&lt;/i&gt;&lt;/b&gt;&lt;b&gt; &lt;/b&gt;in German &amp;#8220;dried strip of dough&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;insectos&lt;/i&gt;&lt;/b&gt; in Spanish means &amp;#8220;insects&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Recipes often begin with the basic [noodle].&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>plateau</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>desert</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>noodle</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>insects</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;plat &lt;/i&gt;&lt;/b&gt;in French means &amp;#8220;flat&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;desierto &lt;/i&gt;&lt;/b&gt;in Spanish means &amp;#8220;desert"&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;nudel&lt;/i&gt;&lt;/b&gt;&lt;b&gt; &lt;/b&gt;in German &amp;#8220;dried strip of dough&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;insectos&lt;/i&gt;&lt;/b&gt; in Spanish means &amp;#8220;insects&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The [desert] wildlife adapts to long periods without water.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>plateau</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>desert</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>noodle</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>insects</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;carwan&lt;/i&gt;&lt;/b&gt; is a Persian word that means &amp;#8220;a group of desert travelers&amp;#8221;&amp;#160;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;tromme&lt;/i&gt;&lt;/b&gt; is a Dutch word for &amp;#8220;drum&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;ni braska&lt;/i&gt;&lt;/b&gt; is an Omaha Indian word that means &amp;#8220;flat river&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;c&amp;#225;mara&lt;/i&gt; &lt;/b&gt;is a Spanish word that means &amp;#8220;camera&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;I play a [drum] in the school band.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>drum</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>caravan</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Nebraska</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>camera</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;carwan&lt;/i&gt;&lt;/b&gt; is a Persian word that means &amp;#8220;a group of desert travelers&amp;#8221;&amp;#160;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;tromme&lt;/i&gt;&lt;/b&gt; is a Dutch word for &amp;#8220;drum&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;ni braska&lt;/i&gt;&lt;/b&gt; is an Omaha Indian word that means &amp;#8220;flat river&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;c&amp;#225;mara&lt;/i&gt; &lt;/b&gt;is a Spanish word that means &amp;#8220;camera&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;We stopped in Omaha, [Nebraska] on our way West.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>drum</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>caravan</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Nebraska</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>camera</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;carwan&lt;/i&gt;&lt;/b&gt; is a Persian word that means &amp;#8220;a group of desert travelers&amp;#8221;&amp;#160;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;tromme&lt;/i&gt;&lt;/b&gt; is a Dutch word for &amp;#8220;drum&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;ni braska&lt;/i&gt;&lt;/b&gt; is an Omaha Indian word that means &amp;#8220;flat river&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;c&amp;#225;mara&lt;/i&gt; &lt;/b&gt;is a Spanish word that means &amp;#8220;camera&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Five families drove in a&amp;#160; [caravan] to visit the Grand Canyon.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>drum</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>caravan</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>Nebraska</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>camera</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;carwan&lt;/i&gt;&lt;/b&gt; is a Persian word that means &amp;#8220;a group of desert travelers&amp;#8221;&amp;#160;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;tromme&lt;/i&gt;&lt;/b&gt; is a Dutch word for &amp;#8220;drum&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;ni braska&lt;/i&gt;&lt;/b&gt; is an Omaha Indian word that means &amp;#8220;flat river&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;c&amp;#225;mara&lt;/i&gt; &lt;/b&gt;is a Spanish word that means &amp;#8220;camera&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;I made a video with my new [camera].&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>drum</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>caravan</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>Nebraska</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>camera</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;bangla&lt;/i&gt;&lt;/b&gt; is a Hindi word that means &amp;#8220;low thatched house&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;fruta &lt;/i&gt;&lt;/b&gt;is a Spanish word that means &amp;#8220;fruit&amp;#8221;&amp;#160;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;ombrello&lt;/i&gt;&lt;/b&gt; is an Italian word that means &amp;#8220;sunshade&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;spoele&lt;/i&gt;&lt;/b&gt; is a Dutch word that means &amp;#8220;spool&amp;#8221;&lt;/p&gt;
+&lt;p&gt;&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;My mother serves fresh [fruit] in season for breakfast.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>umbrella</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>fruit</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>spool</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>bungalow</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;bangla&lt;/i&gt;&lt;/b&gt; is a Hindi word that means &amp;#8220;low thatched house&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;fruta &lt;/i&gt;&lt;/b&gt;is a Spanish word that means &amp;#8220;fruit&amp;#8221;&amp;#160;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;ombrello&lt;/i&gt;&lt;/b&gt; is an Italian word that means &amp;#8220;sunshade&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;spoele&lt;/i&gt;&lt;/b&gt; is a Dutch word that means &amp;#8220;spool&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;A [bungalow] is a small house.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>umbrella</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>fruit</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>spool</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>bungalow</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;bangla&lt;/i&gt;&lt;/b&gt; is a Hindi word that means &amp;#8220;low thatched house&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;fruta &lt;/i&gt;&lt;/b&gt;is a Spanish word that means &amp;#8220;fruit&amp;#8221;&amp;#160;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;ombrello&lt;/i&gt;&lt;/b&gt; is an Italian word that means &amp;#8220;sunshade&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;spoele&lt;/i&gt;&lt;/b&gt; is a Dutch word that means &amp;#8220;spool&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;In case it rains, I plan to bring my [umbrella].&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>umbrella</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>fruit</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>spool</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>bungalow</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;bangla&lt;/i&gt;&lt;/b&gt; is a Hindi word that means &amp;#8220;low thatched house&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;fruta &lt;/i&gt;&lt;/b&gt;is a Spanish word that means &amp;#8220;fruit&amp;#8221;&amp;#160;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;ombrello&lt;/i&gt;&lt;/b&gt; is an Italian word that means &amp;#8220;sunshade&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;spoele&lt;/i&gt;&lt;/b&gt; is a Dutch word that means &amp;#8220;spool&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;A [spool] of thread and a needle is handy for loose buttons.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>umbrella</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>fruit</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>spool</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>bungalow</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;cacoon&lt;/i&gt;&lt;/b&gt; is an African word for a large flat bean&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;ijsberg&lt;/i&gt;&lt;/b&gt; is a Dutch word that means &amp;#8220;ice mountain&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;pajama&lt;/i&gt;&lt;/b&gt; is a Hindi word that means &amp;#8220;loose trousers tied at the waist&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;wafel &lt;/i&gt;&lt;/b&gt;&amp;#160;is a Dutch word that means &amp;#8220;waffle&amp;#8221;&lt;/p&gt;
+&lt;p&gt;&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;The Titanic hit a(n) [iceberg] before it sank.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>pajamas</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>cocoon</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>waffles</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>iceberg</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;cacoon&lt;/i&gt;&lt;/b&gt; is an African word for a large flat bean&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;ijsberg&lt;/i&gt;&lt;/b&gt; is a Dutch word that means &amp;#8220;ice mountain&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;pajama&lt;/i&gt;&lt;/b&gt; is a Hindi word that means &amp;#8220;loose trousers tied at the waist&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;wafel &lt;/i&gt;&lt;/b&gt;&amp;#160;is a Dutch word that means &amp;#8220;waffle&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;My homemade [waffles] are best with butter and warm syrup.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>pajamas</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>cocoon</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>waffles</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>iceberg</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;cacoon&lt;/i&gt;&lt;/b&gt; is an African word for a large flat bean&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;ijsberg&lt;/i&gt;&lt;/b&gt; is a Dutch word that means &amp;#8220;ice mountain&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;pajama&lt;/i&gt;&lt;/b&gt; is a Hindi word that means &amp;#8220;loose trousers tied at the waist&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;wafel &lt;/i&gt;&lt;/b&gt;&amp;#160;is a Dutch word that means &amp;#8220;waffle&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Silk comes from the [cocoon] of a moth.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>pajamas</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>cocoon</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>waffles</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>iceberg</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;cacoon&lt;/i&gt;&lt;/b&gt; is an African word for a large flat bean&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;ijsberg&lt;/i&gt;&lt;/b&gt; is a Dutch word that means &amp;#8220;ice mountain&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;pajama&lt;/i&gt;&lt;/b&gt; is a Hindi word that means &amp;#8220;loose trousers tied at the waist&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;wafel &lt;/i&gt;&lt;/b&gt;&amp;#160;is a Dutch word that means &amp;#8220;waffle&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;My favorite [pajamas] are made of flannel.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>pajamas</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>cocoon</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>waffles</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>iceberg</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;oc&amp;#233;ano&lt;/i&gt;&lt;/b&gt; is a Spanish word that means &amp;#8220;ocean&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;souvenir &lt;/i&gt;&lt;/b&gt;is a French word that means &amp;#8220;comes to mind&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;kichap&lt;/i&gt;&lt;/b&gt; is a Malay word that means &amp;#8220;sauce made from fish&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;dunke&lt;/i&gt;&lt;/b&gt; is a German word that means&amp;#160; &amp;#8220;dip&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Some people like to [dunk] their cookies in milk.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>ocean</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>souvenir</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>catsup</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>dunk</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;oc&amp;#233;ano&lt;/i&gt;&lt;/b&gt; is a Spanish word that means &amp;#8220;ocean&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;souvenir &lt;/i&gt;&lt;/b&gt;is a French word that means &amp;#8220;comes to mind&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;kichap&lt;/i&gt;&lt;/b&gt; is a Malay word that means &amp;#8220;sauce made from fish&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;dunke&lt;/i&gt;&lt;/b&gt; is a German word that means&amp;#160; &amp;#8220;dip&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;We bought a [souvenir] to remind us of our vacation.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>ocean</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>souvenir</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>catsup</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>dunk</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;oc&amp;#233;ano&lt;/i&gt;&lt;/b&gt; is a Spanish word that means &amp;#8220;ocean&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;souvenir &lt;/i&gt;&lt;/b&gt;is a French word that means &amp;#8220;comes to mind&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;kichap&lt;/i&gt;&lt;/b&gt; is a Malay word that means &amp;#8220;sauce made from fish&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;dunke&lt;/i&gt;&lt;/b&gt; is a German word that means&amp;#160; &amp;#8220;dip&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;Hamburgers are good with lots of [catsup].&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>ocean</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>souvenir</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>catsup</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>dunk</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;i&gt;oc&amp;#233;ano&lt;/i&gt;&lt;/b&gt; is a Spanish word that means &amp;#8220;ocean&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;souvenir &lt;/i&gt;&lt;/b&gt;is a French word that means &amp;#8220;comes to mind&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;kichap&lt;/i&gt;&lt;/b&gt; is a Malay word that means &amp;#8220;sauce made from fish&amp;#8221;&lt;br /&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;dunke&lt;/i&gt;&lt;/b&gt; is a German word that means&amp;#160; &amp;#8220;dip&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;After several months of [ocean] travel, the explorers found land.&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>ocean</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>souvenir</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>catsup</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>dunk</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

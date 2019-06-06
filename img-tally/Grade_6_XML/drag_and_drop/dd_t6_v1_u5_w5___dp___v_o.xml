@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Your Turn: Vocabulary</title>
+  <directions>Read each pair of sentences. Choose the vocabulary word that completes both sentences.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <itemReplenishmentMode value="bottomless" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What situation might be described as [catastrophic]?&lt;/p&gt;
+&lt;p&gt;A severe storm is frequently described as [catastrophic].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>subsequently</text>
+            </distractor>
+            <distractor>
+              <text>magnetic</text>
+            </distractor>
+            <distractor>
+              <text>elevating</text>
+            </distractor>
+            <distractor>
+              <text>obsolete</text>
+            </distractor>
+            <distractor>
+              <text>deployed</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Why might you use something that is [magnetic]?&lt;/p&gt;
+&lt;p&gt;I often use things that are [magnetic] to hold drawings on the refrigerator.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>deployed</text>
+            </distractor>
+            <distractor>
+              <text>elevating</text>
+            </distractor>
+            <distractor>
+              <text>obsolete</text>
+            </distractor>
+            <distractor>
+              <text>subsequently</text>
+            </distractor>
+            <distractor>
+              <text>application</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;When is a police car [deployed]?&lt;/p&gt;
+&lt;p&gt;Police cars are [deployed] to handle emergencies.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>catastrophic</text>
+            </distractor>
+            <distractor>
+              <text>magnetic</text>
+            </distractor>
+            <distractor>
+              <text>elevating</text>
+            </distractor>
+            <distractor>
+              <text>obsolete</text>
+            </distractor>
+            <distractor>
+              <text>subsequently</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What activities involve [computations]?&lt;/p&gt;
+&lt;p&gt;Many activities involve [computations], including shopping.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>deployed</text>
+            </distractor>
+            <distractor>
+              <text>subsequently</text>
+            </distractor>
+            <distractor>
+              <text>application</text>
+            </distractor>
+            <distractor>
+              <text>obsolete</text>
+            </distractor>
+            <distractor>
+              <text>magnetic</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What is a common [application] for a drill?&lt;/p&gt;
+&lt;p&gt;One common [application] for a drill is hanging pictures on the wall.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>catastrophic</text>
+            </distractor>
+            <distractor>
+              <text>magnetic</text>
+            </distractor>
+            <distractor>
+              <text>elevating</text>
+            </distractor>
+            <distractor>
+              <text>subsequently</text>
+            </distractor>
+            <distractor>
+              <text>deployed</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;If you lost your dog, what action might you [subsequently] take?&lt;/p&gt;
+&lt;p&gt;If I lost my dog, I might [subsequently] put notices up around the neighborhood.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>catastrophic</text>
+            </distractor>
+            <distractor>
+              <text>magnetic</text>
+            </distractor>
+            <distractor>
+              <text>elevating</text>
+            </distractor>
+            <distractor>
+              <text>obsolete</text>
+            </distractor>
+            <distractor>
+              <text>computations</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Why are hand-held calculators becoming [obsolete]?&lt;/p&gt;
+&lt;p&gt;Calculators are becoming [obsolete] because people use cell phones to calculate.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>deployed</text>
+            </distractor>
+            <distractor>
+              <text>magnetic</text>
+            </distractor>
+            <distractor>
+              <text>elevating</text>
+            </distractor>
+            <distractor>
+              <text>application</text>
+            </distractor>
+            <distractor>
+              <text>computations</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What might be a reason for [elevating] your foot?&lt;/p&gt;
+&lt;p&gt;I might try [elevating] my foot if I fell down and sprained my ankle.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>catastrophic</text>
+            </distractor>
+            <distractor>
+              <text>magnetic</text>
+            </distractor>
+            <distractor>
+              <text>obsolete</text>
+            </distractor>
+            <distractor>
+              <text>subsequently</text>
+            </distractor>
+            <distractor>
+              <text>application</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What is the usual [attire] to wear to a costume party?&lt;/p&gt;
+&lt;p&gt;The usual [attire] for a costume party is a disguise and a mask.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>beware</text>
+            </distractor>
+            <distractor>
+              <text>irregular</text>
+            </distractor>
+            <distractor>
+              <text>strenuous</text>
+            </distractor>
+            <distractor>
+              <text>extravagant</text>
+            </distractor>
+            <distractor>
+              <text>mechanism</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What could be considered a [lavish] expense?&lt;/p&gt;
+&lt;p&gt;Some people might consider it [lavish] to buy three new cars at once.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>attire</text>
+            </distractor>
+            <distractor>
+              <text>beware</text>
+            </distractor>
+            <distractor>
+              <text>irregular</text>
+            </distractor>
+            <distractor>
+              <text>strenuous</text>
+            </distractor>
+            <distractor>
+              <text>extravagant</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What type of [mechanism] operates a grandfather clock?&lt;/p&gt;
+&lt;p&gt;A [mechanism] consisting of gears and pulleys operates a grandfather clock.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>attire</text>
+            </distractor>
+            <distractor>
+              <text>beware</text>
+            </distractor>
+            <distractor>
+              <text>irregular</text>
+            </distractor>
+            <distractor>
+              <text>strenuous</text>
+            </distractor>
+            <distractor>
+              <text>extravagant</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What happens when my license [expires]?&lt;/p&gt;
+&lt;p&gt;When your license [expires], you have to renew it.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>attire</text>
+            </distractor>
+            <distractor>
+              <text>beware</text>
+            </distractor>
+            <distractor>
+              <text>irregular</text>
+            </distractor>
+            <distractor>
+              <text>strenuous</text>
+            </distractor>
+            <distractor>
+              <text>mechanism</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Who provides [supervision] at the beach?&lt;/p&gt;
+&lt;p&gt;Lifeguards and parents usually provide [supervision] at the beach.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>attire</text>
+            </distractor>
+            <distractor>
+              <text>beware</text>
+            </distractor>
+            <distractor>
+              <text>irregular</text>
+            </distractor>
+            <distractor>
+              <text>strenuous</text>
+            </distractor>
+            <distractor>
+              <text>extravagant</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What is something that can be [irregular]?&lt;/p&gt;
+&lt;p&gt;Summer weather is often &amp;#160;[irregular]; sometimes it&amp;#8217;s even chilly.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>attire</text>
+            </distractor>
+            <distractor>
+              <text>beware</text>
+            </distractor>
+            <distractor>
+              <text>expires</text>
+            </distractor>
+            <distractor>
+              <text>strenuous</text>
+            </distractor>
+            <distractor>
+              <text>extravagant</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What might a &amp;#8220;[caution]&amp;#8221; sign be warning you about?&lt;/p&gt;
+&lt;p&gt;A &amp;#8220;[caution]&amp;#8221; sign might warn drivers about road construction.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>attire</text>
+            </distractor>
+            <distractor>
+              <text>beware</text>
+            </distractor>
+            <distractor>
+              <text>irregular</text>
+            </distractor>
+            <distractor>
+              <text>extravagant</text>
+            </distractor>
+            <distractor>
+              <text>strenuous</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Why is [strenuous] exercise good for your health?&lt;/p&gt;
+&lt;p&gt;[strenuous] exercise is good for your health because it makes you work hard.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>attire</text>
+            </distractor>
+            <distractor>
+              <text>irregular</text>
+            </distractor>
+            <distractor>
+              <text>beware</text>
+            </distractor>
+            <distractor>
+              <text>mechanism</text>
+            </distractor>
+            <distractor>
+              <text>expires</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What is something that can happen &amp;#160;[accidentally]?&lt;/p&gt;
+&lt;p&gt;Sometimes people [accidentally] forget to turn off the lights&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>unruly</text>
+            </distractor>
+            <distractor>
+              <text>recourse</text>
+            </distractor>
+            <distractor>
+              <text>irksome</text>
+            </distractor>
+            <distractor>
+              <text>precipice</text>
+            </distractor>
+            <distractor>
+              <text>outlandish</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What [recourse] is available if a product is defective?&lt;/p&gt;
+&lt;p&gt;One [recourse] is to return the product to the store.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>accidentally</text>
+            </distractor>
+            <distractor>
+              <text>merchandise</text>
+            </distractor>
+            <distractor>
+              <text>unruly</text>
+            </distractor>
+            <distractor>
+              <text>irksome</text>
+            </distractor>
+            <distractor>
+              <text>veteran</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What is a quality that you find especially [irksome]?&lt;/p&gt;
+&lt;p&gt;I find it especially [irksome] when people throw gum on the sidewalk.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>accidentally</text>
+            </distractor>
+            <distractor>
+              <text>unruly</text>
+            </distractor>
+            <distractor>
+              <text>recourse</text>
+            </distractor>
+            <distractor>
+              <text>precipice</text>
+            </distractor>
+            <distractor>
+              <text>outlandish</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What do you see when you stand on the [precipice] at the edge of a canyon?&lt;/p&gt;
+&lt;p&gt;When I stand on the [precipice] at the edge of a canyon, I can see the river below.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>merchandise</text>
+            </distractor>
+            <distractor>
+              <text>veteran</text>
+            </distractor>
+            <distractor>
+              <text>outlandish</text>
+            </distractor>
+            <distractor>
+              <text>recourse</text>
+            </distractor>
+            <distractor>
+              <text>accidentally</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What did you learn by speaking with the [veteran] train engineer?&lt;/p&gt;
+&lt;p&gt;The [veteran] engineer described the old steam engines that once plied the rails.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>accidentally</text>
+            </distractor>
+            <distractor>
+              <text>unruly</text>
+            </distractor>
+            <distractor>
+              <text>recourse</text>
+            </distractor>
+            <distractor>
+              <text>irksome</text>
+            </distractor>
+            <distractor>
+              <text>precipice</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What is your favorite [outlandish] story?&lt;/p&gt;
+&lt;p&gt;My favorite [outlandish] story is the one about a magic fish.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>accidentally</text>
+            </distractor>
+            <distractor>
+              <text>unruly</text>
+            </distractor>
+            <distractor>
+              <text>recourse</text>
+            </distractor>
+            <distractor>
+              <text>precipice</text>
+            </distractor>
+            <distractor>
+              <text>veteran</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Can you describe the [merchandise] at a hat store?&lt;/p&gt;
+&lt;p&gt;The [merchandise] at hat stores includes common, peculiar, and outrageous hats.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>accidentally</text>
+            </distractor>
+            <distractor>
+              <text>unruly</text>
+            </distractor>
+            <distractor>
+              <text>recourse</text>
+            </distractor>
+            <distractor>
+              <text>irksome</text>
+            </distractor>
+            <distractor>
+              <text>precipice</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

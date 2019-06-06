@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Your Turn: Vocabulary</title>
+  <directions>Read each sentence and word choice. Choose the word that best completes each analogy and drag it to the line.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;leaves : foliage :: stars : [galaxy]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>colleagues</text>
+            </distractor>
+            <distractor>
+              <text>drones</text>
+            </distractor>
+            <distractor>
+              <text>sustain</text>
+            </distractor>
+            <distractor>
+              <text>verify</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;periodically : regularly :: initially : [ultimately]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>colleagues</text>
+            </distractor>
+            <distractor>
+              <text>verify</text>
+            </distractor>
+            <distractor>
+              <text>drones</text>
+            </distractor>
+            <distractor>
+              <text>sustain</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;timidly : boldly :: outrageously : [conservatively]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>colleagues</text>
+            </distractor>
+            <distractor>
+              <text>verify</text>
+            </distractor>
+            <distractor>
+              <text>sustain</text>
+            </distractor>
+            <distractor>
+              <text>drones</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;ingredients : recipe :: clues : [deduction]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>colleagues</text>
+            </distractor>
+            <distractor>
+              <text>verify</text>
+            </distractor>
+            <distractor>
+              <text>drones</text>
+            </distractor>
+            <distractor>
+              <text>sustain</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;lion : roars :: insect : [drones]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>galaxy</text>
+            </distractor>
+            <distractor>
+              <text>ultimately</text>
+            </distractor>
+            <distractor>
+              <text>conservatively</text>
+            </distractor>
+            <distractor>
+              <text>deduction</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;camera : photograph :: identification : [verify]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ultimately</text>
+            </distractor>
+            <distractor>
+              <text>galaxy</text>
+            </distractor>
+            <distractor>
+              <text>conservatively</text>
+            </distractor>
+            <distractor>
+              <text>deduction</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;yell : holler :: maintain : [sustain]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>ultimately</text>
+            </distractor>
+            <distractor>
+              <text>galaxy</text>
+            </distractor>
+            <distractor>
+              <text>conservatively</text>
+            </distractor>
+            <distractor>
+              <text>deduction</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;partners : associates :: co-workers : [colleagues]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>galaxy</text>
+            </distractor>
+            <distractor>
+              <text>conservatively</text>
+            </distractor>
+            <distractor>
+              <text>ultimately</text>
+            </distractor>
+            <distractor>
+              <text>deduction</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;listless : energetic :: internal : [external]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>stifling</text>
+            </distractor>
+            <distractor>
+              <text>pierce</text>
+            </distractor>
+            <distractor>
+              <text>fiction</text>
+            </distractor>
+            <distractor>
+              <text>grammar</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;prudent : wary :: irregularity : [flaw]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>external</text>
+            </distractor>
+            <distractor>
+              <text>stifling</text>
+            </distractor>
+            <distractor>
+              <text>ficition</text>
+            </distractor>
+            <distractor>
+              <text>grammar</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;furthermore : moreover :: nevertheless : [nonetheless]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>pierce</text>
+            </distractor>
+            <distractor>
+              <text>stifling</text>
+            </distractor>
+            <distractor>
+              <text>fiction</text>
+            </distractor>
+            <distractor>
+              <text>grammar</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;oil : petroleum :: pajamas : [flannel]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>fiction</text>
+            </distractor>
+            <distractor>
+              <text>stifling</text>
+            </distractor>
+            <distractor>
+              <text>pierce</text>
+            </distractor>
+            <distractor>
+              <text>grammar</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;jovial : humorous :: suffocating : [stifling]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>external</text>
+            </distractor>
+            <distractor>
+              <text>nonetheless</text>
+            </distractor>
+            <distractor>
+              <text>flaw</text>
+            </distractor>
+            <distractor>
+              <text>flannel</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;commas : punctuation :: verbs : [grammar]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>external</text>
+            </distractor>
+            <distractor>
+              <text>nonetheless</text>
+            </distractor>
+            <distractor>
+              <text>flannel</text>
+            </distractor>
+            <distractor>
+              <text>flaw</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;volume : series :: plot : [fiction]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>external</text>
+            </distractor>
+            <distractor>
+              <text>nonetheless</text>
+            </distractor>
+            <distractor>
+              <text>flannel</text>
+            </distractor>
+            <distractor>
+              <text>flaw</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;sandpaper: smoothen :: needle : [pierce]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>external</text>
+            </distractor>
+            <distractor>
+              <text>nonetheless</text>
+            </distractor>
+            <distractor>
+              <text>flaw</text>
+            </distractor>
+            <distractor>
+              <text>flannel</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;speech : deliver :: statement : [quote]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>quaint</text>
+            </distractor>
+            <distractor>
+              <text>residence</text>
+            </distractor>
+            <distractor>
+              <text>rodent</text>
+            </distractor>
+            <distractor>
+              <text>preview</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;algebra : variables :: motion : [physics]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>preview</text>
+            </distractor>
+            <distractor>
+              <text>quaint</text>
+            </distractor>
+            <distractor>
+              <text>residence</text>
+            </distractor>
+            <distractor>
+              <text>rodent</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;sodden : drench :: insert : [penetrate]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>residence</text>
+            </distractor>
+            <distractor>
+              <text>quaint</text>
+            </distractor>
+            <distractor>
+              <text>preview</text>
+            </distractor>
+            <distractor>
+              <text>rodent</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;marathon : race :: encyclopedia : [reference]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>residence</text>
+            </distractor>
+            <distractor>
+              <text>rodent</text>
+            </distractor>
+            <distractor>
+              <text>quaint</text>
+            </distractor>
+            <distractor>
+              <text>preview</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;contemporary : ancient :: common : [quaint]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>physics</text>
+            </distractor>
+            <distractor>
+              <text>penetrate</text>
+            </distractor>
+            <distractor>
+              <text>reference</text>
+            </distractor>
+            <distractor>
+              <text>quote</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;deceive : deception :: reside : [residence]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>physics</text>
+            </distractor>
+            <distractor>
+              <text>penetrate</text>
+            </distractor>
+            <distractor>
+              <text>quote</text>
+            </distractor>
+            <distractor>
+              <text>reference</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;fashion : sample :: show : [preview]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>physics</text>
+            </distractor>
+            <distractor>
+              <text>penetrate</text>
+            </distractor>
+            <distractor>
+              <text>quote</text>
+            </distractor>
+            <distractor>
+              <text>reference</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;literature : genre :: pest : [rodent]&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>physics</text>
+            </distractor>
+            <distractor>
+              <text>penetrate</text>
+            </distractor>
+            <distractor>
+              <text>reference</text>
+            </distractor>
+            <distractor>
+              <text>quote</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

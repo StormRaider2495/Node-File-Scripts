@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read each Word List on the left. Choose the word with the short vowel sound in the first syllable to indicate it is an open syllable.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;baby&lt;br /&gt;horses&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>baby</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>horses</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Word List&lt;/u&gt;&lt;/b&gt;&lt;br /&gt;hearing&lt;br /&gt;cozy&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>hearing</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>cozy</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;bushes &lt;br /&gt;super&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>bushes</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>super</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;bacon&lt;br /&gt;glasses&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>bacon</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>glasses</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;prefix&lt;br /&gt;pencil&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>prefix</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>pencil</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;ruby&lt;br /&gt;purple&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>ruby</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>purple</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;boxes&lt;br /&gt;item&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>boxes</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>item</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;open&lt;br /&gt;thinking&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>open</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>thinking</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;jumping&lt;br /&gt;silent&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>jumping</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>silent</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;motor &lt;br /&gt;engine&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>motor</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>engine</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Word List&lt;/u&gt;&lt;/b&gt;&lt;br /&gt;hidden&lt;br /&gt;reveal&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>hidden</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>reveal</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;grocer&lt;br /&gt;butcher&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>grocer</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>butcher</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;talking&lt;br /&gt;resist&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>talking</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>resist</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;donate&lt;br /&gt;dancing&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>donate</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>dancing</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;understand&lt;br /&gt;relate&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>understand</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>relate</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;complain&lt;br /&gt;device&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>complain</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>device</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;notice&lt;br /&gt;given&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>notice</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>given</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;thankful&lt;br /&gt;tomorrow&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>thankful</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>tomorrow</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;notebook&lt;br /&gt;repeat&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>notebook</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>repeat</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;u&gt;&lt;b&gt;Word List&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;seaside&lt;br /&gt;grasses&amp;#160;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;&amp;#8220;Which word from the Word List has the open first syllables?&amp;#8221;&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>seaside</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>grasses</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Your Turn: Vocabulary</title>
+  <directions>Read each sentence and word choice. Choose the two words that together best complete each sentence and drag each word to the appropriate line.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow2" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The hero was [oblivious] to the [exploits] of his rival.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>audacity</text>
+            </distractor>
+            <distractor>
+              <text>deception</text>
+            </distractor>
+            <distractor>
+              <text>somber</text>
+            </distractor>
+            <distractor>
+              <text>desolate</text>
+            </distractor>
+            <distractor>
+              <text>steadfast</text>
+            </distractor>
+            <distractor>
+              <text>valiant</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;His [audacity] contrasted with the&amp;#160; [desolate] setting.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>oblivious</text>
+            </distractor>
+            <distractor>
+              <text>deception</text>
+            </distractor>
+            <distractor>
+              <text>somber</text>
+            </distractor>
+            <distractor>
+              <text>steadfast</text>
+            </distractor>
+            <distractor>
+              <text>exploits</text>
+            </distractor>
+            <distractor>
+              <text>valiant</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;He was a(n) [valiant] character and [steadfast] in his efforts to triumph.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>audacity</text>
+            </distractor>
+            <distractor>
+              <text>oblivious</text>
+            </distractor>
+            <distractor>
+              <text>deception</text>
+            </distractor>
+            <distractor>
+              <text>somber</text>
+            </distractor>
+            <distractor>
+              <text>desolate</text>
+            </distractor>
+            <distractor>
+              <text>exploits</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The [deception] of the boy in the movie put me in a(n) [somber] mood.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>audacity</text>
+            </distractor>
+            <distractor>
+              <text>oblivious</text>
+            </distractor>
+            <distractor>
+              <text>desolate</text>
+            </distractor>
+            <distractor>
+              <text>steadfast</text>
+            </distractor>
+            <distractor>
+              <text>exploits</text>
+            </distractor>
+            <distractor>
+              <text>valiant</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;One [trait] that [irks] me is a tendency to arrive late.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>identical</text>
+            </distractor>
+            <distractor>
+              <text>malice</text>
+            </distractor>
+            <distractor>
+              <text>initial</text>
+            </distractor>
+            <distractor>
+              <text>listless</text>
+            </distractor>
+            <distractor>
+              <text>ghastly</text>
+            </distractor>
+            <distractor>
+              <text>abrupt</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The [ghastly] scene in the movie was [identical] to one in the book.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>malice</text>
+            </distractor>
+            <distractor>
+              <text>trait</text>
+            </distractor>
+            <distractor>
+              <text>initial</text>
+            </distractor>
+            <distractor>
+              <text>listless</text>
+            </distractor>
+            <distractor>
+              <text>irks</text>
+            </distractor>
+            <distractor>
+              <text>abrupt</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The boy&amp;#8217;s&amp;#160; [initial] appearance seemed tired and [listless].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>identical</text>
+            </distractor>
+            <distractor>
+              <text>malice</text>
+            </distractor>
+            <distractor>
+              <text>trait</text>
+            </distractor>
+            <distractor>
+              <text>irks</text>
+            </distractor>
+            <distractor>
+              <text>ghastly</text>
+            </distractor>
+            <distractor>
+              <text>abrupt</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Although he had no [malice], the comment seemed [abrupt].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>identical</text>
+            </distractor>
+            <distractor>
+              <text>trait</text>
+            </distractor>
+            <distractor>
+              <text>initial</text>
+            </distractor>
+            <distractor>
+              <text>listless</text>
+            </distractor>
+            <distractor>
+              <text>irks</text>
+            </distractor>
+            <distractor>
+              <text>ghastly</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;An ancient [manuscript] described the possibility of distant [asteroids].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>superb</text>
+            </distractor>
+            <distractor>
+              <text>superb</text>
+            </distractor>
+            <distractor>
+              <text>credulous</text>
+            </distractor>
+            <distractor>
+              <text>bravado</text>
+            </distractor>
+            <distractor>
+              <text>gingerly</text>
+            </distractor>
+            <distractor>
+              <text>coax</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The&amp;#160; [superb] outcome was the result of a(n) [random] encounter.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>asteroids</text>
+            </distractor>
+            <distractor>
+              <text>credulous</text>
+            </distractor>
+            <distractor>
+              <text>bravado</text>
+            </distractor>
+            <distractor>
+              <text>manuscript</text>
+            </distractor>
+            <distractor>
+              <text>gingerly</text>
+            </distractor>
+            <distractor>
+              <text>coax</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;I can't say I was filled with [bravado] as I [gingerly] touched the snake.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>superb</text>
+            </distractor>
+            <distractor>
+              <text>random</text>
+            </distractor>
+            <distractor>
+              <text>asteroids</text>
+            </distractor>
+            <distractor>
+              <text>credulous</text>
+            </distractor>
+            <distractor>
+              <text>manuscript</text>
+            </distractor>
+            <distractor>
+              <text>coax</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The story seemed&amp;#160; [credulous], but I had to [coax] my friend to believe it.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>superb</text>
+            </distractor>
+            <distractor>
+              <text>random</text>
+            </distractor>
+            <distractor>
+              <text>random</text>
+            </distractor>
+            <distractor>
+              <text>bravado</text>
+            </distractor>
+            <distractor>
+              <text>manuscript</text>
+            </distractor>
+            <distractor>
+              <text>gingerly</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

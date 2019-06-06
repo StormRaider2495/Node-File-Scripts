@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Your Turn: Vocabulary</title>
+  <directions>Read each sentence and word choice. Choose the word that best completes each sentence and drag it to the line.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow2" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;I have [empathy] for my sister when she is sad.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>indecision</text>
+            </distractor>
+            <distractor>
+              <text>endeavor</text>
+            </distractor>
+            <distractor>
+              <text>entail</text>
+            </distractor>
+            <distractor>
+              <text>tentatively</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The [benefactor] donated money to the theater company.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>endeavor</text>
+            </distractor>
+            <distractor>
+              <text>indecision</text>
+            </distractor>
+            <distractor>
+              <text>entail</text>
+            </distractor>
+            <distractor>
+              <text>tentatively</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The storm caused [extensive] damage to the bridge.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>tentatively</text>
+            </distractor>
+            <distractor>
+              <text>entail</text>
+            </distractor>
+            <distractor>
+              <text>indecision</text>
+            </distractor>
+            <distractor>
+              <text>endeavor</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;We found a [multitude] of shells on the beach.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>endeavor</text>
+            </distractor>
+            <distractor>
+              <text>tentatively</text>
+            </distractor>
+            <distractor>
+              <text>entail</text>
+            </distractor>
+            <distractor>
+              <text>indecision</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;We had some [indecision] about which DVD to rent.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>empathy</text>
+            </distractor>
+            <distractor>
+              <text>benefactor</text>
+            </distractor>
+            <distractor>
+              <text>extensive</text>
+            </distractor>
+            <distractor>
+              <text>multitude</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;John made a serious [endeavor] to collect 1000 pennies.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>empathy</text>
+            </distractor>
+            <distractor>
+              <text>benefactor</text>
+            </distractor>
+            <distractor>
+              <text>extensive</text>
+            </distractor>
+            <distractor>
+              <text>multitude</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Learning to dance and swim both [entail] practice.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>empathy</text>
+            </distractor>
+            <distractor>
+              <text>benefactor</text>
+            </distractor>
+            <distractor>
+              <text>extensive</text>
+            </distractor>
+            <distractor>
+              <text>multitude</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Sara [tentatively] agreed to meet Abbie after school.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>empathy</text>
+            </distractor>
+            <distractor>
+              <text>benefactor</text>
+            </distractor>
+            <distractor>
+              <text>extensive</text>
+            </distractor>
+            <distractor>
+              <text>multitude</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The [chorus] sung in harmony.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>waver</text>
+            </distractor>
+            <distractor>
+              <text>comment</text>
+            </distractor>
+            <distractor>
+              <text>classic</text>
+            </distractor>
+            <distractor>
+              <text>bedraggled</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Her delighted laugh was the sound of pure [glee].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>waver</text>
+            </distractor>
+            <distractor>
+              <text>classic</text>
+            </distractor>
+            <distractor>
+              <text>comment</text>
+            </distractor>
+            <distractor>
+              <text>bedraggled</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;My brothers [insist] that I am a good soccer player.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>waver</text>
+            </distractor>
+            <distractor>
+              <text>comment</text>
+            </distractor>
+            <distractor>
+              <text>classic</text>
+            </distractor>
+            <distractor>
+              <text>bedraggled</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Those [imitation] flowers look almost real!&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>waver</text>
+            </distractor>
+            <distractor>
+              <text>comment</text>
+            </distractor>
+            <distractor>
+              <text>classic</text>
+            </distractor>
+            <distractor>
+              <text>bedraggled</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The puppy was [bedraggled] when it came in the house.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>chorus</text>
+            </distractor>
+            <distractor>
+              <text>glee</text>
+            </distractor>
+            <distractor>
+              <text>insist</text>
+            </distractor>
+            <distractor>
+              <text>imitate</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;A storyteller told us a [classic] tale about a princess and a frog.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>chorus</text>
+            </distractor>
+            <distractor>
+              <text>glee</text>
+            </distractor>
+            <distractor>
+              <text>insist</text>
+            </distractor>
+            <distractor>
+              <text>imitate</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The teacher&amp;#8217;s [comment] on my paper was, &amp;#8220;Good job!&amp;#8221;&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>chorus</text>
+            </distractor>
+            <distractor>
+              <text>glee</text>
+            </distractor>
+            <distractor>
+              <text>insist</text>
+            </distractor>
+            <distractor>
+              <text>imitate</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;I often [waver] before making a final decision.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>chorus</text>
+            </distractor>
+            <distractor>
+              <text>glee</text>
+            </distractor>
+            <distractor>
+              <text>insist</text>
+            </distractor>
+            <distractor>
+              <text>imitate</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Sometimes I enjoy [sketching] the trees at the park.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>devoted</text>
+            </distractor>
+            <distractor>
+              <text>research</text>
+            </distractor>
+            <distractor>
+              <text>skyline</text>
+            </distractor>
+            <distractor>
+              <text>impression</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The [transparent] curtains let the morning sunshine into the window.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>impression</text>
+            </distractor>
+            <distractor>
+              <text>research</text>
+            </distractor>
+            <distractor>
+              <text>skyline</text>
+            </distractor>
+            <distractor>
+              <text>devoted</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;My favorite [tradition] is the yearly family picnic.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>devoted</text>
+            </distractor>
+            <distractor>
+              <text>research</text>
+            </distractor>
+            <distractor>
+              <text>skyline</text>
+            </distractor>
+            <distractor>
+              <text>impression</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The [temperature] was hot enough to cook an egg on the sidewalk!&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>sketdevoted</text>
+            </distractor>
+            <distractor>
+              <text>research</text>
+            </distractor>
+            <distractor>
+              <text>skyline</text>
+            </distractor>
+            <distractor>
+              <text>impression</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Our old dog is [devoted] to our new kitten.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>sketching</text>
+            </distractor>
+            <distractor>
+              <text>transparent</text>
+            </distractor>
+            <distractor>
+              <text>tradition</text>
+            </distractor>
+            <distractor>
+              <text>temperature</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;I&amp;#8217;m excited about the class&amp;#8217;s [research] project.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>sketching</text>
+            </distractor>
+            <distractor>
+              <text>transparent</text>
+            </distractor>
+            <distractor>
+              <text>tradition</text>
+            </distractor>
+            <distractor>
+              <text>temperature</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The city [skyline] is beautiful at dusk.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>sketching</text>
+            </distractor>
+            <distractor>
+              <text>transparent</text>
+            </distractor>
+            <distractor>
+              <text>tradition</text>
+            </distractor>
+            <distractor>
+              <text>temperature</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The seat of the chair made a(n) [impression] on my legs.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>sketching</text>
+            </distractor>
+            <distractor>
+              <text>transparent</text>
+            </distractor>
+            <distractor>
+              <text>tradition</text>
+            </distractor>
+            <distractor>
+              <text>temperature</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

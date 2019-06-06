@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Word Study: Latin Roots</title>
+  <directions>Read each sentence and answer choice. Drag the Latin root to the line to create a new word to complete the sentence.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow1" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The [aud]&lt;b&gt; itorium &lt;/b&gt;was filled for the concert.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>bene</text>
+            </distractor>
+            <distractor>
+              <text>flex</text>
+            </distractor>
+            <distractor>
+              <text>fact</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The bank offered several [bene]&lt;b&gt;fits&lt;/b&gt; to new customers.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>aud</text>
+            </distractor>
+            <distractor>
+              <text>flex</text>
+            </distractor>
+            <distractor>
+              <text>fact</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The gymnast showed her [flex]&lt;b&gt; ibility &lt;/b&gt;by doing backbends.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>aud</text>
+            </distractor>
+            <distractor>
+              <text>bene</text>
+            </distractor>
+            <distractor>
+              <text>fact</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;My brother works in a [fact]&lt;b&gt; ory&lt;/b&gt; that makes cars.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>aud</text>
+            </distractor>
+            <distractor>
+              <text>bene</text>
+            </distractor>
+            <distractor>
+              <text>flex</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;My nephew creates&lt;b&gt; &lt;/b&gt;tall [struct]&lt;b&gt; ures&lt;/b&gt; with wooden blocks.&lt;b&gt; &lt;/b&gt;&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>port</text>
+            </distractor>
+            <distractor>
+              <text>ject</text>
+            </distractor>
+            <distractor>
+              <text>cred</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;When we move, a truck will &lt;b&gt;trans &lt;/b&gt;[port&lt;b&gt;&lt;/b&gt;] our furniture to the new apartment.&lt;b&gt; &lt;/b&gt;&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>struct</text>
+            </distractor>
+            <distractor>
+              <text>ject</text>
+            </distractor>
+            <distractor>
+              <text>cred</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The performer &lt;b&gt;pro&lt;/b&gt;[ject]&lt;b&gt;ed&lt;/b&gt; her voice to the back of the auditorium.&lt;b&gt; &lt;/b&gt;&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>struct</text>
+            </distractor>
+            <distractor>
+              <text>port</text>
+            </distractor>
+            <distractor>
+              <text>cred</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Known for her honesty, my sister was a [cred]&lt;b&gt;ible&lt;/b&gt; witness.&lt;b&gt; &lt;/b&gt;&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>struct</text>
+            </distractor>
+            <distractor>
+              <text>port</text>
+            </distractor>
+            <distractor>
+              <text>ject</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The passenger had to roll down the windows [manu]&lt;b&gt;ally&lt;/b&gt; in the old car.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>dict</text>
+            </distractor>
+            <distractor>
+              <text>duc</text>
+            </distractor>
+            <distractor>
+              <text>sect</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;I cannot always &lt;b&gt;pre&lt;/b&gt;[dict] the ending of a story.&lt;b&gt; &lt;/b&gt;&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>manu</text>
+            </distractor>
+            <distractor>
+              <text>duc</text>
+            </distractor>
+            <distractor>
+              <text>sect</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The leader began the meeting with a brief &lt;b&gt;intro&lt;/b&gt;[duc]&lt;b&gt;tion. &lt;/b&gt;&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>manu</text>
+            </distractor>
+            <distractor>
+              <text>dict</text>
+            </distractor>
+            <distractor>
+              <text>sect</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The class watched the science teacher perform a &lt;b&gt;dis&lt;/b&gt;[sect]&lt;b&gt;ion&lt;/b&gt;.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>manu</text>
+            </distractor>
+            <distractor>
+              <text>dict</text>
+            </distractor>
+            <distractor>
+              <text>duc</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;There are [numer]&lt;b&gt;ous &lt;/b&gt;varieties of apples in the grocery store.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>hemi</text>
+            </distractor>
+            <distractor>
+              <text>lingu</text>
+            </distractor>
+            <distractor>
+              <text>mal</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The world is divided into the Northern and Southern [hemi]&lt;b&gt;spheres&lt;/b&gt;.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>numer</text>
+            </distractor>
+            <distractor>
+              <text>lingu</text>
+            </distractor>
+            <distractor>
+              <text>mal</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;My sister is learning about [lingu]&lt;b&gt;istics&lt;/b&gt; in college.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>numer</text>
+            </distractor>
+            <distractor>
+              <text>hemi</text>
+            </distractor>
+            <distractor>
+              <text>mal</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Hope&amp;#8217;s critique of the essay did not contain [mal]&lt;b&gt;ice&lt;/b&gt;.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>numer</text>
+            </distractor>
+            <distractor>
+              <text>hemi</text>
+            </distractor>
+            <distractor>
+              <text>lingu</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

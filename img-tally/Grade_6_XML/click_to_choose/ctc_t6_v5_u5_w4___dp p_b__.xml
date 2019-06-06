@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<click_to_choose>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read each Greek root on the left. Then read each sentence and answer choice. Choose the word with the Greek root that best matches the definition.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;photo&lt;/i&gt; means &amp;#8220;light&amp;#8221;&lt;i&gt;&lt;br /&gt;aero&lt;/i&gt; means &amp;#8220;air&amp;#8221;&lt;i&gt;&lt;br /&gt;graph&lt;/i&gt; means &amp;#8220;write&amp;#8221;&lt;i&gt;&lt;br /&gt;psych&lt;/i&gt; means &amp;#8220;mind&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;having to do with the mind: [psychological]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>biographical</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>aerial</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>photosensitive</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>psychological</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; photo&lt;/i&gt; means &amp;#8220;light&amp;#8221;&lt;i&gt;&lt;br /&gt; aero&lt;/i&gt; means &amp;#8220;air&amp;#8221;&lt;i&gt;&lt;br /&gt; graph&lt;/i&gt; means &amp;#8220;write&amp;#8221;&lt;i&gt;&lt;br /&gt; psych&lt;/i&gt; means &amp;#8220;mind&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;in the air: [aerial]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>biographical</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>aerial</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>photosensitive</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>psychological</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; photo&lt;/i&gt; means &amp;#8220;light&amp;#8221;&lt;i&gt;&lt;br /&gt; aero&lt;/i&gt; means &amp;#8220;air&amp;#8221;&lt;i&gt;&lt;br /&gt; graph&lt;/i&gt; means &amp;#8220;write&amp;#8221;&lt;i&gt;&lt;br /&gt; psych&lt;/i&gt; means &amp;#8220;mind&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;written about a person&amp;#8217;s life: [biographical]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>biographical</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>aerial</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>photosensitive</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>psychological</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; photo&lt;/i&gt; means &amp;#8220;light&amp;#8221;&lt;i&gt;&lt;br /&gt; aero&lt;/i&gt; means &amp;#8220;air&amp;#8221;&lt;i&gt;&lt;br /&gt; graph&lt;/i&gt; means &amp;#8220;write&amp;#8221;&lt;i&gt;&lt;br /&gt; psych&lt;/i&gt; means &amp;#8220;mind&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;sensitive to light: [photosensitive]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>biographical</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>aerial</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>photosensitive</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>psychological</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; photo&lt;/i&gt; means &amp;#8220;light&amp;#8221;&lt;i&gt;&lt;br /&gt; aero&lt;/i&gt; means &amp;#8220;air&amp;#8221;&lt;i&gt;&lt;br /&gt; graph&lt;/i&gt; means &amp;#8220;write&amp;#8221;&lt;i&gt;&lt;br /&gt; psych&lt;/i&gt; means &amp;#8220;mind&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;motion of the air: [aerodynamics]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>photometer</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>autograph</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>aerodynamics</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>psychosis</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; photo&lt;/i&gt; means &amp;#8220;light&amp;#8221;&lt;i&gt;&lt;br /&gt; aero&lt;/i&gt; means &amp;#8220;air&amp;#8221;&lt;i&gt;&lt;br /&gt; graph&lt;/i&gt; means &amp;#8220;write&amp;#8221;&lt;i&gt;&lt;br /&gt; psych&lt;/i&gt; means &amp;#8220;mind&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;tool for measuring light: [photometer]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>photometer</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>autograph</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>aerodynamics</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>psychosis</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; photo&lt;/i&gt; means &amp;#8220;light&amp;#8221;&lt;i&gt;&lt;br /&gt; aero&lt;/i&gt; means &amp;#8220;air&amp;#8221;&lt;i&gt;&lt;br /&gt; graph&lt;/i&gt; means &amp;#8220;write&amp;#8221;&lt;i&gt;&lt;br /&gt; psych&lt;/i&gt; means &amp;#8220;mind&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;abnormal condition of the mind: [psychosis]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>photometer</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>autograph</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>aerodynamics</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>psychosis</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; photo&lt;/i&gt; means &amp;#8220;light&amp;#8221;&lt;i&gt;&lt;br /&gt; aero&lt;/i&gt; means &amp;#8220;air&amp;#8221;&lt;i&gt;&lt;br /&gt; graph&lt;/i&gt; means &amp;#8220;write&amp;#8221;&lt;i&gt;&lt;br /&gt; psych&lt;/i&gt; means &amp;#8220;mind&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;someone&amp;#8217;s signature: [autograph]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>photometer</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>autograph</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>aerodynamics</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>psychosis</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; photo&lt;/i&gt; means &amp;#8220;light&amp;#8221;&lt;i&gt;&lt;br /&gt; aero&lt;/i&gt; means &amp;#8220;air&amp;#8221;&lt;i&gt;&lt;br /&gt; graph&lt;/i&gt; means &amp;#8220;write&amp;#8221;&lt;i&gt;&lt;br /&gt; psych&lt;/i&gt; means &amp;#8220;mind&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;process used by plants to make food: [photosynthesis]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>photosynthesis</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>aeronautics</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>graphologist</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>psychosomatic</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; photo&lt;/i&gt; means &amp;#8220;light&amp;#8221;&lt;i&gt;&lt;br /&gt; aero&lt;/i&gt; means &amp;#8220;air&amp;#8221;&lt;i&gt;&lt;br /&gt; graph&lt;/i&gt; means &amp;#8220;write&amp;#8221;&lt;i&gt;&lt;br /&gt; psych&lt;/i&gt; means &amp;#8220;mind&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;science of flight: [aeronautics]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>photosynthesis</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>aeronautics</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>graphologist</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>psychosomatic</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; photo&lt;/i&gt; means &amp;#8220;light&amp;#8221;&lt;i&gt;&lt;br /&gt; aero&lt;/i&gt; means &amp;#8220;air&amp;#8221;&lt;i&gt;&lt;br /&gt; graph&lt;/i&gt; means &amp;#8220;write&amp;#8221;&lt;i&gt;&lt;br /&gt; psych&lt;/i&gt; means &amp;#8220;mind&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;involves both mind and body: [psychosomatic]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>photosynthesis</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>aeronautics</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>graphologist</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>psychosomatic</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; photo&lt;/i&gt; means &amp;#8220;light&amp;#8221;&lt;i&gt;&lt;br /&gt; aero&lt;/i&gt; means &amp;#8220;air&amp;#8221;&lt;i&gt;&lt;br /&gt; graph&lt;/i&gt; means &amp;#8220;write&amp;#8221;&lt;i&gt;&lt;br /&gt; psych&lt;/i&gt; means &amp;#8220;mind&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;handwriting expert: [graphologist]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>photosynthesis</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>aeronautics</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>graphologist</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>psychosomatic</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; photo&lt;/i&gt; means &amp;#8220;light&amp;#8221;&lt;i&gt;&lt;br /&gt; aero&lt;/i&gt; means &amp;#8220;air&amp;#8221;&lt;i&gt;&lt;br /&gt; graph&lt;/i&gt; means &amp;#8220;write&amp;#8221;&lt;i&gt;&lt;br /&gt; psych&lt;/i&gt; means &amp;#8220;mind&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;description of individual cultures: [ethnography]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>photocopier</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>aerosol</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>aerosol</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>ethnography</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; photo&lt;/i&gt; means &amp;#8220;light&amp;#8221;&lt;i&gt;&lt;br /&gt; aero&lt;/i&gt; means &amp;#8220;air&amp;#8221;&lt;i&gt;&lt;br /&gt; graph&lt;/i&gt; means &amp;#8220;write&amp;#8221;&lt;i&gt;&lt;br /&gt; psych&lt;/i&gt; means &amp;#8220;mind&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;released as a spray: [aerosol]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>photocopier</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>aerosol</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>psyche</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>ethnography</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; photo&lt;/i&gt; means &amp;#8220;light&amp;#8221;&lt;i&gt;&lt;br /&gt; aero&lt;/i&gt; means &amp;#8220;air&amp;#8221;&lt;i&gt;&lt;br /&gt; graph&lt;/i&gt; means &amp;#8220;write&amp;#8221;&lt;i&gt;&lt;br /&gt; psych&lt;/i&gt; means &amp;#8220;mind&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;the human mind: [psyche]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>photocopier</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>aerosol</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>psyche</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>ethnography</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; photo&lt;/i&gt; means &amp;#8220;light&amp;#8221;&lt;i&gt;&lt;br /&gt; aero&lt;/i&gt; means &amp;#8220;air&amp;#8221;&lt;i&gt;&lt;br /&gt; graph&lt;/i&gt; means &amp;#8220;write&amp;#8221;&lt;i&gt;&lt;br /&gt; psych&lt;/i&gt; means &amp;#8220;mind&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;machine that uses light to make copies: [photocopier]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>photocopier</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>aerosol</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>psyche</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>ethnography</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt;hydra&lt;/i&gt; means &amp;#8220;water&amp;#8221;&lt;i&gt;&lt;br /&gt;phil&lt;/i&gt; means &amp;#8220;loving&amp;#8221;&lt;i&gt;&lt;br /&gt;chron&lt;/i&gt; means &amp;#8220;time&amp;#8221;&lt;i&gt;&lt;br /&gt;scope&lt;/i&gt; means &amp;#8220;see&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;instrument that uses glass to see shifting patterns: [kaleidoscope]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>kaleidoscope</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>hydrant</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>philosophy</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>synchronize</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; hydra&lt;/i&gt; means &amp;#8220;water&amp;#8221;&lt;i&gt;&lt;br /&gt; phil&lt;/i&gt; means &amp;#8220;loving&amp;#8221;&lt;i&gt;&lt;br /&gt; chron&lt;/i&gt; means &amp;#8220;time&amp;#8221;&lt;i&gt;&lt;br /&gt; scope&lt;/i&gt; means &amp;#8220;see&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;stores water for fire fighting: [hydrant]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>kaleidoscope</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>hydrant</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>philosophy</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>synchronize</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; hydra&lt;/i&gt; means &amp;#8220;water&amp;#8221;&lt;i&gt;&lt;br /&gt; phil&lt;/i&gt; means &amp;#8220;loving&amp;#8221;&lt;i&gt;&lt;br /&gt; chron&lt;/i&gt; means &amp;#8220;time&amp;#8221;&lt;i&gt;&lt;br /&gt; scope&lt;/i&gt; means &amp;#8220;see&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;love of knowledge: [philosophy]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>kaleidoscope</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>hydrant</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>philosophy</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>synchronize</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; hydra&lt;/i&gt; means &amp;#8220;water&amp;#8221;&lt;i&gt;&lt;br /&gt; phil&lt;/i&gt; means &amp;#8220;loving&amp;#8221;&lt;i&gt;&lt;br /&gt; chron&lt;/i&gt; means &amp;#8220;time&amp;#8221;&lt;i&gt;&lt;br /&gt; scope&lt;/i&gt; means &amp;#8220;see&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;indicate the same time: [synchronize]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>kaleidoscope</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>hydrant</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>philosophy</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>synchronize</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; hydra&lt;/i&gt; means &amp;#8220;water&amp;#8221;&lt;i&gt;&lt;br /&gt; phil&lt;/i&gt; means &amp;#8220;loving&amp;#8221;&lt;i&gt;&lt;br /&gt; chron&lt;/i&gt; means &amp;#8220;time&amp;#8221;&lt;i&gt;&lt;br /&gt; scope&lt;/i&gt; means &amp;#8220;see&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;ordered by time: [chronological]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>hydrophobia</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>philharmonic</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>periscope</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>chronological</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; hydra&lt;/i&gt; means &amp;#8220;water&amp;#8221;&lt;i&gt;&lt;br /&gt; phil&lt;/i&gt; means &amp;#8220;loving&amp;#8221;&lt;i&gt;&lt;br /&gt; chron&lt;/i&gt; means &amp;#8220;time&amp;#8221;&lt;i&gt;&lt;br /&gt; scope&lt;/i&gt; means &amp;#8220;see&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;instrument for seeing around: [periscope]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>hydrophobia</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>philharmonic</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>periscope</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>chronological</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; hydra&lt;/i&gt; means &amp;#8220;water&amp;#8221;&lt;i&gt;&lt;br /&gt; phil&lt;/i&gt; means &amp;#8220;loving&amp;#8221;&lt;i&gt;&lt;br /&gt; chron&lt;/i&gt; means &amp;#8220;time&amp;#8221;&lt;i&gt;&lt;br /&gt; scope&lt;/i&gt; means &amp;#8220;see&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;fear of water: [hydrophobia]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>hydrophobia</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>philharmonic</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>periscope</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>chronological</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+        <item>
+          <longText>&lt;p&gt;&lt;b&gt;&lt;u&gt;Greek Roots&lt;/u&gt;&lt;/b&gt;&lt;i&gt;&lt;br /&gt; hydra&lt;/i&gt; means &amp;#8220;water&amp;#8221;&lt;i&gt;&lt;br /&gt; phil&lt;/i&gt; means &amp;#8220;loving&amp;#8221;&lt;i&gt;&lt;br /&gt; chron&lt;/i&gt; means &amp;#8220;time&amp;#8221;&lt;i&gt;&lt;br /&gt; scope&lt;/i&gt; means &amp;#8220;see&amp;#8221;&lt;/p&gt;</longText>
+          <longImage />
+          <question>
+            <text>&lt;p&gt;music loving: [philharmonic]&lt;/p&gt;</text>
+            <image />
+            <audio />
+          </question>
+          <answers>
+            <answer>
+              <text>hydrophobia</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>philharmonic</text>
+              <image />
+              <audio />
+              <correct value="yes" />
+            </answer>
+            <answer>
+              <text>periscope</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+            <answer>
+              <text>chronological</text>
+              <image />
+              <audio />
+              <correct value="no" />
+            </answer>
+          </answers>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</click_to_choose>
+

@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Your Turn: Vocabulary</title>
+  <directions>Read each pair of sentences. Choose the vocabulary word that completes both sentences.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow1" />
+  <itemReplenishmentMode value="bottomless" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What might be a(n) [alternative] to driving to another state?&lt;/p&gt;
+&lt;p&gt;A(n) [alternative] to driving might be flying.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>carpenter</text>
+            </distractor>
+            <distractor>
+              <text>extract</text>
+            </distractor>
+            <distractor>
+              <text>foliage</text>
+            </distractor>
+            <distractor>
+              <text>protein</text>
+            </distractor>
+            <distractor>
+              <text>saturated</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Why is [protein] an important part of our diet?&lt;/p&gt;
+&lt;p&gt;Eating [protein] is important&amp;#160;because it helps keep us healthy.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>alternative</text>
+            </distractor>
+            <distractor>
+              <text>carpenter</text>
+            </distractor>
+            <distractor>
+              <text>extract</text>
+            </distractor>
+            <distractor>
+              <text>foliage</text>
+            </distractor>
+            <distractor>
+              <text>contribute</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;How can everyone [contribute] to a clean classroom?&lt;/p&gt;
+&lt;p&gt;Everyone can [contribute] to a clean classroom by throwing papers in the trash.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>alternative</text>
+            </distractor>
+            <distractor>
+              <text>carpenter</text>
+            </distractor>
+            <distractor>
+              <text>extract</text>
+            </distractor>
+            <distractor>
+              <text>foliage</text>
+            </distractor>
+            <distractor>
+              <text>saturated</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What does it mean to [extract] something?&lt;/p&gt;
+&lt;p&gt;When you [extract] something, you take something out.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>alternative</text>
+            </distractor>
+            <distractor>
+              <text>carpenter</text>
+            </distractor>
+            <distractor>
+              <text>contribute</text>
+            </distractor>
+            <distractor>
+              <text>foliage</text>
+            </distractor>
+            <distractor>
+              <text>protein</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What happens to some [foliage] in the fall?&lt;/p&gt;
+&lt;p&gt;In the fall, some [foliage] turns red and gold and falls from the trees.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>alternative</text>
+            </distractor>
+            <distractor>
+              <text>carpenter</text>
+            </distractor>
+            <distractor>
+              <text>extract</text>
+            </distractor>
+            <distractor>
+              <text>protein</text>
+            </distractor>
+            <distractor>
+              <text>saturated</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;How do I know when something is [saturated]?&lt;/p&gt;
+&lt;p&gt;When something is [saturated], it can&amp;#8217;t hold more water.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>alternative</text>
+            </distractor>
+            <distractor>
+              <text>carpenter</text>
+            </distractor>
+            <distractor>
+              <text>extract</text>
+            </distractor>
+            <distractor>
+              <text>foliage</text>
+            </distractor>
+            <distractor>
+              <text>contribute</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What is one way that cats and dogs [differ]?&lt;/p&gt;
+&lt;p&gt;One way they [differ] is that cats meow and dogs bark.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>alternative</text>
+            </distractor>
+            <distractor>
+              <text>carpenter</text>
+            </distractor>
+            <distractor>
+              <text>extract</text>
+            </distractor>
+            <distractor>
+              <text>foliage</text>
+            </distractor>
+            <distractor>
+              <text>differ</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What is something that a [carpenter] might build?&lt;/p&gt;
+&lt;p&gt;A [carpenter] might build a small table or a big house.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>alternative</text>
+            </distractor>
+            <distractor>
+              <text>differ</text>
+            </distractor>
+            <distractor>
+              <text>extract</text>
+            </distractor>
+            <distractor>
+              <text>foliage</text>
+            </distractor>
+            <distractor>
+              <text>protein</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;When is it necessary to be [patient]?&lt;/p&gt;
+&lt;p&gt;It&amp;#8217;s necessary to be [patient] when something takes a long time.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>fond</text>
+            </distractor>
+            <distractor>
+              <text>elevation</text>
+            </distractor>
+            <distractor>
+              <text>constantly</text>
+            </distractor>
+            <distractor>
+              <text>behavior</text>
+            </distractor>
+            <distractor>
+              <text>mirror</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What type of [behavior] is wrong at a movie theater?&lt;/p&gt;
+&lt;p&gt;It is not good [behavior] to talk out loud while the movie is playing.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>patient</text>
+            </distractor>
+            <distractor>
+              <text>elevation</text>
+            </distractor>
+            <distractor>
+              <text>constantly</text>
+            </distractor>
+            <distractor>
+              <text>mirror</text>
+            </distractor>
+            <distractor>
+              <text>fond</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;If you are [constantly] losing things, how often do you lose them?&lt;/p&gt;
+&lt;p&gt;If you are [constantly] losing things, you lose them all the time.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>patient</text>
+            </distractor>
+            <distractor>
+              <text>elevation</text>
+            </distractor>
+            <distractor>
+              <text>mirror</text>
+            </distractor>
+            <distractor>
+              <text>behavior</text>
+            </distractor>
+            <distractor>
+              <text>mixture</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;A trail that changes in [elevation] is going where?&lt;/p&gt;
+&lt;p&gt;As a trail changes in [elevation], it goes either higher or lower.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>patient</text>
+            </distractor>
+            <distractor>
+              <text>constantly</text>
+            </distractor>
+            <distractor>
+              <text>mirror</text>
+            </distractor>
+            <distractor>
+              <text>behavior</text>
+            </distractor>
+            <distractor>
+              <text>mixture</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;How much do I have if I have one [portion] of a cake?&lt;/p&gt;
+&lt;p&gt;One [portion] is usually enough; it&amp;#8217;s a piece of cake.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>patient</text>
+            </distractor>
+            <distractor>
+              <text>elevation</text>
+            </distractor>
+            <distractor>
+              <text>constantly</text>
+            </distractor>
+            <distractor>
+              <text>behavior</text>
+            </distractor>
+            <distractor>
+              <text>mixture</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;How does someone feel when they&amp;#8217;re [fond] of something?&lt;/p&gt;
+&lt;p&gt;Someone who is [fond] of something likes it very much.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>patient</text>
+            </distractor>
+            <distractor>
+              <text>elevation</text>
+            </distractor>
+            <distractor>
+              <text>constantly</text>
+            </distractor>
+            <distractor>
+              <text>mirror</text>
+            </distractor>
+            <distractor>
+              <text>mixture</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What do we call a pie made of a [mixture] of dirt and water?&lt;/p&gt;
+&lt;p&gt;A pie made from a [mixture] of dirt and water is called a mud pie!&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>patient</text>
+            </distractor>
+            <distractor>
+              <text>elevation</text>
+            </distractor>
+            <distractor>
+              <text>portion</text>
+            </distractor>
+            <distractor>
+              <text>fond</text>
+            </distractor>
+            <distractor>
+              <text>mirror</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What did the&amp;#160;mean lady ask the [mirror] on the wall?&lt;/p&gt;
+&lt;p&gt;The lady looked in the [mirror] and asked, &amp;#8220;Who&amp;#8217;s the prettiest?&amp;#8221;&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>patient</text>
+            </distractor>
+            <distractor>
+              <text>elevation</text>
+            </distractor>
+            <distractor>
+              <text>constantly</text>
+            </distractor>
+            <distractor>
+              <text>behavior</text>
+            </distractor>
+            <distractor>
+              <text>mixture</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What is the [product] of 4 and 3?&lt;/p&gt;
+&lt;p&gt;The [product] of 4 and 3 is 12.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>immense</text>
+            </distractor>
+            <distractor>
+              <text>freight</text>
+            </distractor>
+            <distractor>
+              <text>errand</text>
+            </distractor>
+            <distractor>
+              <text>principle</text>
+            </distractor>
+            <distractor>
+              <text>wilderness</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;If you have a [principle], what do you have?&lt;/p&gt;
+&lt;p&gt;A [principle] means you have a strong belief in something.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>product</text>
+            </distractor>
+            <distractor>
+              <text>immense</text>
+            </distractor>
+            <distractor>
+              <text>freight</text>
+            </distractor>
+            <distractor>
+              <text>errand</text>
+            </distractor>
+            <distractor>
+              <text>serious</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;If something is [immense], how big is it?&lt;/p&gt;
+&lt;p&gt;When something is [immense], it is enormous.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>errand</text>
+            </distractor>
+            <distractor>
+              <text>product</text>
+            </distractor>
+            <distractor>
+              <text>freight</text>
+            </distractor>
+            <distractor>
+              <text>prompt</text>
+            </distractor>
+            <distractor>
+              <text>serious</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What is the purpose of [freight] trains?&lt;/p&gt;
+&lt;p&gt;Many&amp;#160;[freight] trains carry goods across the country.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>product</text>
+            </distractor>
+            <distractor>
+              <text>immense</text>
+            </distractor>
+            <distractor>
+              <text>errand</text>
+            </distractor>
+            <distractor>
+              <text>serious</text>
+            </distractor>
+            <distractor>
+              <text>wilderness</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;What do you do when you go on a(n)&amp;#160; [errand]?&lt;/p&gt;
+&lt;p&gt;When I go on a(n) [errand], I leave the house to do something important.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>product</text>
+            </distractor>
+            <distractor>
+              <text>immense</text>
+            </distractor>
+            <distractor>
+              <text>freight</text>
+            </distractor>
+            <distractor>
+              <text>wilderness</text>
+            </distractor>
+            <distractor>
+              <text>principle</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;If someone says, &amp;#8220;Be [prompt],&amp;#8221; what do they mean?&lt;/p&gt;
+&lt;p&gt;When someone says, &amp;#8220;Be [prompt],&amp;#8221; they mean you should hurry.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>product</text>
+            </distractor>
+            <distractor>
+              <text>immense</text>
+            </distractor>
+            <distractor>
+              <text>freight</text>
+            </distractor>
+            <distractor>
+              <text>errand</text>
+            </distractor>
+            <distractor>
+              <text>principle</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Where is the [wilderness]?&lt;/p&gt;
+&lt;p&gt;The [wilderness] is usually far from places where people live.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>product</text>
+            </distractor>
+            <distractor>
+              <text>immense</text>
+            </distractor>
+            <distractor>
+              <text>freight</text>
+            </distractor>
+            <distractor>
+              <text>principle</text>
+            </distractor>
+            <distractor>
+              <text>errand</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

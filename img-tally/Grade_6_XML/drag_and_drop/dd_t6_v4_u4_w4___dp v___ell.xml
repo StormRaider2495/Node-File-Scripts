@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Your Turn: Vocabulary</title>
+  <directions>Read each pair of sentences. Choose the vocabulary word that completes both sentences.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <itemReplenishmentMode value="bottomless" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The [adjustment] made his belt tighter.&lt;/p&gt;
+&lt;p&gt;A(n) [adjustment] to the radio made the volume softer.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>shred</text>
+            </distractor>
+            <distractor>
+              <text>reunites</text>
+            </distractor>
+            <distractor>
+              <text>ember</text>
+            </distractor>
+            <distractor>
+              <text>nomadic</text>
+            </distractor>
+            <distractor>
+              <text>sturdy</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;My aunt says that too much [chattering] makes her tired.&lt;/p&gt;
+&lt;p&gt;All the children were [chattering] at the party.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>adjustment</text>
+            </distractor>
+            <distractor>
+              <text>ember</text>
+            </distractor>
+            <distractor>
+              <text>publicity</text>
+            </distractor>
+            <distractor>
+              <text>reunites</text>
+            </distractor>
+            <distractor>
+              <text>sturdy</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;One [ember] was burning in the fireplace.&lt;/p&gt;
+&lt;p&gt;You must put out every [ember] of your campfire.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>shred</text>
+            </distractor>
+            <distractor>
+              <text>reunites</text>
+            </distractor>
+            <distractor>
+              <text>chattering</text>
+            </distractor>
+            <distractor>
+              <text>sturdy</text>
+            </distractor>
+            <distractor>
+              <text>publicity</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The [nomadic] people were famous for their beautiful blankets.&lt;/p&gt;
+&lt;p&gt;Groups that are [nomadic]&amp;#160;live in many different places.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>adjustment</text>
+            </distractor>
+            <distractor>
+              <text>chattering</text>
+            </distractor>
+            <distractor>
+              <text>ember</text>
+            </distractor>
+            <distractor>
+              <text>reunites</text>
+            </distractor>
+            <distractor>
+              <text>sturdy</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Our family [reunites] each summer at the lake.&lt;/p&gt;
+&lt;p&gt;My father often [reunites] with his childhood friend.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>shred</text>
+            </distractor>
+            <distractor>
+              <text>publicity</text>
+            </distractor>
+            <distractor>
+              <text>sturdy</text>
+            </distractor>
+            <distractor>
+              <text>nomadic</text>
+            </distractor>
+            <distractor>
+              <text>ember</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;We bought a(n) [sturdy] chair for the porch.&lt;/p&gt;
+&lt;p&gt;The table was [sturdy] enough for the kitchen.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>adjustment</text>
+            </distractor>
+            <distractor>
+              <text>chattering</text>
+            </distractor>
+            <distractor>
+              <text>ember</text>
+            </distractor>
+            <distractor>
+              <text>reunites</text>
+            </distractor>
+            <distractor>
+              <text>shred</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;I have seen a lot of [publicity] about the movie that opens soon.&lt;/p&gt;
+&lt;p&gt;People use [publicity] to help them get elected to office.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>shred</text>
+            </distractor>
+            <distractor>
+              <text>sturdy</text>
+            </distractor>
+            <distractor>
+              <text>reunites</text>
+            </distractor>
+            <distractor>
+              <text>nomadic</text>
+            </distractor>
+            <distractor>
+              <text>ember</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The recipe says to [shred] two carrots and add raisins.&lt;/p&gt;
+&lt;p&gt;People often [shred] papers before throwing them away.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>adjustment</text>
+            </distractor>
+            <distractor>
+              <text>chattering</text>
+            </distractor>
+            <distractor>
+              <text>ember</text>
+            </distractor>
+            <distractor>
+              <text>nomadic</text>
+            </distractor>
+            <distractor>
+              <text>sturdy</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;These cookies [contain] chocolate chips.&lt;/p&gt;
+&lt;p&gt;The bag is big enough to [contain] everything we need.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>burden</text>
+            </distractor>
+            <distractor>
+              <text>achieve</text>
+            </distractor>
+            <distractor>
+              <text>acknowledge</text>
+            </distractor>
+            <distractor>
+              <text>foundation</text>
+            </distractor>
+            <distractor>
+              <text>lecture</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Helping a friend is never a(n) [burden].&lt;/p&gt;
+&lt;p&gt;I needed to rest while I was carrying the heavy [burden].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>morsel</text>
+            </distractor>
+            <distractor>
+              <text>material</text>
+            </distractor>
+            <distractor>
+              <text>lecture</text>
+            </distractor>
+            <distractor>
+              <text>foundation</text>
+            </distractor>
+            <distractor>
+              <text>acknowledge</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;You can [achieve] anything by working hard.&lt;/p&gt;
+&lt;p&gt;The team is usually able to [achieve] its goal.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>morsel</text>
+            </distractor>
+            <distractor>
+              <text>material</text>
+            </distractor>
+            <distractor>
+              <text>lecture</text>
+            </distractor>
+            <distractor>
+              <text>foundation</text>
+            </distractor>
+            <distractor>
+              <text>material</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;I [acknowledge] that I made a mistake!&lt;/p&gt;
+&lt;p&gt;It&amp;#8217;s important to [acknowledge] other people when they help you.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>contain</text>
+            </distractor>
+            <distractor>
+              <text>burden</text>
+            </distractor>
+            <distractor>
+              <text>achieve</text>
+            </distractor>
+            <distractor>
+              <text>foundation</text>
+            </distractor>
+            <distractor>
+              <text>morsel</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Before you can put up the walls, you need to build the [foundation].&lt;/p&gt;
+&lt;p&gt;The [foundation] of a friendship is having common interests.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>contain</text>
+            </distractor>
+            <distractor>
+              <text>burden</text>
+            </distractor>
+            <distractor>
+              <text>achieve</text>
+            </distractor>
+            <distractor>
+              <text>acknowledge</text>
+            </distractor>
+            <distractor>
+              <text>lecture</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;We listened to a(n) [lecture] at the museum.&lt;/p&gt;
+&lt;p&gt;I told my older brother not to give me a(n) [lecture]!&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>contain</text>
+            </distractor>
+            <distractor>
+              <text>burden</text>
+            </distractor>
+            <distractor>
+              <text>achieve</text>
+            </distractor>
+            <distractor>
+              <text>acknowledge</text>
+            </distractor>
+            <distractor>
+              <text>material</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;All the [material] for the party was purchased in one store.&lt;/p&gt;
+&lt;p&gt;Minerals are just one [material] in sand.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>morsel</text>
+            </distractor>
+            <distractor>
+              <text>lecture</text>
+            </distractor>
+            <distractor>
+              <text>foundation</text>
+            </distractor>
+            <distractor>
+              <text>acknowledge</text>
+            </distractor>
+            <distractor>
+              <text>achieve</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;One tasty [morsel] makes me hungry for more.&lt;/p&gt;
+&lt;p&gt;She wasn&amp;#8217;t hungry, so she ate only a small [morsel].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>contain</text>
+            </distractor>
+            <distractor>
+              <text>burden</text>
+            </distractor>
+            <distractor>
+              <text>achieve</text>
+            </distractor>
+            <distractor>
+              <text>acknowledge</text>
+            </distractor>
+            <distractor>
+              <text>foundation</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;We had the necessary [quantity] of party favors for all the guests.&lt;/p&gt;
+&lt;p&gt;Gold miners were hoping to find a large [quantity] of gold.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>solution</text>
+            </distractor>
+            <distractor>
+              <text>timber</text>
+            </distractor>
+            <distractor>
+              <text>heave</text>
+            </distractor>
+            <distractor>
+              <text>stroll</text>
+            </distractor>
+            <distractor>
+              <text>sensitivity</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The [solution] contains water, salt, and other minerals.&lt;/p&gt;
+&lt;p&gt;We thought we came up with a sensible [solution] to the problem.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>quantity</text>
+            </distractor>
+            <distractor>
+              <text>heave</text>
+            </distractor>
+            <distractor>
+              <text>stroll</text>
+            </distractor>
+            <distractor>
+              <text>sensitivity</text>
+            </distractor>
+            <distractor>
+              <text>stroll</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Often [timber] is used to make paper and other products.&lt;/p&gt;
+&lt;p&gt;I didn&amp;#8217;t know that furniture is made from [timber].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>quantity</text>
+            </distractor>
+            <distractor>
+              <text>solution</text>
+            </distractor>
+            <distractor>
+              <text>vibrate</text>
+            </distractor>
+            <distractor>
+              <text>excessive</text>
+            </distractor>
+            <distractor>
+              <text>stroll</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;When instrument strings [vibrate], they make different sounds.&lt;/p&gt;
+&lt;p&gt;The earthquake caused the windows in the house to [vibrate].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>quantity</text>
+            </distractor>
+            <distractor>
+              <text>solution</text>
+            </distractor>
+            <distractor>
+              <text>timber</text>
+            </distractor>
+            <distractor>
+              <text>excessive</text>
+            </distractor>
+            <distractor>
+              <text>stroll</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;A(n) [excessive] amount of noise was coming from the house next door.&lt;/p&gt;
+&lt;p&gt;The wind from the storm was [excessive] and broke a limb from the tree.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>quantity</text>
+            </distractor>
+            <distractor>
+              <text>solution</text>
+            </distractor>
+            <distractor>
+              <text>timber</text>
+            </distractor>
+            <distractor>
+              <text>vibrate</text>
+            </distractor>
+            <distractor>
+              <text>sensitivity</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;He has a(n) [sensitivity] to certain foods and must avoid them.&lt;/p&gt;
+&lt;p&gt;Her [sensitivity] to the feelings of others makes her a good friend.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>quantity</text>
+            </distractor>
+            <distractor>
+              <text>solution</text>
+            </distractor>
+            <distractor>
+              <text>timber</text>
+            </distractor>
+            <distractor>
+              <text>vibrate</text>
+            </distractor>
+            <distractor>
+              <text>heave</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;My grandpa and I went for a(n) [stroll] in the park.&lt;/p&gt;
+&lt;p&gt;I love to go for a(n) [stroll] on the first sunny day of spring.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>quantity</text>
+            </distractor>
+            <distractor>
+              <text>solution</text>
+            </distractor>
+            <distractor>
+              <text>timber</text>
+            </distractor>
+            <distractor>
+              <text>excessive</text>
+            </distractor>
+            <distractor>
+              <text>heave</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;It&amp;#8217;s fun to [heave] sticks into the river and watch them float away.&lt;/p&gt;
+&lt;p&gt;Two people had to [heave] the big haystacks onto the truck.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>quantity</text>
+            </distractor>
+            <distractor>
+              <text>solution</text>
+            </distractor>
+            <distractor>
+              <text>timber</text>
+            </distractor>
+            <distractor>
+              <text>vibrate</text>
+            </distractor>
+            <distractor>
+              <text>stroll</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+

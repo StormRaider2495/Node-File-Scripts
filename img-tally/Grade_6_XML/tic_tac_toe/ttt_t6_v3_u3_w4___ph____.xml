@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tic_tac_toe>
+  <title>Word Study: Prefixes</title>
+  <directions>Play Tic-Tac-Toe by choosing the answer from the word box that correctly matches the definition. Then place your “X” on the board. Three spaces in a row (across, down, or diagonal) wins.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <opponentStrength value="medium" />
+  <rounds>
+    <round>
+      <sentences>
+        <item>
+          <text>[un] inhabited = not lived in</text>
+          <audio />
+        </item>
+        <item>
+          <text>[mis] interpret = not understand correctly</text>
+          <audio />
+        </item>
+        <item>
+          <text>[il] logical =  not make sense</text>
+          <audio />
+        </item>
+        <item>
+          <text>[sub] merge = go under</text>
+          <audio />
+        </item>
+        <item>
+          <text>[over] extended = go beyond</text>
+          <audio />
+        </item>
+        <item>
+          <text>[dis] loyal = not loyal</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="noAudio" />
+      <gapAudios>
+        <gapAudio>
+          <gap />
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+    <round>
+      <sentences>
+        <item>
+          <text>[pre] teach = teach before</text>
+          <audio />
+        </item>
+        <item>
+          <text>[re] teach = teach again</text>
+          <audio />
+        </item>
+        <item>
+          <text>[inter] weave = go between</text>
+          <audio />
+        </item>
+        <item>
+          <text>[un] faithful = not loyal</text>
+          <audio />
+        </item>
+        <item>
+          <text>[sub] standard = below standard</text>
+          <audio />
+        </item>
+        <item>
+          <text>[in] efficient = not efficient</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="noAudio" />
+      <gapAudios>
+        <gapAudio>
+          <gap />
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+    <round>
+      <sentences>
+        <item>
+          <text>[ir] responsible = not responsible</text>
+          <audio />
+        </item>
+        <item>
+          <text>[pre] school = before school</text>
+          <audio />
+        </item>
+        <item>
+          <text>[im] possible = not possible</text>
+          <audio />
+        </item>
+        <item>
+          <text>[in] conclusive = not enough evidence</text>
+          <audio />
+        </item>
+        <item>
+          <text>[un] conscious = not conscious</text>
+          <audio />
+        </item>
+        <item>
+          <text>[sub] divide = separate into smaller parts</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="noAudio" />
+      <gapAudios>
+        <gapAudio>
+          <gap />
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+  </rounds>
+</tic_tac_toe>
+

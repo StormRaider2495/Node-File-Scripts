@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tic_tac_toe>
+  <title>Your Turn: Phonics</title>
+  <directions>Match the words in the word bank with their correct related word that has a consonant alternation. If you are correct, place your X on the board by clicking a square.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow1" />
+  <opponentStrength value="medium" />
+  <rounds>
+    <round>
+      <sentences>
+        <item>
+          <text>magician: [magic]</text>
+          <audio />
+        </item>
+        <item>
+          <text>official: [office]</text>
+          <audio />
+        </item>
+        <item>
+          <text>designation: [design]</text>
+          <audio />
+        </item>
+        <item>
+          <text>muscular: [muscle]</text>
+          <audio />
+        </item>
+        <item>
+          <text>procession: [process]</text>
+          <audio />
+        </item>
+        <item>
+          <text>publicity: [public]</text>
+          <audio />
+        </item>
+        <item>
+          <text>rejection: [reject]</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="noAudio" />
+      <gapAudios>
+        <gapAudio>
+          <gap />
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+    <round>
+      <sentences>
+        <item>
+          <text>crumble: [crumb]</text>
+          <audio />
+        </item>
+        <item>
+          <text>prejudice: [prejudicial]</text>
+          <audio />
+        </item>
+        <item>
+          <text>solemnity: [solemn]</text>
+          <audio />
+        </item>
+        <item>
+          <text>hymnal: [hymn]</text>
+          <audio />
+        </item>
+        <item>
+          <text>debit: [debt]</text>
+          <audio />
+        </item>
+        <item>
+          <text>express: [expression]</text>
+          <audio />
+        </item>
+        <item>
+          <text>malignant: [malign]</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="noAudio" />
+      <gapAudios>
+        <gapAudio>
+          <gap />
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+    <round>
+      <sentences>
+        <item>
+          <text>columnist: [column]</text>
+          <audio />
+        </item>
+        <item>
+          <text>resignation: [resign]</text>
+          <audio />
+        </item>
+        <item>
+          <text>conclusion: [conclude]</text>
+          <audio />
+        </item>
+        <item>
+          <text>production: [produce]</text>
+          <audio />
+        </item>
+        <item>
+          <text>moisten: [moist]</text>
+          <audio />
+        </item>
+        <item>
+          <text>signal: [sign]</text>
+          <audio />
+        </item>
+      </sentences>
+      <gapAudioScheme value="noAudio" />
+      <gapAudios>
+        <gapAudio>
+          <gap />
+          <audio />
+        </gapAudio>
+      </gapAudios>
+    </round>
+  </rounds>
+</tic_tac_toe>
+

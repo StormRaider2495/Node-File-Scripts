@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+  <title>Your Turn: Vocabulary</title>
+  <directions>Read each sentence and word choice. Choose the two words that together best complete each sentence and drag each word to the appropriate line.</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow2" />
+  <itemReplenishmentMode value="singular" />
+  <rounds>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The [impenetrable] forest was thick with [edible] plants.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>commodity</text>
+            </distractor>
+            <distractor>
+              <text>distribution</text>
+            </distractor>
+            <distractor>
+              <text>dominant</text>
+            </distractor>
+            <distractor>
+              <text>replenished</text>
+            </distractor>
+            <distractor>
+              <text>ornate</text>
+            </distractor>
+            <distractor>
+              <text>significant</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;We carefully planned the [distribution] of every [commodity] we produced.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>dominant</text>
+            </distractor>
+            <distractor>
+              <text>edible</text>
+            </distractor>
+            <distractor>
+              <text>impenetrable</text>
+            </distractor>
+            <distractor>
+              <text>ornate</text>
+            </distractor>
+            <distractor>
+              <text>replenished</text>
+            </distractor>
+            <distractor>
+              <text>significant</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The [dominant] waiter had [replenished] the salty snacks before we arrived.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>commodity</text>
+            </distractor>
+            <distractor>
+              <text>distribution</text>
+            </distractor>
+            <distractor>
+              <text>edible</text>
+            </distractor>
+            <distractor>
+              <text>impenetrable</text>
+            </distractor>
+            <distractor>
+              <text>ornate</text>
+            </distractor>
+            <distractor>
+              <text>significant</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Apparently, the&amp;#160; [ornate] carving is a [significant] work of art.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>commodity</text>
+            </distractor>
+            <distractor>
+              <text>distribution</text>
+            </distractor>
+            <distractor>
+              <text>dominant</text>
+            </distractor>
+            <distractor>
+              <text>edible</text>
+            </distractor>
+            <distractor>
+              <text>impenetrable</text>
+            </distractor>
+            <distractor>
+              <text>replenished</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;He was [conscious] that [perspectives] besides his own might be legitimate.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>slouch</text>
+            </distractor>
+            <distractor>
+              <text>posture</text>
+            </distractor>
+            <distractor>
+              <text>stalwart</text>
+            </distractor>
+            <distractor>
+              <text>ambition</text>
+            </distractor>
+            <distractor>
+              <text>enrich</text>
+            </distractor>
+            <distractor>
+              <text>preceded</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;When you&amp;#160; [slouch], your [posture] is not ideal.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>perspectives</text>
+            </distractor>
+            <distractor>
+              <text>conscious</text>
+            </distractor>
+            <distractor>
+              <text>stalwart</text>
+            </distractor>
+            <distractor>
+              <text>ambition</text>
+            </distractor>
+            <distractor>
+              <text>enrich</text>
+            </distractor>
+            <distractor>
+              <text>preceded</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;His [stalwart] exploits were evidence of [ambition] and courage.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>perspectives</text>
+            </distractor>
+            <distractor>
+              <text>conscious</text>
+            </distractor>
+            <distractor>
+              <text>slouch</text>
+            </distractor>
+            <distractor>
+              <text>posture</text>
+            </distractor>
+            <distractor>
+              <text>enrich</text>
+            </distractor>
+            <distractor>
+              <text>preceded</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;The goal to [enrich] his holdings [preceded] his decision to expand.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>perspectives</text>
+            </distractor>
+            <distractor>
+              <text>conscious</text>
+            </distractor>
+            <distractor>
+              <text>slouch</text>
+            </distractor>
+            <distractor>
+              <text>posture</text>
+            </distractor>
+            <distractor>
+              <text>stalwart</text>
+            </distractor>
+            <distractor>
+              <text>ambition</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+    <round>
+      <screens>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;I have a [tendency] to [accumulate] too many things that I don&amp;#8217;t need.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>manuscripts</text>
+            </distractor>
+            <distractor>
+              <text>abstract</text>
+            </distractor>
+            <distractor>
+              <text>devastated</text>
+            </distractor>
+            <distractor>
+              <text>dire</text>
+            </distractor>
+            <distractor>
+              <text>petty</text>
+            </distractor>
+            <distractor>
+              <text>phase</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Old [manuscripts] often contain unexpectedly [abstract] ideas.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>tendency</text>
+            </distractor>
+            <distractor>
+              <text>accumulate</text>
+            </distractor>
+            <distractor>
+              <text>devastated</text>
+            </distractor>
+            <distractor>
+              <text>dire</text>
+            </distractor>
+            <distractor>
+              <text>petty</text>
+            </distractor>
+            <distractor>
+              <text>phase</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;I was [devastated] when I learned about the [dire] effects of the hurricane.&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>tendency</text>
+            </distractor>
+            <distractor>
+              <text>accumulate</text>
+            </distractor>
+            <distractor>
+              <text>manuscripts</text>
+            </distractor>
+            <distractor>
+              <text>abstract</text>
+            </distractor>
+            <distractor>
+              <text>petty</text>
+            </distractor>
+            <distractor>
+              <text>phase</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+        <item>
+          <fontSize />
+          <image />
+          <audio />
+          <sentence>&lt;p&gt;Though Lu&amp;#8217;s actions seem [petty], I&amp;#8217;m hopeful that it&amp;#8217;s only a [phase].&lt;/p&gt;</sentence>
+          <wordPairs>
+            <pair>
+              <left />
+              <right />
+            </pair>
+          </wordPairs>
+          <distractors>
+            <distractor>
+              <text>tendency</text>
+            </distractor>
+            <distractor>
+              <text>accumulate</text>
+            </distractor>
+            <distractor>
+              <text>manuscripts</text>
+            </distractor>
+            <distractor>
+              <text>abstract</text>
+            </distractor>
+            <distractor>
+              <text>devastated</text>
+            </distractor>
+            <distractor>
+              <text>dire</text>
+            </distractor>
+          </distractors>
+          <gapAudioScheme value="noAudio" />
+          <gapAudios>
+            <gapAudio>
+              <gap />
+              <audio />
+            </gapAudio>
+          </gapAudios>
+        </item>
+      </screens>
+    </round>
+  </rounds>
+</drag_drop>
+
