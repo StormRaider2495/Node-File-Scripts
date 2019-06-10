@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn Text Features: Headings&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read each heading and the sentences about dogs. Sort each sentence beneath the best heading for that sentence.&lt;/p&gt;</directions>
+  <directionsAudio>dl_read_heading_sentences.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="sentences" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Dogs as Pets</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Dogs can live indoors or outdoors.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>A small dog fits well in an apartment.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Dogs can be good pals.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Caring for Dogs</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Feed your dog twice a day.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Walk your dog at least three times a day.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Special Dogs</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Some dogs work with the army or police forces.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Dogs as Pets</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Dogs can help keep people safe.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Some dogs are better with children.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Caring for Dogs</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Dogs should be bathed and brushed.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Train your dog to follow directions.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Special Dogs</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Some dogs work on movies and television.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>One famous TV dog was named Lassie.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Some dogs help people with special needs.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

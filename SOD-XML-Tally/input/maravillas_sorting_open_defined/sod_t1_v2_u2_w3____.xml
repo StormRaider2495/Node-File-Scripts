@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con v&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la palabra escrita con &lt;u&gt;v&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra&amp;#160;&lt;b&gt;sin&lt;/b&gt;&amp;#160;&lt;u&gt;v&lt;/u&gt;&amp;#160;en la caja roja. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene v</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>vestido</text>
+                      <audio>TEG_vestido.mp3</audio>
+                    </item>
+                    <item>
+                      <text>vez</text>
+                      <audio>TEG_vez.mp3</audio>
+                    </item>
+                    <item>
+                      <text>violín</text>
+                      <audio>TEG_violin.mp3</audio>
+                    </item>
+                    <item>
+                      <text>voz</text>
+                      <audio>TEG_voz.mp3</audio>
+                    </item>
+                    <item>
+                      <text>verduras</text>
+                      <audio>TEG_verduras.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene v</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>sapo</text>
+                      <audio>TEG_sapo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>botón</text>
+                      <audio>TEG_boton.mp3</audio>
+                    </item>
+                    <item>
+                      <text>brillo</text>
+                      <audio>TEG_brillo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cara</text>
+                      <audio>TEG_cara.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene v</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>ave</text>
+                      <audio>TEG_ave.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pavo</text>
+                      <audio>TEG_pavo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>visible</text>
+                      <audio>TEG_visible.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mover</text>
+                      <audio>TEG_mover.mp3</audio>
+                    </item>
+                    <item>
+                      <text>vegetal</text>
+                      <audio>TEG_vegetal.mp3</audio>
+                    </item>
+                    <item>
+                      <text>vela</text>
+                      <audio>TEG_vela.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene v</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>nabo</text>
+                      <audio>TEG_nabo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>aburrido</text>
+                      <audio>TEG_aburrido.mp3</audio>
+                    </item>
+                    <item>
+                      <text>actriz</text>
+                      <audio>TEG_actriz.mp3</audio>
+                    </item>
+                    <item>
+                      <text>plomo</text>
+                      <audio>TEG_plomo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>posible</text>
+                      <audio>TEG_posible.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

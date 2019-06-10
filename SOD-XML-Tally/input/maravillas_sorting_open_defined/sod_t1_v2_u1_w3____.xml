@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con t&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la palabra escrita con &lt;u&gt;t&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra&amp;#160;&lt;b&gt;sin&lt;/b&gt;&amp;#160;&lt;u&gt;t&lt;/u&gt;&amp;#160;en la caja roja. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene t</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>topo</text>
+                      <audio>TEG_topo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tema</text>
+                      <audio>TEG_tema.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tarjeta</text>
+                      <audio>TEG_tarjeta.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tampoco</text>
+                      <audio>TEG_tampoco.mp3</audio>
+                    </item>
+                    <item>
+                      <text>taxi</text>
+                      <audio>TEG_taxi.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene t</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>mano</text>
+                      <audio>TEG_mano.mp3</audio>
+                    </item>
+                    <item>
+                      <text>dedo</text>
+                      <audio>TEG_dedo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>vaca</text>
+                      <audio>TEG_vaca.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene t</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>tres</text>
+                      <audio>TEG_tres.mp3</audio>
+                    </item>
+                    <item>
+                      <text>ato</text>
+                      <audio>TEG_ato.mp3</audio>
+                    </item>
+                    <item>
+                      <text>zapato</text>
+                      <audio>TEG_zapato.mp3</audio>
+                    </item>
+                    <item>
+                      <text>batido</text>
+                      <audio>TEG_batido.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cita</text>
+                      <audio>TEG_cita.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene t</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>clara</text>
+                      <audio>TEG_clara.mp3</audio>
+                    </item>
+                    <item>
+                      <text>hora</text>
+                      <audio>TEG_hora.mp3</audio>
+                    </item>
+                    <item>
+                      <text>lodo</text>
+                      <audio>TEG_lodo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>nadar</text>
+                      <audio>TEG_nadar.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

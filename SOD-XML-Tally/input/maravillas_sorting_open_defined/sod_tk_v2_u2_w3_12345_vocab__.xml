@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras: movimiento&lt;/p&gt;</title>
+  <directions />
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las palabras que&amp;#160;indican un movimiento&amp;#160;en la caja azul. Coloca las palabras que no&amp;#160;indican un movimiento&amp;#160;en la caja roja.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Indica un movimiento</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_bailarina.jpg</text>
+                      <audio>TEG_bailar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_correr.jpg</text>
+                      <audio>TEG_correr.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_nadar.jpg</text>
+                      <audio>TEG_nadar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_saltar.jpg</text>
+                      <audio>TEG_saltar.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No indica un movimiento</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_aguja.jpg</text>
+                      <audio>TEG_aguja.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_cerrojo.jpg</text>
+                      <audio>TEG_cerrojo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_raton.jpg</text>
+                      <audio>TEG_raton.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_muneca.jpg</text>
+                      <audio>TEG_mun1eca.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las palabras que indican un movimiento en la caja azul. Coloca las palabras que no indican un movimiento en la caja roja.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Indica un movimiento</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_gatear.jpg</text>
+                      <audio>TEG_gatear.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_caminar.jpg</text>
+                      <audio>TEG_caminar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_subir.jpg</text>
+                      <audio>TEG_subir.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_volar.jpg</text>
+                      <audio>TEG_volar.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No indica un movimiento</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_leche.jpg</text>
+                      <audio>TEG_leche.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_chaleco.jpg</text>
+                      <audio>TEG_chaleco.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_ajo.jpg</text>
+                      <audio>TEG_ajo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_burbujas.jpg</text>
+                      <audio>TEG_burbujas.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

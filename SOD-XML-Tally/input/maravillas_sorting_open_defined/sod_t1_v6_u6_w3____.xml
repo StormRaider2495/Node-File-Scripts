@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con pl&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la palabra escrita con &lt;u&gt;pl&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra&amp;#160;&lt;b&gt;sin&lt;/b&gt;&amp;#160;&lt;u&gt;pl&lt;/u&gt;&amp;#160;en la caja roja. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene pl</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>aplanar</text>
+                      <audio>TEG_aplanar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>completo</text>
+                      <audio>TEG_completo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cumplir</text>
+                      <audio>TEG_cumplir.mp3</audio>
+                    </item>
+                    <item>
+                      <text>ejemplo</text>
+                      <audio>TEG_ejemplo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>plaza</text>
+                      <audio>TEG_plaza.mp3</audio>
+                    </item>
+                    <item>
+                      <text>plátano</text>
+                      <audio>TEG_platano.mp3</audio>
+                    </item>
+                    <item>
+                      <text>playa</text>
+                      <audio>TEG_playa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>duplicado</text>
+                      <audio>TEG_duplicado.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene pl</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>pollo</text>
+                      <audio>TEG_pollo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>primavera</text>
+                      <audio>TEG_primavera.mp3</audio>
+                    </item>
+                    <item>
+                      <text>principal</text>
+                      <audio>TEG_principal.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pintura</text>
+                      <audio>TEG_pintura.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene pl</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>plomo</text>
+                      <audio>TEG_plomo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>planeta</text>
+                      <audio>TEG_planeta.mp3</audio>
+                    </item>
+                    <item>
+                      <text>plancha</text>
+                      <audio>TEG_plancha.mp3</audio>
+                    </item>
+                    <item>
+                      <text>plumas</text>
+                      <audio>TEG_plumas.mp3</audio>
+                    </item>
+                    <item>
+                      <text>aplauso</text>
+                      <audio>TEG_aplauso.mp3</audio>
+                    </item>
+                    <item>
+                      <text>plástico</text>
+                      <audio>TEG_plastico.mp3</audio>
+                    </item>
+                    <item>
+                      <text>plano</text>
+                      <audio>TEG_plano.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene pl</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>payaso</text>
+                      <audio>TEG_payaso.mp3</audio>
+                    </item>
+                    <item>
+                      <text>población</text>
+                      <audio>TEG_poblacion.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tableta</text>
+                      <audio>TEG_tableta.mp3</audio>
+                    </item>
+                    <item>
+                      <text>picante</text>
+                      <audio>TEG_picante.mp3</audio>
+                    </item>
+                    <item>
+                      <text>obligar</text>
+                      <audio>TEG_obligar.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

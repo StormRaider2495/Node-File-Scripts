@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Look at each picture. Click on it to hear its name read. Drag the pictures with the short a sound into the short a box. Drag the pictures with the long a sound into the long a box.&lt;/p&gt;</directions>
+  <directionsAudio>dl_drag_shorta_longa_box.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>short a</title>
+                  <titleImage />
+                  <titleAudio>sound_short_a.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_085A_193002_186626_d.jpg</text>
+                      <audio>mat.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_036A_186626_d.jpg</text>
+                      <audio>man.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW022_039A_193002_186626_d.jpg</text>
+                      <audio>tack.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>long a</title>
+                  <titleImage />
+                  <titleAudio>sound_a.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_083A_193002_186626_d.jpg</text>
+                      <audio>plane.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW014_033A_188626_d.jpg</text>
+                      <audio>wave.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW033_018A_193002_186626_d.jpg</text>
+                      <audio>cake.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>short a</title>
+                  <titleImage />
+                  <titleAudio>sound_short_a.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_067A_193002_186626_d.jpg</text>
+                      <audio>map.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW021_022A_193002_186626_d.jpg</text>
+                      <audio>sap.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M300_UW014_802A_186626_d.jpg</text>
+                      <audio>hat.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>long a</title>
+                  <titleImage />
+                  <titleAudio>sound_a.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW031_025A_193002_186626_d.jpg</text>
+                      <audio>grapes.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_058A_193002_186626_d.jpg</text>
+                      <audio>rake.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW014_003A_186626_d.jpg</text>
+                      <audio>lake.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW032_017A_193002_186626_d.jpg</text>
+                      <audio>mane.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>short a</title>
+                  <titleImage />
+                  <titleAudio>sound_short_a.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW022_016A_193002_186626_d.jpg</text>
+                      <audio>cat.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW042_001A_A_193002_d.jpg</text>
+                      <audio>wag.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW061_001A_186626_d.jpg</text>
+                      <audio>sack.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW012_086A_186626_d.jpg</text>
+                      <audio>ax.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>long a</title>
+                  <titleImage />
+                  <titleAudio>sound_a.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW073_001A_193002_186626_d.jpg</text>
+                      <audio>cave.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW091_002A_193002_186626_d.jpg</text>
+                      <audio>cape.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW031_011A_114242_D.jpg</text>
+                      <audio>tape.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

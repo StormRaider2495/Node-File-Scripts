@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>Spelling: Word Sort with Soft c and g</title>
+  <directions>&lt;p&gt;Drag the words with the same soft consonant sound into the boxes.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Soft c</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>trace</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>place</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>space</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>ice</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>mice</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Soft g</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>badge</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cage</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>bulge</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>range</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>barge</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Soft c</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>ace</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>brace</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cell</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cent</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>dance</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Soft g</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>dodge</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>edge</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>lodge</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>page</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>stage</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

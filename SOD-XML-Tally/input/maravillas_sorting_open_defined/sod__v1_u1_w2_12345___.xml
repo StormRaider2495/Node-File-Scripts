@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras:&amp;#160;familia&lt;/p&gt;</title>
+  <directions>&lt;p&gt;En esta actividad los ni&amp;#241;os clasifican palabras seg&amp;#250;n una categor&amp;#237;a.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Coloca las palabras que nombran a miembros de la familia en la caja azul. &lt;br /&gt;Coloca las palabras que no nombran a miembros de la familia&amp;#160; en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un miembro de la familia</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_abuelo.jpg</text>
+                      <audio>TEG_abuelo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_abuela.jpg</text>
+                      <audio>TEG_abuela.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_hermano.jpg</text>
+                      <audio>TEG_hermano.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_mama1.jpg</text>
+                      <audio>TEG_mama1.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un miembro de la familia</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_conejo.jpg</text>
+                      <audio>TEG_conejo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_cadena.jpg</text>
+                      <audio>TEG_cadena.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_disco.jpg</text>
+                      <audio>TEG_disco.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_foca.jpg</text>
+                      <audio>TEG_foca.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Coloca las palabras que nombran a miembros de la familia en la caja azul.&amp;#160;&lt;br /&gt;Coloca las palabras que no nombran a miembros de la familia&amp;#160; en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un miembro de la familia</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_papa1.jpg</text>
+                      <audio>TEG_papa1.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_hermana.jpg</text>
+                      <audio>TEG_ti1a.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_hijos.jpg</text>
+                      <audio>TEG_hijos.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un miembro de la familia</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_calle.jpg</text>
+                      <audio>TEG_calle.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_fogata.jpg</text>
+                      <audio>TEG_fogata.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_soga.jpg</text>
+                      <audio>TEG_soga.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_vaquero.jpg</text>
+                      <audio>TEG_vaquero.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

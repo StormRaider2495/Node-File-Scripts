@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Reconocimiento fonol&amp;#243;gico: repaso&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre.&amp;#160;Coloca en la caja azul las im&amp;#225;genes que tienen el sonido &lt;i&gt;y&lt;/i&gt;. Coloca en la caja roja las im&amp;#225;genes que tienen el sonido &lt;i&gt;g&lt;/i&gt;.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Tiene el sonido y</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_llave.jpg</text>
+                      <audio>TEG_llave.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_anillo.jpg</text>
+                      <audio>TEG_anillo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_ballena.jpg</text>
+                      <audio>TEG_ballena.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_caballo.jpg</text>
+                      <audio>TEG_caballo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Tiene el sonido g</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_gato.jpg</text>
+                      <audio>TEG_gato.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_gorro.jpg</text>
+                      <audio>TEG_gorro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_aguja.jpg</text>
+                      <audio>TEG_aguja.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_soga.jpg</text>
+                      <audio>TEG_soga.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre.&amp;#160;Coloca en la caja azul las im&amp;#225;genes que tienen el sonido&amp;#160;&lt;i&gt;k&lt;/i&gt;. Coloca en la caja roja las im&amp;#225;genes que no tienen sonido &lt;i&gt;k&lt;/i&gt;.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Tiene el sonido k</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_conejo.jpg</text>
+                      <audio>TEG_conejo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_caja.jpg</text>
+                      <audio>TEG_caja.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_cubo.jpg</text>
+                      <audio>TEG_cubo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_cadena.jpg</text>
+                      <audio>TEG_cadena.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No tiene el sonido k</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_boton.jpg</text>
+                      <audio>TEG_boton.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_oveja.jpg</text>
+                      <audio>TEG_oveja.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_dinosaurio.jpg</text>
+                      <audio>TEG_dinosaurio.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_leon.jpg</text>
+                      <audio>TEG_leon.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre.&amp;#160;Coloca en la caja azul las im&amp;#225;genes que tienen el sonido&amp;#160;&lt;i&gt;k&lt;/i&gt;. Coloca en la caja roja las im&amp;#225;genes que tienen el sonido &lt;i&gt;r&lt;/i&gt;.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Tiene el sonido k</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_raqueta.jpg</text>
+                      <audio>TEG_raqueta.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_queso.jpg</text>
+                      <audio>TEG_queso.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_menique.jpg</text>
+                      <audio>TEG_menique.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_equipaje.jpg</text>
+                      <audio>TEG_equipaje.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Tiene el sonido r</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_arana.jpg</text>
+                      <audio>TEG_arana.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_mariposa.jpg</text>
+                      <audio>TEG_mariposa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_faro.jpg</text>
+                      <audio>TEG_faro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_arete.jpg</text>
+                      <audio>TEG_arete.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

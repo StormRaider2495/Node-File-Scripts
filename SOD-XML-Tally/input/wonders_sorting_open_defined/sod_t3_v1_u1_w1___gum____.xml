@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>Grammar: Sentences &amp; Fragments</title>
+  <directions>&lt;p&gt;&amp;#160;Identify sentences as complete or a fragment and drag them to the correct column.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="sentences" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Complete Sentence</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>I went to school today and took a math test.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>We left.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Fragment</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>New discovery in space.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Improved later today.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>After the snow stops.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>When you finally take the test.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Complete Sentence:</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Allison improved.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>We felt satisfied with the effort that we put into the science project.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Mary went to the library so she could concentrate on her Spanish homework.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Miss Roberts is a great teacher because she makes math so interesting!</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Fragment:</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Since you are inspired.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Because of last night.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Complete Sentence:</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>It’s important to pay attention in class in order to learn more about our world.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Diego was furious that he lost his favorite t-shirt.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Our flight landed on time.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Fragment:</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>A story with a school and house.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>When you finally invent.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Learning to sail a boat.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Word Study: Compound Words&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read each word. Determine if the words are closed compounds or hyphenated compounds and sort them into the correct column.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Closed Compounds</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>cleanup</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>backup</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>turnout</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Hyphenated Compounds</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>grown-up</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>sister-in-law</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>add-on</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>drive-in</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>sign-up</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>build-in</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>run-on</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Closed Compounds</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>footstep</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>overhead</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>eyelash</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>feedback</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>lifejacket</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Hyphenated Compounds</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>self-respect</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>merry-go-round</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>absent-minded</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>in-depth</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>empty-handed</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>U-turn</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>word-of-mouth</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

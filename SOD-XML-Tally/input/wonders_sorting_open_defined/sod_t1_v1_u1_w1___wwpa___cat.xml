@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>Identify Rhyme</title>
+  <directions>&lt;p&gt;Words that have the same end sounds rhyme. Click on the pictures. Listen to the end sounds. Drag the pictures that rhyme to the box. Then click the OK button.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text />
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text />
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

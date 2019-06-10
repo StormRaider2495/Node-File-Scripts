@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Listen to each word. Drag words with the long a sound into the blue box. Drag words that do not have the long a sound into the red box.&lt;/p&gt;</directions>
+  <directionsAudio>dl_longa_box.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Long a</title>
+                  <titleImage />
+                  <titleAudio>sound_long_a.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>break</text>
+                      <audio>break.mp3</audio>
+                    </item>
+                    <item>
+                      <text>steak</text>
+                      <audio>steak.mp3</audio>
+                    </item>
+                    <item>
+                      <text>weigh</text>
+                      <audio>weigh.mp3</audio>
+                    </item>
+                    <item>
+                      <text>sleigh</text>
+                      <audio>sleigh.mp3</audio>
+                    </item>
+                    <item>
+                      <text>they</text>
+                      <audio>they.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>sip</text>
+                      <audio>sip.mp3</audio>
+                    </item>
+                    <item>
+                      <text>let</text>
+                      <audio>let.mp3</audio>
+                    </item>
+                    <item>
+                      <text>ten</text>
+                      <audio>ten.mp3</audio>
+                    </item>
+                    <item>
+                      <text>nap</text>
+                      <audio>nap.mp3</audio>
+                    </item>
+                    <item>
+                      <text>my</text>
+                      <audio>my.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mad</text>
+                      <audio>mad.mp3</audio>
+                    </item>
+                    <item>
+                      <text>like</text>
+                      <audio>like.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Long a</title>
+                  <titleImage />
+                  <titleAudio>sound_long_a.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>nail</text>
+                      <audio>nail.mp3</audio>
+                    </item>
+                    <item>
+                      <text>rain</text>
+                      <audio>rain.mp3</audio>
+                    </item>
+                    <item>
+                      <text>main</text>
+                      <audio>main.mp3</audio>
+                    </item>
+                    <item>
+                      <text>ray</text>
+                      <audio>ray.mp3</audio>
+                    </item>
+                    <item>
+                      <text>day</text>
+                      <audio>day.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>cat</text>
+                      <audio>cat.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pin</text>
+                      <audio>pin.mp3</audio>
+                    </item>
+                    <item>
+                      <text>live</text>
+                      <audio>live.mp3</audio>
+                    </item>
+                    <item>
+                      <text>sad</text>
+                      <audio>sad.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mat</text>
+                      <audio>mat.mp3</audio>
+                    </item>
+                    <item>
+                      <text>can</text>
+                      <audio>can.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pat</text>
+                      <audio>pat.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

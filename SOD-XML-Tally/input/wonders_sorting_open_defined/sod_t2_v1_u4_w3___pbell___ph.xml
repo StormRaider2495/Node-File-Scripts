@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Drag pictures whose names have the /ar/ sound spelled &lt;i&gt;ar &lt;/i&gt;into the /ar/ box. Drag pictures that have the /or/ sound spelled &lt;i&gt;or, ore, &lt;/i&gt;or &lt;i&gt;oar &lt;/i&gt;into the /or/ box.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio>dl_drag_ar_or_sound.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/ar/</title>
+                  <titleImage />
+                  <titleAudio>ar.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW013_032A_193002_186626_d.jpg</text>
+                      <audio>car.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M300_UW043_438A_186626_d.jpg</text>
+                      <audio>barn.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>/or/</title>
+                  <titleImage />
+                  <titleAudio>or.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW053_006A_114242_D.jpg</text>
+                      <audio>horn.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW061_006A_193002_186626_d.jpg</text>
+                      <audio>store.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/ar/</title>
+                  <titleImage />
+                  <titleAudio>ar.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW012_029A_186626_d.jpg</text>
+                      <audio>arm.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M300_UW043_440A_186626_d.jpg</text>
+                      <audio>star.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>/or/</title>
+                  <titleImage />
+                  <titleAudio>or.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW031_006A_193002_186626_d.jpg</text>
+                      <audio>board.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW033_006A_193002_186626_d.jpg</text>
+                      <audio>corn.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/ar/</title>
+                  <titleImage />
+                  <titleAudio>ar.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW081_005A_193002_186626_d.jpg</text>
+                      <audio>jar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW043_052A_186626_d.jpg</text>
+                      <audio>cart.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW013_022A_186626_d.jpg</text>
+                      <audio>park.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>/or/</title>
+                  <titleImage />
+                  <titleAudio>or.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW042_038A_114242_D.jpg</text>
+                      <audio>fork.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/ar/</title>
+                  <titleImage />
+                  <titleAudio>ar.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW043_014A_186626_d.jpg</text>
+                      <audio>start.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW043_021A_186626_d.jpg</text>
+                      <audio>card.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>/or/</title>
+                  <titleImage />
+                  <titleAudio>or.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M300_UW043_451A_186626_d.jpg</text>
+                      <audio>thorn.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW043_019A_186626_d.jpg</text>
+                      <audio>score.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

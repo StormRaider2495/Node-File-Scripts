@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Text Features&lt;/p&gt;</title>
+  <directions>&lt;p&gt;&lt;b&gt;Bold print&lt;/b&gt; helps words stand out in print and speech. Drag sentences that have &lt;b&gt;bold print&lt;/b&gt; into the blue box. Drag sentences that do not have bold print into the red box.&lt;/p&gt;</directions>
+  <directionsAudio>dl_bold_print.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;&lt;b&gt;Bold print&lt;/b&gt; helps words stand out in print and speech. Drag sentences that have &lt;b&gt;bold print&lt;/b&gt; into the blue box. Drag sentences that do not have bold print into the red box. &lt;b&gt;&lt;i&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Bold Print</title>
+                  <titleImage />
+                  <titleAudio>bold_print.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>The &lt;b&gt;ant&lt;/b&gt; will walk on the hill.</text>
+                      <audio>ant_hill.mp3</audio>
+                    </item>
+                    <item>
+                      <text>I draw best with a pen.</text>
+                      <audio>draw_pen.mp3</audio>
+                    </item>
+                    <item>
+                      <text>A bed is where you rest.</text>
+                      <audio>bed_rest.mp3</audio>
+                    </item>
+                    <item>
+                      <text>The trash must go out.</text>
+                      <audio>trash_out.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No Bold Print</title>
+                  <titleImage />
+                  <titleAudio>no_bold_print.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>The man walks past me.</text>
+                      <audio>man_past.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Bold Print</title>
+                  <titleImage />
+                  <titleAudio>bold_print.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>A brush can help you scrub.</text>
+                      <audio>brush_scrub.mp3</audio>
+                    </item>
+                    <item>
+                      <text>A cat has four legs.</text>
+                      <audio>cat_legs.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No Bold Print</title>
+                  <titleImage />
+                  <titleAudio>no_bold_print.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>The bug walks on its legs.</text>
+                      <audio>bug_legs.mp3</audio>
+                    </item>
+                    <item>
+                      <text>She has a doll in a dress.</text>
+                      <audio>she_dress.mp3</audio>
+                    </item>
+                    <item>
+                      <text>Pam likes to play with a doll.</text>
+                      <audio>pam_doll.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Bold Print</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>A wasp can sting you.</text>
+                      <audio>wasp_sting.mp3</audio>
+                    </item>
+                    <item>
+                      <text>A crab can snap its claws.</text>
+                      <audio>crab_claws.mp3</audio>
+                    </item>
+                    <item>
+                      <text>A pin can hurt you.</text>
+                      <audio>pin_hurt.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No Bold Print</title>
+                  <titleImage />
+                  <titleAudio>no_bold_print.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>I can stand on two legs.</text>
+                      <audio>can_legs.mp3</audio>
+                    </item>
+                    <item>
+                      <text>His pig rolls in the mud.</text>
+                      <audio>pig_mud.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

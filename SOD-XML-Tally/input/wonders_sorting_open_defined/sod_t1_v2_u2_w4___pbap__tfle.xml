@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Text Features&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Listen to each word. Drag words that belong in the list to the blue box. Drag words that do not belong in the list to the red box.&lt;/p&gt;</directions>
+  <directionsAudio>dl_redbox_bluebox.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Things to Eat</title>
+                  <titleImage />
+                  <titleAudio>things_to_eat.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M300_UW024_024A_114242_D.jpg</text>
+                      <audio>eggs.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW021_005A_114242_D.jpg</text>
+                      <audio>ham.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M300_UW024_025A_114242_D.jpg</text>
+                      <audio>salad.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW063_010A_114242_D.jpg</text>
+                      <audio>swim.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+            <item>
+              <bins>
+                <bin>
+                  <title>Things to Put On</title>
+                  <titleImage />
+                  <titleAudio>things_to_put_on.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW014_019A_114242_D.jpg</text>
+                      <audio>socks.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M300_UW024_029A_114242_D.jpg</text>
+                      <audio>vest.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M300_UW024_026A_114242_D.jpg</text>
+                      <audio>belt.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW023_009A_114242_D.jpg</text>
+                      <audio>jump.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+            <item>
+              <bins>
+                <bin>
+                  <title>Things to Do</title>
+                  <titleImage />
+                  <titleAudio>things_to_do.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW063_009A_114242_D.jpg</text>
+                      <audio>sing.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW063_010A_114242_D.jpg</text>
+                      <audio>swim.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW023_009A_114242_D.jpg</text>
+                      <audio>jump.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW014_018A_114242_D.jpg</text>
+                      <audio>rock.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+            <item>
+              <bins>
+                <bin>
+                  <title>Pets</title>
+                  <titleImage />
+                  <titleAudio>pets.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_007A_114242_D.jpg</text>
+                      <audio>cat.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_010A_114242_D.jpg</text>
+                      <audio>dog.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_014A_114242_D.jpg</text>
+                      <audio>frog.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW013_001A_114242_D.jpg</text>
+                      <audio>bell.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Things That Go</title>
+                  <titleImage />
+                  <titleAudio>things_that_go.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M300_UW024_030A_114242_D.jpg</text>
+                      <audio>van.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW013_004A_114242_D.jpg</text>
+                      <audio>bus.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW013_005A_114242_D.jpg</text>
+                      <audio>cab.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW052_016A_114242_D.jpg</text>
+                      <audio>plant.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+            <item>
+              <bins>
+                <bin>
+                  <title>Things to Eat</title>
+                  <titleImage />
+                  <titleAudio>things_to_eat.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW021_009A_114242_D.jpg</text>
+                      <audio>bread.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW013_014A_114242_D.jpg</text>
+                      <audio>jam.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW015_008A_114242_D.jpg</text>
+                      <audio>plum.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW021_012A_114242_D.jpg</text>
+                      <audio>tub.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+            <item>
+              <bins>
+                <bin>
+                  <title>Things to Do</title>
+                  <titleImage />
+                  <titleAudio>things_to_do.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M300_UW024_027A_114242_D.jpg</text>
+                      <audio>hop.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW014_012A_114242_D.jpg</text>
+                      <audio>jog.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M300_UW024_028A_114242_D.jpg</text>
+                      <audio>toss.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW012_038A_114242_D.jpg</text>
+                      <audio>wig.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+            <item>
+              <bins>
+                <bin>
+                  <title>Things to Put On</title>
+                  <titleImage />
+                  <titleAudio>things_to_put_on.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW021_013A_114242_D.jpg</text>
+                      <audio>dress.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_016A_114242_D.jpg</text>
+                      <audio>hat.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M300_UW024_019A_114242_D.jpg</text>
+                      <audio>mittens.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_006A_114242_D.jpg</text>
+                      <audio>bug.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Listen to each word. Drag words with the soft c sound into the left box. Drag words with the soft g sound into the right box.&lt;/p&gt;</directions>
+  <directionsAudio>dl_softc_softg_sound.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Soft c</title>
+                  <titleImage />
+                  <titleAudio>sound_soft_c.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>space</text>
+                      <audio>space.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mice</text>
+                      <audio>mice.mp3</audio>
+                    </item>
+                    <item>
+                      <text>rice</text>
+                      <audio>rice.mp3</audio>
+                    </item>
+                    <item>
+                      <text>race</text>
+                      <audio>race.mp3</audio>
+                    </item>
+                    <item>
+                      <text>lace</text>
+                      <audio>lace.mp3</audio>
+                    </item>
+                    <item>
+                      <text>place</text>
+                      <audio>place.mp3</audio>
+                    </item>
+                    <item>
+                      <text>trace</text>
+                      <audio>trace.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Soft g</title>
+                  <titleImage />
+                  <titleAudio>sound_soft_g.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>range</text>
+                      <audio>range.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cage</text>
+                      <audio>cage.mp3</audio>
+                    </item>
+                    <item>
+                      <text>badge</text>
+                      <audio>badge.mp3</audio>
+                    </item>
+                    <item>
+                      <text>rage</text>
+                      <audio>rage.mp3</audio>
+                    </item>
+                    <item>
+                      <text>hinge</text>
+                      <audio>hinge.mp3</audio>
+                    </item>
+                    <item>
+                      <text>bulge</text>
+                      <audio>bulge.mp3</audio>
+                    </item>
+                    <item>
+                      <text>barge</text>
+                      <audio>barge.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

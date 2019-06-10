@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read each word. Drag each word into a box based on its short vowel sound.&lt;/p&gt;</directions>
+  <directionsAudio>dl_short_vowel_sounds2.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Short e</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>chef</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>eggs</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>gets</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>men</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>set</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>then</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>bed</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Short o</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>box</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>crop</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>drop</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>foggy</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>hot</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>lock</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>sock</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Short u</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>bunch</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>but</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>dull</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>fluffy</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>muffin</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cup</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

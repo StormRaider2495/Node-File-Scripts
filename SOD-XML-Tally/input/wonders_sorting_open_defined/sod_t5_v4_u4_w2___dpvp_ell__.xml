@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Vocabulary&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read the vocabulary word and look at the picture. Read the three words in the box. Two words match the vocabulary word. Drag the synonyms into the correct bin.&lt;/p&gt;</directions>
+  <directionsAudio>dl_read_vocabulary_synonyms.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>perplexed</title>
+                  <titleImage />
+                  <titleAudio>perplexed.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>puzzled</text>
+                      <audio>puzzled.mp3</audio>
+                    </item>
+                    <item>
+                      <text>confused</text>
+                      <audio>confused.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>interested</text>
+                      <audio>interested.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>astounded</title>
+                  <titleImage />
+                  <titleAudio>astounded.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>amazed</text>
+                      <audio>amazed.mp3</audio>
+                    </item>
+                    <item>
+                      <text>surprised</text>
+                      <audio>surprised.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>disappointed</text>
+                      <audio>disappointed.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>precise</title>
+                  <titleImage />
+                  <titleAudio>precise.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>exact</text>
+                      <audio>exact.mp3</audio>
+                    </item>
+                    <item>
+                      <text>accurate</text>
+                      <audio>accurate.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>blurry</text>
+                      <audio>blurry.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>inquisitive</title>
+                  <titleImage />
+                  <titleAudio>inquisitive.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>nosey</text>
+                      <audio>nosey.mp3</audio>
+                    </item>
+                    <item>
+                      <text>curious</text>
+                      <audio>curious.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>exhausted</text>
+                      <audio>exhausted.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>suspicious</title>
+                  <titleImage />
+                  <titleAudio>suspicious.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>distrustful</text>
+                      <audio>distrustful.mp3</audio>
+                    </item>
+                    <item>
+                      <text>doubtful</text>
+                      <audio>doubtful.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>enthusiastic</text>
+                      <audio>enthusiastic.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

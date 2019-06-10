@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras: sentidos&lt;/p&gt;</title>
+  <directions />
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r las palabras. Piensa con qu&amp;#233; sentido se relaciona esa palabra. Col&amp;#243;cala en el cuadro de ese sentido.&amp;#160;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title />
+                  <titleImage>TEG_ojo.jpg</titleImage>
+                  <titleAudio>TEG_vista.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_alto.jpg</text>
+                      <audio>TEG_alto.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_grande.jpg</text>
+                      <audio>TEG_grande.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_morado.jpg</text>
+                      <audio>TEG_morado.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_noche.jpg</text>
+                      <audio>TEG_oscuro.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title />
+                  <titleImage>TEG_oreja.jpg</titleImage>
+                  <titleAudio>TEG_oi1do.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_tambor.jpg</text>
+                      <audio>TEG_ruidoso.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_silbato.jpg</text>
+                      <audio>TEG_agudo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r las palabras. Piensa con qu&amp;#233; sentido se relaciona esa palabra. Col&amp;#243;cala en el cuadro de ese sentido.&amp;#160;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title />
+                  <titleImage>TEG_nariz.jpg</titleImage>
+                  <titleAudio>TEG_olfato.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_flor.jpg</text>
+                      <audio>TEG_aroma1tica.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title />
+                  <titleImage>TEG_boca.jpg</titleImage>
+                  <titleAudio>TEG_gusto.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_naranja.jpg</text>
+                      <audio>TEG_dulce.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_chile.jpg</text>
+                      <audio>TEG_picante.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title />
+                  <titleImage>TEG_mano.jpg</titleImage>
+                  <titleAudio>TEG_tacto.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_gato.jpg</text>
+                      <audio>TEG_suave.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_miel.jpg</text>
+                      <audio>TEG_pegajoso.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

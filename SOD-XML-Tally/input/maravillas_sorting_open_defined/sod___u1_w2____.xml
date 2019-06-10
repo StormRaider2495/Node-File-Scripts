@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: Palabras con &lt;i&gt;ce, ci, s, z&lt;/i&gt;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Coloca las palabras en la columna que corresponda.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Coloca las palabras en la columna que corresponda.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Palabras con ce, ci</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>racimo</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>acero</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>luces</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Palabras con s</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>enseñar</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>rosa</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Palabras con z</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>luz</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>naturaleza</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>razón</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Otros</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>papel</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>mono</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>fin</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Gram&amp;#225;tica: el verbo&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la imagen para o&amp;#237;r su nombre. Decide si es&amp;#160;un verbo&amp;#160;o un sustantivo. Coloca la imagen en la columna correcta.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un verbo</title>
+                  <titleImage />
+                  <titleAudio>TEG_es_un_verbo.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_subir.jpg</text>
+                      <audio>TEG_subir.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_ensen1ar.jpg</text>
+                      <audio>TEG_ensen1ar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_llorar.jpg</text>
+                      <audio>TEG_llorar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_remar.jpg</text>
+                      <audio>TEG_remar.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Es un sustantivo</title>
+                  <titleImage />
+                  <titleAudio>TEG_es_un_sustantivo.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_nevera.jpg</text>
+                      <audio>TEG_nevera.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_carro.jpg</text>
+                      <audio>TEG_carro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_pina.jpg</text>
+                      <audio>TEG_pina.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_zorro.jpg</text>
+                      <audio>TEG_zorro.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un verbo</title>
+                  <titleImage />
+                  <titleAudio>TEG_es_un_verbo.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_nadar.jpg</text>
+                      <audio>TEG_nadar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_escribir.jpg</text>
+                      <audio>TEG_escribir.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_volar.jpg</text>
+                      <audio>TEG_volar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_trepar.jpg</text>
+                      <audio>TEG_trepar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_silbar.jpg</text>
+                      <audio>TEG_silbar.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Es un sustantivo</title>
+                  <titleImage />
+                  <titleAudio>TEG_es_un_sustantivo</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_parque.jpg</text>
+                      <audio>TEG_parque.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_playa.jpg</text>
+                      <audio>TEG_playa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_montana.jpg</text>
+                      <audio>TEG_montan1a.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

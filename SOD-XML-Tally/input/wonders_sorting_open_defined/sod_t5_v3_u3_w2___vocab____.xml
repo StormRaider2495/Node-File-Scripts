@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Build Vocabulary: Shades of Meaning&lt;/p&gt;</title>
+  <directions />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <vspacing />
+  <contentMode value="words" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Sort words related to &lt;i&gt;complex &lt;/i&gt;and&lt;i&gt; &lt;/i&gt;drag them to the labeled column.&lt;/p&gt;</directions>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Complex</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>complicated</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>mixed</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>multiple</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Other</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>simple</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>uniform</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>concrete</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;&lt;u&gt;&lt;/u&gt; Sort words related to &lt;i&gt;shortage &lt;/i&gt;and&lt;i&gt; &lt;/i&gt;drag them to the labeled column.&lt;/p&gt;</directions>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Shortage</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>lack</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>decrease</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>shortfall</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Other</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>enough</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>surplus</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>plenty</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Sort words related to &lt;i&gt;resourceful &lt;/i&gt;and&lt;i&gt; &lt;/i&gt;drag them to the labeled column.&lt;/p&gt;</directions>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Resourceful</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>imaginative</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>skillful</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>creative</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Other</title>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>ignorant</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>awkward</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>immature</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con c y z&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;Coloca la palabra en su columna correspondiente. Las palabras que no pertenecen a ninguna columna, ponlas en "otras".&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene ce, ci</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>precio</text>
+                      <audio>TEG_precio.mp3</audio>
+                    </item>
+                    <item>
+                      <text>recibir</text>
+                      <audio>TEG_recibir.mp3</audio>
+                    </item>
+                    <item>
+                      <text>raíces</text>
+                      <audio>TEG_raices.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>tiene z</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>zeta</text>
+                      <audio>TEG_zeta.mp3</audio>
+                    </item>
+                    <item>
+                      <text>quizá</text>
+                      <audio>TEG_quiza.mp3</audio>
+                    </item>
+                    <item>
+                      <text>empezar</text>
+                      <audio>TEG_empezar.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>otras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>sastre</text>
+                      <audio>TEG_sastre.mp3</audio>
+                    </item>
+                    <item>
+                      <text>escuela</text>
+                      <audio>TEG_escuela.mp3</audio>
+                    </item>
+                    <item>
+                      <text>flores</text>
+                      <audio>TEG_flores.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene ce, ci</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>gracias</text>
+                      <audio>TEG_gracias.mp3</audio>
+                    </item>
+                    <item>
+                      <text>hacia</text>
+                      <audio>TEG_hacia.mp3</audio>
+                    </item>
+                    <item>
+                      <text>entonces</text>
+                      <audio>TEG_entonces.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cebra</text>
+                      <audio>TEG_cebra.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>tiene z</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>taza</text>
+                      <audio>TEG_taza.mp3</audio>
+                    </item>
+                    <item>
+                      <text>vergüenza</text>
+                      <audio>TEG_verguenza.mp3</audio>
+                    </item>
+                    <item>
+                      <text>zapato</text>
+                      <audio>TEG_zapato.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>otras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>siglo</text>
+                      <audio>TEG_siglo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>sirena</text>
+                      <audio>TEG_sirena.mp3</audio>
+                    </item>
+                    <item>
+                      <text>beso</text>
+                      <audio>TEG_beso.mp3</audio>
+                    </item>
+                    <item>
+                      <text>fajita</text>
+                      <audio>TEG_fajita.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

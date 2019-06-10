@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con ll y w&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;Coloca la palabra escrita con &lt;u&gt;ll&lt;/u&gt; o &lt;u&gt;w&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra&amp;#160;&lt;b&gt;sin&lt;/b&gt;&amp;#160;ninguna de esas letras&amp;#160;en "otras".&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene ll o w</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>llama</text>
+                      <audio>TEG_llama.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cuchillo</text>
+                      <audio>TEG_cuchillo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>amarillo</text>
+                      <audio>TEG_amarillo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>kiwi</text>
+                      <audio>TEG_kiwi.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pollo</text>
+                      <audio>TEG_pollo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>otras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>huir</text>
+                      <audio>TEG_huir.mp3</audio>
+                    </item>
+                    <item>
+                      <text>Luis</text>
+                      <audio>TEG_luis.mp3</audio>
+                    </item>
+                    <item>
+                      <text>lunes</text>
+                      <audio>TEG_lunes.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mayo</text>
+                      <audio>TEG_mayo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>yak</text>
+                      <audio>TEG_yak.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene ll o w</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>medalla</text>
+                      <audio>TEG_medalla.mp3</audio>
+                    </item>
+                    <item>
+                      <text>muelle</text>
+                      <audio>TEG_muelle.mp3</audio>
+                    </item>
+                    <item>
+                      <text>allá</text>
+                      <audio>TEG_alla.mp3</audio>
+                    </item>
+                    <item>
+                      <text>allí</text>
+                      <audio>TEG_alli.mp3</audio>
+                    </item>
+                    <item>
+                      <text>Hawái</text>
+                      <audio>TEG_hawai.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>otras</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>hielo</text>
+                      <audio>TEG_hielo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pingüino</text>
+                      <audio>TEG_pinguino.mp3</audio>
+                    </item>
+                    <item>
+                      <text>Uruguay</text>
+                      <audio>TEG_uruguay.mp3</audio>
+                    </item>
+                    <item>
+                      <text>guayaba</text>
+                      <audio>TEG_guayaba.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

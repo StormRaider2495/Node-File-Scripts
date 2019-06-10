@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;b&gt;&lt;/b&gt;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Listen to each word. Drag words with the short a sound to the box on the left. Drag words with the long a sound to the box on the right.&lt;/p&gt;</directions>
+  <directionsAudio>dl_short_a_sound.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Short a</title>
+                  <titleImage />
+                  <titleAudio>sound_short_a.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>ham</text>
+                      <audio>ham.mp3</audio>
+                    </item>
+                    <item>
+                      <text>man</text>
+                      <audio>man.mp3</audio>
+                    </item>
+                    <item>
+                      <text>bag</text>
+                      <audio>bag.mp3</audio>
+                    </item>
+                    <item>
+                      <text>map</text>
+                      <audio>map.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tap</text>
+                      <audio>tap.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mad</text>
+                      <audio>mad.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Long a</title>
+                  <titleImage />
+                  <titleAudio>sound_long_a.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>ate</text>
+                      <audio>ate.mp3</audio>
+                    </item>
+                    <item>
+                      <text>bake</text>
+                      <audio>bake.mp3</audio>
+                    </item>
+                    <item>
+                      <text>rake</text>
+                      <audio>rake.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cage</text>
+                      <audio>cage.mp3</audio>
+                    </item>
+                    <item>
+                      <text>wave</text>
+                      <audio>wave.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cake</text>
+                      <audio>cake.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Short a</title>
+                  <titleImage />
+                  <titleAudio>sound_short_a.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>tan</text>
+                      <audio>tan.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pal</text>
+                      <audio>pal.mp3</audio>
+                    </item>
+                    <item>
+                      <text>lap</text>
+                      <audio>lap.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pan</text>
+                      <audio>pan.mp3</audio>
+                    </item>
+                    <item>
+                      <text>fan</text>
+                      <audio>fan.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cat</text>
+                      <audio>cat.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Long a</title>
+                  <titleImage />
+                  <titleAudio>sound_long_a.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>made</text>
+                      <audio>made.mp3</audio>
+                    </item>
+                    <item>
+                      <text>game</text>
+                      <audio>game.mp3</audio>
+                    </item>
+                    <item>
+                      <text>gate</text>
+                      <audio>gate.mp3</audio>
+                    </item>
+                    <item>
+                      <text>page</text>
+                      <audio>page.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cave</text>
+                      <audio>cave.mp3</audio>
+                    </item>
+                    <item>
+                      <text>late</text>
+                      <audio>late.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

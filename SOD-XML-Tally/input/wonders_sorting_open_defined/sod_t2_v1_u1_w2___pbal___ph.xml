@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Click on a picture to hear its name. Listen for the vowel sound /e/, /o/, or /u/. Drag the word to the box that has the same vowel sound.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio>dl_click_picture_vowel_sounds_b2.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/e/</title>
+                  <titleImage />
+                  <titleAudio>sound_short_e.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_064A_193002_186626_d.jpg</text>
+                      <audio>web.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_073A_193002_186626_d.jpg</text>
+                      <audio>pen.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>/o/</title>
+                  <titleImage />
+                  <titleAudio>sound_short_o.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_038A_193002_186626_d.jpg</text>
+                      <audio>mop.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW013_029A_193002_186626_d.jpg</text>
+                      <audio>top.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>/u/</title>
+                  <titleImage />
+                  <titleAudio>sound_short_u.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_062A_193002_186626_d.jpg</text>
+                      <audio>sun.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/e/</title>
+                  <titleImage />
+                  <titleAudio>sound_short_e.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW012_002A_186626_d.jpg</text>
+                      <audio>pet.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>/o/</title>
+                  <titleImage />
+                  <titleAudio>sound_short_o.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW031_003A_193002_186626_d.jpg</text>
+                      <audio>hop.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>/u/</title>
+                  <titleImage />
+                  <titleAudio>sound_short_u.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M300_UW012_139A_186626_d.jpg</text>
+                      <audio>mud.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW031_021A_193002_186626_d.jpg</text>
+                      <audio>bun.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW023_034A_193002_186626_d.jpg</text>
+                      <audio>pup.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>/e/</title>
+                  <titleImage />
+                  <titleAudio>sound_short_e.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW011_047A_193002_186626_d.jpg</text>
+                      <audio>hen.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW011_022A_193002_186626_d.jpg</text>
+                      <audio>ten.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>/o/</title>
+                  <titleImage />
+                  <titleAudio>sound_short_o.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW012_013A_186626_d.jpg</text>
+                      <audio>hog.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW012_041A_193002_186626_d.jpg</text>
+                      <audio>pot.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>/u/</title>
+                  <titleImage />
+                  <titleAudio>sound_short_u.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW022_017A_193002_186626_d.jpg</text>
+                      <audio>tub.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

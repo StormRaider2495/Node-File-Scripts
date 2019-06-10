@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Normas del lenguaje: comillas&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Coloca las oraciones en la categor&amp;#237;a correspondiente, ya sea "Comillas empleadas&lt;br /&gt;correctamente" o "Comillas empleadas incorrectamente".&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Comillas empleadas correctamente</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Se dice que Ecuador es “la mitad” del mundo.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>El universo no es tan “infinito” como se creía.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Comillas empleadas incorrectamente</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>“Ayer” me invitaron a un restaurante exquisito.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text />
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Comillas empleadas correctamente</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>La palabra “aceite” es de origen árabe.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>El coche se descompuso y nos llevó la grúa a una “velocidad” de 15 millas por hora.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Comillas empleadas incorrectamente</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Pasamos “por” un camino lleno de árboles frutales.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Comillas empleadas correctamente</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Carmen dice que “su” música es la salsa.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Comillas empleadas incorrectamente</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Simón Bolívar es el Libertador de “América del Sur”.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Dicen que a “los osos” les gusta comer miel.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

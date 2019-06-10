@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;&lt;b&gt;Grammar: Commands and Exclamations&lt;/b&gt;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read each sentence. If it is a command, drag it to the &amp;#8220;Command&amp;#8221; box. If it is an exclamation, drag it to the &amp;#8220;Exclamation&amp;#8221; box. If it is both, drag it into the &amp;#8220;Command and Exclamation&amp;#8221; box.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <vspacing />
+  <contentMode value="sentences" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Exclamation</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>We are going to the party!</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>The cake looks beautiful!</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>He looks so happy!</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Command</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Take the dishes away.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Give him the first piece.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Command and Exclamation</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Bring in the cake!</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Blow out the candles now!</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Open the present now!</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Exclamation</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>What a great party!</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>You read very well!</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>This is a good book!</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Command</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Let’s read together.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Pick out a book.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Bring the book here.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>You go first.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Command and Exclamation</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Smile for a picture!</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Please turn the page now!</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;&lt;b&gt;Grammar: Statements and Questions&lt;/b&gt;&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Read each group of words. If it is a complete sentence, drag it to the &amp;#8220;Yes&amp;#8221; box. If it is not a complete sentence, drag it to the &amp;#8220;No&amp;#8221; box.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <vspacing />
+  <contentMode value="sentences" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Yes</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>I have many friends.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>We play at school.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Steve is a good friend.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Can we play today?</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Sometimes after school.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Lives near my house.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>On the bus?</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Yes</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Do you like your friends?</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>He likes games.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>We play with his bat.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>We read together.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>She walks home with me.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Tells funny jokes.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Play with her outside.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Like my friends a lot?</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>In the morning on the playground.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

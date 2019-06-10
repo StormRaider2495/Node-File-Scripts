@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras:&amp;#160;palabras de acci&amp;#243;n&lt;/p&gt;</title>
+  <directions>&lt;p&gt;En esta actividad los ni&amp;#241;os clasifican palabras seg&amp;#250;n una categor&amp;#237;a.&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las palabras que&amp;#160;indican&amp;#160;una acci&amp;#243;n&amp;#160;en la caja azul. Coloca las palabras que no&amp;#160;indican&amp;#160;una acci&amp;#243;n&amp;#160;en la caja roja.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Indica una acción</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_sembrar.jpg</text>
+                      <audio>TEG_sembrar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_secreto.jpg</text>
+                      <audio>TEG_escuchar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_cocinar.jpg</text>
+                      <audio>TEG_cocinar.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No indica una acción</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_calculadora.jpg</text>
+                      <audio>TEG_calculadora.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_licuadora.jpg</text>
+                      <audio>TEG_licuadora.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_panuelo.jpg</text>
+                      <audio>TEG_panuelo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las palabras que indican una acci&amp;#243;n en la caja azul. Coloca las palabras que no indican una acci&amp;#243;n en la caja roja.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Indica una acción</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_escribir.jpg</text>
+                      <audio>TEG_escribir.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_remar.jpg</text>
+                      <audio>TEG_remar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_barrer.jpg</text>
+                      <audio>TEG_barrer.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No indica una acción</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_jardin.jpg</text>
+                      <audio>TEG_jardin.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_jirafa.jpg</text>
+                      <audio>TEG_jirafa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_noche.jpg</text>
+                      <audio>TEG_noche.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

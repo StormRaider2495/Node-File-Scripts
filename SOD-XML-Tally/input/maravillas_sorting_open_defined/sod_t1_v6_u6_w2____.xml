@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con br&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la palabra escrita con&amp;#160;&lt;u&gt;br&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra&amp;#160;&lt;b&gt;sin&lt;/b&gt;&amp;#160;&lt;u&gt;br&lt;/u&gt;&amp;#160;en la caja roja. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene br</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>brote</text>
+                      <audio>TEG_brote.mp3</audio>
+                    </item>
+                    <item>
+                      <text>bruma</text>
+                      <audio>TEG_bruma.mp3</audio>
+                    </item>
+                    <item>
+                      <text>brújula</text>
+                      <audio>TEG_brujula.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cabra</text>
+                      <audio>TEG_cabra.mp3</audio>
+                    </item>
+                    <item>
+                      <text>habrá</text>
+                      <audio>TEG_habra.mp3</audio>
+                    </item>
+                    <item>
+                      <text>libro</text>
+                      <audio>TEG_libro.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene br</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>burro</text>
+                      <audio>TEG_burro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>probar</text>
+                      <audio>TEG_probar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>barco</text>
+                      <audio>TEG_barco.mp3</audio>
+                    </item>
+                    <item>
+                      <text>barrer</text>
+                      <audio>TEG_barrer.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene br</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>brazo</text>
+                      <audio>TEG_brazo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>brillante</text>
+                      <audio>TEG_brillante.mp3</audio>
+                    </item>
+                    <item>
+                      <text>brisa</text>
+                      <audio>TEG_brisa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cebra</text>
+                      <audio>TEG_cebra.mp3</audio>
+                    </item>
+                    <item>
+                      <text>hombre</text>
+                      <audio>TEG_hombre.mp3</audio>
+                    </item>
+                    <item>
+                      <text>palabra</text>
+                      <audio>TEG_palabra.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene br</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>pájaro</text>
+                      <audio>TEG_pajaro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>borrador</text>
+                      <audio>TEG_borrador.mp3</audio>
+                    </item>
+                    <item>
+                      <text>bailarina</text>
+                      <audio>TEG_bailarina.mp3</audio>
+                    </item>
+                    <item>
+                      <text>barril</text>
+                      <audio>TEG_barril.mp3</audio>
+                    </item>
+                    <item>
+                      <text>ablandar</text>
+                      <audio>TEG_ablandar.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

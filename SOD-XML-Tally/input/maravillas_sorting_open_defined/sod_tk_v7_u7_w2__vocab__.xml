@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras: animales&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las palabras que nombran un animal en la caja azul. Coloca las palabras que no nombran un animal en la caja roja.&amp;#160;&lt;b&gt;&amp;#160;&lt;/b&gt;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un animal</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_cocodrilo.jpg</text>
+                      <audio>TEG_cocodrilo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_leopardo.jpg</text>
+                      <audio>TEG_leopardo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_elefante.jpg</text>
+                      <audio>TEG_elefante.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_caballo.jpg</text>
+                      <audio>TEG_caballo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un animal</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_camisa.jpg</text>
+                      <audio>TEG_camisa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_pasto.jpg</text>
+                      <audio>TEG_pasto.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_lata.jpg</text>
+                      <audio>TEG_lata.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_bigote.jpg</text>
+                      <audio>TEG_bigote.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las im&amp;#225;genes que muestran un animal en la caja azul. Coloca las im&amp;#225;genes que no muestran un animal en la caja roja.&amp;#160;&lt;b&gt;&amp;#160;&lt;/b&gt;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un animal</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_jirafa.jpg</text>
+                      <audio>TEG_jirafa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_venado.jpg</text>
+                      <audio>TEG_venado.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_zorro.jpg</text>
+                      <audio>TEG_zorro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_foca.jpg</text>
+                      <audio>TEG_foca.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un animal</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_faro.jpg</text>
+                      <audio>TEG_faro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_pala.jpg</text>
+                      <audio>TEG_pala.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_saxofo1n.jpg</text>
+                      <audio>TEG_saxofon1.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_yoyo.jpg</text>
+                      <audio>TEG_yoyo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las im&amp;#225;genes que muestran un animal en la caja azul. Coloca las im&amp;#225;genes que no muestran un animal en la caja roja.&amp;#160;&lt;b&gt;&amp;#160;&lt;/b&gt;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un animal</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_puma.jpg</text>
+                      <audio>TEG_puma.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_sapo.jpg</text>
+                      <audio>TEG_sapo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_tortuga.jpg</text>
+                      <audio>TEG_tortuga.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_ballena.jpg</text>
+                      <audio>TEG_ballena.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un animal</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_gelatina.jpg</text>
+                      <audio>TEG_gelatina.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_leche.jpg</text>
+                      <audio>TEG_leche.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_miel.jpg</text>
+                      <audio>TEG_miel.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_molino.jpg</text>
+                      <audio>TEG_molino.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las im&amp;#225;genes que muestran un animal en la caja azul. Coloca las im&amp;#225;genes que no muestran un animal en la caja roja.&amp;#160;&lt;b&gt;&amp;#160;&lt;/b&gt;&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es un animal</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>TEG_ardilla.jpg</text>
+                      <audio>TEG_ardilla.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_oveja.jpg</text>
+                      <audio>TEG_oveja.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_camello.jpg</text>
+                      <audio>TEG_camello.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_iguana.jpg</text>
+                      <audio>TEG_iguana.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es un animal</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_lampara.jpg</text>
+                      <audio>TEG_lampara.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_nariz.jpg</text>
+                      <audio>TEG_nariz.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_pizza.jpg</text>
+                      <audio>TEG_pizza.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_iglu.jpg</text>
+                      <audio>TEG_iglu.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

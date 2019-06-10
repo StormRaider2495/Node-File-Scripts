@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Phonics&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Look at each picture. Click on it to hear its name read. Drag the pictures with the long &lt;i&gt;e&lt;/i&gt; sound into the blue box. Drag the pictures that do not have the long &lt;i&gt;e&lt;/i&gt; sound into the red box.&lt;/p&gt;</directions>
+  <directionsAudio>look_drag_red.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>long e</title>
+                  <titleImage />
+                  <titleAudio>sound_long_e.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M300_UW034_347A_186626_d.jpg</text>
+                      <audio>chief.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M300_UW032_347A_186626_d.jpg</text>
+                      <audio>pony.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW051_002A_193002_186626_d.jpg</text>
+                      <audio>bee.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW031_011A_114242_D.jpg</text>
+                      <audio>tape.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>long e</title>
+                  <titleImage />
+                  <titleAudio>sound_long_e.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW012_031A_193002_186626_d.jpg</text>
+                      <audio>key.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW034_004A_193002_186626_d.jpg</text>
+                      <audio>seat.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M300_UW032_362A_186626_d.jpg</text>
+                      <audio>seed.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW013_031A_193002_186626_d.jpg</text>
+                      <audio>cup.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>long e</title>
+                  <titleImage />
+                  <titleAudio>sound_long_e.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M300_UW032_363A_186626_d.jpg</text>
+                      <audio>pea.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW014_033A_186626_d.jpg</text>
+                      <audio>sleep.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW034_014A_114242_D.jpg</text>
+                      <audio>ear.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW022_032A_193002_186626_d.jpg</text>
+                      <audio>kite.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>long e</title>
+                  <titleImage />
+                  <titleAudio>sound_long_e.mp3</titleAudio>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>M100_UW051_055A_186626_d.jpg</text>
+                      <audio>deer.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M100_UW042_024A_193002_186626_d.jpg</text>
+                      <audio>queen.mp3</audio>
+                    </item>
+                    <item>
+                      <text>M300_UW032_368A_186626_d.jpg</text>
+                      <audio>leaf.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>other</title>
+                  <titleImage />
+                  <titleAudio>other.mp3</titleAudio>
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>M100_UW053_018A_186626_d.jpg</text>
+                      <audio>date.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

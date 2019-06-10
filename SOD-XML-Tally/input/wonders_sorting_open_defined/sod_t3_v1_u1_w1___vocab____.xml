@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>Build Vocabulary: Shades of Meaning</title>
+  <directions>&lt;p&gt;Determine the meaning of each word. Then sort the words into the correct column.&lt;/p&gt;</directions>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Got Better</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>improved</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>recovered</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>gained</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>advanced</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Got Worse</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>declined</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>failed</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>weakened</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>lessened</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Felt Better</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>healed</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>mended</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>healthy</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>cured</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Felt Worse</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>ached</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>hurt</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>pained</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>sore</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Focused</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>concentrate</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>listened</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>alert</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>aware</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Distracted</title>
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>distanced</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>absent</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>bothered</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>confused</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

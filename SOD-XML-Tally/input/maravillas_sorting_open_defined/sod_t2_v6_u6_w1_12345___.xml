@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Gram&amp;#225;tica: adjetivo calificativo y numeral&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Lee estas oraciones. Col&amp;#243;calas en la categor&amp;#237;a que les corresponde, ya sea "Con adjetivo calificativo" o "Con adjetivo numeral".&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Con adjetivo calificativo</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>La obra de teatro fue estupenda.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Los actores eran muy famosos.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Con adjetivo numeral</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>La feria de ciencias será en dos semanas.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Habrá doscientos participantes.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Nuestro grupo tiene cinco miembros.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Con adjetivo calificativo</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Nunca olvidaré las bellas canciones.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Al final yo estaba muy entusiasmada.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Con adjetivo numeral</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>Esta será la tercera vez que nosotros participaremos.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Queremos ganar el primer lugar.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

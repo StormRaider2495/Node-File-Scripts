@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Categor&amp;#237;a de palabras: partes de los animales&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en las im&amp;#225;genes para o&amp;#237;r su nombre. Coloca las im&amp;#225;genes que muestran una parte del cuerpo de los animales en la caja azul. Coloca las otras im&amp;#225;genes en la caja roja.&amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Es una parte del cuerpo de un animal</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>pata.jpg</text>
+                      <audio>TEG_pata.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_cola.jpg</text>
+                      <audio>TEG_cola.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_ala.jpg</text>
+                      <audio>TEG_ala.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_pico.jpg</text>
+                      <audio>TEG_pico.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_aleta.jpg</text>
+                      <audio>TEG_aleta.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>No es una parte del cuerpo de un animal</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>TEG_banco.jpg</text>
+                      <audio>TEG_banco.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_martillo.jpg</text>
+                      <audio>TEG_martillo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_taza.jpg</text>
+                      <audio>TEG_taza.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

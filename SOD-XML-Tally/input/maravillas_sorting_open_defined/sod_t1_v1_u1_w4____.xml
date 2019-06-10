@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con l&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la palabra escrita con &lt;u&gt;l&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra&amp;#160;&lt;b&gt;sin&lt;/b&gt;&amp;#160;&lt;u&gt;l&lt;/u&gt;&amp;#160;en la caja roja. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene l</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>lago</text>
+                      <audio>TEG_lago.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mal</text>
+                      <audio>TEG_mal.mp3</audio>
+                    </item>
+                    <item>
+                      <text>colina</text>
+                      <audio>TEG_colina.mp3</audio>
+                    </item>
+                    <item>
+                      <text>el</text>
+                      <audio>TEG_el.mp3</audio>
+                    </item>
+                    <item>
+                      <text>loma</text>
+                      <audio>TEG_loma.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene l</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>doy</text>
+                      <audio>TEG_doy.mp3</audio>
+                    </item>
+                    <item>
+                      <text>rana</text>
+                      <audio>TEG_rana.mp3</audio>
+                    </item>
+                    <item>
+                      <text>rayo</text>
+                      <audio>TEG_rayo.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene l</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>color</text>
+                      <audio>TEG_color.mp3</audio>
+                    </item>
+                    <item>
+                      <text>familia</text>
+                      <audio>TEG_familia.mp3</audio>
+                    </item>
+                    <item>
+                      <text>cola</text>
+                      <audio>TEG_cola.mp3</audio>
+                    </item>
+                    <item>
+                      <text>frágil</text>
+                      <audio>TEG_fragil.mp3</audio>
+                    </item>
+                    <item>
+                      <text>lima</text>
+                      <audio>TEG_lima.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene l</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>codo</text>
+                      <audio>TEG_codo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>collar</text>
+                      <audio>TEG_collar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>fresa</text>
+                      <audio>TEG_fresa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>llama</text>
+                      <audio>TEG_llama.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

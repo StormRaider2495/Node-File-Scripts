@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Your Turn: Text Features&lt;/p&gt;</title>
+  <directions>&lt;p&gt;A reading selection can have many sections. Headings tell what each section is about. Read each sentence. Drag each sentence under its correct heading.&lt;/p&gt;</directions>
+  <directionsAudio>dl_sentence_correct_heading.mp3</directionsAudio>
+  <sfxPool value="pool1" />
+  <background value="gradetheme" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>The Sport of Running</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Running is a great sport.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Some runners are fast.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Some people can run far.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Running keeps you fit.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Good Teeth Habits</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Take care of your teeth.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Brush three times a day.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Visit the dentist.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Floss often.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>Safe Biking</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Biking can be fun.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Wear a helmet.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Always look where you go.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>It is best to bike in a group.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>Cats as Pets</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>Cats make good pets.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>They can stay inside.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Cats are quiet.</text>
+                      <audio />
+                    </item>
+                    <item>
+                      <text>Cats sleep a lot.</text>
+                      <audio />
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

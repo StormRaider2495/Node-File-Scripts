@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Gram&amp;#225;tica: el sustantivo&lt;/p&gt;</title>
+  <directions />
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="images" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions>&lt;p&gt;Haz clic en la imagen para o&amp;#237;r su nombre. Decide si el sustantivo es una persona o una cosa. Coloca la imagen en la columna correcta.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>persona</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>mama.jpg</text>
+                      <audio>SR14_TEgames_blend_k_mama.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_rey.jpg</text>
+                      <audio>TEG_rey.mp3</audio>
+                    </item>
+                    <item>
+                      <text>TEG_papa1.jpg</text>
+                      <audio>TEG_papa1.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>cosa</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>maleta.jpg</text>
+                      <audio>SR14_TEgames_blend_k_maleta.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pote2.jpg</text>
+                      <audio>SR14_TEgames_blend_G1_pote.mp3</audio>
+                    </item>
+                    <item>
+                      <text>moto.jpg</text>
+                      <audio>SR14_TEgames_blend_k_moto.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions>&lt;p&gt;Haz clic en la imagen para o&amp;#237;r su nombre. Decide si el sustantivo es un animal o una cosa. Coloca la imagen en la columna correcta.&lt;/p&gt;</directions>
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>animal</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>sapo.jpg</text>
+                      <audio>SR14_TEgames_blend_k_sapo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mula.jpg</text>
+                      <audio>SR14_TEgames_blend_k_mula.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mono.jpg</text>
+                      <audio>SR14_TEgames_blend_k_mono.mp3</audio>
+                    </item>
+                    <item>
+                      <text>gato.jpg</text>
+                      <audio>SR14_TEgames_blend_k_gato.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>cosa</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>muneca.jpg</text>
+                      <audio>SR14_TEgames_blend_k_muneca1.mp3</audio>
+                    </item>
+                    <item>
+                      <text>mesa.jpg</text>
+                      <audio>SR14_TEgames_blend_k_mesa.mp3</audio>
+                    </item>
+                    <item>
+                      <text>avion.jpg</text>
+                      <audio>SR14_TEgames_blend_k_avion.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+

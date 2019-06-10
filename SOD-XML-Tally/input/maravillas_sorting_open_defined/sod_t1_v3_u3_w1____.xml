@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sorting_open_defined>
+  <title>&lt;p&gt;Ortograf&amp;#237;a: clasificar palabras con rr&lt;/p&gt;</title>
+  <directions>&lt;p&gt;Haz clic en la palabra para o&amp;#237;r su nombre.&amp;#160;&lt;br /&gt;Coloca la palabra escrita con &lt;u&gt;rr&lt;/u&gt;&amp;#160;en la caja azul.&amp;#160;Coloca la palabra&amp;#160;&lt;b&gt;sin&lt;/b&gt;&amp;#160;&lt;u&gt;rr&lt;/u&gt;&amp;#160;en la caja roja. &amp;#160;&lt;/p&gt;</directions>
+  <directionsAudio />
+  <sfxPool value="pool1" />
+  <background value="yellow3" />
+  <sortingMode value="defined" />
+  <contentMode value="words" />
+  <vspacing />
+  <baseFontSize />
+  <levels>
+    <level>
+      <rounds>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene rr</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>forro</text>
+                      <audio>TEG_forro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>marrón</text>
+                      <audio>TEG_marron.mp3</audio>
+                    </item>
+                    <item>
+                      <text>barril</text>
+                      <audio>TEG_barril.mp3</audio>
+                    </item>
+                    <item>
+                      <text>borrador</text>
+                      <audio>TEG_borrador.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene rr</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>rojo</text>
+                      <audio>TEG_rojo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>brazo</text>
+                      <audio>TEG_brazo.mp3</audio>
+                    </item>
+                    <item>
+                      <text>postre</text>
+                      <audio>TEG_postre.mp3</audio>
+                    </item>
+                    <item>
+                      <text>pote</text>
+                      <audio>TEG_pote.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+        <round>
+          <directions />
+          <directionsAudio />
+          <screens>
+            <item>
+              <bins>
+                <bin>
+                  <title>tiene rr</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="normal" />
+                  <contents>
+                    <item>
+                      <text>jarra</text>
+                      <audio>TEG_jarra.mp3</audio>
+                    </item>
+                    <item>
+                      <text>carro</text>
+                      <audio>TEG_carro.mp3</audio>
+                    </item>
+                    <item>
+                      <text>macarrón</text>
+                      <audio>TEG_macarron.mp3</audio>
+                    </item>
+                    <item>
+                      <text>perro</text>
+                      <audio>TEG_perro.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+                <bin>
+                  <title>no tiene rr</title>
+                  <titleImage />
+                  <titleAudio />
+                  <binType value="other" />
+                  <contents>
+                    <item>
+                      <text>mar</text>
+                      <audio>TEG_mar.mp3</audio>
+                    </item>
+                    <item>
+                      <text>sur</text>
+                      <audio>TEG_sur.mp3</audio>
+                    </item>
+                    <item>
+                      <text>tren</text>
+                      <audio>TEG_tren.mp3</audio>
+                    </item>
+                    <item>
+                      <text>velero</text>
+                      <audio>TEG_velero.mp3</audio>
+                    </item>
+                  </contents>
+                </bin>
+              </bins>
+            </item>
+          </screens>
+        </round>
+      </rounds>
+    </level>
+  </levels>
+</sorting_open_defined>
+
